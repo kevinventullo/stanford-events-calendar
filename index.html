@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stanford Events — my view</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Stanford Events <span class="subtle">— my view</span></h1>
+    <p class="tagline">
+      Public, in-person events only. Academic and student-billing dates filtered
+      out. Long-running exhibitions and recurring series are collapsed into
+      single entries.
+    </p>
+    <p class="meta" id="meta"></p>
+  </header>
+
+  <main>
+    <section class="calendar-section">
+      <div class="cal-toolbar">
+        <button id="prevMonth" aria-label="Previous month">&#9664;</button>
+        <h2 id="monthLabel"></h2>
+        <button id="nextMonth" aria-label="Next month">&#9654;</button>
+        <button id="todayBtn" class="today-btn">Today</button>
+      </div>
+      <div class="weekday-row">
+        <div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div>
+        <div>Thu</div><div>Fri</div><div>Sat</div>
+      </div>
+      <div class="calendar-grid" id="calendarGrid"></div>
+    </section>
+
+    <section class="day-section">
+      <h2 id="dayLabel">Select a day</h2>
+      <div id="dayList" class="day-list"></div>
+    </section>
+
+    <section class="ongoing-section">
+      <h2>
+        <button id="ongoingToggle" class="collapse-btn" aria-expanded="true">
+          <span class="chevron">&#9660;</span> Ongoing exhibitions &amp; long-running
+          <span class="count-pill" id="ongoingCount"></span>
+        </button>
+      </h2>
+      <div id="ongoingList" class="ongoing-list"></div>
+    </section>
+
+    <section class="recurring-section">
+      <h2>
+        <button id="recurringToggle" class="collapse-btn" aria-expanded="true">
+          <span class="chevron">&#9660;</span> Recurring events
+          <span class="count-pill" id="recurringCount"></span>
+        </button>
+      </h2>
+      <p class="section-note">
+        Standing series (tours, drop-ins) — shown once here instead of on every
+        day they occur.
+      </p>
+      <div id="recurringList" class="ongoing-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Data from the <a href="https://events.stanford.edu" target="_blank"
+      rel="noopener">Stanford Events Calendar</a> Localist API. This is an
+      unofficial personal view. Click any event to open it on the official site.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

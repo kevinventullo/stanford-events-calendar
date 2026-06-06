@@ -1,0 +1,5345 @@
+{
+  "generated_at": "2026-06-06T14:52:39-07:00",
+  "window": {
+    "start": "2026-06-06",
+    "end": "2026-12-03"
+  },
+  "filters": {
+    "public_audiences": [
+      "Everyone",
+      "General Public"
+    ],
+    "experiences": [
+      "hybrid",
+      "inperson"
+    ],
+    "excluded_types": [
+      "Academic Dates",
+      "Student Billing Dates"
+    ],
+    "excluded_subjects": [],
+    "ongoing_min_span_days": 7
+  },
+  "counts": {
+    "ongoing": 16,
+    "recurring": 19,
+    "dated": 98
+  },
+  "ongoing": [
+    {
+      "id": 50605264838296,
+      "title": "Archive Room: Ester Hernandez |Selections from Special Collections at Stanford Libraries",
+      "url": "https://events.stanford.edu/event/archive-room-ester-hernandez-selections-from-special-collections-at-stanford-libraries",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Patricia S. Rebele Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50605343943693/huge/d8359b915086623dca5fe2c0d0fa66d7dec5aa1d.jpg",
+      "free": false,
+      "first_date": "2025-08-29",
+      "last_date": "2026-07-05"
+    },
+    {
+      "id": 50605355251046,
+      "title": "Archive Room: Ruth Asawa | Selections from Special Collections at Stanford Libraries",
+      "url": "https://events.stanford.edu/event/archive-room-ruth-asawa-selections-from-special-collections-at-stanford-libraries",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Rowland K. Rebele Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50605415693453/huge/01db0aae1455c842962ad261fef6834b24e1896f.jpg",
+      "free": false,
+      "first_date": "2025-08-29",
+      "last_date": "2026-07-05"
+    },
+    {
+      "id": 51827589730708,
+      "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
+      "url": "https://events.stanford.edu/event/neurocrine",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/51827731132628/huge/beb89c9caa35c6e6186528e901dbf9ade4f7a104.jpg",
+      "free": false,
+      "first_date": "2026-01-14",
+      "last_date": "2026-06-18"
+    },
+    {
+      "id": 52127684778082,
+      "title": "You Are Here: Transit Cartography & Spatial Identity",
+      "url": "https://events.stanford.edu/event/you-are-here",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/52128448833355/huge/125a5e1bfdfc7082a66e11bc994f35960b200d84.jpg",
+      "free": false,
+      "first_date": "2026-03-25",
+      "last_date": "2026-08-21"
+    },
+    {
+      "id": 52888406473919,
+      "title": "Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
+      "url": "https://events.stanford.edu/event/animal-vegetable-nor-mineral-works-by-miljohn-ruperto",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52888469565681/huge/5c9ff39ac8e8c4b5db77a877a28d8ef14a8236ae.jpg",
+      "free": false,
+      "first_date": "2026-03-26",
+      "last_date": "2026-09-14"
+    },
+    {
+      "id": 52888194290224,
+      "title": "Jeremy Frey: Woven",
+      "url": "https://events.stanford.edu/event/jeremy-frey-woven-700",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Lynn Krywick Gibbons Gallery and Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52888262531630/huge/56af8d4aa0b103286b5a65fa29d427579e94fb51.jpg",
+      "free": false,
+      "first_date": "2026-03-26",
+      "last_date": "2026-07-20"
+    },
+    {
+      "id": 52331703768568,
+      "title": "1,000 Ways to Hold: A New Work By Erika Chong Shuch",
+      "url": "https://events.stanford.edu/event/1000-ways-to-hold-a-new-work-by-erika-chong-shuch",
+      "experience": "inperson",
+      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52331706816489/huge/c88c6bf3fdf094f42905a39fb5a39b9bb6c60fb7.jpg",
+      "free": true,
+      "first_date": "2026-04-02",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": 52630420483081,
+      "title": "Remembering",
+      "url": "https://events.stanford.edu/event/remembering",
+      "experience": "inperson",
+      "location": "McMurtry Building, Bowes Library, 2nd floor. For visitors, please call the circulation desk for building entry and elevator access: 650-723-3408., 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52745411201287/huge/22e78ce7c3f59549cabb2d4ceafece17ce5ff89f.jpg",
+      "free": false,
+      "first_date": "2026-04-16",
+      "last_date": "2026-06-19"
+    },
+    {
+      "id": 51332222790906,
+      "title": "SECOND HOLE SECOND WAVE: 2026 MFA Thesis Exhibition",
+      "url": "https://events.stanford.edu/event/2026-mfa-thesis-exhibition",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52560157316592/huge/bfc7b5c25d1bb7dfdffcd9d8368360936a3eecc8.jpg",
+      "free": false,
+      "first_date": "2026-05-12",
+      "last_date": "2026-06-14"
+    },
+    {
+      "id": 51332310157929,
+      "title": "Come Straight Home: 2026 Senior Undergraduate Exhibition",
+      "url": "https://events.stanford.edu/event/2026-senior-exhibition",
+      "experience": "inperson",
+      "location": "McMurtry Building, Coulter Art Gallery, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53002249678013/huge/2b04561b95e60179f9c22d27f8dc602da4df11d0.jpg",
+      "free": false,
+      "first_date": "2026-05-26",
+      "last_date": "2026-06-14"
+    },
+    {
+      "id": 53020733796497,
+      "title": "Moments in the History of East Asian Printing",
+      "url": "https://events.stanford.edu/event/moments-in-the-history-of-east-asian-printing",
+      "experience": "inperson",
+      "location": "Lathrop Library, East Asia Library, Lathrop Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53020752917103/huge/5ce53358be4b42ec55d4bb41e7297d2c776e9133.jpg",
+      "free": false,
+      "first_date": "2026-05-29",
+      "last_date": "2026-09-20"
+    },
+    {
+      "id": 53026843827473,
+      "title": "Branner Library Monthly Book & Map Exhibit - The Indian Ocean",
+      "url": "https://events.stanford.edu/event/branner-library-monthly-book-map-exhibit-indian-ocean",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53026874608130/huge/4eb6cc4b4ff16006d00aa7068265317fda6241ab.jpg",
+      "free": false,
+      "first_date": "2026-06-01",
+      "last_date": "2026-06-26"
+    },
+    {
+      "id": 52883532576991,
+      "title": "Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford",
+      "url": "https://events.stanford.edu/event/ginsberg-at-100-selections-from-the-allen-ginsberg-papers-at-stanford",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Peterson Gallery and Munger Rotunda, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Religion/Spirituality",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52888408449314/huge/f0211c1a9668cc3811c55872f7154f2111b6d303.jpg",
+      "free": false,
+      "first_date": "2026-06-05",
+      "last_date": "2026-09-05"
+    },
+    {
+      "id": 52951257804174,
+      "title": "Summer Escape at Bowes Library",
+      "url": "https://events.stanford.edu/event/summer-escape-at-bowes-library",
+      "experience": "inperson",
+      "location": "McMurtry Building, Bowes Library, 2nd fl. For visitors, please call the circulation desk for building and elevator access: 650-723-3408., 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Environment/Sustainability",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52951456763108/huge/fa59c3aa0fc73c9046b97249d441506d0baa7801.jpg",
+      "free": false,
+      "first_date": "2026-06-22",
+      "last_date": "2026-09-04"
+    },
+    {
+      "id": 52880326677126,
+      "title": "JANE! An intimate exploration of Gilded Age excess  and the enigmatic life and death of Jane Stanford",
+      "url": "https://events.stanford.edu/event/jane-an-intimate-exploration-of-gilded-age-excess-and-the-enigmatic-life-and-death-of-jane-stanford",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Stanford Family Rooms, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52880614455454/huge/4254be5ce39eb433fb3275135a4ddaa1c475828d.jpg",
+      "free": false,
+      "first_date": "2026-07-02",
+      "last_date": "2028-05-18"
+    },
+    {
+      "id": 52881224936195,
+      "title": "Carolyn Lazard: Long Take",
+      "url": "https://events.stanford.edu/event/carolyn-lazard-long-take",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Lynn Krywick Gibbons Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52881233836719/huge/fcb5727a3c7f292584703b525cac2c81e802aee2.jpg",
+      "free": false,
+      "first_date": "2026-08-06",
+      "last_date": "2026-12-13"
+    }
+  ],
+  "recurring": [
+    {
+      "id": 50967994153103,
+      "title": "Drop-In Drawing @ The Anderson",
+      "url": "https://events.stanford.edu/event/anderson-friday-drop-in-drawing",
+      "experience": "inperson",
+      "location": "Anderson Collection, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50967994111117/huge/9316ead0a4f1f1db72ac010a2a360139d940fd85.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-10",
+          "start": "2026-07-10T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-24",
+          "start": "2026-07-24T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-14",
+          "start": "2026-08-14T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-28",
+          "start": "2026-08-28T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-12",
+        "2026-06-26",
+        "2026-07-10",
+        "2026-07-24",
+        "2026-08-14",
+        "2026-08-28"
+      ],
+      "pattern": "Fridays",
+      "time": "12 PM",
+      "next_date": "2026-06-12",
+      "last_date": "2026-08-28",
+      "count": 6
+    },
+    {
+      "id": 52562052023179,
+      "title": "Gallery Conversations | Jeremy Frey: Woven",
+      "url": "https://events.stanford.edu/event/gallery-conversation-jeremy-frey-woven",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52562139192886/huge/325ab8da0a5f1a53cdb435ec41d18aae44f574fd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-13",
+          "start": "2026-06-13T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-14",
+          "start": "2026-06-14T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-19",
+          "start": "2026-06-19T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-20",
+          "start": "2026-06-20T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-21",
+          "start": "2026-06-21T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-03",
+          "start": "2026-07-03T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-04",
+          "start": "2026-07-04T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-10",
+          "start": "2026-07-10T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-12",
+          "start": "2026-07-12T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-17",
+          "start": "2026-07-17T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-21",
+        "2026-06-26",
+        "2026-06-27",
+        "2026-06-28",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-19"
+      ],
+      "pattern": "Fri, Sat, Sun",
+      "time": "2 PM",
+      "next_date": "2026-06-06",
+      "last_date": "2026-07-19",
+      "count": 20
+    },
+    {
+      "id": 46378544005855,
+      "title": "Highlights Tour | Anderson Collection",
+      "url": "https://events.stanford.edu/event/highlight-tour",
+      "experience": "inperson",
+      "location": "Anderson Collection, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-13",
+          "start": "2026-06-13T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-14",
+          "start": "2026-06-14T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-20",
+          "start": "2026-06-20T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-21",
+          "start": "2026-06-21T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-04",
+          "start": "2026-07-04T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-12",
+          "start": "2026-07-12T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-25",
+          "start": "2026-07-25T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-26",
+          "start": "2026-07-26T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-08",
+          "start": "2026-08-08T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-09",
+          "start": "2026-08-09T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-23",
+          "start": "2026-08-23T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-30",
+          "start": "2026-08-30T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-20",
+        "2026-06-21",
+        "2026-06-27",
+        "2026-06-28",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "12:30 PM",
+      "next_date": "2026-06-06",
+      "last_date": "2026-08-30",
+      "count": 26
+    },
+    {
+      "id": 47049266947082,
+      "title": "Highlights Tour | Anderson Collection",
+      "url": "https://events.stanford.edu/event/anderson-highlight-tour",
+      "experience": "inperson",
+      "location": "Anderson Collection, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-13",
+          "start": "2026-06-13T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-14",
+          "start": "2026-06-14T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-20",
+          "start": "2026-06-20T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-21",
+          "start": "2026-06-21T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-04",
+          "start": "2026-07-04T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-12",
+          "start": "2026-07-12T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-25",
+          "start": "2026-07-25T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-26",
+          "start": "2026-07-26T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-08",
+          "start": "2026-08-08T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-09",
+          "start": "2026-08-09T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-23",
+          "start": "2026-08-23T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T14:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-30",
+          "start": "2026-08-30T14:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-20",
+        "2026-06-21",
+        "2026-06-27",
+        "2026-06-28",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "2:30 PM",
+      "next_date": "2026-06-06",
+      "last_date": "2026-08-30",
+      "count": 26
+    },
+    {
+      "id": 52489460033306,
+      "title": "Leading the Future of Healthcare: Stanford Medicine Leadership Intensive",
+      "url": "https://events.stanford.edu/event/leading-the-future-of-healthcare-stanford-medicine-leadership-intensive",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52490206798099/huge/184691418ba9c42b4d1fe568a907997960e67b96.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-17",
+          "start": "2026-08-17T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-08-18",
+          "start": "2026-08-18T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-08-19",
+          "start": "2026-08-19T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-08-20",
+          "start": "2026-08-20T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-08-21",
+          "start": "2026-08-21T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "pattern": "Various days",
+      "time": "All day",
+      "next_date": "2026-08-17",
+      "last_date": "2026-08-21",
+      "count": 5
+    },
+    {
+      "id": 44437607039811,
+      "title": "Lou Henry Hoover Carillon Performance",
+      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
+      "experience": "inperson",
+      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-13",
+          "start": "2026-06-13T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-14",
+          "start": "2026-06-14T11:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-13",
+        "2026-06-14"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "11 AM",
+      "next_date": "2026-06-13",
+      "last_date": "2026-06-14",
+      "count": 2
+    },
+    {
+      "id": 52137314071164,
+      "title": "Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/museum-minis-storytime-with-maria-raimundo",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52994809453147/huge/1cba08f854522704d2846ad3c7d91db73db69bba.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-15",
+          "start": "2026-06-15T11:15:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-20",
+          "start": "2026-07-20T11:15:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-17",
+          "start": "2026-08-17T11:15:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-21",
+          "start": "2026-09-21T11:15:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T11:15:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T11:15:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-15",
+        "2026-07-20",
+        "2026-08-17",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16"
+      ],
+      "pattern": "Mondays",
+      "time": "11:15 AM",
+      "next_date": "2026-06-15",
+      "last_date": "2026-11-16",
+      "count": 6
+    },
+    {
+      "id": 48217677268364,
+      "title": "Public Tour |  Auguste Rodin",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-auguste-rodin",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-13",
+          "start": "2026-06-13T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-19",
+          "start": "2026-06-19T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-20",
+          "start": "2026-06-20T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-03",
+          "start": "2026-07-03T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-04",
+          "start": "2026-07-04T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-10",
+          "start": "2026-07-10T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-17",
+          "start": "2026-07-17T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-24",
+          "start": "2026-07-24T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-25",
+          "start": "2026-07-25T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-07",
+          "start": "2026-08-07T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-08",
+          "start": "2026-08-08T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-14",
+          "start": "2026-08-14T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-21",
+          "start": "2026-08-21T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-28",
+          "start": "2026-08-28T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-04",
+          "start": "2026-09-04T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-05",
+          "start": "2026-09-05T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-11",
+          "start": "2026-09-11T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-19",
+          "start": "2026-09-19T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-25",
+          "start": "2026-09-25T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-03",
+          "start": "2026-10-03T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-10",
+          "start": "2026-10-10T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-31",
+          "start": "2026-10-31T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-07",
+          "start": "2026-11-07T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-21",
+          "start": "2026-11-21T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-27",
+          "start": "2026-11-27T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T11:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06",
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-26",
+        "2026-06-27",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-24",
+        "2026-07-25",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-27",
+        "2026-11-28"
+      ],
+      "pattern": "Fri, Sat",
+      "time": "11:30 AM",
+      "next_date": "2026-06-06",
+      "last_date": "2026-11-28",
+      "count": 51
+    },
+    {
+      "id": 49173608318321,
+      "title": "Public Tour | Cantor Highlights in Chinese",
+      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-chinese-language",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/49173613773563/huge/1992140b995258732d711f59c4c987caec756d22.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-14",
+          "start": "2026-06-14T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-14"
+      ],
+      "pattern": "Sundays",
+      "time": "2 PM",
+      "next_date": "2026-06-14",
+      "last_date": "2026-06-14",
+      "count": 1
+    },
+    {
+      "id": 48376809728814,
+      "title": "Public Tour | Cantor Highlights: 1 PM",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-1-pm-4356",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-13",
+          "start": "2026-06-13T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-14",
+          "start": "2026-06-14T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-19",
+          "start": "2026-06-19T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-20",
+          "start": "2026-06-20T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-21",
+          "start": "2026-06-21T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-03",
+          "start": "2026-07-03T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-04",
+          "start": "2026-07-04T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-10",
+          "start": "2026-07-10T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-12",
+          "start": "2026-07-12T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-17",
+          "start": "2026-07-17T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-24",
+          "start": "2026-07-24T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-25",
+          "start": "2026-07-25T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-26",
+          "start": "2026-07-26T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-07",
+          "start": "2026-08-07T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-08",
+          "start": "2026-08-08T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-09",
+          "start": "2026-08-09T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-14",
+          "start": "2026-08-14T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-21",
+          "start": "2026-08-21T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-23",
+          "start": "2026-08-23T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-28",
+          "start": "2026-08-28T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-30",
+          "start": "2026-08-30T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-04",
+          "start": "2026-09-04T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-05",
+          "start": "2026-09-05T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-06",
+          "start": "2026-09-06T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-11",
+          "start": "2026-09-11T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-13",
+          "start": "2026-09-13T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-19",
+          "start": "2026-09-19T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-25",
+          "start": "2026-09-25T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-27",
+          "start": "2026-09-27T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-03",
+          "start": "2026-10-03T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-04",
+          "start": "2026-10-04T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-10",
+          "start": "2026-10-10T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-11",
+          "start": "2026-10-11T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-18",
+          "start": "2026-10-18T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-25",
+          "start": "2026-10-25T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-31",
+          "start": "2026-10-31T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-01",
+          "start": "2026-11-01T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-07",
+          "start": "2026-11-07T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-08",
+          "start": "2026-11-08T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-21",
+          "start": "2026-11-21T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-27",
+          "start": "2026-11-27T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-29",
+          "start": "2026-11-29T13:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-21",
+        "2026-06-26",
+        "2026-06-27",
+        "2026-06-28",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-24",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "pattern": "Fri, Sat, Sun",
+      "time": "1 PM",
+      "next_date": "2026-06-06",
+      "last_date": "2026-11-29",
+      "count": 77
+    },
+    {
+      "id": 38569589895140,
+      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
+      "url": "https://events.stanford.edu/event/public_tour_outdoor_sculpture_walk_museum",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/41032187193603/huge/691d439746ff6c8ee4d2d870f750c3f0f27a5762.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-21",
+          "start": "2026-06-21T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-18",
+          "start": "2026-10-18T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-16",
+        "2026-09-20",
+        "2026-10-18",
+        "2026-11-15"
+      ],
+      "pattern": "Sundays",
+      "time": "2 PM",
+      "next_date": "2026-06-21",
+      "last_date": "2026-11-15",
+      "count": 6
+    },
+    {
+      "id": 40909411691045,
+      "title": "Public Tour | Papua New Guinea Sculpture Walk",
+      "url": "https://events.stanford.edu/event/public_tour_papua_new_guinea_sculpture_walk_1489",
+      "experience": "inperson",
+      "location": "Meet at the Papua New Guinea Sculpture Garden, at the corner of Santa Teresa & Lomita Drive.",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38565881969726/huge/a2a76de9261f98cdb8252bbe5b50eef882bfd7d4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-26",
+          "start": "2026-07-26T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-23",
+          "start": "2026-08-23T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-27",
+          "start": "2026-09-27T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-25",
+          "start": "2026-10-25T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T11:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-28",
+        "2026-07-26",
+        "2026-08-23",
+        "2026-09-27",
+        "2026-10-25",
+        "2026-11-22"
+      ],
+      "pattern": "Sundays",
+      "time": "11:30 AM",
+      "next_date": "2026-06-28",
+      "last_date": "2026-11-22",
+      "count": 6
+    },
+    {
+      "id": 51375729019846,
+      "title": "Public Tour: Outdoor Sculpture Walk, Campus",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-campus",
+      "experience": "inperson",
+      "location": "Meet at the top of the Oval near the benches.",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/51375728996292/huge/86507a7465df24e1ddb94f19d1e5cdf445682763.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-06",
+          "start": "2026-09-06T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-04",
+          "start": "2026-10-04T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-01",
+          "start": "2026-11-01T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-07",
+        "2026-07-05",
+        "2026-08-02",
+        "2026-09-06",
+        "2026-10-04",
+        "2026-11-01"
+      ],
+      "pattern": "Sundays",
+      "time": "2 PM",
+      "next_date": "2026-06-07",
+      "last_date": "2026-11-01",
+      "count": 6
+    },
+    {
+      "id": 46378871982905,
+      "title": "Spotlight Tours Thursdays | Anderson Collection",
+      "url": "https://events.stanford.edu/event/spotlight-tours-thursdays",
+      "experience": "inperson",
+      "location": "Anderson Collection, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/46378876257490/huge/6691c6e58509878ec746f9ac7c2faaedc7d20c1b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-18",
+          "start": "2026-06-18T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-25",
+          "start": "2026-06-25T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-02",
+          "start": "2026-07-02T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-09",
+          "start": "2026-07-09T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-23",
+          "start": "2026-07-23T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-30",
+          "start": "2026-07-30T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-06",
+          "start": "2026-08-06T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-13",
+          "start": "2026-08-13T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-20",
+          "start": "2026-08-20T12:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-27",
+          "start": "2026-08-27T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11",
+        "2026-06-18",
+        "2026-06-25",
+        "2026-07-02",
+        "2026-07-09",
+        "2026-07-16",
+        "2026-07-23",
+        "2026-07-30",
+        "2026-08-06",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27"
+      ],
+      "pattern": "Thursdays",
+      "time": "12 PM",
+      "next_date": "2026-06-11",
+      "last_date": "2026-08-27",
+      "count": 12
+    },
+    {
+      "id": 46378844583273,
+      "title": "Spotlight Tours Thursdays | Anderson Collection",
+      "url": "https://events.stanford.edu/event/spotlight-tours-thursday",
+      "experience": "inperson",
+      "location": "Anderson Collection, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/46378856094012/huge/127f9cd1a479f27de5eb15a64d723b6eb9b00b5f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-18",
+          "start": "2026-06-18T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-25",
+          "start": "2026-06-25T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-02",
+          "start": "2026-07-02T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-09",
+          "start": "2026-07-09T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-23",
+          "start": "2026-07-23T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-30",
+          "start": "2026-07-30T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-06",
+          "start": "2026-08-06T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-13",
+          "start": "2026-08-13T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-20",
+          "start": "2026-08-20T12:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-27",
+          "start": "2026-08-27T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11",
+        "2026-06-18",
+        "2026-06-25",
+        "2026-07-02",
+        "2026-07-09",
+        "2026-07-16",
+        "2026-07-23",
+        "2026-07-30",
+        "2026-08-06",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27"
+      ],
+      "pattern": "Thursdays",
+      "time": "12:30 PM",
+      "next_date": "2026-06-11",
+      "last_date": "2026-08-27",
+      "count": 12
+    },
+    {
+      "id": 50605069583046,
+      "title": "Stanford Memorial Church Docent Tour",
+      "url": "https://events.stanford.edu/event/stanford-memorial-church-docent-tour",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/50605069534916/huge/772f4acc9a9510b4f136e99ba75be695d00853da.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-19",
+          "start": "2026-06-19T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-12",
+        "2026-06-19",
+        "2026-06-26"
+      ],
+      "pattern": "Fridays",
+      "time": "11 AM",
+      "next_date": "2026-06-12",
+      "last_date": "2026-06-26",
+      "count": 3
+    },
+    {
+      "id": 45880382222808,
+      "title": "University Public Worship: Ecumenical Christian Service with Rev. Glen Davis, Chaplain Affiliate, Preaching.",
+      "url": "https://events.stanford.edu/event/upw-glen-davis",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/48925769576147/huge/95612d87cecd1f3a1b5f01206c8c38b1bacd867d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-07"
+      ],
+      "pattern": "Sundays",
+      "time": "11 AM",
+      "next_date": "2026-06-07",
+      "last_date": "2026-06-07",
+      "count": 1
+    },
+    {
+      "id": 47557682677329,
+      "title": "Volunteering at Stanford Educational Farm",
+      "url": "https://events.stanford.edu/event/copy-of-volunteering-at-the-stanford-educational-farm",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception",
+        "Other"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/45439829176291/huge/b9be8d5c99a1837d0eceb241e1206b07fd8f76b8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-20",
+          "start": "2026-06-20T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-04",
+          "start": "2026-07-04T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-25",
+          "start": "2026-07-25T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-08",
+          "start": "2026-08-08T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-05",
+          "start": "2026-09-05T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-19",
+          "start": "2026-09-19T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-03",
+          "start": "2026-10-03T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-10",
+          "start": "2026-10-10T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-31",
+          "start": "2026-10-31T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-07",
+          "start": "2026-11-07T09:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T09:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-21",
+          "start": "2026-11-21T09:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T09:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06",
+        "2026-06-20",
+        "2026-06-27",
+        "2026-07-04",
+        "2026-07-11",
+        "2026-07-18",
+        "2026-07-25",
+        "2026-08-01",
+        "2026-08-08",
+        "2026-08-15",
+        "2026-08-22",
+        "2026-08-29",
+        "2026-09-05",
+        "2026-09-12",
+        "2026-09-19",
+        "2026-09-26",
+        "2026-10-03",
+        "2026-10-10",
+        "2026-10-17",
+        "2026-10-24",
+        "2026-10-31",
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-21",
+        "2026-11-28"
+      ],
+      "pattern": "Saturdays",
+      "time": "9:30 AM",
+      "next_date": "2026-06-06",
+      "last_date": "2026-11-28",
+      "count": 25
+    },
+    {
+      "id": 51888083181057,
+      "title": "Volunteering at Stanford Educational Farm - Weekday",
+      "url": "https://events.stanford.edu/event/volunteering-at-stanford-educational-farm-weekday",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception",
+        "Other"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/51888083127808/huge/4f6f5801eff5622df441a463b149da3e4335589b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-10",
+          "start": "2026-06-10T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-17",
+          "start": "2026-06-17T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-24",
+          "start": "2026-06-24T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-01",
+          "start": "2026-07-01T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-08",
+          "start": "2026-07-08T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-15",
+          "start": "2026-07-15T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-22",
+          "start": "2026-07-22T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-29",
+          "start": "2026-07-29T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-05",
+          "start": "2026-08-05T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-12",
+          "start": "2026-08-12T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-19",
+          "start": "2026-08-19T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-26",
+          "start": "2026-08-26T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-02",
+          "start": "2026-09-02T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-09",
+          "start": "2026-09-09T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-16",
+          "start": "2026-09-16T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-23",
+          "start": "2026-09-23T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-10",
+        "2026-06-17",
+        "2026-06-24",
+        "2026-07-01",
+        "2026-07-08",
+        "2026-07-15",
+        "2026-07-22",
+        "2026-07-29",
+        "2026-08-05",
+        "2026-08-12",
+        "2026-08-19",
+        "2026-08-26",
+        "2026-09-02",
+        "2026-09-09",
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-14",
+        "2026-10-21",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18",
+        "2026-12-02"
+      ],
+      "pattern": "Wednesdays",
+      "time": "9 AM",
+      "next_date": "2026-06-10",
+      "last_date": "2026-12-02",
+      "count": 25
+    }
+  ],
+  "events": [
+    {
+      "id": 53022929067050,
+      "title": "2026: Saturday Night SLOrk!",
+      "url": "https://events.stanford.edu/event/saturday-night-slork-2026",
+      "experience": "hybrid",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53022951598811/huge/ccb654bfcdee673c08954cdcb034a85cc90436eb.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06"
+      ]
+    },
+    {
+      "id": 52383193994698,
+      "title": "Junior Recital: Oscar Paz-Suaznabar, piano",
+      "url": "https://events.stanford.edu/event/oscar-paz-suaznabar-junior-recital",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T14:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06"
+      ]
+    },
+    {
+      "id": 52331705578861,
+      "title": "Junior Recital: Rishubh Thaper, piano",
+      "url": "https://events.stanford.edu/event/rishubh-thaper-piano-recital",
+      "experience": "inperson",
+      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52918207035610/huge/f345a95b0d4e87d7e01db715490f40ae750e7bbd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06"
+      ]
+    },
+    {
+      "id": 52384708229718,
+      "title": "Senior Recital: Karthik Seetharaman, piano",
+      "url": "https://events.stanford.edu/event/karthik-seetharamn-senior-recital",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06"
+      ]
+    },
+    {
+      "id": 52871741100201,
+      "title": "Watchers: The End",
+      "url": "https://events.stanford.edu/event/watchers-the-end",
+      "experience": "inperson",
+      "location": "CCRMA, Listening Room, 660 Lomita Ct, Stanford CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52871743315884/huge/8c65f4830213c1be42ae6cd0e3cad59a2d956b4e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-06",
+          "start": "2026-06-06T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-06"
+      ]
+    },
+    {
+      "id": 53004553444144,
+      "title": "Public Tour: Outdoor Sculpture Walk, Campus",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-campus-1058",
+      "experience": "inperson",
+      "location": "Meet at the top of the Oval near the benches.",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53004553420590/huge/9f6985c8072d763f1108ee657ba95f6e216548b8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-07",
+        "2026-07-05",
+        "2026-08-02"
+      ]
+    },
+    {
+      "id": 52364909589071,
+      "title": "Senior Recital: Karolyn Cheng, piano",
+      "url": "https://events.stanford.edu/event/karolyn-cheng-senior-recital",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-07"
+      ]
+    },
+    {
+      "id": 52382256525729,
+      "title": "Senior Recital: Sophia Artandi, voice",
+      "url": "https://events.stanford.edu/event/sophia-artandi-senior-recital",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53071465338690/huge/374599be7d2b7dc6cb806410c0e651b9505dd34b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-07",
+          "start": "2026-06-07T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-07"
+      ]
+    },
+    {
+      "id": 52312583224199,
+      "title": "Chamber Music Showcase 1",
+      "url": "https://events.stanford.edu/event/chamber-showcase-1-spring26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52312583204741/huge/144d908348616d104062b136fa8c78644e092015.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-08",
+          "start": "2026-06-08T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    {
+      "id": 52870889645105,
+      "title": "Meet the Makers!",
+      "url": "https://events.stanford.edu/event/meet-the-makers-AY26SPR",
+      "experience": "inperson",
+      "location": "Building 550, Peterson Laboratory, Atrium, 416 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Health/Wellness",
+        "Education",
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52870918557876/huge/393ea9ee9f0d59b3849fc4ff1b2a3b79b45cecd5.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-08",
+          "start": "2026-06-08T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    {
+      "id": 52859911021393,
+      "title": "Applied Physics/Physics Colloquium: Markus Aspelmeyer- \"Quantum Sources of Gravity in the Lab\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-markus-aspelmeyer-quantum-sources-of-gravity-in-the-lab",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 200, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/52859919891356/huge/9ebabcf0aff74c9e2a1a9b85fa71653ff238daef.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T15:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 52373352357362,
+      "title": "Book Talk: Stolen Revolution",
+      "url": "https://events.stanford.edu/event/stolen-revolution",
+      "experience": "inperson",
+      "location": "In person at Stanford",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52373366185534/huge/537242f8667b4ddb630a5c20a5b5c810581eba57.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 52995854656314,
+      "title": "Community Coffee Convo: Featuring Stanford Queer Resource Center (QSR)",
+      "url": "https://events.stanford.edu/event/community-coffee-convo-featuring-stanford-queer-resource-center-qsr",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Hartley Conference Room, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Education",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52995863125024/huge/8a434cac1cfbe987800438f3643de0fc6d885692.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T10:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 52870225148709,
+      "title": "E-IPER Dissertation Defense: Fridah Nyakundi",
+      "url": "https://events.stanford.edu/event/e-iper-dissertation-defense-fridah-nyakundi",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52870351639206/huge/5f0332c859fff60a441b9531086d35780116beee.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 53019986430976,
+      "title": "Earth Planetary Science Seminar - Professor Martin Grove \"The thermal history of shallow subduction beneath the southern Sierra Nevada and broader implications for the tectonic evolution of the western North American margin\"\".",
+      "url": "https://events.stanford.edu/event/earth-planetary-science-seminar-professor-martin-grove-the-thermal-history-of-shallow-subduction-beneath-the-southern-sierra-nevada-and-broader-implications-for-the-tectonic-evolution-of-the-western-north-american-margin",
+      "experience": "inperson",
+      "location": "Building 320, Geology Corner, Room 220",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53019988315502/huge/fd87ac6a355b45c9184226bda4e5d993923b4dde.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 52312600245960,
+      "title": "Faculty Recital: Christopher Costanza, cello",
+      "url": "https://events.stanford.edu/event/faculty-recital-costanza-spring26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52312612923809/huge/d1c8041192455975ec41f457bcf5ca80c251727a.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 52464608361100,
+      "title": "Game Nights @ Green: Abducktion: A Weirdly Strategic Duck Kidnapping Game (2023)",
+      "url": "https://events.stanford.edu/event/game-nights-green-abducktion-a-weirdly-strategic-duck-kidnapping-game-2023",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, IC Classroom, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/39078028170292/huge/4a76916771a71980996b171e1129d6c1e87ec941.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 53073586471615,
+      "title": "Geophysics PhD Defense, Neelanjan Akuli: \"Exploring whether glaciers can be slowed through engineering interventions beneath the ice\"",
+      "url": "https://events.stanford.edu/event/geophysics-phd-defense-neelanjan-akuli-exploring-whether-glaciers-can-be-slowed-through-engineering-interventions-beneath-the-ice",
+      "experience": "hybrid",
+      "location": "Building 300, 300, 450 Jane Stanford Way, Building 300, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53073595878624/huge/7c3c89eeb6d4bfe97779118a3e22cc0274dbed46.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-09",
+          "start": "2026-06-09T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    {
+      "id": 53064352455229,
+      "title": "2026 Conference on Physics and AI (PAI26)",
+      "url": "https://events.stanford.edu/event/2026-conference-on-physics-and-ai-pai26",
+      "experience": "inperson",
+      "location": "Munger Complex, Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-10",
+          "start": "2026-06-10T08:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T08:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ]
+    },
+    {
+      "id": 52269398668533,
+      "title": "AVOID EYE CONTACT: 2026 Spring MFA Documentary Film Screening",
+      "url": "https://events.stanford.edu/event/2026-spring-mfa-documentary-film-screening",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52957930565758/huge/be5df68eb0d2e77b42eec472535be3752b885b8e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    {
+      "id": 52948503963557,
+      "title": "E-IPER Dissertation Defense: Anela Arifi",
+      "url": "https://events.stanford.edu/event/eiper-defense-anela-arifi",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 300, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53046468347083/huge/db722e763e977618bbfba170f981f96b9b14025f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    {
+      "id": 52870311131503,
+      "title": "E-IPER Dissertation Defense: Karli Moore",
+      "url": "https://events.stanford.edu/event/e-iper-dissertation-defense-karli-moore",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52870323752199/huge/c708192254c0fea1ff3c80d399ff9d87fbb0b57b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    {
+      "id": 51961215658365,
+      "title": "Lunchtime Curator Talk | Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-miljohn-ruperto",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/51961215626620/huge/daec629c4a216d1e522f57b3f80a18849672d668.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    {
+      "id": 52498865912551,
+      "title": "OMAC Graduation '26",
+      "url": "https://events.stanford.edu/event/omac-graduation-26",
+      "experience": "inperson",
+      "location": "Faculty Club, Redwood Room and Patio, 439 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/52498910043639/huge/85b48fa65a3003b07354ad0b69c74b744ee5bad0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    {
+      "id": 52364949821208,
+      "title": "Student Recital: Jolie Huang, piano",
+      "url": "https://events.stanford.edu/event/jolie-huang-piano-recital",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-11",
+          "start": "2026-06-11T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    {
+      "id": 52092953438594,
+      "title": "2026 Stanford Commencement Organ Concert",
+      "url": "https://events.stanford.edu/event/2026-stanford-commencement-organ-concert",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52092965631406/huge/f3283f380726d18114a59cf7b1c412524484f523.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-12",
+        "2026-06-26"
+      ]
+    },
+    {
+      "id": 52870332249362,
+      "title": "E-IPER Dissertation Defense: Alyson Singleton",
+      "url": "https://events.stanford.edu/event/e-iper-dissertation-defense-alyson-singleton",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 111, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52870345671133/huge/d62691895825a4555178c7e1094e22f5c00bd3f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-12",
+          "start": "2026-06-12T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    {
+      "id": 52269455708846,
+      "title": "PLAY IT AGAIN!: 2026 MFA Thesis Documentary Film Screening",
+      "url": "https://events.stanford.edu/event/2026-mfa-thesis-documentary-film-screening",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53055499195762/huge/e93d3865f456311bee399d81f08d417ad6be1b41.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-13",
+          "start": "2026-06-13T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-13"
+      ]
+    },
+    {
+      "id": 52312619114420,
+      "title": "2026 Commencement Family & Friends Concert",
+      "url": "https://events.stanford.edu/event/2026-commencement-concert",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52312619083698/huge/3f18a02a42e8e5f05b261784147778663853ac34.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-14",
+          "start": "2026-06-14T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-14"
+      ]
+    },
+    {
+      "id": 52366439557019,
+      "title": "Curator Led Talk | 1,000 Ways to Hold",
+      "url": "https://events.stanford.edu/event/curator-led-talk-1000-ways-to-hold-june",
+      "experience": "inperson",
+      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52366439531415/huge/28cd22285f320e62c809b59ea28e7c47ad7b701c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-15",
+          "start": "2026-06-15T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    {
+      "id": 53081999713461,
+      "title": "Ph.D Dissertation Defense: Rebecca Grekin",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-rebecca-grekin",
+      "experience": "hybrid",
+      "location": "Green Earth Sciences Building, 365, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53082017250679/huge/f9ea7cb71d1a931761d7f58c05a6402afcf6c736.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-15",
+          "start": "2026-06-15T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    {
+      "id": 52826682912834,
+      "title": "California Map Society Conference",
+      "url": "https://events.stanford.edu/event/california-map-society-conference-2026",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/52826682861632/huge/5a35b52d09b9fc423cf11e8fae93aabc64b796bb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-20",
+          "start": "2026-06-20T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-20"
+      ]
+    },
+    {
+      "id": 53004541128514,
+      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-museum-9629",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53004541056832/huge/a31797a7ed6091ab48a32ed4c2dc730b3c8e6b48.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-21",
+          "start": "2026-06-21T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-21",
+        "2026-07-19",
+        "2026-08-16"
+      ]
+    },
+    {
+      "id": 52621068947094,
+      "title": "SJW Presents: Indian Jazz Journey ft. Mahesh Kale & George Brooks",
+      "url": "https://events.stanford.edu/event/indian-jazz-journey-sjw26",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621068904081/huge/9cbfd258e4e842ff37a8318c81231e31545af1e3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-21",
+          "start": "2026-06-21T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-21"
+      ]
+    },
+    {
+      "id": 52701534594390,
+      "title": "PhD Dissertation Defense: Taylor Pursell, Boyd Lab",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-taylor-pursell-boyd-lab",
+      "experience": "inperson",
+      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511080731730/huge/3345a12bd2976ada3376699db4ae7581f36f94e4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-22",
+          "start": "2026-06-22T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    {
+      "id": 52057857932611,
+      "title": "SOLD OUT - Lunchtime Curator Talk | Jeremy Frey: Woven",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-jeremy-frey-woven",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52057857900863/huge/baafbcf21fdc2f3de037a5ca44909b3daa2dee22.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-25",
+          "start": "2026-06-25T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-25"
+      ]
+    },
+    {
+      "id": 52825333175903,
+      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-to-knight-hennessy-scholars-8294",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52825333114461/huge/997c037dc3b42cb6c05151178a94c864c57fcda9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-25",
+          "start": "2026-06-25T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-25"
+      ]
+    },
+    {
+      "id": 51934582590620,
+      "title": "Info session for Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-8450",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/51934585972277/huge/4df43863d8cc159da7620c6a2b087bfa0ca98e44.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    {
+      "id": 52621114174370,
+      "title": "SJW Presents: Branford Marsalis Quartet",
+      "url": "https://events.stanford.edu/event/branford-marsalis-quartet-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621138273785/huge/0cd028b3a114d0e573cc41fb5703832f182f647a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    {
+      "id": 52621145488756,
+      "title": "SJW Presents: Billy Childs Quartet",
+      "url": "https://events.stanford.edu/event/billy-childs-quartet-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621188716771/huge/890c5cf46f1552962564beb1e4ba1cd37a05b649.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-27"
+      ]
+    },
+    {
+      "id": 52621207021188,
+      "title": "SJW Presents: Early Bird Jazz for Kids with Dr. Dave Hart and the Zookeepers",
+      "url": "https://events.stanford.edu/event/early-bird-jazz-for-kids-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621206993536/huge/89f5811b69816810587fcaf9a9bdc09b72d56e3f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-28"
+      ]
+    },
+    {
+      "id": 52621225702534,
+      "title": "SJW Presents: Luciana Souza and Marcel Camargo – New Moon with string quartet",
+      "url": "https://events.stanford.edu/event/luciana-souza-marcel-comargo-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621247348594/huge/9e24525b171954bd89cfbe0a1fb8f7689c25988a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-28"
+      ]
+    },
+    {
+      "id": 52329688553334,
+      "title": "Natural Capital Symposium 2026",
+      "url": "https://events.stanford.edu/event/natural-capital-symposium-2026",
+      "experience": "inperson",
+      "location": "Alumni Center, 326 Galvez Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Science",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52330814700593/huge/0f3cf0c0fbc53d2f9f7d21fdbb50007ea0250ceb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-29",
+          "start": "2026-06-29T08:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-06-30",
+          "start": "2026-06-30T08:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-01",
+          "start": "2026-07-01T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ]
+    },
+    {
+      "id": 52357036883017,
+      "title": "1,000 Ways to Hold | Exhibition Tour by Erika Chong Shuch",
+      "url": "https://events.stanford.edu/event/1000-ways-to-hold-exhibition-tour-by-erika-chong-shuch",
+      "experience": "inperson",
+      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52427921017993/huge/2bc94a49a5b9f1188d6385dba7505e68fc706ac8.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-06",
+          "start": "2026-07-06T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-06"
+      ]
+    },
+    {
+      "id": 48049265265054,
+      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-2565",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/48049269577207/huge/4595c9b90cfdd9ce01cc808f92e67653d66c7f72.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-09",
+          "start": "2026-07-09T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    {
+      "id": 52621265450571,
+      "title": "SJW Presents: The Music of Duke Ellington with Nick Rossi’s Jazzopaters",
+      "url": "https://events.stanford.edu/event/nick-rossi-ellington-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621294144871/huge/dd8b09ec70d7fcf399de648e9ed037f9a076578f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-10",
+          "start": "2026-07-10T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    {
+      "id": 52746585905354,
+      "title": "Ocular Melanoma 5K — Lookin' for a Cure walk and run",
+      "url": "https://events.stanford.edu/event/ocular-melanoma-5k-lookin-for-a-cure-walk-and-run",
+      "experience": "inperson",
+      "location": "Byers Eye Institute at Stanford, 2452 Watson Court, Palo Alto, CA 94303",
+      "types": [
+        "Fitness/Recreational Sport"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Medicine",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52746595091968/huge/6f4d1c8cba7835e4b91faef566960b32ddb4f47e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T07:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-11"
+      ]
+    },
+    {
+      "id": 52621299023980,
+      "title": "SJW Presents: Nicolas Bearde Quintet",
+      "url": "https://events.stanford.edu/event/nicolas-bearde-quintet-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621314014879/huge/8fcd1c9d440342201935e253d28428dded77d6b5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-11",
+          "start": "2026-07-11T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-11"
+      ]
+    },
+    {
+      "id": 52621319715518,
+      "title": "SJW Presents: Marcus Shelby Sextet Conversation – The Language of Charles Mingus",
+      "url": "https://events.stanford.edu/event/marcus-shelby-sextet-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621332663990/huge/5a48bf44800d3c795e62fb85403121ef9fa06563.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-12",
+          "start": "2026-07-12T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-12"
+      ]
+    },
+    {
+      "id": 52621370050813,
+      "title": "SJW Presents: Christina Galisatus Quintet plays Joni Mitchell",
+      "url": "https://events.stanford.edu/event/christina-galisatus-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621408454898/huge/0f3ec6d01d99374750e0e892428cb35cf5ec0ab3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-13",
+          "start": "2026-07-13T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    {
+      "id": 52621413341276,
+      "title": "SJW Presents: Jimmy Heath Centennial Celebration with Jeb Patton & David Wong",
+      "url": "https://events.stanford.edu/event/jeb-patton-david-wong-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621427617001/huge/9e3a30fbae1189b071f444cc3138938b5f47e8c4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-14",
+          "start": "2026-07-14T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    {
+      "id": 52621440677688,
+      "title": "SJW Presents: Victor Lin: Gershwin Reimagined",
+      "url": "https://events.stanford.edu/event/victor-lin-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621461423180/huge/93439a22197939292466023805fcba399606071c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-15",
+          "start": "2026-07-15T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    {
+      "id": 53081717512222,
+      "title": "2026 Global Green Development Summit: Energy Innovation Powering AI for a Green Future",
+      "url": "https://events.stanford.edu/event/2026-global-green-development-summit-energy-innovation-powering-ai-for-a-green-future",
+      "experience": "inperson",
+      "location": "Faculty Club, 439 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53083614300639/huge/97cdf64b222c4185b607c2c785cbe4f959966405.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T10:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-16",
+        "2026-07-18"
+      ]
+    },
+    {
+      "id": 53056950022573,
+      "title": "2026 Japan – U.S. Innovation Awards Symposium",
+      "url": "https://events.stanford.edu/event/copy-of-2025-japan-us-innovation-awards-symposium",
+      "experience": "inperson",
+      "location": "Alumni Center, McCaw Hall, 326 Galvez Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53081694861847/huge/03eeaaff46c7582b6c1a177be6fe004a9b58bdfe.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T10:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    {
+      "id": 52621492428693,
+      "title": "SJW Presents: Michael Mayo Quartet",
+      "url": "https://events.stanford.edu/event/michael-mayo-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621506200951/huge/c8f604c3f8f4a20462b2a6d426cb6ff459437ed7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    {
+      "id": 52057941525027,
+      "title": "SOLD OUT - Evening Curator Talk | Jeremy Frey: Woven",
+      "url": "https://events.stanford.edu/event/copy-of-evening-curator-talk-jeremy-frey-woven",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52057941498399/huge/c00716b692326a9167df277471236d12372a64bf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    {
+      "id": 52621511921722,
+      "title": "SJW Presents: Anat Cohen",
+      "url": "https://events.stanford.edu/event/anat-cohen-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621525319442/huge/d4331a0e997b06e46bd4f7b0078e4b9fac6c3879.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-18",
+          "start": "2026-07-18T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-18"
+      ]
+    },
+    {
+      "id": 52621528332302,
+      "title": "SJW Presents: The Westerlies",
+      "url": "https://events.stanford.edu/event/the-westerlies-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621543594358/huge/a7d2ad197007f9e7cdd359786b902ed3ec72df79.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-19"
+      ]
+    },
+    {
+      "id": 52621549453920,
+      "title": "SJW Presents: Anisha Rush Quartet & Ben Flocks – Moonshades",
+      "url": "https://events.stanford.edu/event/anisha-rush-ben-flocks-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621570394547/huge/a525a0c31bb74065fa9212b4c00a2a5c7928270b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-20",
+          "start": "2026-07-20T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    {
+      "id": 52621576341996,
+      "title": "SJW Presents: Miles Davis Centennial Celebration featuring Jeremy Pelt",
+      "url": "https://events.stanford.edu/event/miles-davis-celebration-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621600079676/huge/954ba6d202b66f74ae30df32b36acbe4efe4ccc0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-21",
+          "start": "2026-07-21T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    {
+      "id": 52621603442587,
+      "title": "SJW Presents: Ruth Davies’ Blues Night featuring Sean “Mack” McDonald",
+      "url": "https://events.stanford.edu/event/ruth-davies-blues-night-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621624466046/huge/bcf7f991a35364d15bc985abb472ef014219bf74.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-22",
+          "start": "2026-07-22T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    {
+      "id": 52940824986379,
+      "title": "Lunchtime Curator Talk | Jane!",
+      "url": "https://events.stanford.edu/event/lunchtime-curator-talk-jane",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52940921332671/huge/4e33616e7410a0008415d1f73e46575a8cb5aed4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-23",
+          "start": "2026-07-23T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    {
+      "id": 52621629777832,
+      "title": "SJW Presents: Stefon Harris & Blackout",
+      "url": "https://events.stanford.edu/event/stefon-harris-blackout-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621641544286/huge/bb14e251197d6b6d07d86333584c2fb19e3bb70c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-23",
+          "start": "2026-07-23T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    {
+      "id": 51934603837549,
+      "title": "Info session for Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-4105",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/51934608620606/huge/b324d6a4ca351d14faf87b5092a522ce271ae7fb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-24",
+          "start": "2026-07-24T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-24"
+      ]
+    },
+    {
+      "id": 52621649163647,
+      "title": "SJW Presents: Yilian Cañizares Trio",
+      "url": "https://events.stanford.edu/event/yilian-canizares-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621667037742/huge/3836fd9a83e92241f5c0eefbd699af905c391d92.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-25",
+          "start": "2026-07-25T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-25"
+      ]
+    },
+    {
+      "id": 52621670794124,
+      "title": "SJW Presents: Sasha Berliner",
+      "url": "https://events.stanford.edu/event/sasha-berliner-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621685675435/huge/905dbf56c51f8c6742e2c192ca17631f8a7f398c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-26",
+          "start": "2026-07-26T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-26"
+      ]
+    },
+    {
+      "id": 52621691779990,
+      "title": "SJW Presents: Guitar Night featuring Camila Meza & Dan Wilson",
+      "url": "https://events.stanford.edu/event/guitar-night-sjw26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621703980064/huge/37a6afb7fefeaa137f2c02a2c074fcf4e6fca2ab.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-27",
+          "start": "2026-07-27T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    {
+      "id": 52621707573482,
+      "title": "SJW Presents: George Cables and Friends",
+      "url": "https://events.stanford.edu/event/george-cables-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621721170583/huge/b1133b4441ec28dd69aab288b0c2fd53f4d5f6f8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-28",
+          "start": "2026-07-28T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    {
+      "id": 52569014733355,
+      "title": "PhD Dissertation Defense: Savannah Lewis, Jagannathan Lab",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-savannah-lewis-jagannathan-lab",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511044058927/huge/82e06e467448be9f7ba847ebd4ee1c82f7f97aaf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-29",
+          "start": "2026-07-29T14:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    {
+      "id": 52621724943025,
+      "title": "SJW Presents: Aldo López-Gavilán",
+      "url": "https://events.stanford.edu/event/aldo-lopez-galivan-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621740234377/huge/f03f8959befc9dd8102c64bd495433930463f5eb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-29",
+          "start": "2026-07-29T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    {
+      "id": 52621778027132,
+      "title": "SJW Presents: Taylor Eigsti Group feat. Gretchen Parlato and Zack Grooves",
+      "url": "https://events.stanford.edu/event/taylor-eigsti-group-sjw26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621794043219/huge/be5c5d5f944ef542b0aacb2cc0450c938d599603.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-30",
+          "start": "2026-07-30T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    {
+      "id": 52621797803237,
+      "title": "SJW Presents: SJW All-Star Jam",
+      "url": "https://events.stanford.edu/event/sjw-all-star-jam-2026",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52621810308048/huge/14429ee2e7588be678c057160bacb8f702b6653a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    {
+      "id": 52508200166798,
+      "title": "RibFest 2026 - Symposium on the Surgical Stabilization of Traumatic Rib and Sternal Fractures",
+      "url": "https://events.stanford.edu/event/ribfest-2026-symposium-on-the-surgical-stabilization-of-traumatic-rib-and-sternal-fractures",
+      "experience": "inperson",
+      "location": "The Center for Clinical Sciences Research, 269 Campus Drive Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52523953561735/huge/a5b7d79e34b76686b2478d06d69b4bc0cc6c2b36.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T07:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-01"
+      ]
+    },
+    {
+      "id": 52940922988592,
+      "title": "Lunchtime Curator Talk | Jane!",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-jane-1387",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52940922967086/huge/72b2077f727ce9e9d0926d9fbcf58f39d8028e3d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-06",
+          "start": "2026-08-06T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    {
+      "id": 52683886525446,
+      "title": "The 4th Global Piano Roll Meeting – Day 1",
+      "url": "https://events.stanford.edu/event/2026-global-piano-roll-meeting-1",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium",
+        "Lecture/Presentation/Talk",
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52683896098315/huge/2d217992fac38d46ea2163d24876643f9e0ac935.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-07",
+          "start": "2026-08-07T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    {
+      "id": 52683909071353,
+      "title": "The 4th Global Piano Roll Meeting – Day 2",
+      "url": "https://events.stanford.edu/event/2026-global-piano-roll-meeting-2",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium",
+        "Lecture/Presentation/Talk",
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52683909050868/huge/835e522a544128b9250146cc03a5a6f12e162ca2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-08",
+          "start": "2026-08-08T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-08"
+      ]
+    },
+    {
+      "id": 52683915088175,
+      "title": "The 4th Global Piano Roll Meeting – Day 3",
+      "url": "https://events.stanford.edu/event/2026-global-piano-roll-meeting-3",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium",
+        "Lecture/Presentation/Talk",
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52683915062570/huge/9dda920e81f7b63cb2474ed87f9ed50035b0c10f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-09",
+          "start": "2026-08-09T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-09"
+      ]
+    },
+    {
+      "id": 52366469784252,
+      "title": "Curator Led Talk | 1,000 Ways to Hold",
+      "url": "https://events.stanford.edu/event/curator-led-talk-1000-ways-to-hold-august",
+      "experience": "inperson",
+      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52366469762744/huge/463cacb44a29dd917f94d6cd83fbb4ad5ec67eeb.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-10",
+          "start": "2026-08-10T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    {
+      "id": 48049248605453,
+      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5766",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/48049253762636/huge/b61d60d7ee54a32c6c26f4301b7ee3eb01bb3eb3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-13",
+          "start": "2026-08-13T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    {
+      "id": 51934608883260,
+      "title": "Info session for Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-4345",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/51934617468061/huge/348f6800ab8b067bc69bc4f0d192f7d286ecdab3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-21",
+          "start": "2026-08-21T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    {
+      "id": 53064389481626,
+      "title": "SCI Breast Cancer and African American Conference",
+      "url": "https://events.stanford.edu/event/sci-breast-cancer-and-african-american-conference",
+      "experience": "inperson",
+      "location": "Doubletree by Hilton Hotel Newark - Fremont, 39900 Balentine Dr, Newark, CA 94560",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Diversity/Identity",
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53064421037002/huge/396b915a41fffe03d1aa69148486c83fa8b9de15.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T07:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-22"
+      ]
+    },
+    {
+      "id": 53002107624161,
+      "title": "Stanford Orthopaedic Trauma Symposium",
+      "url": "https://events.stanford.edu/event/stanford-orthopaedic-trauma-symposium",
+      "experience": "inperson",
+      "location": "The Quail Lodge, 8205 Valley Greens Dr, Carmel, CA 93923",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53002117273692/huge/727ef542d6047bd42ccfd94f5249c01d71a83fe0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-28",
+          "start": "2026-08-28T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-08-30",
+          "start": "2026-08-30T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30"
+      ]
+    },
+    {
+      "id": 50852323821947,
+      "title": "MRI: Clinical Updates and Practical Physics",
+      "url": "https://events.stanford.edu/event/mri-clinical-updates-and-practical-physics-9762",
+      "experience": "inperson",
+      "location": "The Frances C. Arrillaga Alumni Center, Stanford, CA, 326 Galvez St, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50852329121613/huge/adec9a9bb5175416267e59695fb33a64040bed23.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T07:20:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-13",
+          "start": "2026-09-13T07:20:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-14",
+          "start": "2026-09-14T07:20:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-15",
+          "start": "2026-09-15T07:20:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15"
+      ]
+    },
+    {
+      "id": 53074254797631,
+      "title": "Trust and Safety Research Conference",
+      "url": "https://events.stanford.edu/event/trust-and-safety-research-conference-448",
+      "experience": "inperson",
+      "location": "Alumni Center, 326 Galvez Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Humanities",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53074467833161/huge/f81679a77e007120ac02c52941b5c3f708c1608b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-01",
+        "2026-10-02"
+      ]
+    },
+    {
+      "id": 51934618089632,
+      "title": "Info session for Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-633",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/51934621636776/huge/b370686bc64cfd1d60d5d8afbdfcc3e9e0a396ce.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    {
+      "id": 52744940669386,
+      "title": "Stanford Bronchopulmonary Dysplasia (BPD) Research Symposium",
+      "url": "https://events.stanford.edu/event/stanford-bronchopulmonary-dysplasia-bpd-research-symposium",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center for Learning and Knowledge, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52766126573236/huge/fcbd08735e6aa508d226e751a68fc76c357a907c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    {
+      "id": 48049229753780,
+      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5362",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/48049236225509/huge/6754a0c161a3eb7ed2e490cc5ab5a0689a44cd23.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": 52827065017882,
+      "title": "Kronos Quartet with Mahsa and Marjan Vahdat: Placeless",
+      "url": "https://events.stanford.edu/event/kronos-quartet-with-mahsa-and-marjan-vahdat-placeless",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52833765848318/huge/4f504c62ff5b9fbe859c1305c6f898c1961cfe05.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-11",
+          "start": "2026-10-11T14:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-11"
+      ]
+    },
+    {
+      "id": 52940965451403,
+      "title": "Lunchtime Curator Talk | Solid Pictures",
+      "url": "https://events.stanford.edu/event/lunchtime-curator-talk-solid-pictures",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Pigott Family Gallery (142), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52941042455879/huge/65b528d734dc4a8ad7763ea17a186d1368c7d9b6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
+      "id": 52739250588724,
+      "title": "CBD 2026: Interbeing Meditation: Touching Our Source and Growing Our Connection with Kaira Jewel Lingo",
+      "url": "https://events.stanford.edu/event/cbd-2026-interbeing-meditation-with-kaira-jewel-lingo",
+      "experience": "hybrid",
+      "location": "Black Community Services Center, Community Room, 418 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52739250556979/huge/f1610bf0516d067ec6e21a0793a134be80f32f1d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T07:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
+      "id": 51958293297549,
+      "title": "Physics Alumni Reunion Homecoming",
+      "url": "https://events.stanford.edu/event/physics-alumni-reunion-homecoming",
+      "experience": "inperson",
+      "location": "Varian, 382 Via Pueblo, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/51958376663772/huge/4f03b08d13cd50c3d96a038b7491a03b5e604f47.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
+      "id": 53002164813794,
+      "title": "International Symposium on aß T-cell/CD19 B-cell Depleted Haploidentical HSCT",
+      "url": "https://events.stanford.edu/event/international-symposium-on-ass-t-cellcd19-b-cell-depleted-haploidentical-hsct",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center for Learning and Knowledge (LKSC), 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53002166620417/huge/843a852727d88927e62abd880926d5a66e2ab2a4.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-19",
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 53012995941585,
+      "title": "9th Annual Stanford Maternal and Child Health Research Institute Symposium",
+      "url": "https://events.stanford.edu/event/9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
+      "experience": "hybrid",
+      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53013044721369/huge/0d744c925f61afc80f68a3ebfb1656a14ce1524d.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
+      "id": 53056984639945,
+      "title": "Copy of 9th Annual Stanford Maternal and Child Health Research Institute Symposium",
+      "url": "https://events.stanford.edu/event/copy-of-9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
+      "experience": "hybrid",
+      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53056984586695/huge/1a4acb1eaef4c08b3d1ee2daf4c7f0b170062c14.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
+      "id": 52206222934826,
+      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-8021",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52206222867240/huge/65b52a585c2251fa0377410ae8e605bb418bb5a6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
+      "id": 52144974566394,
+      "title": "Weintz Art Lecture Series: Elizabeth Dospěl Williams",
+      "url": "https://events.stanford.edu/event/weintz-art-lecture-series-elizabeth-dospel-williams-2203",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52144978152876/huge/927bbde32ae492ca210df5694d418ecc48859a63.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
+      "id": 52825303977410,
+      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-to-knight-hennessy-scholars",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52825303909824/huge/829a4eb56dfb5abe34da3b312a4c341563df91ba.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    }
+  ]
+}
