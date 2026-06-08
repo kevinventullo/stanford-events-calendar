@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T13:37:32+00:00",
+  "generated_at": "2026-06-08T01:52:35+00:00",
   "window": {
-    "start": "2026-06-07",
-    "end": "2026-12-04"
+    "start": "2026-06-08",
+    "end": "2026-12-05"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 16,
-    "recurring": 19,
-    "dated": 93
+    "recurring": 18,
+    "dated": 91
   },
   "ongoing": [
     {
@@ -398,11 +398,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-07",
-          "start": "2026-06-07T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-12",
           "start": "2026-06-12T14:00:00-07:00",
           "all_day": false
@@ -494,7 +489,6 @@
         }
       ],
       "dates": [
-        "2026-06-07",
         "2026-06-12",
         "2026-06-13",
         "2026-06-14",
@@ -516,9 +510,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-07",
+      "next_date": "2026-06-12",
       "last_date": "2026-07-19",
-      "count": 19
+      "count": 18
     },
     {
       "id": 46378544005855,
@@ -535,11 +529,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-07",
-          "start": "2026-06-07T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-13",
           "start": "2026-06-13T12:30:00-07:00",
@@ -662,7 +651,6 @@
         }
       ],
       "dates": [
-        "2026-06-07",
         "2026-06-13",
         "2026-06-14",
         "2026-06-20",
@@ -690,9 +678,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-06-07",
+      "next_date": "2026-06-13",
       "last_date": "2026-08-30",
-      "count": 25
+      "count": 24
     },
     {
       "id": 47049266947082,
@@ -709,11 +697,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-07",
-          "start": "2026-06-07T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-13",
           "start": "2026-06-13T14:30:00-07:00",
@@ -836,7 +819,6 @@
         }
       ],
       "dates": [
-        "2026-06-07",
         "2026-06-13",
         "2026-06-14",
         "2026-06-20",
@@ -864,9 +846,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-06-07",
+      "next_date": "2026-06-13",
       "last_date": "2026-08-30",
-      "count": 25
+      "count": 24
     },
     {
       "id": 52489460033306,
@@ -1285,6 +1267,11 @@
           "date": "2026-11-28",
           "start": "2026-11-28T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1337,13 +1324,14 @@
         "2026-11-20",
         "2026-11-21",
         "2026-11-27",
-        "2026-11-28"
+        "2026-11-28",
+        "2026-12-04"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-06-12",
-      "last_date": "2026-11-28",
-      "count": 50
+      "last_date": "2026-12-04",
+      "count": 51
     },
     {
       "id": 49173608318321,
@@ -1393,11 +1381,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-07",
-          "start": "2026-06-07T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-12",
           "start": "2026-06-12T13:00:00-07:00",
@@ -1772,10 +1755,14 @@
           "date": "2026-11-29",
           "start": "2026-11-29T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-06-07",
         "2026-06-12",
         "2026-06-13",
         "2026-06-14",
@@ -1850,12 +1837,13 @@
         "2026-11-22",
         "2026-11-27",
         "2026-11-28",
-        "2026-11-29"
+        "2026-11-29",
+        "2026-12-04"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-07",
-      "last_date": "2026-11-29",
+      "next_date": "2026-06-12",
+      "last_date": "2026-12-04",
       "count": 76
     },
     {
@@ -2000,11 +1988,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-07",
-          "start": "2026-06-07T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-05",
           "start": "2026-07-05T14:00:00-07:00",
           "all_day": false
@@ -2031,7 +2014,6 @@
         }
       ],
       "dates": [
-        "2026-06-07",
         "2026-07-05",
         "2026-08-02",
         "2026-09-06",
@@ -2040,9 +2022,9 @@
       ],
       "pattern": "Sundays",
       "time": "2 PM",
-      "next_date": "2026-06-07",
+      "next_date": "2026-07-05",
       "last_date": "2026-11-01",
-      "count": 6
+      "count": 5
     },
     {
       "id": 46378871982905,
@@ -2275,36 +2257,6 @@
       "next_date": "2026-06-12",
       "last_date": "2026-06-26",
       "count": 3
-    },
-    {
-      "id": 45880382222808,
-      "title": "University Public Worship: Ecumenical Christian Service with Rev. Glen Davis, Chaplain Affiliate, Preaching.",
-      "url": "https://events.stanford.edu/event/upw-glen-davis",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/48925769576147/huge/95612d87cecd1f3a1b5f01206c8c38b1bacd867d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-07",
-          "start": "2026-06-07T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-07"
-      ],
-      "pattern": "Sundays",
-      "time": "11 AM",
-      "next_date": "2026-06-07",
-      "last_date": "2026-06-07",
-      "count": 1
     },
     {
       "id": 47557682677329,
@@ -2652,98 +2604,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53004553444144,
-      "title": "Public Tour: Outdoor Sculpture Walk, Campus",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-campus-1058",
-      "experience": "inperson",
-      "location": "Meet at the top of the Oval near the benches.",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53004553420590/huge/9f6985c8072d763f1108ee657ba95f6e216548b8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-07",
-          "start": "2026-06-07T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-07-05",
-          "start": "2026-07-05T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-02",
-          "start": "2026-08-02T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-07",
-        "2026-07-05",
-        "2026-08-02"
-      ]
-    },
-    {
-      "id": 52364909589071,
-      "title": "Senior Recital: Karolyn Cheng, piano",
-      "url": "https://events.stanford.edu/event/karolyn-cheng-senior-recital",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-07",
-          "start": "2026-06-07T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-07"
-      ]
-    },
-    {
-      "id": 52382256525729,
-      "title": "Senior Recital: Sophia Artandi, voice",
-      "url": "https://events.stanford.edu/event/sophia-artandi-senior-recital",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53071465338690/huge/374599be7d2b7dc6cb806410c0e651b9505dd34b.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-07",
-          "start": "2026-06-07T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-07"
-      ]
-    },
     {
       "id": 52312583224199,
       "title": "Chamber Music Showcase 1",
@@ -3706,6 +3566,38 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01"
+      ]
+    },
+    {
+      "id": 53004553444144,
+      "title": "Public Tour: Outdoor Sculpture Walk, Campus",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-campus-1058",
+      "experience": "inperson",
+      "location": "Meet at the top of the Oval near the benches.",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53004553420590/huge/9f6985c8072d763f1108ee657ba95f6e216548b8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-05",
+        "2026-08-02"
       ]
     },
     {
