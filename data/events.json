@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-08T14:28:52+00:00",
+  "generated_at": "2026-06-09T01:41:35+00:00",
   "window": {
-    "start": "2026-06-08",
-    "end": "2026-12-05"
+    "start": "2026-06-09",
+    "end": "2026-12-06"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 18,
-    "dated": 91
+    "dated": 89
   },
   "ongoing": [
     {
@@ -1272,6 +1272,11 @@
           "date": "2026-12-04",
           "start": "2026-12-04T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1325,13 +1330,14 @@
         "2026-11-21",
         "2026-11-27",
         "2026-11-28",
-        "2026-12-04"
+        "2026-12-04",
+        "2026-12-05"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-06-12",
-      "last_date": "2026-12-04",
-      "count": 51
+      "last_date": "2026-12-05",
+      "count": 52
     },
     {
       "id": 49173608318321,
@@ -1760,6 +1766,11 @@
           "date": "2026-12-04",
           "start": "2026-12-04T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1838,13 +1849,14 @@
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
-        "2026-12-04"
+        "2026-12-04",
+        "2026-12-05"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-06-12",
-      "last_date": "2026-12-04",
-      "count": 76
+      "last_date": "2026-12-05",
+      "count": 77
     },
     {
       "id": 38569589895140,
@@ -2393,6 +2405,11 @@
           "date": "2026-11-28",
           "start": "2026-11-28T09:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T09:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2419,13 +2436,14 @@
         "2026-11-07",
         "2026-11-14",
         "2026-11-21",
-        "2026-11-28"
+        "2026-11-28",
+        "2026-12-05"
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
       "next_date": "2026-06-20",
-      "last_date": "2026-11-28",
-      "count": 24
+      "last_date": "2026-12-05",
+      "count": 25
     },
     {
       "id": 51888083181057,
@@ -2604,63 +2622,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52312583224199,
-      "title": "Chamber Music Showcase 1",
-      "url": "https://events.stanford.edu/event/chamber-showcase-1-spring26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52312583204741/huge/144d908348616d104062b136fa8c78644e092015.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-08",
-          "start": "2026-06-08T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-08"
-      ]
-    },
-    {
-      "id": 52870889645105,
-      "title": "Meet the Makers!",
-      "url": "https://events.stanford.edu/event/meet-the-makers-AY26SPR",
-      "experience": "inperson",
-      "location": "Building 550, Peterson Laboratory, Atrium, 416 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Health/Wellness",
-        "Education",
-        "Engineering/Technology",
-        "Environment/Sustainability",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52870918557876/huge/393ea9ee9f0d59b3849fc4ff1b2a3b79b45cecd5.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-08",
-          "start": "2026-06-08T20:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-08"
-      ]
-    },
     {
       "id": 52859911021393,
       "title": "Applied Physics/Physics Colloquium: Markus Aspelmeyer- \"Quantum Sources of Gravity in the Lab\"",
