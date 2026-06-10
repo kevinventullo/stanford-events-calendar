@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T13:54:50+00:00",
+  "generated_at": "2026-06-10T01:48:08+00:00",
   "window": {
-    "start": "2026-06-09",
-    "end": "2026-12-06"
+    "start": "2026-06-10",
+    "end": "2026-12-07"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 18,
-    "dated": 89
+    "dated": 83
   },
   "ongoing": [
     {
@@ -1771,6 +1771,11 @@
           "date": "2026-12-05",
           "start": "2026-12-05T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1850,13 +1855,14 @@
         "2026-11-28",
         "2026-11-29",
         "2026-12-04",
-        "2026-12-05"
+        "2026-12-05",
+        "2026-12-06"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-06-12",
-      "last_date": "2026-12-05",
-      "count": 77
+      "last_date": "2026-12-06",
+      "count": 78
     },
     {
       "id": 38569589895140,
@@ -2023,6 +2029,11 @@
           "date": "2026-11-01",
           "start": "2026-11-01T14:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T14:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2030,13 +2041,14 @@
         "2026-08-02",
         "2026-09-06",
         "2026-10-04",
-        "2026-11-01"
+        "2026-11-01",
+        "2026-12-06"
       ],
       "pattern": "Sundays",
       "time": "2 PM",
       "next_date": "2026-07-05",
-      "last_date": "2026-11-01",
-      "count": 5
+      "last_date": "2026-12-06",
+      "count": 6
     },
     {
       "id": 46378871982905,
@@ -2623,208 +2635,6 @@
   ],
   "events": [
     {
-      "id": 52859911021393,
-      "title": "Applied Physics/Physics Colloquium: Markus Aspelmeyer- \"Quantum Sources of Gravity in the Lab\"",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-markus-aspelmeyer-quantum-sources-of-gravity-in-the-lab",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 200, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/52859919891356/huge/9ebabcf0aff74c9e2a1a9b85fa71653ff238daef.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
-      "id": 52373352357362,
-      "title": "Book Talk: Stolen Revolution",
-      "url": "https://events.stanford.edu/event/stolen-revolution",
-      "experience": "inperson",
-      "location": "In person at Stanford",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52373366185534/huge/537242f8667b4ddb630a5c20a5b5c810581eba57.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
-      "id": 52995854656314,
-      "title": "Community Coffee Convo: Featuring Stanford Queer Resource Center (QSR)",
-      "url": "https://events.stanford.edu/event/community-coffee-convo-featuring-stanford-queer-resource-center-qsr",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Hartley Conference Room, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Education",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52995863125024/huge/8a434cac1cfbe987800438f3643de0fc6d885692.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T10:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
-      "id": 52870225148709,
-      "title": "E-IPER Dissertation Defense: Fridah Nyakundi",
-      "url": "https://events.stanford.edu/event/e-iper-dissertation-defense-fridah-nyakundi",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52870351639206/huge/5f0332c859fff60a441b9531086d35780116beee.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
-      "id": 53019986430976,
-      "title": "Earth Planetary Science Seminar - Professor Martin Grove \"The thermal history of shallow subduction beneath the southern Sierra Nevada and broader implications for the tectonic evolution of the western North American margin\"\".",
-      "url": "https://events.stanford.edu/event/earth-planetary-science-seminar-professor-martin-grove-the-thermal-history-of-shallow-subduction-beneath-the-southern-sierra-nevada-and-broader-implications-for-the-tectonic-evolution-of-the-western-north-american-margin",
-      "experience": "inperson",
-      "location": "Building 320, Geology Corner, Room 220",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53019988315502/huge/fd87ac6a355b45c9184226bda4e5d993923b4dde.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
-      "id": 52312600245960,
-      "title": "Faculty Recital: Christopher Costanza, cello",
-      "url": "https://events.stanford.edu/event/faculty-recital-costanza-spring26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52312612923809/huge/d1c8041192455975ec41f457bcf5ca80c251727a.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
-      "id": 52464608361100,
-      "title": "Game Nights @ Green: Abducktion: A Weirdly Strategic Duck Kidnapping Game (2023)",
-      "url": "https://events.stanford.edu/event/game-nights-green-abducktion-a-weirdly-strategic-duck-kidnapping-game-2023",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, IC Classroom, 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/39078028170292/huge/4a76916771a71980996b171e1129d6c1e87ec941.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
-      "id": 53073586471615,
-      "title": "Geophysics PhD Defense, Neelanjan Akuli: \"Exploring whether glaciers can be slowed through engineering interventions beneath the ice\"",
-      "url": "https://events.stanford.edu/event/geophysics-phd-defense-neelanjan-akuli-exploring-whether-glaciers-can-be-slowed-through-engineering-interventions-beneath-the-ice",
-      "experience": "hybrid",
-      "location": "Building 300, 300, 450 Jane Stanford Way, Building 300, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53073595878624/huge/7c3c89eeb6d4bfe97779118a3e22cc0274dbed46.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-09",
-          "start": "2026-06-09T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-09"
-      ]
-    },
-    {
       "id": 53064352455229,
       "title": "2026 Conference on Physics and AI (PAI26)",
       "url": "https://events.stanford.edu/event/2026-conference-on-physics-and-ai-pai26",
@@ -3284,6 +3094,32 @@
       ]
     },
     {
+      "id": 53116626252629,
+      "title": "Exposomics for Precision Health and Prevention: Transforming How We Understand Environment and Disease",
+      "url": "https://events.stanford.edu/event/exposomics-for-precision-health-and-prevention-transforming-how-we-understand-environment-and-disease",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 300, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53116631087571/huge/dab6b6987d606d58e0aa4bdc13fccb0905762b13.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-22",
+          "start": "2026-06-22T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    {
       "id": 52701534594390,
       "title": "PhD Dissertation Defense: Taylor Pursell, Boyd Lab",
       "url": "https://events.stanford.edu/event/phd-dissertation-defense-taylor-pursell-boyd-lab",
@@ -3306,6 +3142,32 @@
       ],
       "dates": [
         "2026-06-22"
+      ]
+    },
+    {
+      "id": 53117388516046,
+      "title": "Finding the Right Words by Cindy Weinstein",
+      "url": "https://events.stanford.edu/event/finding-the-right-words-by-cindy-weinstein",
+      "experience": "inperson",
+      "location": "Stanford Health Library, 2nd Floor, Suite 201, 211 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39089527664200/huge/7f15171538518d2c70f8e6c334b2e85829ea7a16.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-23",
+          "start": "2026-06-23T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-23"
       ]
     },
     {
