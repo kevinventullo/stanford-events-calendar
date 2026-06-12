@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T14:20:22+00:00",
+  "generated_at": "2026-06-12T01:52:46+00:00",
   "window": {
-    "start": "2026-06-11",
-    "end": "2026-12-08"
+    "start": "2026-06-12",
+    "end": "2026-12-09"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 18,
-    "dated": 83
+    "dated": 87
   },
   "ongoing": [
     {
@@ -2066,11 +2066,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-11",
-          "start": "2026-06-11T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-18",
           "start": "2026-06-18T12:00:00-07:00",
           "all_day": false
@@ -2127,7 +2122,6 @@
         }
       ],
       "dates": [
-        "2026-06-11",
         "2026-06-18",
         "2026-06-25",
         "2026-07-02",
@@ -2142,9 +2136,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12 PM",
-      "next_date": "2026-06-11",
+      "next_date": "2026-06-18",
       "last_date": "2026-08-27",
-      "count": 12
+      "count": 11
     },
     {
       "id": 46378844583273,
@@ -2161,11 +2155,6 @@
       "photo": "https://localist-images.azureedge.net/photos/46378856094012/huge/127f9cd1a479f27de5eb15a64d723b6eb9b00b5f.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-11",
-          "start": "2026-06-11T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-18",
           "start": "2026-06-18T12:30:00-07:00",
@@ -2223,7 +2212,6 @@
         }
       ],
       "dates": [
-        "2026-06-11",
         "2026-06-18",
         "2026-06-25",
         "2026-07-02",
@@ -2238,9 +2226,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12:30 PM",
-      "next_date": "2026-06-11",
+      "next_date": "2026-06-18",
       "last_date": "2026-08-27",
-      "count": 12
+      "count": 11
     },
     {
       "id": 50605069583046,
@@ -2644,169 +2632,13 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-11",
-          "start": "2026-06-11T08:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-12",
           "start": "2026-06-12T08:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-06-11",
         "2026-06-12"
-      ]
-    },
-    {
-      "id": 52269398668533,
-      "title": "AVOID EYE CONTACT: 2026 Spring MFA Documentary Film Screening",
-      "url": "https://events.stanford.edu/event/2026-spring-mfa-documentary-film-screening",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52957930565758/huge/be5df68eb0d2e77b42eec472535be3752b885b8e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-11",
-          "start": "2026-06-11T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-11"
-      ]
-    },
-    {
-      "id": 52948503963557,
-      "title": "E-IPER Dissertation Defense: Anela Arifi",
-      "url": "https://events.stanford.edu/event/eiper-defense-anela-arifi",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 300, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53046468347083/huge/db722e763e977618bbfba170f981f96b9b14025f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-11",
-          "start": "2026-06-11T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-11"
-      ]
-    },
-    {
-      "id": 52870311131503,
-      "title": "E-IPER Dissertation Defense: Karli Moore",
-      "url": "https://events.stanford.edu/event/e-iper-dissertation-defense-karli-moore",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52870323752199/huge/c708192254c0fea1ff3c80d399ff9d87fbb0b57b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-11",
-          "start": "2026-06-11T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-11"
-      ]
-    },
-    {
-      "id": 51961215658365,
-      "title": "Lunchtime Curator Talk | Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
-      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-miljohn-ruperto",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Freidenrich Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/51961215626620/huge/daec629c4a216d1e522f57b3f80a18849672d668.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-11",
-          "start": "2026-06-11T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-11"
-      ]
-    },
-    {
-      "id": 52498865912551,
-      "title": "OMAC Graduation '26",
-      "url": "https://events.stanford.edu/event/omac-graduation-26",
-      "experience": "inperson",
-      "location": "Faculty Club, Redwood Room and Patio, 439 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/52498910043639/huge/85b48fa65a3003b07354ad0b69c74b744ee5bad0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-11",
-          "start": "2026-06-11T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-11"
-      ]
-    },
-    {
-      "id": 52364949821208,
-      "title": "Student Recital: Jolie Huang, piano",
-      "url": "https://events.stanford.edu/event/jolie-huang-piano-recital",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-11",
-          "start": "2026-06-11T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-11"
       ]
     },
     {
@@ -2832,35 +2664,6 @@
       ],
       "dates": [
         "2026-06-12"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-12",
-          "start": "2026-06-12T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-12",
-        "2026-06-26"
       ]
     },
     {
@@ -3133,6 +2936,33 @@
       ]
     },
     {
+      "id": 53134721005808,
+      "title": "St. Lawrence Chamber Music Seminar: Midday Music 1",
+      "url": "https://events.stanford.edu/event/chamber-seminar-26-midday-music-1",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134732363951/huge/65d7c610765d2ea87eba59a6f4d0e8e9c774fede.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-22",
+          "start": "2026-06-22T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    {
       "id": 53117388516046,
       "title": "Finding the Right Words by Cindy Weinstein",
       "url": "https://events.stanford.edu/event/finding-the-right-words-by-cindy-weinstein",
@@ -3156,6 +2986,60 @@
       ],
       "dates": [
         "2026-06-23"
+      ]
+    },
+    {
+      "id": 53134702190526,
+      "title": "St. Lawrence Chamber Music Seminar: Robert Brewer Young",
+      "url": "https://events.stanford.edu/event/chamber-seminar-26-robert-brewer-young",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134715788239/huge/77ea13d1e31a67b39c2d09e0fe8403f015e9ff74.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-23",
+          "start": "2026-06-23T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    {
+      "id": 53134739641856,
+      "title": "St. Lawrence Chamber Music Seminar: Midday Music 2",
+      "url": "https://events.stanford.edu/event/chamber-seminar-26-midday-music-2",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134748841550/huge/52578a41f0c95a8a061a2ab0fd76b92e310f7be1.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-24",
+          "start": "2026-06-24T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-24"
       ]
     },
     {
@@ -3206,6 +3090,35 @@
       ],
       "dates": [
         "2026-06-25"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-10",
+          "start": "2026-07-10T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-26",
+        "2026-07-10"
       ]
     },
     {
@@ -3260,6 +3173,33 @@
       ]
     },
     {
+      "id": 53134757342836,
+      "title": "St. Lawrence Chamber Music Seminar: Midday Music 3",
+      "url": "https://events.stanford.edu/event/chamber-seminar-26-midday-music-3",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134768626878/huge/dbcc7fab59c67db077837fdd58b68c8a592a0b7f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    {
       "id": 52621145488756,
       "title": "SJW Presents: Billy Childs Quartet",
       "url": "https://events.stanford.edu/event/billy-childs-quartet-sjw26",
@@ -3279,6 +3219,60 @@
         {
           "date": "2026-06-27",
           "start": "2026-06-27T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-27"
+      ]
+    },
+    {
+      "id": 53134773873973,
+      "title": "St. Lawrence Chamber Music Seminar: Azure Family Concert",
+      "url": "https://events.stanford.edu/event/chamber-seminar-26-azure-family-concert",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134773817649/huge/c1ea6ffb5255e8c885079120e3ca1d635b3853fc.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-27"
+      ]
+    },
+    {
+      "id": 53134774069475,
+      "title": "St. Lawrence Chamber Music Seminar: International Showcase",
+      "url": "https://events.stanford.edu/event/chamber-seminar-26-international-showcase",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134774032607/huge/392932296cf0ddf8395ce4900fa30e613b177771.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-27",
+          "start": "2026-06-27T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3333,6 +3327,33 @@
         {
           "date": "2026-06-28",
           "start": "2026-06-28T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-28"
+      ]
+    },
+    {
+      "id": 53134774324556,
+      "title": "St. Lawrence Chamber Music Seminar: Grand Finale!",
+      "url": "https://events.stanford.edu/event/chamber-seminar-26-grand-finale",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134774283592/huge/69ecff6db7302daaca16d41414788712d3ef2e12.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-28",
+          "start": "2026-06-28T11:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4187,6 +4208,33 @@
       ]
     },
     {
+      "id": 53134819877371,
+      "title": "Stanford Summer Symphony & Chorus",
+      "url": "https://events.stanford.edu/event/summer-symphony-chorus-2026-1",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134859242585/huge/30993c7eda3b0b34cd437d90f6f04726125df49a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    {
       "id": 52508200166798,
       "title": "RibFest 2026 - Symposium on the Surgical Stabilization of Traumatic Rib and Sternal Fractures",
       "url": "https://events.stanford.edu/event/ribfest-2026-symposium-on-the-surgical-stabilization-of-traumatic-rib-and-sternal-fractures",
@@ -4204,6 +4252,33 @@
         {
           "date": "2026-08-01",
           "start": "2026-08-01T07:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-01"
+      ]
+    },
+    {
+      "id": 53134930194499,
+      "title": "Stanford Summer Symphony & Chorus",
+      "url": "https://events.stanford.edu/event/summer-symphony-chorus-2026-2",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53134930159681/huge/de960e0cae54a13e7b8d2baf48cb3bdf18bfcf27.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T19:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4748,6 +4823,31 @@
       "dates": [
         "2026-10-19",
         "2026-10-20"
+      ]
+    },
+    {
+      "id": 53136469759971,
+      "title": "ST Lee Lecture featuring Former Congressman and Ambassador to Turkey Jeff Flake",
+      "url": "https://events.stanford.edu/event/st-lee-lecture-featuring-former-congressman-and-ambassador-to-turkey-jeff-flake",
+      "experience": "inperson",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39077921220013/huge/50dd80dc46937e4a8180b3f5f8eb47ffd69e8537.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
       ]
     },
     {
