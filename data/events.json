@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T14:04:56+00:00",
+  "generated_at": "2026-06-13T01:48:32+00:00",
   "window": {
-    "start": "2026-06-12",
-    "end": "2026-12-09"
+    "start": "2026-06-13",
+    "end": "2026-12-10"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 16,
-    "recurring": 18,
-    "dated": 87
+    "recurring": 17,
+    "dated": 85
   },
   "ongoing": [
     {
@@ -338,11 +338,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-12",
-          "start": "2026-06-12T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-26",
           "start": "2026-06-26T12:00:00-07:00",
           "all_day": false
@@ -369,7 +364,6 @@
         }
       ],
       "dates": [
-        "2026-06-12",
         "2026-06-26",
         "2026-07-10",
         "2026-07-24",
@@ -378,9 +372,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-06-12",
+      "next_date": "2026-06-26",
       "last_date": "2026-08-28",
-      "count": 6
+      "count": 5
     },
     {
       "id": 52562052023179,
@@ -397,11 +391,6 @@
       "photo": "https://localist-images.azureedge.net/photos/52562139192886/huge/325ab8da0a5f1a53cdb435ec41d18aae44f574fd.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-12",
-          "start": "2026-06-12T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-13",
           "start": "2026-06-13T14:00:00-07:00",
@@ -489,7 +478,6 @@
         }
       ],
       "dates": [
-        "2026-06-12",
         "2026-06-13",
         "2026-06-14",
         "2026-06-19",
@@ -510,9 +498,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-12",
+      "next_date": "2026-06-13",
       "last_date": "2026-07-19",
-      "count": 18
+      "count": 17
     },
     {
       "id": 46378544005855,
@@ -1019,11 +1007,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-12",
-          "start": "2026-06-12T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-13",
           "start": "2026-06-13T11:30:00-07:00",
           "all_day": false
@@ -1280,7 +1263,6 @@
         }
       ],
       "dates": [
-        "2026-06-12",
         "2026-06-13",
         "2026-06-19",
         "2026-06-20",
@@ -1335,9 +1317,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-06-12",
+      "next_date": "2026-06-13",
       "last_date": "2026-12-05",
-      "count": 52
+      "count": 51
     },
     {
       "id": 49173608318321,
@@ -1387,11 +1369,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-12",
-          "start": "2026-06-12T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-13",
           "start": "2026-06-13T13:00:00-07:00",
@@ -1779,7 +1756,6 @@
         }
       ],
       "dates": [
-        "2026-06-12",
         "2026-06-13",
         "2026-06-14",
         "2026-06-19",
@@ -1860,9 +1836,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-12",
+      "next_date": "2026-06-13",
       "last_date": "2026-12-06",
-      "count": 78
+      "count": 77
     },
     {
       "id": 38569589895140,
@@ -2231,46 +2207,6 @@
       "count": 11
     },
     {
-      "id": 50605069583046,
-      "title": "Stanford Memorial Church Docent Tour",
-      "url": "https://events.stanford.edu/event/stanford-memorial-church-docent-tour",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/50605069534916/huge/772f4acc9a9510b4f136e99ba75be695d00853da.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-12",
-          "start": "2026-06-12T11:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-06-19",
-          "start": "2026-06-19T11:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-12",
-        "2026-06-19",
-        "2026-06-26"
-      ],
-      "pattern": "Fridays",
-      "time": "11 AM",
-      "next_date": "2026-06-12",
-      "last_date": "2026-06-26",
-      "count": 3
-    },
-    {
       "id": 47557682677329,
       "title": "Volunteering at Stanford Educational Farm",
       "url": "https://events.stanford.edu/event/copy-of-volunteering-at-the-stanford-educational-farm",
@@ -2580,6 +2516,11 @@
           "date": "2026-12-02",
           "start": "2026-12-02T09:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-09",
+          "start": "2026-12-09T09:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2606,91 +2547,17 @@
         "2026-11-04",
         "2026-11-11",
         "2026-11-18",
-        "2026-12-02"
+        "2026-12-02",
+        "2026-12-09"
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
       "next_date": "2026-06-17",
-      "last_date": "2026-12-02",
-      "count": 24
+      "last_date": "2026-12-09",
+      "count": 25
     }
   ],
   "events": [
-    {
-      "id": 53064352455229,
-      "title": "2026 Conference on Physics and AI (PAI26)",
-      "url": "https://events.stanford.edu/event/2026-conference-on-physics-and-ai-pai26",
-      "experience": "inperson",
-      "location": "Munger Complex, Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-12",
-          "start": "2026-06-12T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-12"
-      ]
-    },
-    {
-      "id": 52092953438594,
-      "title": "2026 Stanford Commencement Organ Concert",
-      "url": "https://events.stanford.edu/event/2026-stanford-commencement-organ-concert",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52092965631406/huge/f3283f380726d18114a59cf7b1c412524484f523.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-12",
-          "start": "2026-06-12T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-12"
-      ]
-    },
-    {
-      "id": 52870332249362,
-      "title": "E-IPER Dissertation Defense: Alyson Singleton",
-      "url": "https://events.stanford.edu/event/e-iper-dissertation-defense-alyson-singleton",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 111, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52870345671133/huge/d62691895825a4555178c7e1094e22f5c00bd3f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-12",
-          "start": "2026-06-12T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-12"
-      ]
-    },
     {
       "id": 52269455708846,
       "title": "PLAY IT AGAIN!: 2026 MFA Thesis Documentary Film Screening",
@@ -4923,6 +4790,40 @@
       ],
       "dates": [
         "2026-10-22"
+      ]
+    },
+    {
+      "id": 53145040228521,
+      "title": "CBD 2026: (In-person) iPause Guided Practice with Rev. Dereca Blackmon - Mantra as Medicine: How Spiritual Spoken Word Heals Our Busy Minds",
+      "url": "https://events.stanford.edu/event/cbd-2026-in-person-ipause-with-dereca-blackmon-mantra-as-medicine",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53145040192680/huge/8f1a84dfab95305124ffa5a7d55698adbd4d387a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-25",
+          "start": "2026-10-25T12:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-25"
       ]
     },
     {
