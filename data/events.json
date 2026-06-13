@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T01:48:32+00:00",
+  "generated_at": "2026-06-13T13:37:32+00:00",
   "window": {
     "start": "2026-06-13",
     "end": "2026-12-10"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 17,
-    "dated": 85
+    "dated": 86
   },
   "ongoing": [
     {
@@ -4819,6 +4819,40 @@
         {
           "date": "2026-10-25",
           "start": "2026-10-25T12:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-25"
+      ]
+    },
+    {
+      "id": 53145020272372,
+      "title": "CBD 2026: (In-person) University Public Worship with Rev. Dereca Blackmon - Divine Love as a Source of Power",
+      "url": "https://events.stanford.edu/event/cbd-2026-in-person-university-public-worship-with-rev-dereca-blackmon-divine-love-as-a-source-of-power",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53145039511772/huge/a7f97935cdc5aa5063c71f15e1f5d34993983946.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-25",
+          "start": "2026-10-25T11:00:00-07:00",
           "all_day": false
         }
       ],
