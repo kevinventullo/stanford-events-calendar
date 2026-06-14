@@ -221,8 +221,12 @@ def main():
         is_ongoing = sp >= ONGOING_MIN_SPAN_DAYS and (is_exhibition or has_all_day)
         if is_ongoing:
             # Months-long exhibitions / all-day runs: one entry with a date range.
+            # Keep the actual open-days (Localist gives one instance per day the
+            # exhibition runs) so the day panel only lists it on days it's open,
+            # not on every day inside first_date..last_date.
             base["first_date"] = ev.get("first_date")
             base["last_date"] = ev.get("last_date")
+            base["dates"] = [i["date"] for i in instances]
             kept_ongoing.append(base)
         elif ev.get("recurring"):
             # Standing recurring series: one entry with a weekday pattern, but

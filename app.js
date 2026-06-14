@@ -216,8 +216,12 @@ function renderDay() {
 
   const oneoffs = byDate[selectedDate] || [];
   const recurringToday = recurringByDate[selectedDate] || [];
-  const onview = (DATA.ongoing || []).filter(
-    (e) => e.first_date <= selectedDate && selectedDate <= e.last_date
+  const onview = (DATA.ongoing || []).filter((e) =>
+    // Prefer the explicit open-days when present (exhibitions are only listed on
+    // days they actually run); fall back to the date range for older data.
+    e.dates
+      ? e.dates.includes(selectedDate)
+      : e.first_date <= selectedDate && selectedDate <= e.last_date
   );
 
   if (!oneoffs.length && !recurringToday.length && !onview.length) {
