@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T17:59:07-07:00",
+  "generated_at": "2026-06-14T01:00:10+00:00",
   "window": {
-    "start": "2026-06-13",
-    "end": "2026-12-10"
+    "start": "2026-06-14",
+    "end": "2026-12-11"
   },
   "filters": {
     "public_audiences": [
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-17",
         "2026-06-18",
@@ -83,7 +82,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-17",
         "2026-06-18",
@@ -119,7 +117,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-06-18",
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-15",
         "2026-06-16",
@@ -192,7 +189,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-15",
         "2026-06-18",
@@ -284,7 +280,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-15",
         "2026-06-18",
@@ -330,7 +325,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-15",
         "2026-06-18",
@@ -464,7 +458,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-15",
         "2026-06-16",
@@ -614,7 +607,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-13",
         "2026-06-15",
         "2026-06-16",
         "2026-06-17",
@@ -901,7 +893,8 @@
         "2026-12-04",
         "2026-12-05",
         "2026-12-06",
-        "2026-12-07"
+        "2026-12-07",
+        "2026-12-10"
       ]
     },
     {
@@ -1019,7 +1012,8 @@
         "2026-12-04",
         "2026-12-05",
         "2026-12-06",
-        "2026-12-07"
+        "2026-12-07",
+        "2026-12-10"
       ]
     }
   ],
@@ -1093,11 +1087,6 @@
       "photo": "https://localist-images.azureedge.net/photos/52562139192886/huge/325ab8da0a5f1a53cdb435ec41d18aae44f574fd.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-13",
-          "start": "2026-06-13T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-14",
           "start": "2026-06-14T14:00:00-07:00",
@@ -1180,7 +1169,6 @@
         }
       ],
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-19",
         "2026-06-20",
@@ -1200,9 +1188,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-13",
+      "next_date": "2026-06-14",
       "last_date": "2026-07-19",
-      "count": 17
+      "count": 16
     },
     {
       "id": 46378544005855,
@@ -1219,11 +1207,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-13",
-          "start": "2026-06-13T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-14",
           "start": "2026-06-14T12:30:00-07:00",
@@ -1341,7 +1324,6 @@
         }
       ],
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-20",
         "2026-06-21",
@@ -1368,9 +1350,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-06-13",
+      "next_date": "2026-06-14",
       "last_date": "2026-08-30",
-      "count": 24
+      "count": 23
     },
     {
       "id": 47049266947082,
@@ -1387,11 +1369,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-13",
-          "start": "2026-06-13T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-14",
           "start": "2026-06-14T14:30:00-07:00",
@@ -1509,7 +1486,6 @@
         }
       ],
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-20",
         "2026-06-21",
@@ -1536,9 +1512,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-06-13",
+      "next_date": "2026-06-14",
       "last_date": "2026-08-30",
-      "count": 24
+      "count": 23
     },
     {
       "id": 52489460033306,
@@ -1610,25 +1586,19 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-13",
-          "start": "2026-06-13T11:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-14",
           "start": "2026-06-14T11:30:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-06-13",
         "2026-06-14"
       ],
-      "pattern": "Sat, Sun",
-      "time": "11 AM",
-      "next_date": "2026-06-13",
+      "pattern": "Sundays",
+      "time": "11:30 AM",
+      "next_date": "2026-06-14",
       "last_date": "2026-06-14",
-      "count": 2
+      "count": 1
     },
     {
       "id": 52137314071164,
@@ -1708,11 +1678,6 @@
       "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-13",
-          "start": "2026-06-13T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-19",
           "start": "2026-06-19T11:30:00-07:00",
@@ -1965,7 +1930,6 @@
         }
       ],
       "dates": [
-        "2026-06-13",
         "2026-06-19",
         "2026-06-20",
         "2026-06-26",
@@ -2019,9 +1983,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-06-13",
+      "next_date": "2026-06-19",
       "last_date": "2026-12-05",
-      "count": 51
+      "count": 50
     },
     {
       "id": 49173608318321,
@@ -2071,11 +2035,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-13",
-          "start": "2026-06-13T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-14",
           "start": "2026-06-14T13:00:00-07:00",
@@ -2458,7 +2417,6 @@
         }
       ],
       "dates": [
-        "2026-06-13",
         "2026-06-14",
         "2026-06-19",
         "2026-06-20",
@@ -2538,9 +2496,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-13",
+      "next_date": "2026-06-14",
       "last_date": "2026-12-06",
-      "count": 77
+      "count": 76
     },
     {
       "id": 38569589895140,
@@ -3261,31 +3219,6 @@
   ],
   "events": [
     {
-      "id": 52269455708846,
-      "title": "PLAY IT AGAIN!: 2026 MFA Thesis Documentary Film Screening",
-      "url": "https://events.stanford.edu/event/2026-mfa-thesis-documentary-film-screening",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53055499195762/huge/e93d3865f456311bee399d81f08d417ad6be1b41.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-13",
-          "start": "2026-06-13T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-13"
-      ]
-    },
-    {
       "id": 52312619114420,
       "title": "2026 Commencement Family & Friends Concert",
       "url": "https://events.stanford.edu/event/2026-commencement-concert",
@@ -3655,10 +3588,16 @@
           "date": "2026-06-25",
           "start": "2026-06-25T16:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-10",
+          "start": "2026-12-10T16:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-12-10"
       ]
     },
     {
@@ -5610,6 +5549,31 @@
       ],
       "dates": [
         "2026-11-12"
+      ]
+    },
+    {
+      "id": 52941065398626,
+      "title": "Lunchtime Curator Talk | Solid Pictures",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-solid-pictures",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Pigott Family Gallery (142), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52941065362784/huge/d1414674e79654e15ea95ba8f4daa9d6dac9a71d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-10",
+          "start": "2026-12-10T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-10"
       ]
     }
   ]
