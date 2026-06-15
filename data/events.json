@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T13:36:37+00:00",
+  "generated_at": "2026-06-15T01:55:01+00:00",
   "window": {
-    "start": "2026-06-14",
-    "end": "2026-12-11"
+    "start": "2026-06-15",
+    "end": "2026-12-12"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 16,
-    "recurring": 17,
-    "dated": 86
+    "ongoing": 14,
+    "recurring": 15,
+    "dated": 85
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-14",
         "2026-06-17",
         "2026-06-18",
         "2026-06-19",
@@ -82,7 +81,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-14",
         "2026-06-17",
         "2026-06-18",
         "2026-06-19",
@@ -117,7 +115,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-06-18",
       "dates": [
-        "2026-06-14",
         "2026-06-15",
         "2026-06-16",
         "2026-06-17",
@@ -189,7 +186,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-14",
         "2026-06-15",
         "2026-06-18",
         "2026-06-19",
@@ -280,7 +276,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-14",
         "2026-06-15",
         "2026-06-18",
         "2026-06-19",
@@ -325,7 +320,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-14",
         "2026-06-15",
         "2026-06-18",
         "2026-06-19",
@@ -399,46 +393,6 @@
       ]
     },
     {
-      "id": 51332222790906,
-      "title": "SECOND HOLE SECOND WAVE: 2026 MFA Thesis Exhibition",
-      "url": "https://events.stanford.edu/event/2026-mfa-thesis-exhibition",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52560157316592/huge/bfc7b5c25d1bb7dfdffcd9d8368360936a3eecc8.jpg",
-      "free": false,
-      "first_date": "2026-05-12",
-      "last_date": "2026-06-14",
-      "dates": [
-        "2026-06-14"
-      ]
-    },
-    {
-      "id": 51332310157929,
-      "title": "Come Straight Home: 2026 Senior Undergraduate Exhibition",
-      "url": "https://events.stanford.edu/event/2026-senior-exhibition",
-      "experience": "inperson",
-      "location": "McMurtry Building, Coulter Art Gallery, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53002249678013/huge/2b04561b95e60179f9c22d27f8dc602da4df11d0.jpg",
-      "free": false,
-      "first_date": "2026-05-26",
-      "last_date": "2026-06-14",
-      "dates": [
-        "2026-06-14"
-      ]
-    },
-    {
       "id": 53020733796497,
       "title": "Moments in the History of East Asian Printing",
       "url": "https://events.stanford.edu/event/moments-in-the-history-of-east-asian-printing",
@@ -458,7 +412,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-14",
         "2026-06-15",
         "2026-06-16",
         "2026-06-17",
@@ -894,7 +847,8 @@
         "2026-12-05",
         "2026-12-06",
         "2026-12-07",
-        "2026-12-10"
+        "2026-12-10",
+        "2026-12-11"
       ]
     },
     {
@@ -1013,7 +967,8 @@
         "2026-12-05",
         "2026-12-06",
         "2026-12-07",
-        "2026-12-10"
+        "2026-12-10",
+        "2026-12-11"
       ]
     }
   ],
@@ -1087,11 +1042,6 @@
       "photo": "https://localist-images.azureedge.net/photos/52562139192886/huge/325ab8da0a5f1a53cdb435ec41d18aae44f574fd.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-14",
-          "start": "2026-06-14T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-19",
           "start": "2026-06-19T14:00:00-07:00",
@@ -1169,7 +1119,6 @@
         }
       ],
       "dates": [
-        "2026-06-14",
         "2026-06-19",
         "2026-06-20",
         "2026-06-21",
@@ -1188,9 +1137,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-14",
+      "next_date": "2026-06-19",
       "last_date": "2026-07-19",
-      "count": 16
+      "count": 15
     },
     {
       "id": 46378544005855,
@@ -1207,11 +1156,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-14",
-          "start": "2026-06-14T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-20",
           "start": "2026-06-20T12:30:00-07:00",
@@ -1324,7 +1268,6 @@
         }
       ],
       "dates": [
-        "2026-06-14",
         "2026-06-20",
         "2026-06-21",
         "2026-06-27",
@@ -1350,9 +1293,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-06-14",
+      "next_date": "2026-06-20",
       "last_date": "2026-08-30",
-      "count": 23
+      "count": 22
     },
     {
       "id": 47049266947082,
@@ -1369,11 +1312,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-14",
-          "start": "2026-06-14T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-20",
           "start": "2026-06-20T14:30:00-07:00",
@@ -1486,7 +1424,6 @@
         }
       ],
       "dates": [
-        "2026-06-14",
         "2026-06-20",
         "2026-06-21",
         "2026-06-27",
@@ -1512,9 +1449,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-06-14",
+      "next_date": "2026-06-20",
       "last_date": "2026-08-30",
-      "count": 23
+      "count": 22
     },
     {
       "id": 52489460033306,
@@ -1569,36 +1506,6 @@
       "next_date": "2026-08-17",
       "last_date": "2026-08-21",
       "count": 5
-    },
-    {
-      "id": 44437607039811,
-      "title": "Lou Henry Hoover Carillon Performance",
-      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
-      "experience": "inperson",
-      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-14",
-          "start": "2026-06-14T11:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-14"
-      ],
-      "pattern": "Sundays",
-      "time": "11:30 AM",
-      "next_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "count": 1
     },
     {
       "id": 52137314071164,
@@ -1927,6 +1834,11 @@
           "date": "2026-12-05",
           "start": "2026-12-05T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-11",
+          "start": "2026-12-11T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1979,43 +1891,14 @@
         "2026-11-27",
         "2026-11-28",
         "2026-12-04",
-        "2026-12-05"
+        "2026-12-05",
+        "2026-12-11"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-06-19",
-      "last_date": "2026-12-05",
-      "count": 50
-    },
-    {
-      "id": 49173608318321,
-      "title": "Public Tour | Cantor Highlights in Chinese",
-      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-chinese-language",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/49173613773563/huge/1992140b995258732d711f59c4c987caec756d22.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-14",
-          "start": "2026-06-14T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-14"
-      ],
-      "pattern": "Sundays",
-      "time": "2 PM",
-      "next_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "count": 1
+      "last_date": "2026-12-11",
+      "count": 51
     },
     {
       "id": 48376809728814,
@@ -2035,11 +1918,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-14",
-          "start": "2026-06-14T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-19",
           "start": "2026-06-19T13:00:00-07:00",
@@ -2414,10 +2292,14 @@
           "date": "2026-12-06",
           "start": "2026-12-06T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-11",
+          "start": "2026-12-11T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-06-14",
         "2026-06-19",
         "2026-06-20",
         "2026-06-21",
@@ -2492,12 +2374,13 @@
         "2026-11-29",
         "2026-12-04",
         "2026-12-05",
-        "2026-12-06"
+        "2026-12-06",
+        "2026-12-11"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-14",
-      "last_date": "2026-12-06",
+      "next_date": "2026-06-19",
+      "last_date": "2026-12-11",
       "count": 76
     },
     {
@@ -3218,33 +3101,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52312619114420,
-      "title": "2026 Commencement Family & Friends Concert",
-      "url": "https://events.stanford.edu/event/2026-commencement-concert",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52312619083698/huge/3f18a02a42e8e5f05b261784147778663853ac34.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-14",
-          "start": "2026-06-14T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-14"
-      ]
-    },
     {
       "id": 52366439557019,
       "title": "Curator Led Talk | 1,000 Ways to Hold",
