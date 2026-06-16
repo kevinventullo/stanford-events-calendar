@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-15T15:06:17+00:00",
+  "generated_at": "2026-06-16T01:57:59+00:00",
   "window": {
-    "start": "2026-06-15",
-    "end": "2026-12-12"
+    "start": "2026-06-16",
+    "end": "2026-12-13"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 15,
-    "dated": 85
+    "dated": 84
   },
   "ongoing": [
     {
@@ -115,7 +115,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-06-18",
       "dates": [
-        "2026-06-15",
         "2026-06-16",
         "2026-06-17",
         "2026-06-18"
@@ -186,7 +185,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-15",
         "2026-06-18",
         "2026-06-19",
         "2026-06-20",
@@ -276,7 +274,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-15",
         "2026-06-18",
         "2026-06-19",
         "2026-06-20",
@@ -320,7 +317,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-15",
         "2026-06-18",
         "2026-06-19",
         "2026-06-20",
@@ -385,7 +381,6 @@
       "first_date": "2026-04-16",
       "last_date": "2026-06-19",
       "dates": [
-        "2026-06-15",
         "2026-06-16",
         "2026-06-17",
         "2026-06-18",
@@ -412,7 +407,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-15",
         "2026-06-16",
         "2026-06-17",
         "2026-06-18",
@@ -531,7 +525,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-06-26",
       "dates": [
-        "2026-06-15",
         "2026-06-19",
         "2026-06-22",
         "2026-06-26"
@@ -560,7 +553,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-15",
         "2026-06-16",
         "2026-06-17",
         "2026-06-18",
@@ -848,7 +840,8 @@
         "2026-12-06",
         "2026-12-07",
         "2026-12-10",
-        "2026-12-11"
+        "2026-12-11",
+        "2026-12-12"
       ]
     },
     {
@@ -968,7 +961,8 @@
         "2026-12-06",
         "2026-12-07",
         "2026-12-10",
-        "2026-12-11"
+        "2026-12-11",
+        "2026-12-12"
       ]
     }
   ],
@@ -1523,11 +1517,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-15",
-          "start": "2026-06-15T11:15:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-20",
           "start": "2026-07-20T11:15:00-07:00",
           "all_day": false
@@ -1554,7 +1543,6 @@
         }
       ],
       "dates": [
-        "2026-06-15",
         "2026-07-20",
         "2026-08-17",
         "2026-09-21",
@@ -1563,9 +1551,9 @@
       ],
       "pattern": "Mondays",
       "time": "11:15 AM",
-      "next_date": "2026-06-15",
+      "next_date": "2026-07-20",
       "last_date": "2026-11-16",
-      "count": 6
+      "count": 5
     },
     {
       "id": 48217677268364,
@@ -1839,6 +1827,11 @@
           "date": "2026-12-11",
           "start": "2026-12-11T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-12",
+          "start": "2026-12-12T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1892,13 +1885,14 @@
         "2026-11-28",
         "2026-12-04",
         "2026-12-05",
-        "2026-12-11"
+        "2026-12-11",
+        "2026-12-12"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-06-19",
-      "last_date": "2026-12-11",
-      "count": 51
+      "last_date": "2026-12-12",
+      "count": 52
     },
     {
       "id": 48376809728814,
@@ -2297,6 +2291,11 @@
           "date": "2026-12-11",
           "start": "2026-12-11T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-12",
+          "start": "2026-12-12T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2375,13 +2374,14 @@
         "2026-12-04",
         "2026-12-05",
         "2026-12-06",
-        "2026-12-11"
+        "2026-12-11",
+        "2026-12-12"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-06-19",
-      "last_date": "2026-12-11",
-      "count": 76
+      "last_date": "2026-12-12",
+      "count": 77
     },
     {
       "id": 38569589895140,
@@ -2889,6 +2889,11 @@
           "date": "2026-12-05",
           "start": "2026-12-05T09:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-12",
+          "start": "2026-12-12T09:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2916,13 +2921,14 @@
         "2026-11-14",
         "2026-11-21",
         "2026-11-28",
-        "2026-12-05"
+        "2026-12-05",
+        "2026-12-12"
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
       "next_date": "2026-06-20",
-      "last_date": "2026-12-05",
-      "count": 25
+      "last_date": "2026-12-12",
+      "count": 26
     },
     {
       "id": 51888083181057,
@@ -3101,57 +3107,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52366439557019,
-      "title": "Curator Led Talk | 1,000 Ways to Hold",
-      "url": "https://events.stanford.edu/event/curator-led-talk-1000-ways-to-hold-june",
-      "experience": "inperson",
-      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52366439531415/huge/28cd22285f320e62c809b59ea28e7c47ad7b701c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-15",
-          "start": "2026-06-15T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-15"
-      ]
-    },
-    {
-      "id": 53081999713461,
-      "title": "Ph.D Dissertation Defense: Rebecca Grekin",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-rebecca-grekin",
-      "experience": "hybrid",
-      "location": "Green Earth Sciences Building, 365, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53082017250679/huge/f9ea7cb71d1a931761d7f58c05a6402afcf6c736.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-15",
-          "start": "2026-06-15T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-15"
-      ]
-    },
     {
       "id": 52826682912834,
       "title": "California Map Society Conference",
@@ -4028,6 +3983,34 @@
         {
           "date": "2026-07-15",
           "start": "2026-07-15T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    {
+      "id": 53171433514524,
+      "title": "Stanford Research Park's 75th Year Anniversary",
+      "url": "https://events.stanford.edu/event/stanford-research-parks-75th-year-anniversary",
+      "experience": "inperson",
+      "location": "The Hub, Stanford Research Park  3215 Porter Dr, Palo Alto, CA 94304 (free parking at 3165 Porter)",
+      "types": [
+        "Class/Seminar",
+        "Meeting"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53171441038268/huge/c11a6b4fc5a1d0646cdee7ca3631d093b5577aaa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-15",
+          "start": "2026-07-15T17:30:00-07:00",
           "all_day": false
         }
       ],
