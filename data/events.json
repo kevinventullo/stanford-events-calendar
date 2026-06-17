@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T14:41:50+00:00",
+  "generated_at": "2026-06-17T01:55:20+00:00",
   "window": {
-    "start": "2026-06-16",
-    "end": "2026-12-13"
+    "start": "2026-06-17",
+    "end": "2026-12-14"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 15,
-    "dated": 84
+    "dated": 85
   },
   "ongoing": [
     {
@@ -115,7 +115,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-06-18",
       "dates": [
-        "2026-06-16",
         "2026-06-17",
         "2026-06-18"
       ]
@@ -381,7 +380,6 @@
       "first_date": "2026-04-16",
       "last_date": "2026-06-19",
       "dates": [
-        "2026-06-16",
         "2026-06-17",
         "2026-06-18",
         "2026-06-19"
@@ -407,7 +405,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-16",
         "2026-06-17",
         "2026-06-18",
         "2026-06-19",
@@ -553,7 +550,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-16",
         "2026-06-17",
         "2026-06-18",
         "2026-06-19",
@@ -841,7 +837,8 @@
         "2026-12-07",
         "2026-12-10",
         "2026-12-11",
-        "2026-12-12"
+        "2026-12-12",
+        "2026-12-13"
       ]
     },
     {
@@ -962,7 +959,8 @@
         "2026-12-07",
         "2026-12-10",
         "2026-12-11",
-        "2026-12-12"
+        "2026-12-12",
+        "2026-12-13"
       ]
     }
   ],
@@ -2296,6 +2294,11 @@
           "date": "2026-12-12",
           "start": "2026-12-12T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-13",
+          "start": "2026-12-13T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2375,13 +2378,14 @@
         "2026-12-05",
         "2026-12-06",
         "2026-12-11",
-        "2026-12-12"
+        "2026-12-12",
+        "2026-12-13"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-06-19",
-      "last_date": "2026-12-12",
-      "count": 77
+      "last_date": "2026-12-13",
+      "count": 78
     },
     {
       "id": 38569589895140,
@@ -3107,6 +3111,29 @@
     }
   ],
   "events": [
+    {
+      "id": 53178096987744,
+      "title": "Choosing Freedom: Courage, Exile, and the Human Pursuit of Liberty",
+      "url": "https://events.stanford.edu/event/choosing-freedom-courage-exile-and-the-human-pursuit-of-liberty",
+      "experience": "inperson",
+      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53178102261600/huge/3e6cd20ba85a003addf771c5f228afd92f83c7c5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-17",
+          "start": "2026-06-17T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-17"
+      ]
+    },
     {
       "id": 52826682912834,
       "title": "California Map Society Conference",
