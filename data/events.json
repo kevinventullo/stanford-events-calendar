@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-17T14:14:39+00:00",
+  "generated_at": "2026-06-18T01:55:58+00:00",
   "window": {
-    "start": "2026-06-17",
-    "end": "2026-12-14"
+    "start": "2026-06-18",
+    "end": "2026-12-15"
   },
   "filters": {
     "public_audiences": [
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-17",
         "2026-06-18",
         "2026-06-19",
         "2026-06-20",
@@ -81,7 +80,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-17",
         "2026-06-18",
         "2026-06-19",
         "2026-06-20",
@@ -115,7 +113,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-06-18",
       "dates": [
-        "2026-06-17",
         "2026-06-18"
       ]
     },
@@ -134,7 +131,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-06-17",
         "2026-06-18",
         "2026-06-19",
         "2026-06-24",
@@ -380,7 +376,6 @@
       "first_date": "2026-04-16",
       "last_date": "2026-06-19",
       "dates": [
-        "2026-06-17",
         "2026-06-18",
         "2026-06-19"
       ]
@@ -405,7 +400,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-17",
         "2026-06-18",
         "2026-06-19",
         "2026-06-20",
@@ -550,7 +544,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-17",
         "2026-06-18",
         "2026-06-19",
         "2026-06-20",
@@ -838,7 +831,8 @@
         "2026-12-10",
         "2026-12-11",
         "2026-12-12",
-        "2026-12-13"
+        "2026-12-13",
+        "2026-12-14"
       ]
     },
     {
@@ -2951,11 +2945,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-17",
-          "start": "2026-06-17T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-24",
           "start": "2026-06-24T09:00:00-07:00",
           "all_day": false
@@ -3077,7 +3066,6 @@
         }
       ],
       "dates": [
-        "2026-06-17",
         "2026-06-24",
         "2026-07-01",
         "2026-07-08",
@@ -3105,35 +3093,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-06-17",
+      "next_date": "2026-06-24",
       "last_date": "2026-12-09",
-      "count": 25
+      "count": 24
     }
   ],
   "events": [
-    {
-      "id": 53178096987744,
-      "title": "Choosing Freedom: Courage, Exile, and the Human Pursuit of Liberty",
-      "url": "https://events.stanford.edu/event/choosing-freedom-courage-exile-and-the-human-pursuit-of-liberty",
-      "experience": "inperson",
-      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53178102261600/huge/3e6cd20ba85a003addf771c5f228afd92f83c7c5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-17",
-          "start": "2026-06-17T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-17"
-      ]
-    },
     {
       "id": 52826682912834,
       "title": "California Map Society Conference",
@@ -4821,6 +4786,35 @@
       ],
       "dates": [
         "2026-08-13"
+      ]
+    },
+    {
+      "id": 53188462758387,
+      "title": "Human Biology Student Research Symposium & Faculty Keynote",
+      "url": "https://events.stanford.edu/event/human-biology-student-research-symposium-faculty-keynote",
+      "experience": "inperson",
+      "location": "Fisher Conference Center, Stanford Alumni Center, 326 Galvez St, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability",
+        "Humanities",
+        "Medicine",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53188496404617/huge/f9fb4315a10a74248e5401c42403e506e0d5a539.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-14",
+          "start": "2026-08-14T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-14"
       ]
     },
     {
