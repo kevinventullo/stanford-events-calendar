@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T01:55:58+00:00",
+  "generated_at": "2026-06-18T14:05:14+00:00",
   "window": {
     "start": "2026-06-18",
     "end": "2026-12-15"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 15,
-    "dated": 85
+    "dated": 89
   },
   "ongoing": [
     {
@@ -5081,6 +5081,74 @@
       ]
     },
     {
+      "id": 52739055358476,
+      "title": "CBD 2026: We Were Made for These Times: Coming Home to Ourselves in the Age of AI with Kaira Jewel Lingo",
+      "url": "https://events.stanford.edu/event/cbd-2026-we-were-made-for-these-times-with-kaira-jewel-lingo",
+      "experience": "hybrid",
+      "location": "",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52739234409727/huge/6ff0b242e1e4a217f0e461dcb1231e888c5925a4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
+      "id": 52739238555812,
+      "title": "CBD 2026: Educating for Interbeing: Imagination, Embodiment, and the Education of Compassion with Kaira Jewel Lingo",
+      "url": "https://events.stanford.edu/event/cbd-2026-educating-for-interbeing-with-kaira-jewel-lingo",
+      "experience": "hybrid",
+      "location": "",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52739238533283/huge/5ec0a17190d70471f7cf8fa6609eeed78071de58.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
       "id": 52940965451403,
       "title": "Lunchtime Curator Talk | Solid Pictures",
       "url": "https://events.stanford.edu/event/lunchtime-curator-talk-solid-pictures",
@@ -5160,6 +5228,74 @@
       ],
       "dates": [
         "2026-10-16"
+      ]
+    },
+    {
+      "id": 52304881786304,
+      "title": "CBD 2026: In-person Interactive Workshop, The Power of the Pause in the Era of AI at with Tia Rich, PhD at 10am",
+      "url": "https://events.stanford.edu/event/cbd-2026-in-person-interactive-workshop-the-power-of-the-pause-at-with-tia-rich-phd-at-10am",
+      "experience": "inperson",
+      "location": "Lathrop Library, 282, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52304881733055/huge/9808604d0132b47546ae815b6330fb7f2155bc56.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-17"
+      ]
+    },
+    {
+      "id": 52304882554603,
+      "title": "CBD 2026: In-person Interactive Workshop, The Power of the Pause in the Era of AI with Tia Rich, PhD at 8:30am",
+      "url": "https://events.stanford.edu/event/cbd-2026-in-person-interactive-workshop-the-power-of-the-pause-with-tia-rich-phd-at-830am",
+      "experience": "inperson",
+      "location": "Lathrop Library, 282, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52304882530026/huge/9b52081365dd6ce351de733417a63c1deb006847.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-17"
       ]
     },
     {
