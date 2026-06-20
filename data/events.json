@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T14:06:17+00:00",
+  "generated_at": "2026-06-20T01:47:14+00:00",
   "window": {
-    "start": "2026-06-19",
-    "end": "2026-12-16"
+    "start": "2026-06-20",
+    "end": "2026-12-17"
   },
   "filters": {
     "public_audiences": [
@@ -21,7 +21,7 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
+    "ongoing": 12,
     "recurring": 15,
     "dated": 89
   },
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-24",
@@ -79,7 +78,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-24",
@@ -109,7 +107,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-06-19",
         "2026-06-24",
         "2026-06-25",
         "2026-06-26",
@@ -157,7 +154,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-22",
@@ -245,7 +241,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-22",
@@ -287,7 +282,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-22",
@@ -333,27 +327,6 @@
       ]
     },
     {
-      "id": 52630420483081,
-      "title": "Remembering",
-      "url": "https://events.stanford.edu/event/remembering",
-      "experience": "inperson",
-      "location": "McMurtry Building, Bowes Library, 2nd floor. For visitors, please call the circulation desk for building entry and elevator access: 650-723-3408., 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52745411201287/huge/22e78ce7c3f59549cabb2d4ceafece17ce5ff89f.jpg",
-      "free": false,
-      "first_date": "2026-04-16",
-      "last_date": "2026-06-19",
-      "dates": [
-        "2026-06-19"
-      ]
-    },
-    {
       "id": 53020733796497,
       "title": "Moments in the History of East Asian Printing",
       "url": "https://events.stanford.edu/event/moments-in-the-history-of-east-asian-printing",
@@ -373,7 +346,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-22",
@@ -488,7 +460,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-06-26",
       "dates": [
-        "2026-06-19",
         "2026-06-22",
         "2026-06-26"
       ]
@@ -516,7 +487,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-22",
@@ -1000,11 +970,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-19",
-          "start": "2026-06-19T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-20",
           "start": "2026-06-20T14:00:00-07:00",
           "all_day": false
@@ -1076,7 +1041,6 @@
         }
       ],
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-26",
@@ -1094,9 +1058,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-19",
+      "next_date": "2026-06-20",
       "last_date": "2026-07-19",
-      "count": 15
+      "count": 14
     },
     {
       "id": 46378544005855,
@@ -1537,11 +1501,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-19",
-          "start": "2026-06-19T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-20",
           "start": "2026-06-20T11:30:00-07:00",
           "all_day": false
@@ -1798,7 +1757,6 @@
         }
       ],
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-26",
         "2026-06-27",
@@ -1853,9 +1811,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-06-19",
+      "next_date": "2026-06-20",
       "last_date": "2026-12-12",
-      "count": 52
+      "count": 51
     },
     {
       "id": 48376809728814,
@@ -1875,11 +1833,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-19",
-          "start": "2026-06-19T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-20",
           "start": "2026-06-20T13:00:00-07:00",
@@ -2267,7 +2220,6 @@
         }
       ],
       "dates": [
-        "2026-06-19",
         "2026-06-20",
         "2026-06-21",
         "2026-06-26",
@@ -2348,9 +2300,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-19",
+      "next_date": "2026-06-20",
       "last_date": "2026-12-13",
-      "count": 78
+      "count": 77
     },
     {
       "id": 38569589895140,
@@ -3022,6 +2974,11 @@
           "date": "2026-12-09",
           "start": "2026-12-09T09:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-16",
+          "start": "2026-12-16T09:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -3048,13 +3005,14 @@
         "2026-11-11",
         "2026-11-18",
         "2026-12-02",
-        "2026-12-09"
+        "2026-12-09",
+        "2026-12-16"
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
       "next_date": "2026-06-24",
-      "last_date": "2026-12-09",
-      "count": 24
+      "last_date": "2026-12-16",
+      "count": 25
     }
   ],
   "events": [
