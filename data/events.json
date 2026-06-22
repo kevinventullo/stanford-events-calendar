@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-21T13:38:09+00:00",
+  "generated_at": "2026-06-22T01:55:34+00:00",
   "window": {
-    "start": "2026-06-21",
-    "end": "2026-12-18"
+    "start": "2026-06-22",
+    "end": "2026-12-19"
   },
   "filters": {
     "public_audiences": [
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-21",
         "2026-06-24",
         "2026-06-25",
         "2026-06-26",
@@ -77,7 +76,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-21",
         "2026-06-24",
         "2026-06-25",
         "2026-06-26",
@@ -152,7 +150,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-21",
         "2026-06-22",
         "2026-06-25",
         "2026-06-26",
@@ -238,7 +235,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-21",
         "2026-06-22",
         "2026-06-25",
         "2026-06-26",
@@ -278,7 +274,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-21",
         "2026-06-22",
         "2026-06-25",
         "2026-06-26",
@@ -341,7 +336,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-21",
         "2026-06-22",
         "2026-06-23",
         "2026-06-24",
@@ -481,7 +475,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-21",
         "2026-06-22",
         "2026-06-23",
         "2026-06-24",
@@ -767,7 +760,8 @@
         "2026-12-12",
         "2026-12-13",
         "2026-12-14",
-        "2026-12-17"
+        "2026-12-17",
+        "2026-12-18"
       ]
     },
     {
@@ -964,11 +958,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-21",
-          "start": "2026-06-21T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-26",
           "start": "2026-06-26T14:00:00-07:00",
           "all_day": false
@@ -1030,7 +1019,6 @@
         }
       ],
       "dates": [
-        "2026-06-21",
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
@@ -1046,9 +1034,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-21",
+      "next_date": "2026-06-26",
       "last_date": "2026-07-19",
-      "count": 13
+      "count": 12
     },
     {
       "id": 46378544005855,
@@ -1065,11 +1053,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-21",
-          "start": "2026-06-21T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-27",
           "start": "2026-06-27T12:30:00-07:00",
@@ -1172,7 +1155,6 @@
         }
       ],
       "dates": [
-        "2026-06-21",
         "2026-06-27",
         "2026-06-28",
         "2026-07-04",
@@ -1196,9 +1178,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-06-21",
+      "next_date": "2026-06-27",
       "last_date": "2026-08-30",
-      "count": 21
+      "count": 20
     },
     {
       "id": 47049266947082,
@@ -1215,11 +1197,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-21",
-          "start": "2026-06-21T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-27",
           "start": "2026-06-27T14:30:00-07:00",
@@ -1322,7 +1299,6 @@
         }
       ],
       "dates": [
-        "2026-06-21",
         "2026-06-27",
         "2026-06-28",
         "2026-07-04",
@@ -1346,9 +1322,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-06-21",
+      "next_date": "2026-06-27",
       "last_date": "2026-08-30",
-      "count": 21
+      "count": 20
     },
     {
       "id": 52489460033306,
@@ -1725,6 +1701,11 @@
           "date": "2026-12-12",
           "start": "2026-12-12T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-18",
+          "start": "2026-12-18T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1777,13 +1758,14 @@
         "2026-12-04",
         "2026-12-05",
         "2026-12-11",
-        "2026-12-12"
+        "2026-12-12",
+        "2026-12-18"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-06-26",
-      "last_date": "2026-12-12",
-      "count": 50
+      "last_date": "2026-12-18",
+      "count": 51
     },
     {
       "id": 48376809728814,
@@ -1803,11 +1785,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-21",
-          "start": "2026-06-21T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-26",
           "start": "2026-06-26T13:00:00-07:00",
@@ -2182,10 +2159,14 @@
           "date": "2026-12-13",
           "start": "2026-12-13T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-18",
+          "start": "2026-12-18T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-06-21",
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
@@ -2260,12 +2241,13 @@
         "2026-12-06",
         "2026-12-11",
         "2026-12-12",
-        "2026-12-13"
+        "2026-12-13",
+        "2026-12-18"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-21",
-      "last_date": "2026-12-13",
+      "next_date": "2026-06-26",
+      "last_date": "2026-12-18",
       "count": 76
     },
     {
@@ -2286,11 +2268,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032187193603/huge/691d439746ff6c8ee4d2d870f750c3f0f27a5762.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-21",
-          "start": "2026-06-21T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-19",
           "start": "2026-07-19T14:00:00-07:00",
@@ -2318,7 +2295,6 @@
         }
       ],
       "dates": [
-        "2026-06-21",
         "2026-07-19",
         "2026-08-16",
         "2026-09-20",
@@ -2327,9 +2303,9 @@
       ],
       "pattern": "Sundays",
       "time": "2 PM",
-      "next_date": "2026-06-21",
+      "next_date": "2026-07-19",
       "last_date": "2026-11-15",
-      "count": 6
+      "count": 5
     },
     {
       "id": 40909411691045,
@@ -2975,73 +2951,6 @@
   ],
   "events": [
     {
-      "id": 53004541128514,
-      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-museum-9629",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53004541056832/huge/a31797a7ed6091ab48a32ed4c2dc730b3c8e6b48.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-21",
-          "start": "2026-06-21T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-07-19",
-          "start": "2026-07-19T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-21",
-        "2026-07-19",
-        "2026-08-16"
-      ]
-    },
-    {
-      "id": 52621068947094,
-      "title": "SJW Presents: Indian Jazz Journey ft. Mahesh Kale & George Brooks",
-      "url": "https://events.stanford.edu/event/indian-jazz-journey-sjw26",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621068904081/huge/9cbfd258e4e842ff37a8318c81231e31545af1e3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-21",
-          "start": "2026-06-21T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-21"
-      ]
-    },
-    {
       "id": 53116626252629,
       "title": "Exposomics for Precision Health and Prevention: Transforming How We Understand Environment and Disease",
       "url": "https://events.stanford.edu/event/exposomics-for-precision-health-and-prevention-transforming-how-we-understand-environment-and-disease",
@@ -3355,6 +3264,31 @@
         {
           "date": "2026-06-26",
           "start": "2026-06-26T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    {
+      "id": 53224779069306,
+      "title": "The Bhagavad Gita for Modern Life: An Evening with Chinna Jeeyar Swami",
+      "url": "https://events.stanford.edu/event/the-bhagavad-gita-for-modern-life-an-evening-with-chinna-jeeyar-swami",
+      "experience": "inperson",
+      "location": "Asian American Activities Center, Clubhouse Ballroom, 524 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53224804146481/huge/36333c4948ee2e68d2bc8c50f2aef70c8120ca76.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-06-26",
+          "start": "2026-06-26T18:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3998,6 +3932,40 @@
       ],
       "dates": [
         "2026-07-18"
+      ]
+    },
+    {
+      "id": 53004541128514,
+      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-museum-9629",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53004541056832/huge/a31797a7ed6091ab48a32ed4c2dc730b3c8e6b48.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-19",
+          "start": "2026-07-19T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-19",
+        "2026-08-16"
       ]
     },
     {
