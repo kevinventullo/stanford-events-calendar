@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T13:54:27+00:00",
+  "generated_at": "2026-06-24T01:43:00+00:00",
   "window": {
-    "start": "2026-06-23",
-    "end": "2026-12-20"
+    "start": "2026-06-24",
+    "end": "2026-12-21"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 12,
-    "recurring": 15,
-    "dated": 86
+    "recurring": 16,
+    "dated": 87
   },
   "ongoing": [
     {
@@ -333,7 +333,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-23",
         "2026-06-24",
         "2026-06-25",
         "2026-06-26",
@@ -470,7 +469,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-23",
         "2026-06-24",
         "2026-06-25",
         "2026-06-26",
@@ -563,7 +561,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-06-23",
         "2026-06-24",
         "2026-06-25",
         "2026-06-26",
@@ -755,7 +752,8 @@
         "2026-12-14",
         "2026-12-17",
         "2026-12-18",
-        "2026-12-19"
+        "2026-12-19",
+        "2026-12-20"
       ]
     },
     {
@@ -1373,6 +1371,36 @@
       "next_date": "2026-08-17",
       "last_date": "2026-08-21",
       "count": 5
+    },
+    {
+      "id": 44437607039811,
+      "title": "Lou Henry Hoover Carillon Performance",
+      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
+      "experience": "inperson",
+      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-07",
+          "start": "2026-07-07T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-07"
+      ],
+      "pattern": "Tuesdays",
+      "time": "6 PM",
+      "next_date": "2026-07-07",
+      "last_date": "2026-07-07",
+      "count": 1
     },
     {
       "id": 52137314071164,
@@ -2169,6 +2197,11 @@
           "date": "2026-12-19",
           "start": "2026-12-19T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-20",
+          "start": "2026-12-20T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2248,13 +2281,14 @@
         "2026-12-12",
         "2026-12-13",
         "2026-12-18",
-        "2026-12-19"
+        "2026-12-19",
+        "2026-12-20"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-06-26",
-      "last_date": "2026-12-19",
-      "count": 77
+      "last_date": "2026-12-20",
+      "count": 78
     },
     {
       "id": 38569589895140,
@@ -2298,6 +2332,11 @@
           "date": "2026-11-15",
           "start": "2026-11-15T14:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-20",
+          "start": "2026-12-20T14:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2305,13 +2344,14 @@
         "2026-08-16",
         "2026-09-20",
         "2026-10-18",
-        "2026-11-15"
+        "2026-11-15",
+        "2026-12-20"
       ],
       "pattern": "Sundays",
       "time": "2 PM",
       "next_date": "2026-07-19",
-      "last_date": "2026-11-15",
-      "count": 5
+      "last_date": "2026-12-20",
+      "count": 6
     },
     {
       "id": 40909411691045,
@@ -2957,59 +2997,6 @@
   ],
   "events": [
     {
-      "id": 53117388516046,
-      "title": "Finding the Right Words by Cindy Weinstein",
-      "url": "https://events.stanford.edu/event/finding-the-right-words-by-cindy-weinstein",
-      "experience": "inperson",
-      "location": "Stanford Health Library, 2nd Floor, Suite 201, 211 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39089527664200/huge/7f15171538518d2c70f8e6c334b2e85829ea7a16.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-23",
-          "start": "2026-06-23T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-23"
-      ]
-    },
-    {
-      "id": 53134702190526,
-      "title": "St. Lawrence Chamber Music Seminar: Robert Brewer Young",
-      "url": "https://events.stanford.edu/event/chamber-seminar-26-robert-brewer-young",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53134715788239/huge/77ea13d1e31a67b39c2d09e0fe8403f015e9ff74.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-23",
-          "start": "2026-06-23T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-23"
-      ]
-    },
-    {
       "id": 53134739641856,
       "title": "St. Lawrence Chamber Music Seminar: Midday Music 2",
       "url": "https://events.stanford.edu/event/chamber-seminar-26-midday-music-2",
@@ -3423,6 +3410,29 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01"
+      ]
+    },
+    {
+      "id": 53233154793319,
+      "title": "PhD Dissertation Defense: Joshua Sampson",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-joshua-sampson",
+      "experience": "hybrid",
+      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53233159755678/huge/dcf32b7fd155996a7ff7fa7e300150a4027cc818.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-06-29",
+          "start": "2026-06-29T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-06-29"
       ]
     },
     {
@@ -3978,6 +3988,31 @@
       ]
     },
     {
+      "id": 53242904770086,
+      "title": "Public Lecture: Rocky Exoplanet Atmospheres",
+      "url": "https://events.stanford.edu/event/public-lecture-rocky-exoplanet-atmospheres",
+      "experience": "hybrid",
+      "location": "Sapp Center for Science Teaching and Learning, 111, 376 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53242929382162/huge/65d12fb19984282658109e8fbd83086e960a5bf8.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-22",
+          "start": "2026-07-22T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    {
       "id": 52621603442587,
       "title": "SJW Presents: Ruth Davies’ Blues Night featuring Sean “Mack” McDonald",
       "url": "https://events.stanford.edu/event/ruth-davies-blues-night-sjw26",
@@ -4006,7 +4041,7 @@
     },
     {
       "id": 52940824986379,
-      "title": "Lunchtime Curator Talk | Jane!",
+      "title": "Lunchtime Curator Talk | JANE!",
       "url": "https://events.stanford.edu/event/lunchtime-curator-talk-jane",
       "experience": "inperson",
       "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
@@ -4402,7 +4437,7 @@
     },
     {
       "id": 52940922988592,
-      "title": "Lunchtime Curator Talk | Jane!",
+      "title": "Lunchtime Curator Talk | JANE!",
       "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-jane-1387",
       "experience": "inperson",
       "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
@@ -4590,6 +4625,31 @@
       ],
       "dates": [
         "2026-08-14"
+      ]
+    },
+    {
+      "id": 53233549421372,
+      "title": "Kintsugi: The Art of Repair",
+      "url": "https://events.stanford.edu/event/kintsugi-the-art-of-golden-repair",
+      "experience": "inperson",
+      "location": "Anderson Collection, Denning Family Resource Center and Egan Terrace, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53234139365022/huge/1f0f90ae154daf0c77f428ca80bf4a2ce92aae9c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-16"
       ]
     },
     {
