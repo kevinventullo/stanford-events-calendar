@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T13:44:43+00:00",
+  "generated_at": "2026-06-27T01:43:58+00:00",
   "window": {
-    "start": "2026-06-26",
-    "end": "2026-12-23"
+    "start": "2026-06-27",
+    "end": "2026-12-24"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
+    "ongoing": 12,
     "recurring": 16,
-    "dated": 86
+    "dated": 82
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-07-01",
@@ -74,7 +73,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-07-01",
@@ -99,7 +97,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-06-26",
         "2026-07-01",
         "2026-07-02",
         "2026-07-08",
@@ -144,7 +141,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
@@ -227,7 +223,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
@@ -264,7 +259,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
@@ -324,7 +318,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
@@ -414,28 +407,6 @@
       ]
     },
     {
-      "id": 53026843827473,
-      "title": "Branner Library Monthly Book & Map Exhibit - The Indian Ocean",
-      "url": "https://events.stanford.edu/event/branner-library-monthly-book-map-exhibit-indian-ocean",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53026874608130/huge/4eb6cc4b4ff16006d00aa7068265317fda6241ab.jpg",
-      "free": false,
-      "first_date": "2026-06-01",
-      "last_date": "2026-06-26",
-      "dates": [
-        "2026-06-26"
-      ]
-    },
-    {
       "id": 53251159287291,
       "title": "Text Machines: Scarlet Thread of the Digital Order (1883-2026)",
       "url": "https://events.stanford.edu/event/text-machines-scarlet-thread-of-the-digital-order-1883-2026",
@@ -454,7 +425,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
@@ -659,7 +629,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
@@ -749,7 +718,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-06-26",
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
@@ -1083,11 +1051,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-26",
-          "start": "2026-06-26T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-10",
           "start": "2026-07-10T12:00:00-07:00",
           "all_day": false
@@ -1139,7 +1102,6 @@
         }
       ],
       "dates": [
-        "2026-06-26",
         "2026-07-10",
         "2026-07-24",
         "2026-08-14",
@@ -1153,9 +1115,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-06-26",
+      "next_date": "2026-07-10",
       "last_date": "2026-12-11",
-      "count": 11
+      "count": 10
     },
     {
       "id": 52562052023179,
@@ -1172,11 +1134,6 @@
       "photo": "https://localist-images.azureedge.net/photos/52562139192886/huge/325ab8da0a5f1a53cdb435ec41d18aae44f574fd.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-27",
           "start": "2026-06-27T14:00:00-07:00",
@@ -1234,7 +1191,6 @@
         }
       ],
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-07-03",
@@ -1249,9 +1205,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-26",
+      "next_date": "2026-06-27",
       "last_date": "2026-07-19",
-      "count": 12
+      "count": 11
     },
     {
       "id": 46378544005855,
@@ -1704,11 +1660,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-26",
-          "start": "2026-06-26T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-27",
           "start": "2026-06-27T11:30:00-07:00",
           "all_day": false
@@ -1965,7 +1916,6 @@
         }
       ],
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-07-03",
         "2026-07-04",
@@ -2020,9 +1970,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-06-26",
+      "next_date": "2026-06-27",
       "last_date": "2026-12-19",
-      "count": 52
+      "count": 51
     },
     {
       "id": 48376809728814,
@@ -2042,11 +1992,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-27",
           "start": "2026-06-27T13:00:00-07:00",
@@ -2434,7 +2379,6 @@
         }
       ],
       "dates": [
-        "2026-06-26",
         "2026-06-27",
         "2026-06-28",
         "2026-07-03",
@@ -2515,9 +2459,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-26",
+      "next_date": "2026-06-27",
       "last_date": "2026-12-20",
-      "count": 78
+      "count": 77
     },
     {
       "id": 38569589895140,
@@ -3207,109 +3151,6 @@
     }
   ],
   "events": [
-    {
-      "id": 51934582590620,
-      "title": "Info session for Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-8450",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/51934585972277/huge/4df43863d8cc159da7620c6a2b087bfa0ca98e44.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-26"
-      ]
-    },
-    {
-      "id": 52621114174370,
-      "title": "SJW Presents: Branford Marsalis Quartet",
-      "url": "https://events.stanford.edu/event/branford-marsalis-quartet-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621138273785/huge/0cd028b3a114d0e573cc41fb5703832f182f647a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-26"
-      ]
-    },
-    {
-      "id": 53134757342836,
-      "title": "St. Lawrence Chamber Music Seminar: Midday Music 3",
-      "url": "https://events.stanford.edu/event/chamber-seminar-26-midday-music-3",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53134768626878/huge/dbcc7fab59c67db077837fdd58b68c8a592a0b7f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-26"
-      ]
-    },
-    {
-      "id": 53224779069306,
-      "title": "The Bhagavad Gita for Modern Life: An Evening with Chinna Jeeyar Swami",
-      "url": "https://events.stanford.edu/event/the-bhagavad-gita-for-modern-life-an-evening-with-chinna-jeeyar-swami",
-      "experience": "inperson",
-      "location": "Asian American Activities Center, Clubhouse Ballroom, 524 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53224804146481/huge/36333c4948ee2e68d2bc8c50f2aef70c8120ca76.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-26",
-          "start": "2026-06-26T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-26"
-      ]
-    },
     {
       "id": 52621145488756,
       "title": "SJW Presents: Billy Childs Quartet",
