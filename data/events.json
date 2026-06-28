@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-27T13:35:25+00:00",
+  "generated_at": "2026-06-28T01:47:33+00:00",
   "window": {
-    "start": "2026-06-27",
-    "end": "2026-12-24"
+    "start": "2026-06-28",
+    "end": "2026-12-25"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 16,
-    "dated": 82
+    "dated": 79
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-07-01",
         "2026-07-02",
@@ -73,7 +72,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-07-01",
         "2026-07-02",
@@ -141,7 +139,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-06-29",
         "2026-07-02",
@@ -223,7 +220,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-06-29",
         "2026-07-02",
@@ -259,7 +255,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-06-29",
         "2026-07-02",
@@ -318,7 +313,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-06-29",
         "2026-06-30",
@@ -425,7 +419,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-06-29",
         "2026-06-30",
@@ -629,7 +622,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-06-29",
         "2026-06-30",
@@ -1135,11 +1127,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-27",
-          "start": "2026-06-27T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-28",
           "start": "2026-06-28T14:00:00-07:00",
           "all_day": false
@@ -1191,7 +1178,6 @@
         }
       ],
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-07-03",
         "2026-07-04",
@@ -1205,9 +1191,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-27",
+      "next_date": "2026-06-28",
       "last_date": "2026-07-19",
-      "count": 11
+      "count": 10
     },
     {
       "id": 46378544005855,
@@ -1224,11 +1210,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-27",
-          "start": "2026-06-27T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-28",
           "start": "2026-06-28T12:30:00-07:00",
@@ -1326,7 +1307,6 @@
         }
       ],
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-07-04",
         "2026-07-05",
@@ -1349,9 +1329,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-06-27",
+      "next_date": "2026-06-28",
       "last_date": "2026-08-30",
-      "count": 20
+      "count": 19
     },
     {
       "id": 47049266947082,
@@ -1368,11 +1348,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-27",
-          "start": "2026-06-27T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-28",
           "start": "2026-06-28T14:30:00-07:00",
@@ -1470,7 +1445,6 @@
         }
       ],
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-07-04",
         "2026-07-05",
@@ -1493,9 +1467,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-06-27",
+      "next_date": "2026-06-28",
       "last_date": "2026-08-30",
-      "count": 20
+      "count": 19
     },
     {
       "id": 52489460033306,
@@ -1659,11 +1633,6 @@
       "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-27",
-          "start": "2026-06-27T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-03",
           "start": "2026-07-03T11:30:00-07:00",
@@ -1916,7 +1885,6 @@
         }
       ],
       "dates": [
-        "2026-06-27",
         "2026-07-03",
         "2026-07-04",
         "2026-07-10",
@@ -1970,9 +1938,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-06-27",
+      "next_date": "2026-07-03",
       "last_date": "2026-12-19",
-      "count": 51
+      "count": 50
     },
     {
       "id": 48376809728814,
@@ -1992,11 +1960,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-27",
-          "start": "2026-06-27T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-06-28",
           "start": "2026-06-28T13:00:00-07:00",
@@ -2379,7 +2342,6 @@
         }
       ],
       "dates": [
-        "2026-06-27",
         "2026-06-28",
         "2026-07-03",
         "2026-07-04",
@@ -2459,9 +2421,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-27",
+      "next_date": "2026-06-28",
       "last_date": "2026-12-20",
-      "count": 77
+      "count": 76
     },
     {
       "id": 38569589895140,
@@ -2822,11 +2784,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-27",
-          "start": "2026-06-27T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-04",
           "start": "2026-07-04T09:30:00-07:00",
           "all_day": false
@@ -2948,7 +2905,6 @@
         }
       ],
       "dates": [
-        "2026-06-27",
         "2026-07-04",
         "2026-07-11",
         "2026-07-18",
@@ -2976,9 +2932,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-06-27",
+      "next_date": "2026-07-04",
       "last_date": "2026-12-12",
-      "count": 25
+      "count": 24
     },
     {
       "id": 51888083181057,
@@ -3151,87 +3107,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52621145488756,
-      "title": "SJW Presents: Billy Childs Quartet",
-      "url": "https://events.stanford.edu/event/billy-childs-quartet-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621188716771/huge/890c5cf46f1552962564beb1e4ba1cd37a05b649.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-27",
-          "start": "2026-06-27T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-27"
-      ]
-    },
-    {
-      "id": 53134773873973,
-      "title": "St. Lawrence Chamber Music Seminar: Azure Family Concert",
-      "url": "https://events.stanford.edu/event/chamber-seminar-26-azure-family-concert",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53134773817649/huge/c1ea6ffb5255e8c885079120e3ca1d635b3853fc.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-27",
-          "start": "2026-06-27T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-27"
-      ]
-    },
-    {
-      "id": 53134774069475,
-      "title": "St. Lawrence Chamber Music Seminar: International Showcase",
-      "url": "https://events.stanford.edu/event/chamber-seminar-26-international-showcase",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53134774032607/huge/392932296cf0ddf8395ce4900fa30e613b177771.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-27",
-          "start": "2026-06-27T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-27"
-      ]
-    },
     {
       "id": 52621207021188,
       "title": "SJW Presents: Early Bird Jazz for Kids with Dr. Dave Hart and the Zookeepers",
