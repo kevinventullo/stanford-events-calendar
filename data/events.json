@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T13:35:23+00:00",
+  "generated_at": "2026-06-29T01:49:32+00:00",
   "window": {
-    "start": "2026-06-28",
-    "end": "2026-12-25"
+    "start": "2026-06-29",
+    "end": "2026-12-26"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 12,
-    "recurring": 16,
-    "dated": 79
+    "recurring": 15,
+    "dated": 81
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-28",
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
@@ -72,7 +71,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-06-28",
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
@@ -139,7 +137,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-28",
         "2026-06-29",
         "2026-07-02",
         "2026-07-03",
@@ -220,7 +217,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-28",
         "2026-06-29",
         "2026-07-02",
         "2026-07-03",
@@ -255,7 +251,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-28",
         "2026-06-29",
         "2026-07-02",
         "2026-07-03",
@@ -313,7 +308,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-28",
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
@@ -419,7 +413,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-06-28",
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
@@ -622,7 +615,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-28",
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
@@ -1127,11 +1119,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-06-28",
-          "start": "2026-06-28T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-03",
           "start": "2026-07-03T14:00:00-07:00",
           "all_day": false
@@ -1178,7 +1165,6 @@
         }
       ],
       "dates": [
-        "2026-06-28",
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
@@ -1191,9 +1177,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-06-28",
+      "next_date": "2026-07-03",
       "last_date": "2026-07-19",
-      "count": 10
+      "count": 9
     },
     {
       "id": 46378544005855,
@@ -1210,11 +1196,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-28",
-          "start": "2026-06-28T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-04",
           "start": "2026-07-04T12:30:00-07:00",
@@ -1307,7 +1288,6 @@
         }
       ],
       "dates": [
-        "2026-06-28",
         "2026-07-04",
         "2026-07-05",
         "2026-07-11",
@@ -1329,9 +1309,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-06-28",
+      "next_date": "2026-07-04",
       "last_date": "2026-08-30",
-      "count": 19
+      "count": 18
     },
     {
       "id": 47049266947082,
@@ -1348,11 +1328,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-06-28",
-          "start": "2026-06-28T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-04",
           "start": "2026-07-04T14:30:00-07:00",
@@ -1445,7 +1420,6 @@
         }
       ],
       "dates": [
-        "2026-06-28",
         "2026-07-04",
         "2026-07-05",
         "2026-07-11",
@@ -1467,9 +1441,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-06-28",
+      "next_date": "2026-07-04",
       "last_date": "2026-08-30",
-      "count": 19
+      "count": 18
     },
     {
       "id": 52489460033306,
@@ -1554,66 +1528,6 @@
       "next_date": "2026-07-07",
       "last_date": "2026-07-07",
       "count": 1
-    },
-    {
-      "id": 52137314071164,
-      "title": "Museum Minis: Storytime at the Anderson",
-      "url": "https://events.stanford.edu/event/museum-minis-storytime-with-maria-raimundo",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52994809453147/huge/1cba08f854522704d2846ad3c7d91db73db69bba.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-20",
-          "start": "2026-07-20T11:15:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-17",
-          "start": "2026-08-17T11:15:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-21",
-          "start": "2026-09-21T11:15:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T11:15:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T11:15:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-21",
-          "start": "2026-12-21T11:15:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-20",
-        "2026-08-17",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-21"
-      ],
-      "pattern": "Mondays",
-      "time": "11:15 AM",
-      "next_date": "2026-07-20",
-      "last_date": "2026-12-21",
-      "count": 6
     },
     {
       "id": 48217677268364,
@@ -1882,6 +1796,11 @@
           "date": "2026-12-19",
           "start": "2026-12-19T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-25",
+          "start": "2026-12-25T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1934,13 +1853,14 @@
         "2026-12-11",
         "2026-12-12",
         "2026-12-18",
-        "2026-12-19"
+        "2026-12-19",
+        "2026-12-25"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-07-03",
-      "last_date": "2026-12-19",
-      "count": 50
+      "last_date": "2026-12-25",
+      "count": 51
     },
     {
       "id": 48376809728814,
@@ -1960,11 +1880,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-06-28",
-          "start": "2026-06-28T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-03",
           "start": "2026-07-03T13:00:00-07:00",
@@ -2339,10 +2254,14 @@
           "date": "2026-12-20",
           "start": "2026-12-20T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-25",
+          "start": "2026-12-25T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-06-28",
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
@@ -2417,12 +2336,13 @@
         "2026-12-13",
         "2026-12-18",
         "2026-12-19",
-        "2026-12-20"
+        "2026-12-20",
+        "2026-12-25"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-06-28",
-      "last_date": "2026-12-20",
+      "next_date": "2026-07-03",
+      "last_date": "2026-12-25",
       "count": 76
     },
     {
@@ -2506,11 +2426,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-28",
-          "start": "2026-06-28T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-26",
           "start": "2026-07-26T11:30:00-07:00",
           "all_day": false
@@ -2537,7 +2452,6 @@
         }
       ],
       "dates": [
-        "2026-06-28",
         "2026-07-26",
         "2026-08-23",
         "2026-09-27",
@@ -2546,9 +2460,9 @@
       ],
       "pattern": "Sundays",
       "time": "11:30 AM",
-      "next_date": "2026-06-28",
+      "next_date": "2026-07-26",
       "last_date": "2026-11-22",
-      "count": 6
+      "count": 5
     },
     {
       "id": 51375729019846,
@@ -3107,87 +3021,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52621207021188,
-      "title": "SJW Presents: Early Bird Jazz for Kids with Dr. Dave Hart and the Zookeepers",
-      "url": "https://events.stanford.edu/event/early-bird-jazz-for-kids-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621206993536/huge/89f5811b69816810587fcaf9a9bdc09b72d56e3f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-28",
-          "start": "2026-06-28T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-28"
-      ]
-    },
-    {
-      "id": 52621225702534,
-      "title": "SJW Presents: Luciana Souza and Marcel Camargo – New Moon with string quartet",
-      "url": "https://events.stanford.edu/event/luciana-souza-marcel-comargo-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621247348594/huge/9e24525b171954bd89cfbe0a1fb8f7689c25988a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-28",
-          "start": "2026-06-28T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-28"
-      ]
-    },
-    {
-      "id": 53134774324556,
-      "title": "St. Lawrence Chamber Music Seminar: Grand Finale!",
-      "url": "https://events.stanford.edu/event/chamber-seminar-26-grand-finale",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53134774283592/huge/69ecff6db7302daaca16d41414788712d3ef2e12.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-06-28",
-          "start": "2026-06-28T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-28"
-      ]
-    },
     {
       "id": 52329688553334,
       "title": "Natural Capital Symposium 2026",
@@ -3775,6 +3608,31 @@
       ],
       "dates": [
         "2026-07-19"
+      ]
+    },
+    {
+      "id": 52137314071164,
+      "title": "July Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/july-museum-minis-storytime",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286151280576/huge/5cb859a6895d925382b038887f6c7e6cd2475855.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-20",
+          "start": "2026-07-20T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-20"
       ]
     },
     {
@@ -4497,6 +4355,31 @@
       ]
     },
     {
+      "id": 53286158681921,
+      "title": "August Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/august-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286171845691/huge/e34a1694e508c281ca2c0be653077eae3afbce00.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-17",
+          "start": "2026-08-17T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    {
       "id": 51934608883260,
       "title": "Info session for Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-4345",
@@ -4625,6 +4508,31 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15"
+      ]
+    },
+    {
+      "id": 53286176810091,
+      "title": "September Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/september-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286186378155/huge/bd6f4d2e2c505f66ce4c015a1c4f9e6dc988e857.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-21",
+          "start": "2026-09-21T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-21"
       ]
     },
     {
@@ -5009,6 +4917,31 @@
       ]
     },
     {
+      "id": 53286190140712,
+      "title": "October Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/october-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286193624278/huge/b38d0288a04d37947726d77267f0af73cd0d3499.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
       "id": 53136469759971,
       "title": "ST Lee Lecture featuring Former Congressman and Ambassador to Turkey Jeff Flake",
       "url": "https://events.stanford.edu/event/st-lee-lecture-featuring-former-congressman-and-ambassador-to-turkey-jeff-flake",
@@ -5224,6 +5157,31 @@
       ],
       "dates": [
         "2026-11-12"
+      ]
+    },
+    {
+      "id": 53286197324283,
+      "title": "November Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/November-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286213457779/huge/df262b67235410b7a3a51f2e37a3488300639ca7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T11:15:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
       ]
     },
     {
