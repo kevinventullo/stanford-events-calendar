@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29T14:26:53+00:00",
+  "generated_at": "2026-06-30T01:46:14+00:00",
   "window": {
-    "start": "2026-06-29",
-    "end": "2026-12-26"
+    "start": "2026-06-30",
+    "end": "2026-12-27"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 15,
-    "dated": 81
+    "dated": 82
   },
   "ongoing": [
     {
@@ -137,7 +137,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-06-29",
         "2026-07-02",
         "2026-07-03",
         "2026-07-05",
@@ -217,7 +216,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-06-29",
         "2026-07-02",
         "2026-07-03",
         "2026-07-05",
@@ -251,7 +249,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-06-29",
         "2026-07-02",
         "2026-07-03",
         "2026-07-05",
@@ -308,7 +305,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-29",
         "2026-06-30",
         "2026-07-01",
         "2026-07-02",
@@ -413,7 +409,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-06-29",
         "2026-06-30",
         "2026-07-01",
         "2026-07-02",
@@ -615,7 +610,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-29",
         "2026-06-30",
         "2026-07-01",
         "2026-07-02",
@@ -702,7 +696,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-06-29",
         "2026-06-30",
         "2026-07-01",
         "2026-07-02",
@@ -892,7 +885,8 @@
         "2026-12-18",
         "2026-12-19",
         "2026-12-20",
-        "2026-12-21"
+        "2026-12-21",
+        "2026-12-26"
       ]
     },
     {
@@ -1515,19 +1509,31 @@
       "free": false,
       "instances": [
         {
+          "date": "2026-07-01",
+          "start": "2026-07-01T18:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-02",
+          "start": "2026-07-02T17:30:00-07:00",
+          "all_day": false
+        },
+        {
           "date": "2026-07-07",
           "start": "2026-07-07T18:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
+        "2026-07-01",
+        "2026-07-02",
         "2026-07-07"
       ],
-      "pattern": "Tuesdays",
+      "pattern": "Tue, Wed, Thu",
       "time": "6 PM",
-      "next_date": "2026-07-07",
+      "next_date": "2026-07-01",
       "last_date": "2026-07-07",
-      "count": 1
+      "count": 3
     },
     {
       "id": 48217677268364,
@@ -1801,6 +1807,11 @@
           "date": "2026-12-25",
           "start": "2026-12-25T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-26",
+          "start": "2026-12-26T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1854,13 +1865,14 @@
         "2026-12-12",
         "2026-12-18",
         "2026-12-19",
-        "2026-12-25"
+        "2026-12-25",
+        "2026-12-26"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-07-03",
-      "last_date": "2026-12-25",
-      "count": 51
+      "last_date": "2026-12-26",
+      "count": 52
     },
     {
       "id": 48376809728814,
@@ -2259,6 +2271,11 @@
           "date": "2026-12-25",
           "start": "2026-12-25T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-26",
+          "start": "2026-12-26T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2337,13 +2354,14 @@
         "2026-12-18",
         "2026-12-19",
         "2026-12-20",
-        "2026-12-25"
+        "2026-12-25",
+        "2026-12-26"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-07-03",
-      "last_date": "2026-12-25",
-      "count": 76
+      "last_date": "2026-12-26",
+      "count": 77
     },
     {
       "id": 38569589895140,
@@ -3039,11 +3057,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-29",
-          "start": "2026-06-29T08:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-06-30",
           "start": "2026-06-30T08:00:00-07:00",
           "all_day": false
@@ -3055,32 +3068,8 @@
         }
       ],
       "dates": [
-        "2026-06-29",
         "2026-06-30",
         "2026-07-01"
-      ]
-    },
-    {
-      "id": 53233154793319,
-      "title": "PhD Dissertation Defense: Joshua Sampson",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-joshua-sampson",
-      "experience": "hybrid",
-      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53233159755678/huge/dcf32b7fd155996a7ff7fa7e300150a4027cc818.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-06-29",
-          "start": "2026-06-29T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-06-29"
       ]
     },
     {
@@ -3608,6 +3597,32 @@
       ],
       "dates": [
         "2026-07-19"
+      ]
+    },
+    {
+      "id": 53241120744177,
+      "title": "eWEAR Seminar: Intelligent Wearables",
+      "url": "https://events.stanford.edu/event/ewear-seminar-july-tbd",
+      "experience": "hybrid",
+      "location": "Spilker, 232, 348 Via Pueblo Mall, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53293808772467/huge/a00107a7b98c36e5b5c1e8a3b0dc8b49b21a0600.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-20",
+          "start": "2026-07-20T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-20"
       ]
     },
     {
@@ -4428,6 +4443,31 @@
       ],
       "dates": [
         "2026-08-22"
+      ]
+    },
+    {
+      "id": 53178080818274,
+      "title": "PhD Dissertation Defense: Isabel Delwel, Mordecai Lab",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-isabel-delwel-mordecai-lab",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-25",
+          "start": "2026-08-25T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-25"
       ]
     },
     {
