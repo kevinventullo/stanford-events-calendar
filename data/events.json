@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T13:39:58+00:00",
+  "generated_at": "2026-07-01T01:50:38+00:00",
   "window": {
-    "start": "2026-06-30",
-    "end": "2026-12-27"
+    "start": "2026-07-01",
+    "end": "2026-12-28"
   },
   "filters": {
     "public_audiences": [
@@ -21,7 +21,7 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 13,
     "recurring": 15,
     "dated": 82
   },
@@ -305,7 +305,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-06-30",
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
@@ -409,7 +408,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-06-30",
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
@@ -610,7 +608,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-06-30",
         "2026-07-01",
         "2026-07-02",
         "2026-07-05",
@@ -696,7 +693,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-06-30",
         "2026-07-01",
         "2026-07-02",
         "2026-07-06",
@@ -744,6 +740,45 @@
         "2026-09-02",
         "2026-09-03",
         "2026-09-04"
+      ]
+    },
+    {
+      "id": 53305547834880,
+      "title": "Branner Library Monthly Book & Map Exhibit - Mapping the Oceans",
+      "url": "https://events.stanford.edu/event/branner-library-monthly-book-map-exhibit-mapping-oceans",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53305569346744/huge/04357bc661d55b9eda4fed1aa80cdab70a8cd6d7.jpg",
+      "free": false,
+      "first_date": "2026-07-01",
+      "last_date": "2026-08-31",
+      "dates": [
+        "2026-07-01",
+        "2026-07-06",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-28",
+        "2026-08-31"
       ]
     },
     {
@@ -886,7 +921,8 @@
         "2026-12-19",
         "2026-12-20",
         "2026-12-21",
-        "2026-12-26"
+        "2026-12-26",
+        "2026-12-27"
       ]
     },
     {
@@ -2276,6 +2312,11 @@
           "date": "2026-12-26",
           "start": "2026-12-26T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-27",
+          "start": "2026-12-27T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2355,13 +2396,14 @@
         "2026-12-19",
         "2026-12-20",
         "2026-12-25",
-        "2026-12-26"
+        "2026-12-26",
+        "2026-12-27"
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-07-03",
-      "last_date": "2026-12-26",
-      "count": 77
+      "last_date": "2026-12-27",
+      "count": 78
     },
     {
       "id": 38569589895140,
@@ -2467,6 +2509,11 @@
           "date": "2026-11-22",
           "start": "2026-11-22T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2026-12-27",
+          "start": "2026-12-27T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2474,13 +2521,14 @@
         "2026-08-23",
         "2026-09-27",
         "2026-10-25",
-        "2026-11-22"
+        "2026-11-22",
+        "2026-12-27"
       ],
       "pattern": "Sundays",
       "time": "11:30 AM",
       "next_date": "2026-07-26",
-      "last_date": "2026-11-22",
-      "count": 5
+      "last_date": "2026-12-27",
+      "count": 6
     },
     {
       "id": 51375729019846,
@@ -3057,18 +3105,12 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-06-30",
-          "start": "2026-06-30T08:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-01",
           "start": "2026-07-01T08:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-06-30",
         "2026-07-01"
       ]
     },
@@ -3212,7 +3254,7 @@
     },
     {
       "id": 52746585905354,
-      "title": "Ocular Melanoma 5K — Lookin' for a Cure walk and run",
+      "title": "Ocular Melanoma 5K — Lookin’ for a Cure walk and run",
       "url": "https://events.stanford.edu/event/ocular-melanoma-5k-lookin-for-a-cure-walk-and-run",
       "experience": "inperson",
       "location": "Byers Eye Institute at Stanford, 2452 Watson Court, Palo Alto, CA 94303",
