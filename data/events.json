@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T13:49:53+00:00",
+  "generated_at": "2026-07-02T01:45:52+00:00",
   "window": {
-    "start": "2026-07-01",
-    "end": "2026-12-28"
+    "start": "2026-07-02",
+    "end": "2026-12-29"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 15,
-    "dated": 82
+    "dated": 85
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
@@ -71,7 +70,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
@@ -93,7 +91,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-08",
         "2026-07-09",
@@ -305,7 +302,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
@@ -408,7 +404,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
@@ -608,7 +603,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-05",
         "2026-07-06",
@@ -693,7 +687,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-06",
         "2026-07-07",
@@ -761,7 +754,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-07-01",
         "2026-07-06",
         "2026-07-10",
         "2026-07-13",
@@ -922,7 +914,8 @@
         "2026-12-20",
         "2026-12-21",
         "2026-12-26",
-        "2026-12-27"
+        "2026-12-27",
+        "2026-12-28"
       ]
     },
     {
@@ -1545,11 +1538,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-01",
-          "start": "2026-07-01T18:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-02",
           "start": "2026-07-02T17:30:00-07:00",
           "all_day": false
@@ -1561,15 +1549,14 @@
         }
       ],
       "dates": [
-        "2026-07-01",
         "2026-07-02",
         "2026-07-07"
       ],
-      "pattern": "Tue, Wed, Thu",
-      "time": "6 PM",
-      "next_date": "2026-07-01",
+      "pattern": "Tue, Thu",
+      "time": "5:30 PM",
+      "next_date": "2026-07-02",
       "last_date": "2026-07-07",
-      "count": 3
+      "count": 2
     },
     {
       "id": 48217677268364,
@@ -2933,11 +2920,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-01",
-          "start": "2026-07-01T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-08",
           "start": "2026-07-08T09:00:00-07:00",
           "all_day": false
@@ -3054,7 +3036,6 @@
         }
       ],
       "dates": [
-        "2026-07-01",
         "2026-07-08",
         "2026-07-15",
         "2026-07-22",
@@ -3081,37 +3062,119 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-07-01",
+      "next_date": "2026-07-08",
       "last_date": "2026-12-16",
-      "count": 24
+      "count": 23
     }
   ],
   "events": [
     {
-      "id": 52329688553334,
-      "title": "Natural Capital Symposium 2026",
-      "url": "https://events.stanford.edu/event/natural-capital-symposium-2026",
+      "id": 53312033919449,
+      "title": "[Cancelled] Gallery Conversations | Jeremy Frey: Woven",
+      "url": "https://events.stanford.edu/event/copy-of-cancelled-gallery-conversations-jeremy-frey-woven",
       "experience": "inperson",
-      "location": "Alumni Center, 326 Galvez Street, Stanford, CA 94305",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
       "types": [
-        "Conference/Symposium"
+        "Tour"
       ],
       "subjects": [
-        "Environment/Sustainability",
-        "Science",
-        "Public Service/Government"
+        "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/52330814700593/huge/0f3cf0c0fbc53d2f9f7d21fdbb50007ea0250ceb.jpg",
-      "free": false,
+      "photo": "https://localist-images.azureedge.net/photos/53312033839575/huge/4adca50c12caa20b32a8e0eb145933c29f313dc6.jpg",
+      "free": true,
       "instances": [
         {
-          "date": "2026-07-01",
-          "start": "2026-07-01T08:00:00-07:00",
+          "date": "2026-07-04",
+          "start": "2026-07-04T14:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-07-01"
+        "2026-07-04"
+      ]
+    },
+    {
+      "id": 53312049557955,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
+      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312049520065/huge/3c60421e277ff3e2a9b870031a676934726bf5a3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-04",
+          "start": "2026-07-04T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-04"
+      ]
+    },
+    {
+      "id": 53312065636549,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
+      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm-473",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312065583299/huge/936e9d760bf420b9aa8026fa3794546b97736321.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-05"
+      ]
+    },
+    {
+      "id": 53312069814495,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 3 PM",
+      "url": "https://events.stanford.edu/event/copy-of-copy-of-cancelled-public-tour-cantor-highlights-1-pm",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312069784797/huge/4bb79fcede5ac52f62ff65a8b34c2513a253fc37.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-05",
+          "start": "2026-07-05T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-05"
       ]
     },
     {
