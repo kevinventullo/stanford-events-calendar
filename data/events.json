@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T15:12:27+00:00",
+  "generated_at": "2026-07-04T04:35:21+00:00",
   "window": {
-    "start": "2026-07-03",
-    "end": "2026-12-30"
+    "start": "2026-07-04",
+    "end": "2026-12-31"
   },
   "filters": {
     "public_audiences": [
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-05"
       ]
@@ -69,7 +68,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-05"
       ]
@@ -131,7 +129,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-03",
         "2026-07-05",
         "2026-07-06",
         "2026-07-09",
@@ -209,7 +206,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-07-03",
         "2026-07-05",
         "2026-07-06",
         "2026-07-09",
@@ -241,7 +237,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-03",
         "2026-07-05",
         "2026-07-06",
         "2026-07-09",
@@ -296,7 +291,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-05",
         "2026-07-06",
@@ -397,7 +391,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-05",
         "2026-07-06",
@@ -782,7 +775,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-05",
         "2026-07-06",
@@ -1131,11 +1123,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-03",
-          "start": "2026-07-03T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-04",
           "start": "2026-07-04T14:00:00-07:00",
           "all_day": false
@@ -1177,7 +1164,6 @@
         }
       ],
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-05",
         "2026-07-10",
@@ -1189,9 +1175,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-07-03",
+      "next_date": "2026-07-04",
       "last_date": "2026-07-19",
-      "count": 9
+      "count": 8
     },
     {
       "id": 46378544005855,
@@ -1560,11 +1546,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-03",
-          "start": "2026-07-03T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-04",
           "start": "2026-07-04T11:30:00-07:00",
           "all_day": false
@@ -1821,7 +1802,6 @@
         }
       ],
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-10",
         "2026-07-11",
@@ -1876,9 +1856,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-07-03",
+      "next_date": "2026-07-04",
       "last_date": "2026-12-26",
-      "count": 52
+      "count": 51
     },
     {
       "id": 48376809728814,
@@ -1898,11 +1878,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-07-03",
-          "start": "2026-07-03T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-04",
           "start": "2026-07-04T13:00:00-07:00",
@@ -2290,7 +2265,6 @@
         }
       ],
       "dates": [
-        "2026-07-03",
         "2026-07-04",
         "2026-07-05",
         "2026-07-10",
@@ -2371,9 +2345,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-07-03",
+      "next_date": "2026-07-04",
       "last_date": "2026-12-27",
-      "count": 78
+      "count": 77
     },
     {
       "id": 38569589895140,
@@ -4819,7 +4793,7 @@
     },
     {
       "id": 52739238555812,
-      "title": "CBD 2026: Educating for Interbeing: Imagination, Embodiment, and the Education of Compassion with Kaira Jewel Lingo",
+      "title": "CBD 2026: Interactive Workshop, Educating for Interbeing: Imagination, Embodiment, and the Education of Compassion with Kaira Jewel Lingo",
       "url": "https://events.stanford.edu/event/cbd-2026-educating-for-interbeing-with-kaira-jewel-lingo",
       "experience": "hybrid",
       "location": "",
