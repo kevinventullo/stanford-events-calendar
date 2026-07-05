@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T14:37:35+00:00",
+  "generated_at": "2026-07-05T04:57:06+00:00",
   "window": {
-    "start": "2026-07-04",
-    "end": "2026-12-31"
+    "start": "2026-07-05",
+    "end": "2027-01-01"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 15,
-    "dated": 85
+    "dated": 83
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-07-04",
         "2026-07-05"
       ]
     },
@@ -68,7 +67,6 @@
       "first_date": "2025-08-29",
       "last_date": "2026-07-05",
       "dates": [
-        "2026-07-04",
         "2026-07-05"
       ]
     },
@@ -291,7 +289,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-04",
         "2026-07-05",
         "2026-07-06",
         "2026-07-07",
@@ -391,7 +388,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-04",
         "2026-07-05",
         "2026-07-06",
         "2026-07-07",
@@ -775,7 +771,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-04",
         "2026-07-05",
         "2026-07-06",
         "2026-07-09",
@@ -896,7 +891,8 @@
         "2026-12-21",
         "2026-12-26",
         "2026-12-27",
-        "2026-12-28"
+        "2026-12-28",
+        "2026-12-31"
       ]
     },
     {
@@ -1123,11 +1119,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-04",
-          "start": "2026-07-04T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-05",
           "start": "2026-07-05T14:00:00-07:00",
           "all_day": false
@@ -1164,7 +1155,6 @@
         }
       ],
       "dates": [
-        "2026-07-04",
         "2026-07-05",
         "2026-07-10",
         "2026-07-11",
@@ -1175,9 +1165,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-07-04",
+      "next_date": "2026-07-05",
       "last_date": "2026-07-19",
-      "count": 8
+      "count": 7
     },
     {
       "id": 46378544005855,
@@ -1194,11 +1184,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-04",
-          "start": "2026-07-04T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-05",
           "start": "2026-07-05T12:30:00-07:00",
@@ -1286,7 +1271,6 @@
         }
       ],
       "dates": [
-        "2026-07-04",
         "2026-07-05",
         "2026-07-11",
         "2026-07-12",
@@ -1307,9 +1291,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-07-04",
+      "next_date": "2026-07-05",
       "last_date": "2026-08-30",
-      "count": 18
+      "count": 17
     },
     {
       "id": 47049266947082,
@@ -1326,11 +1310,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-04",
-          "start": "2026-07-04T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-05",
           "start": "2026-07-05T14:30:00-07:00",
@@ -1418,7 +1397,6 @@
         }
       ],
       "dates": [
-        "2026-07-04",
         "2026-07-05",
         "2026-07-11",
         "2026-07-12",
@@ -1439,9 +1417,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-07-04",
+      "next_date": "2026-07-05",
       "last_date": "2026-08-30",
-      "count": 18
+      "count": 17
     },
     {
       "id": 52489460033306,
@@ -1545,11 +1523,6 @@
       "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-07-04",
-          "start": "2026-07-04T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-10",
           "start": "2026-07-10T11:30:00-07:00",
@@ -1802,7 +1775,6 @@
         }
       ],
       "dates": [
-        "2026-07-04",
         "2026-07-10",
         "2026-07-11",
         "2026-07-17",
@@ -1856,9 +1828,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-07-04",
+      "next_date": "2026-07-10",
       "last_date": "2026-12-26",
-      "count": 51
+      "count": 50
     },
     {
       "id": 48376809728814,
@@ -1878,11 +1850,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-07-04",
-          "start": "2026-07-04T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-05",
           "start": "2026-07-05T13:00:00-07:00",
@@ -2265,7 +2232,6 @@
         }
       ],
       "dates": [
-        "2026-07-04",
         "2026-07-05",
         "2026-07-10",
         "2026-07-11",
@@ -2345,9 +2311,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-07-04",
+      "next_date": "2026-07-05",
       "last_date": "2026-12-27",
-      "count": 77
+      "count": 76
     },
     {
       "id": 38569589895140,
@@ -2696,11 +2662,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-04",
-          "start": "2026-07-04T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-11",
           "start": "2026-07-11T09:30:00-07:00",
           "all_day": false
@@ -2817,7 +2778,6 @@
         }
       ],
       "dates": [
-        "2026-07-04",
         "2026-07-11",
         "2026-07-18",
         "2026-07-25",
@@ -2844,9 +2804,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-07-04",
+      "next_date": "2026-07-11",
       "last_date": "2026-12-12",
-      "count": 24
+      "count": 23
     },
     {
       "id": 51888083181057,
@@ -3013,59 +2973,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53312033919449,
-      "title": "[Cancelled] Gallery Conversations | Jeremy Frey: Woven",
-      "url": "https://events.stanford.edu/event/copy-of-cancelled-gallery-conversations-jeremy-frey-woven",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53312033839575/huge/4adca50c12caa20b32a8e0eb145933c29f313dc6.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-04",
-          "start": "2026-07-04T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-04"
-      ]
-    },
-    {
-      "id": 53312049557955,
-      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
-      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53312049520065/huge/3c60421e277ff3e2a9b870031a676934726bf5a3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-04",
-          "start": "2026-07-04T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-04"
-      ]
-    },
     {
       "id": 53312065636549,
       "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
