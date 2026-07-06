@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T14:44:05+00:00",
+  "generated_at": "2026-07-06T05:12:20+00:00",
   "window": {
-    "start": "2026-07-05",
-    "end": "2027-01-01"
+    "start": "2026-07-06",
+    "end": "2027-01-02"
   },
   "filters": {
     "public_audiences": [
@@ -21,55 +21,11 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
+    "ongoing": 11,
     "recurring": 15,
-    "dated": 83
+    "dated": 81
   },
   "ongoing": [
-    {
-      "id": 50605264838296,
-      "title": "Archive Room: Ester Hernandez |Selections from Special Collections at Stanford Libraries",
-      "url": "https://events.stanford.edu/event/archive-room-ester-hernandez-selections-from-special-collections-at-stanford-libraries",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Patricia S. Rebele Gallery, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/50605343943693/huge/d8359b915086623dca5fe2c0d0fa66d7dec5aa1d.jpg",
-      "free": false,
-      "first_date": "2025-08-29",
-      "last_date": "2026-07-05",
-      "dates": [
-        "2026-07-05"
-      ]
-    },
-    {
-      "id": 50605355251046,
-      "title": "Archive Room: Ruth Asawa | Selections from Special Collections at Stanford Libraries",
-      "url": "https://events.stanford.edu/event/archive-room-ruth-asawa-selections-from-special-collections-at-stanford-libraries",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Rowland K. Rebele Gallery, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/50605415693453/huge/01db0aae1455c842962ad261fef6834b24e1896f.jpg",
-      "free": false,
-      "first_date": "2025-08-29",
-      "last_date": "2026-07-05",
-      "dates": [
-        "2026-07-05"
-      ]
-    },
     {
       "id": 52127684778082,
       "title": "You Are Here: Transit Cartography & Spatial Identity",
@@ -127,7 +83,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-05",
         "2026-07-06",
         "2026-07-09",
         "2026-07-10",
@@ -204,7 +159,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-07-05",
         "2026-07-06",
         "2026-07-09",
         "2026-07-10",
@@ -235,7 +189,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-05",
         "2026-07-06",
         "2026-07-09",
         "2026-07-10",
@@ -289,7 +242,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-05",
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
@@ -388,7 +340,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-05",
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
@@ -584,7 +535,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-05",
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
@@ -771,7 +721,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-05",
         "2026-07-06",
         "2026-07-09",
         "2026-07-10",
@@ -1119,11 +1068,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-05",
-          "start": "2026-07-05T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-10",
           "start": "2026-07-10T14:00:00-07:00",
           "all_day": false
@@ -1155,7 +1099,6 @@
         }
       ],
       "dates": [
-        "2026-07-05",
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
@@ -1165,9 +1108,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-07-05",
+      "next_date": "2026-07-10",
       "last_date": "2026-07-19",
-      "count": 7
+      "count": 6
     },
     {
       "id": 46378544005855,
@@ -1184,11 +1127,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-05",
-          "start": "2026-07-05T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-11",
           "start": "2026-07-11T12:30:00-07:00",
@@ -1271,7 +1209,6 @@
         }
       ],
       "dates": [
-        "2026-07-05",
         "2026-07-11",
         "2026-07-12",
         "2026-07-18",
@@ -1291,9 +1228,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-07-05",
+      "next_date": "2026-07-11",
       "last_date": "2026-08-30",
-      "count": 17
+      "count": 16
     },
     {
       "id": 47049266947082,
@@ -1310,11 +1247,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-05",
-          "start": "2026-07-05T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-11",
           "start": "2026-07-11T14:30:00-07:00",
@@ -1397,7 +1329,6 @@
         }
       ],
       "dates": [
-        "2026-07-05",
         "2026-07-11",
         "2026-07-12",
         "2026-07-18",
@@ -1417,9 +1348,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-07-05",
+      "next_date": "2026-07-11",
       "last_date": "2026-08-30",
-      "count": 17
+      "count": 16
     },
     {
       "id": 52489460033306,
@@ -1851,11 +1782,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-05",
-          "start": "2026-07-05T13:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-10",
           "start": "2026-07-10T13:00:00-07:00",
           "all_day": false
@@ -2232,7 +2158,6 @@
         }
       ],
       "dates": [
-        "2026-07-05",
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
@@ -2311,9 +2236,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-07-05",
+      "next_date": "2026-07-10",
       "last_date": "2026-12-27",
-      "count": 76
+      "count": 75
     },
     {
       "id": 38569589895140,
@@ -2457,11 +2382,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-05",
-          "start": "2026-07-05T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-02",
           "start": "2026-08-02T14:00:00-07:00",
           "all_day": false
@@ -2488,7 +2408,6 @@
         }
       ],
       "dates": [
-        "2026-07-05",
         "2026-08-02",
         "2026-09-06",
         "2026-10-04",
@@ -2497,9 +2416,9 @@
       ],
       "pattern": "Sundays",
       "time": "2 PM",
-      "next_date": "2026-07-05",
+      "next_date": "2026-08-02",
       "last_date": "2026-12-06",
-      "count": 6
+      "count": 5
     },
     {
       "id": 46378871982905,
@@ -2973,94 +2892,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53312065636549,
-      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
-      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm-473",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53312065583299/huge/936e9d760bf420b9aa8026fa3794546b97736321.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-05",
-          "start": "2026-07-05T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-05"
-      ]
-    },
-    {
-      "id": 53312069814495,
-      "title": "[Cancelled] Public Tour | Cantor Highlights: 3 PM",
-      "url": "https://events.stanford.edu/event/copy-of-copy-of-cancelled-public-tour-cantor-highlights-1-pm",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53312069784797/huge/4bb79fcede5ac52f62ff65a8b34c2513a253fc37.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-05",
-          "start": "2026-07-05T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-05"
-      ]
-    },
-    {
-      "id": 53004553444144,
-      "title": "Public Tour: Outdoor Sculpture Walk, Campus",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-campus-1058",
-      "experience": "inperson",
-      "location": "Meet at the top of the Oval near the benches.",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53004553420590/huge/9f6985c8072d763f1108ee657ba95f6e216548b8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-05",
-          "start": "2026-07-05T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-02",
-          "start": "2026-08-02T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-05",
-        "2026-08-02"
-      ]
-    },
     {
       "id": 52357036883017,
       "title": "1,000 Ways to Hold | Exhibition Tour by Erika Chong Shuch",
@@ -4107,6 +3938,32 @@
       ],
       "dates": [
         "2026-08-01"
+      ]
+    },
+    {
+      "id": 53004553444144,
+      "title": "Public Tour: Outdoor Sculpture Walk, Campus",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-campus-1058",
+      "experience": "inperson",
+      "location": "Meet at the top of the Oval near the benches.",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53004553420590/huge/9f6985c8072d763f1108ee657ba95f6e216548b8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-02"
       ]
     },
     {
