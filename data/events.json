@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T15:44:01+00:00",
+  "generated_at": "2026-07-08T04:14:59+00:00",
   "window": {
-    "start": "2026-07-07",
-    "end": "2027-01-03"
+    "start": "2026-07-08",
+    "end": "2027-01-04"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 15,
-    "dated": 80
+    "dated": 81
   },
   "ongoing": [
     {
@@ -239,7 +239,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-07",
         "2026-07-08",
         "2026-07-09",
         "2026-07-10",
@@ -336,7 +335,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-07",
         "2026-07-08",
         "2026-07-09",
         "2026-07-10",
@@ -530,7 +528,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-07",
         "2026-07-08",
         "2026-07-09",
         "2026-07-10",
@@ -611,7 +608,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-07",
         "2026-07-08",
         "2026-07-09",
         "2026-07-10",
@@ -833,7 +829,8 @@
         "2026-12-27",
         "2026-12-28",
         "2026-12-31",
-        "2027-01-02"
+        "2027-01-02",
+        "2027-01-03"
       ]
     },
     {
@@ -1414,11 +1411,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-07",
-          "start": "2026-07-07T18:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-21",
           "start": "2026-07-21T17:30:00-07:00",
           "all_day": false
@@ -1445,7 +1437,6 @@
         }
       ],
       "dates": [
-        "2026-07-07",
         "2026-07-21",
         "2026-07-26",
         "2026-07-28",
@@ -1454,9 +1445,9 @@
       ],
       "pattern": "Tue, Fri, Sun",
       "time": "5:30 PM",
-      "next_date": "2026-07-07",
+      "next_date": "2026-07-21",
       "last_date": "2026-08-09",
-      "count": 6
+      "count": 5
     },
     {
       "id": 48217677268364,
@@ -4203,6 +4194,31 @@
       ],
       "dates": [
         "2026-08-17"
+      ]
+    },
+    {
+      "id": 53365630823079,
+      "title": "Evening Curator Talk | Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
+      "url": "https://events.stanford.edu/event/evening-curator-talk-animal-vegetable-nor-mineral-works-by-miljohn-ruperto",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53365630762662/huge/e84ad9905bf462dbae3ab645c508521c9d31b10c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-20",
+          "start": "2026-08-20T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-20"
       ]
     },
     {
