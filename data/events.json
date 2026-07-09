@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T15:22:25+00:00",
+  "generated_at": "2026-07-09T04:58:10+00:00",
   "window": {
-    "start": "2026-07-08",
-    "end": "2027-01-04"
+    "start": "2026-07-09",
+    "end": "2027-01-05"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 15,
-    "dated": 81
+    "dated": 82
   },
   "ongoing": [
     {
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-08",
         "2026-07-09",
         "2026-07-10",
         "2026-07-15",
@@ -239,7 +238,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-08",
         "2026-07-09",
         "2026-07-10",
         "2026-07-11",
@@ -335,7 +333,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-08",
         "2026-07-09",
         "2026-07-10",
         "2026-07-11",
@@ -528,7 +525,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-08",
         "2026-07-09",
         "2026-07-10",
         "2026-07-11",
@@ -608,7 +604,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-08",
         "2026-07-09",
         "2026-07-10",
         "2026-07-13",
@@ -830,7 +825,8 @@
         "2026-12-28",
         "2026-12-31",
         "2027-01-02",
-        "2027-01-03"
+        "2027-01-03",
+        "2027-01-04"
       ]
     },
     {
@@ -2757,11 +2753,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-08",
-          "start": "2026-07-08T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-15",
           "start": "2026-07-15T09:00:00-07:00",
           "all_day": false
@@ -2873,7 +2864,6 @@
         }
       ],
       "dates": [
-        "2026-07-08",
         "2026-07-15",
         "2026-07-22",
         "2026-07-29",
@@ -2899,9 +2889,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-07-08",
+      "next_date": "2026-07-15",
       "last_date": "2026-12-16",
-      "count": 23
+      "count": 22
     }
   ],
   "events": [
@@ -3228,6 +3218,31 @@
         {
           "date": "2026-07-16",
           "start": "2026-07-16T10:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    {
+      "id": 53374541892768,
+      "title": "Humanoid Robots: Lab-to-Market Acceleration",
+      "url": "https://events.stanford.edu/event/humanoid-robots-lab-to-market-acceleration",
+      "experience": "inperson",
+      "location": "The Hub at Stanford Research Park, Stanford Room, 3215 Porter Dr, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53374558531812/huge/f6545fba8eca22b5d229ed008eb1b47926eb1566.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T17:00:00-07:00",
           "all_day": false
         }
       ],
