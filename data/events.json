@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:25:20+00:00",
+  "generated_at": "2026-07-12T14:26:24+00:00",
   "window": {
     "start": "2026-07-12",
     "end": "2027-01-08"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 14,
-    "dated": 77
+    "dated": 79
   },
   "ongoing": [
     {
@@ -4633,6 +4633,74 @@
       ],
       "dates": [
         "2026-10-22"
+      ]
+    },
+    {
+      "id": 53405274133939,
+      "title": "CBD 2026: Afternoon Jasper Ridge Biological Preserve ‘Ootchamin ‘Ooyakma, Contemplative Hikes in Nature",
+      "url": "https://events.stanford.edu/event/copy-of-cbd-2026-jasper-ridge-biological-preserve-ootchamin-ooyakma-contemplative-hikes-in-nature",
+      "experience": "inperson",
+      "location": "140 Searsville Road, 140 Searsville Road Stanford CA",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53405274107314/huge/c8487e9eb7cb05cd4fa8524f6d3c643e65cfc2f3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T12:20:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-24"
+      ]
+    },
+    {
+      "id": 53405561373091,
+      "title": "CBD 2026: Morning Jasper Ridge Biological Preserve ‘Ootchamin ‘Ooyakma, Contemplative Hikes in Nature",
+      "url": "https://events.stanford.edu/event/copy-of-cbd-2026-afternoon-jasper-ridge-biological-preserve-ootchamin-ooyakma-contemplative-hikes-in-nature",
+      "experience": "inperson",
+      "location": "140 Searsville Road, 140 Searsville Road Stanford CA",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53405561349538/huge/d7ba1f3039ffb7933a254e79d068c07666be6db9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T21:20:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-24"
       ]
     },
     {
