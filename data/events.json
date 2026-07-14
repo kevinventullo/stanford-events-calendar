@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T15:44:32+00:00",
+  "generated_at": "2026-07-14T03:56:56+00:00",
   "window": {
-    "start": "2026-07-13",
-    "end": "2027-01-09"
+    "start": "2026-07-14",
+    "end": "2027-01-10"
   },
   "filters": {
     "public_audiences": [
@@ -80,7 +80,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-13",
         "2026-07-14",
         "2026-07-15",
         "2026-07-16",
@@ -151,7 +150,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-07-13",
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
@@ -176,7 +174,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-13",
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
@@ -224,7 +221,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-13",
         "2026-07-14",
         "2026-07-15",
         "2026-07-16",
@@ -315,7 +311,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-13",
         "2026-07-14",
         "2026-07-15",
         "2026-07-16",
@@ -503,7 +498,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-13",
         "2026-07-15",
         "2026-07-16",
         "2026-07-17",
@@ -578,7 +572,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-13",
         "2026-07-14",
         "2026-07-15",
         "2026-07-16",
@@ -639,7 +632,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-07-13",
         "2026-07-17",
         "2026-07-20",
         "2026-07-24",
@@ -675,7 +667,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-13",
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
@@ -795,7 +786,8 @@
         "2027-01-03",
         "2027-01-04",
         "2027-01-07",
-        "2027-01-08"
+        "2027-01-08",
+        "2027-01-09"
       ]
     },
     {
@@ -2721,33 +2713,6 @@
   ],
   "events": [
     {
-      "id": 52621370050813,
-      "title": "SJW Presents: Christina Galisatus Quintet plays Joni Mitchell",
-      "url": "https://events.stanford.edu/event/christina-galisatus-sjw26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621408454898/huge/0f3ec6d01d99374750e0e892428cb35cf5ec0ab3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-13",
-          "start": "2026-07-13T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-13"
-      ]
-    },
-    {
       "id": 52621413341276,
       "title": "SJW Presents: Jimmy Heath Centennial Celebration with Jeb Patton & David Wong",
       "url": "https://events.stanford.edu/event/jeb-patton-david-wong-sjw26",
@@ -3654,6 +3619,34 @@
       ],
       "dates": [
         "2026-08-06"
+      ]
+    },
+    {
+      "id": 53417820706962,
+      "title": "2nd Annual Stanford Cardiothoracic Surgery Research Symposium",
+      "url": "https://events.stanford.edu/event/2nd-annual-stanford-ct-surgery-research-symposium",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Education",
+        "Medicine",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53417844542202/huge/535901283adb0f8e16fb4e962afec32fb616a763.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-07",
+          "start": "2026-08-07T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-07"
       ]
     },
     {
