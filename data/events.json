@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T14:51:50+00:00",
+  "generated_at": "2026-07-15T03:58:09+00:00",
   "window": {
-    "start": "2026-07-14",
-    "end": "2027-01-10"
+    "start": "2026-07-15",
+    "end": "2027-01-11"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 14,
-    "dated": 78
+    "dated": 82
   },
   "ongoing": [
     {
@@ -80,7 +80,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-14",
         "2026-07-15",
         "2026-07-16",
         "2026-07-17",
@@ -221,7 +220,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-14",
         "2026-07-15",
         "2026-07-16",
         "2026-07-17",
@@ -311,7 +309,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-14",
         "2026-07-15",
         "2026-07-16",
         "2026-07-17",
@@ -572,7 +569,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-14",
         "2026-07-15",
         "2026-07-16",
         "2026-07-17",
@@ -787,7 +783,8 @@
         "2027-01-04",
         "2027-01-07",
         "2027-01-08",
-        "2027-01-09"
+        "2027-01-09",
+        "2027-01-10"
       ]
     },
     {
@@ -2713,33 +2710,6 @@
   ],
   "events": [
     {
-      "id": 52621413341276,
-      "title": "SJW Presents: Jimmy Heath Centennial Celebration with Jeb Patton & David Wong",
-      "url": "https://events.stanford.edu/event/jeb-patton-david-wong-sjw26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621427617001/huge/9e3a30fbae1189b071f444cc3138938b5f47e8c4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-14",
-          "start": "2026-07-14T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-14"
-      ]
-    },
-    {
       "id": 52621440677688,
       "title": "SJW Presents: Victor Lin: Gershwin Reimagined",
       "url": "https://events.stanford.edu/event/victor-lin-sjw26",
@@ -3464,6 +3434,64 @@
       ]
     },
     {
+      "id": 53426813502899,
+      "title": "Stanford Cardiovascular Research Symposium 2026",
+      "url": "https://events.stanford.edu/event/stanford-cardiovascular-research-symposium-2026",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, Paul & Mildred Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Career Development",
+        "Medicine",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53426841020240/huge/e958116374f705fa57599d9d3089a04cafffa1ef.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-30",
+          "start": "2026-07-30T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-07-30",
+        "2026-07-31"
+      ]
+    },
+    {
+      "id": 53426319146106,
+      "title": "Shahrnush Parsipur: In Memoriam",
+      "url": "https://events.stanford.edu/event/shahrnush-parsipur-in-memoriam",
+      "experience": "hybrid",
+      "location": "In person at Stanford",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53426379838612/huge/4f7805cdeae946cb6746328cc527d4aedb735d58.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    {
       "id": 52621797803237,
       "title": "SJW Presents: SJW All-Star Jam",
       "url": "https://events.stanford.edu/event/sjw-all-star-jam-2026",
@@ -4072,6 +4100,31 @@
       ]
     },
     {
+      "id": 53428556578558,
+      "title": "Stanford My Heart Counts Cycling Ride",
+      "url": "https://events.stanford.edu/event/stanford-my-heart-counts-cycling-ride",
+      "experience": "inperson",
+      "location": "600 E Meadow Dr, Palo Alto, CA 94303",
+      "types": [
+        "Fitness/Recreational Sport"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53428563503309/huge/73a4f99d87d381577840bed1a31c0903f97eb0bf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-27",
+          "start": "2026-09-27T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-27"
+      ]
+    },
+    {
       "id": 53074254797631,
       "title": "Trust and Safety Research Conference",
       "url": "https://events.stanford.edu/event/trust-and-safety-research-conference-448",
@@ -4503,6 +4556,31 @@
       ]
     },
     {
+      "id": 53427273212211,
+      "title": "Candidate Entry into Local Government",
+      "url": "https://events.stanford.edu/event/candidate-entry-into-local-government",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53427279654145/huge/b743abf1a74dd7ebeef395d54ad10252618e111d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
       "id": 53012995941585,
       "title": "9th Annual Stanford Maternal and Child Health Research Institute Symposium",
       "url": "https://events.stanford.edu/event/9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
@@ -4786,6 +4864,31 @@
       ],
       "dates": [
         "2026-11-16"
+      ]
+    },
+    {
+      "id": 53428011861681,
+      "title": "How New is the New Nuclear Age?",
+      "url": "https://events.stanford.edu/event/how-new-is-the-new-nuclear-age",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53428023399339/huge/b7b48cacb5ba732539971ad28f48f6ff4015edd6.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
       ]
     },
     {
