@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T14:50:38+00:00",
+  "generated_at": "2026-07-16T04:09:00+00:00",
   "window": {
-    "start": "2026-07-15",
-    "end": "2027-01-11"
+    "start": "2026-07-16",
+    "end": "2027-01-12"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 11,
-    "recurring": 14,
-    "dated": 82
+    "recurring": 15,
+    "dated": 80
   },
   "ongoing": [
     {
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-15",
         "2026-07-16",
         "2026-07-17",
         "2026-07-22",
@@ -80,7 +79,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-15",
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
@@ -220,7 +218,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-15",
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
@@ -309,7 +306,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-15",
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
@@ -495,7 +491,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-15",
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
@@ -569,7 +564,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-15",
         "2026-07-16",
         "2026-07-17",
         "2026-07-20",
@@ -784,7 +778,8 @@
         "2027-01-07",
         "2027-01-08",
         "2027-01-09",
-        "2027-01-10"
+        "2027-01-10",
+        "2027-01-11"
       ]
     },
     {
@@ -1306,6 +1301,36 @@
       "next_date": "2026-08-17",
       "last_date": "2026-08-21",
       "count": 5
+    },
+    {
+      "id": 44437607039811,
+      "title": "Lou Henry Hoover Carillon Performance",
+      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
+      "experience": "inperson",
+      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-17",
+          "start": "2026-07-17T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-17"
+      ],
+      "pattern": "Fridays",
+      "time": "5:30 PM",
+      "next_date": "2026-07-17",
+      "last_date": "2026-07-17",
+      "count": 1
     },
     {
       "id": 48217677268364,
@@ -2567,11 +2592,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-15",
-          "start": "2026-07-15T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-22",
           "start": "2026-07-22T09:00:00-07:00",
           "all_day": false
@@ -2678,7 +2698,6 @@
         }
       ],
       "dates": [
-        "2026-07-15",
         "2026-07-22",
         "2026-07-29",
         "2026-08-05",
@@ -2703,67 +2722,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-07-15",
+      "next_date": "2026-07-22",
       "last_date": "2026-12-16",
-      "count": 22
+      "count": 21
     }
   ],
   "events": [
-    {
-      "id": 52621440677688,
-      "title": "SJW Presents: Victor Lin: Gershwin Reimagined",
-      "url": "https://events.stanford.edu/event/victor-lin-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621461423180/huge/93439a22197939292466023805fcba399606071c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-15",
-          "start": "2026-07-15T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-15"
-      ]
-    },
-    {
-      "id": 53171433514524,
-      "title": "Stanford Research Park’s 75th Year Anniversary",
-      "url": "https://events.stanford.edu/event/stanford-research-parks-75th-year-anniversary",
-      "experience": "inperson",
-      "location": "The Hub, Stanford Research Park  3215 Porter Dr, Palo Alto, CA 94304 (free parking at 3165 Porter)",
-      "types": [
-        "Class/Seminar",
-        "Meeting"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Engineering/Technology",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53171441038268/huge/c11a6b4fc5a1d0646cdee7ca3631d093b5577aaa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-15",
-          "start": "2026-07-15T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-15"
-      ]
-    },
     {
       "id": 53056950022573,
       "title": "2026 Japan – U.S. Innovation Awards Symposium",
@@ -2791,6 +2755,31 @@
       ]
     },
     {
+      "id": 52057941525027,
+      "title": "FULL - Evening Curator Talk | Jeremy Frey: Woven",
+      "url": "https://events.stanford.edu/event/copy-of-evening-curator-talk-jeremy-frey-woven",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52057941498399/huge/c00716b692326a9167df277471236d12372a64bf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-16",
+          "start": "2026-07-16T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    {
       "id": 52621492428693,
       "title": "SJW Presents: Michael Mayo Quartet",
       "url": "https://events.stanford.edu/event/michael-mayo-sjw26",
@@ -2810,31 +2799,6 @@
         {
           "date": "2026-07-16",
           "start": "2026-07-16T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-16"
-      ]
-    },
-    {
-      "id": 52057941525027,
-      "title": "SOLD OUT - Evening Curator Talk | Jeremy Frey: Woven",
-      "url": "https://events.stanford.edu/event/copy-of-evening-curator-talk-jeremy-frey-woven",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52057941498399/huge/c00716b692326a9167df277471236d12372a64bf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-16",
-          "start": "2026-07-16T18:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3145,7 +3109,7 @@
     },
     {
       "id": 52940824986379,
-      "title": "Lunchtime Curator Talk | JANE!",
+      "title": "FULL - Lunchtime Curator Talk | JANE!",
       "url": "https://events.stanford.edu/event/lunchtime-curator-talk-jane",
       "experience": "inperson",
       "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
@@ -3625,7 +3589,7 @@
     },
     {
       "id": 52940922988592,
-      "title": "Lunchtime Curator Talk | JANE!",
+      "title": "FULL - Lunchtime Curator Talk | JANE!",
       "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-jane-1387",
       "experience": "inperson",
       "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
@@ -4353,7 +4317,7 @@
       "id": 52739250588724,
       "title": "CBD 2026: Interbeing Meditation: Touching Our Source and Growing Our Connection with Kaira Jewel Lingo",
       "url": "https://events.stanford.edu/event/cbd-2026-interbeing-meditation-with-kaira-jewel-lingo",
-      "experience": "hybrid",
+      "experience": "inperson",
       "location": "Black Community Services Center, Community Room, 418 Santa Teresa Street, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
