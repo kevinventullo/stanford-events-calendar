@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T15:02:38+00:00",
+  "generated_at": "2026-07-17T04:06:39+00:00",
   "window": {
-    "start": "2026-07-16",
-    "end": "2027-01-12"
+    "start": "2026-07-17",
+    "end": "2027-01-13"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 15,
-    "dated": 80
+    "dated": 78
   },
   "ongoing": [
     {
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-22",
         "2026-07-23",
@@ -79,7 +78,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
@@ -147,7 +145,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
@@ -171,7 +168,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
@@ -218,7 +214,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
@@ -306,7 +301,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
@@ -491,7 +485,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
@@ -564,7 +557,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-20",
         "2026-07-21",
@@ -657,7 +649,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-16",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
@@ -2302,11 +2293,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-16",
-          "start": "2026-07-16T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-23",
           "start": "2026-07-23T12:00:00-07:00",
           "all_day": false
@@ -2338,7 +2324,6 @@
         }
       ],
       "dates": [
-        "2026-07-16",
         "2026-07-23",
         "2026-07-30",
         "2026-08-06",
@@ -2348,9 +2333,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12 PM",
-      "next_date": "2026-07-16",
+      "next_date": "2026-07-23",
       "last_date": "2026-08-27",
-      "count": 7
+      "count": 6
     },
     {
       "id": 46378844583273,
@@ -2367,11 +2352,6 @@
       "photo": "https://localist-images.azureedge.net/photos/46378856094012/huge/127f9cd1a479f27de5eb15a64d723b6eb9b00b5f.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-16",
-          "start": "2026-07-16T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-23",
           "start": "2026-07-23T12:30:00-07:00",
@@ -2404,7 +2384,6 @@
         }
       ],
       "dates": [
-        "2026-07-16",
         "2026-07-23",
         "2026-07-30",
         "2026-08-06",
@@ -2414,9 +2393,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12:30 PM",
-      "next_date": "2026-07-16",
+      "next_date": "2026-07-23",
       "last_date": "2026-08-27",
-      "count": 7
+      "count": 6
     },
     {
       "id": 47557682677329,
@@ -2728,113 +2707,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53056950022573,
-      "title": "2026 Japan – U.S. Innovation Awards Symposium",
-      "url": "https://events.stanford.edu/event/copy-of-2025-japan-us-innovation-awards-symposium",
-      "experience": "inperson",
-      "location": "Alumni Center, McCaw Hall, 326 Galvez Street, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53081694861847/huge/03eeaaff46c7582b6c1a177be6fe004a9b58bdfe.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-16",
-          "start": "2026-07-16T10:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-16"
-      ]
-    },
-    {
-      "id": 52057941525027,
-      "title": "FULL - Evening Curator Talk | Jeremy Frey: Woven",
-      "url": "https://events.stanford.edu/event/copy-of-evening-curator-talk-jeremy-frey-woven",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52057941498399/huge/c00716b692326a9167df277471236d12372a64bf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-16",
-          "start": "2026-07-16T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-16"
-      ]
-    },
-    {
-      "id": 52621492428693,
-      "title": "SJW Presents: Michael Mayo Quartet",
-      "url": "https://events.stanford.edu/event/michael-mayo-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621506200951/huge/c8f604c3f8f4a20462b2a6d426cb6ff459437ed7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-16",
-          "start": "2026-07-16T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-16"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-17",
-          "start": "2026-07-17T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-07-24",
-          "start": "2026-07-24T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-17",
-        "2026-07-24"
-      ]
-    },
     {
       "id": 53081717512222,
       "title": "2026 Global Green Development Summit: Energy Innovation Powering AI for a Green Future",
@@ -3157,6 +3029,35 @@
       ],
       "dates": [
         "2026-07-23"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-24",
+          "start": "2026-07-24T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-24",
+        "2026-07-31"
       ]
     },
     {
@@ -4061,6 +3962,31 @@
       ],
       "dates": [
         "2026-09-21"
+      ]
+    },
+    {
+      "id": 53444427372710,
+      "title": "6th Annual Precision Mental Health Symposium: From Circuits to Mindsets: Precision Mental Health in the Real World",
+      "url": "https://events.stanford.edu/event/6th-annual-precision-mental-health-symposium-from-circuits-to-mindsets-precision-mental-health-in-the-real-world",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center for Learning and Knowledge, 291 Campus Drive, Stanford, CA",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53444430753859/huge/f60a21cf6d706226b0d14946fbfb40d1f0865d51.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-25",
+          "start": "2026-09-25T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-25"
       ]
     },
     {
