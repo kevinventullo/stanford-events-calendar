@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T14:43:51+00:00",
+  "generated_at": "2026-07-18T03:54:51+00:00",
   "window": {
-    "start": "2026-07-17",
-    "end": "2027-01-13"
+    "start": "2026-07-18",
+    "end": "2027-01-14"
   },
   "filters": {
     "public_audiences": [
@@ -22,7 +22,7 @@
   },
   "counts": {
     "ongoing": 11,
-    "recurring": 15,
+    "recurring": 14,
     "dated": 78
   },
   "ongoing": [
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-17",
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
@@ -78,7 +77,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
@@ -145,7 +143,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20"
@@ -168,7 +165,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
@@ -214,7 +210,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
@@ -301,7 +296,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
@@ -485,7 +479,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
@@ -557,7 +550,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-17",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -614,7 +606,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-07-17",
         "2026-07-20",
         "2026-07-24",
         "2026-07-27",
@@ -649,7 +640,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
@@ -997,11 +987,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-17",
-          "start": "2026-07-17T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-18",
           "start": "2026-07-18T14:00:00-07:00",
           "all_day": false
@@ -1013,15 +998,14 @@
         }
       ],
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19"
       ],
-      "pattern": "Fri, Sat, Sun",
+      "pattern": "Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-07-17",
+      "next_date": "2026-07-18",
       "last_date": "2026-07-19",
-      "count": 3
+      "count": 2
     },
     {
       "id": 46378544005855,
@@ -1294,36 +1278,6 @@
       "count": 5
     },
     {
-      "id": 44437607039811,
-      "title": "Lou Henry Hoover Carillon Performance",
-      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
-      "experience": "inperson",
-      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-17",
-          "start": "2026-07-17T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-17"
-      ],
-      "pattern": "Fridays",
-      "time": "5:30 PM",
-      "next_date": "2026-07-17",
-      "last_date": "2026-07-17",
-      "count": 1
-    },
-    {
       "id": 48217677268364,
       "title": "Public Tour |  Auguste Rodin",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-auguste-rodin",
@@ -1341,11 +1295,6 @@
       "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-07-17",
-          "start": "2026-07-17T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-18",
           "start": "2026-07-18T11:30:00-07:00",
@@ -1583,7 +1532,6 @@
         }
       ],
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-24",
         "2026-07-25",
@@ -1634,9 +1582,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-07-17",
+      "next_date": "2026-07-18",
       "last_date": "2026-12-26",
-      "count": 48
+      "count": 47
     },
     {
       "id": 48376809728814,
@@ -1656,11 +1604,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-07-17",
-          "start": "2026-07-17T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-18",
           "start": "2026-07-18T13:00:00-07:00",
@@ -2018,7 +1961,6 @@
         }
       ],
       "dates": [
-        "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-24",
@@ -2093,9 +2035,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-07-17",
+      "next_date": "2026-07-18",
       "last_date": "2026-12-27",
-      "count": 72
+      "count": 71
     },
     {
       "id": 38569589895140,
