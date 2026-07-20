@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T14:23:56+00:00",
+  "generated_at": "2026-07-20T04:35:33+00:00",
   "window": {
-    "start": "2026-07-19",
-    "end": "2027-01-15"
+    "start": "2026-07-20",
+    "end": "2027-01-16"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 11,
-    "recurring": 14,
-    "dated": 76
+    "recurring": 13,
+    "dated": 75
   },
   "ongoing": [
     {
@@ -77,7 +77,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-23",
         "2026-07-24",
@@ -142,7 +141,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-07-20",
       "dates": [
-        "2026-07-19",
         "2026-07-20"
       ]
     },
@@ -163,7 +161,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-23",
         "2026-07-24",
@@ -207,7 +204,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -292,7 +288,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -474,7 +469,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
@@ -634,7 +628,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-19",
         "2026-07-20",
         "2026-07-23",
         "2026-07-24",
@@ -754,7 +747,8 @@
         "2027-01-09",
         "2027-01-10",
         "2027-01-11",
-        "2027-01-14"
+        "2027-01-14",
+        "2027-01-15"
       ]
     },
     {
@@ -966,36 +960,6 @@
       "count": 10
     },
     {
-      "id": 52562052023179,
-      "title": "Gallery Conversations | Jeremy Frey: Woven",
-      "url": "https://events.stanford.edu/event/gallery-conversation-jeremy-frey-woven",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52562139192886/huge/325ab8da0a5f1a53cdb435ec41d18aae44f574fd.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-19",
-          "start": "2026-07-19T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-19"
-      ],
-      "pattern": "Sundays",
-      "time": "2 PM",
-      "next_date": "2026-07-19",
-      "last_date": "2026-07-19",
-      "count": 1
-    },
-    {
       "id": 46378544005855,
       "title": "Highlights Tour | Anderson Collection",
       "url": "https://events.stanford.edu/event/highlight-tour",
@@ -1010,11 +974,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-19",
-          "start": "2026-07-19T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-25",
           "start": "2026-07-25T12:30:00-07:00",
@@ -1077,7 +1036,6 @@
         }
       ],
       "dates": [
-        "2026-07-19",
         "2026-07-25",
         "2026-07-26",
         "2026-08-01",
@@ -1093,9 +1051,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-07-19",
+      "next_date": "2026-07-25",
       "last_date": "2026-08-30",
-      "count": 13
+      "count": 12
     },
     {
       "id": 47049266947082,
@@ -1112,11 +1070,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-19",
-          "start": "2026-07-19T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-25",
           "start": "2026-07-25T14:30:00-07:00",
@@ -1179,7 +1132,6 @@
         }
       ],
       "dates": [
-        "2026-07-19",
         "2026-07-25",
         "2026-07-26",
         "2026-08-01",
@@ -1195,9 +1147,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-07-19",
+      "next_date": "2026-07-25",
       "last_date": "2026-08-30",
-      "count": 13
+      "count": 12
     },
     {
       "id": 52489460033306,
@@ -2016,11 +1968,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-19",
-          "start": "2026-07-19T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-16",
           "start": "2026-08-16T14:00:00-07:00",
           "all_day": false
@@ -2047,7 +1994,6 @@
         }
       ],
       "dates": [
-        "2026-07-19",
         "2026-08-16",
         "2026-09-20",
         "2026-10-18",
@@ -2056,9 +2002,9 @@
       ],
       "pattern": "Sundays",
       "time": "2 PM",
-      "next_date": "2026-07-19",
+      "next_date": "2026-08-16",
       "last_date": "2026-12-20",
-      "count": 6
+      "count": 5
     },
     {
       "id": 40909411691045,
@@ -2601,67 +2547,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53004541128514,
-      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-museum-9629",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53004541056832/huge/a31797a7ed6091ab48a32ed4c2dc730b3c8e6b48.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-19",
-          "start": "2026-07-19T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-19",
-        "2026-08-16"
-      ]
-    },
-    {
-      "id": 52621528332302,
-      "title": "SJW Presents: The Westerlies",
-      "url": "https://events.stanford.edu/event/the-westerlies-sjw26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621543594358/huge/a7d2ad197007f9e7cdd359786b902ed3ec72df79.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-19",
-          "start": "2026-07-19T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-19"
-      ]
-    },
     {
       "id": 53241120744177,
       "title": "eWEAR Seminar: Intelligent Wearables",
@@ -3566,6 +3451,34 @@
         {
           "date": "2026-08-16",
           "start": "2026-08-16T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-16"
+      ]
+    },
+    {
+      "id": 53004541128514,
+      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-museum-9629",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53004541056832/huge/a31797a7ed6091ab48a32ed4c2dc730b3c8e6b48.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T14:00:00-07:00",
           "all_day": false
         }
       ],
