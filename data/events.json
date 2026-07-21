@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T15:11:39+00:00",
+  "generated_at": "2026-07-21T04:15:31+00:00",
   "window": {
-    "start": "2026-07-20",
-    "end": "2027-01-16"
+    "start": "2026-07-21",
+    "end": "2027-01-17"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 11,
+    "ongoing": 10,
     "recurring": 13,
-    "dated": 75
+    "dated": 74
   },
   "ongoing": [
     {
@@ -77,7 +77,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-20",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -123,28 +122,6 @@
       ]
     },
     {
-      "id": 52888194290224,
-      "title": "Jeremy Frey: Woven",
-      "url": "https://events.stanford.edu/event/jeremy-frey-woven-700",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Lynn Krywick Gibbons Gallery and Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52888262531630/huge/56af8d4aa0b103286b5a65fa29d427579e94fb51.jpg",
-      "free": false,
-      "first_date": "2026-03-26",
-      "last_date": "2026-07-20",
-      "dates": [
-        "2026-07-20"
-      ]
-    },
-    {
       "id": 52331703768568,
       "title": "1,000 Ways to Hold: A New Work By Erika Chong Shuch",
       "url": "https://events.stanford.edu/event/1000-ways-to-hold-a-new-work-by-erika-chong-shuch",
@@ -161,7 +138,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-20",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -204,7 +180,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-20",
         "2026-07-21",
         "2026-07-22",
         "2026-07-23",
@@ -288,7 +263,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-20",
         "2026-07-21",
         "2026-07-22",
         "2026-07-23",
@@ -469,7 +443,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-20",
         "2026-07-21",
         "2026-07-22",
         "2026-07-23",
@@ -538,7 +511,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-20",
         "2026-07-21",
         "2026-07-22",
         "2026-07-23",
@@ -594,7 +566,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-07-20",
         "2026-07-24",
         "2026-07-27",
         "2026-07-31",
@@ -628,7 +599,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-20",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -748,7 +718,8 @@
         "2027-01-10",
         "2027-01-11",
         "2027-01-14",
-        "2027-01-15"
+        "2027-01-15",
+        "2027-01-16"
       ]
     },
     {
@@ -2548,84 +2519,6 @@
   ],
   "events": [
     {
-      "id": 53241120744177,
-      "title": "eWEAR Seminar: Intelligent Wearables",
-      "url": "https://events.stanford.edu/event/ewear-seminar-july-tbd",
-      "experience": "hybrid",
-      "location": "Spilker, 232, 348 Via Pueblo Mall, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Science",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53356963221535/huge/be647251acc0b5eff79d672562a7c89259b4967a.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-20",
-          "start": "2026-07-20T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-20"
-      ]
-    },
-    {
-      "id": 52137314071164,
-      "title": "July Museum Minis: Storytime at the Anderson",
-      "url": "https://events.stanford.edu/event/july-museum-minis-storytime",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53286151280576/huge/5cb859a6895d925382b038887f6c7e6cd2475855.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-20",
-          "start": "2026-07-20T11:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-20"
-      ]
-    },
-    {
-      "id": 52621549453920,
-      "title": "SJW Presents: Anisha Rush Quartet & Ben Flocks – Moonshades",
-      "url": "https://events.stanford.edu/event/anisha-rush-ben-flocks-sjw26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621570394547/huge/a525a0c31bb74065fa9212b4c00a2a5c7928270b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-20",
-          "start": "2026-07-20T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-20"
-      ]
-    },
-    {
       "id": 52621576341996,
       "title": "SJW Presents: Miles Davis Centennial Celebration featuring Jeremy Pelt",
       "url": "https://events.stanford.edu/event/miles-davis-celebration-sjw26",
@@ -3380,6 +3273,31 @@
       ]
     },
     {
+      "id": 53482013632404,
+      "title": "Gabriel Zucman on The Case for California's Billionaire Wealth Tax",
+      "url": "https://events.stanford.edu/event/taxbillionaires",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53482031287354/huge/bdb5ef1897154ac89c08c3813de00a4966eaba45.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-10",
+          "start": "2026-08-10T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    {
       "id": 48049248605453,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5766",
@@ -3847,6 +3765,33 @@
       ],
       "dates": [
         "2026-10-02"
+      ]
+    },
+    {
+      "id": 53481197165495,
+      "title": "Forms & Frequencies | Temporary Body by Jerron Herman",
+      "url": "https://events.stanford.edu/event/forms-frequencies-temporary-body-by-jerron-herman",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Cantor Auditorium and Lobby, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Theater/Dance",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53481228634698/huge/4b85cfde540cdae8cf7c4ad704cce3180490543c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
       ]
     },
     {
