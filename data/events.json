@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T15:04:20+00:00",
+  "generated_at": "2026-07-22T04:16:48+00:00",
   "window": {
-    "start": "2026-07-21",
-    "end": "2027-01-17"
+    "start": "2026-07-22",
+    "end": "2027-01-18"
   },
   "filters": {
     "public_audiences": [
@@ -180,7 +180,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-21",
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
@@ -263,7 +262,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-21",
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
@@ -443,7 +441,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-21",
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
@@ -511,7 +508,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-21",
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
@@ -719,7 +715,8 @@
         "2027-01-11",
         "2027-01-14",
         "2027-01-15",
-        "2027-01-16"
+        "2027-01-16",
+        "2027-01-17"
       ]
     },
     {
@@ -2518,33 +2515,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52621576341996,
-      "title": "SJW Presents: Miles Davis Centennial Celebration featuring Jeremy Pelt",
-      "url": "https://events.stanford.edu/event/miles-davis-celebration-sjw26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621600079676/huge/954ba6d202b66f74ae30df32b36acbe4efe4ccc0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-21",
-          "start": "2026-07-21T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-21"
-      ]
-    },
     {
       "id": 53242904770086,
       "title": "Public Lecture: Rocky Exoplanet Atmospheres",
@@ -4397,6 +4367,31 @@
         {
           "date": "2026-10-29",
           "start": "2026-10-29T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
+      "id": 53481317822232,
+      "title": "Worse than War: The Global Costs of Violence",
+      "url": "https://events.stanford.edu/event/worse-than-war-the-global-costs-of-violence",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53490419418205/huge/ef42b4d041ebf989d6b791d28df7bc3dc65545af.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T15:30:00-07:00",
           "all_day": false
         }
       ],
