@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T15:04:18+00:00",
+  "generated_at": "2026-07-23T04:15:16+00:00",
   "window": {
-    "start": "2026-07-22",
-    "end": "2027-01-18"
+    "start": "2026-07-23",
+    "end": "2027-01-19"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 10,
     "recurring": 13,
-    "dated": 74
+    "dated": 75
   },
   "ongoing": [
     {
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-22",
         "2026-07-23",
         "2026-07-24",
         "2026-07-29",
@@ -180,7 +179,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-22",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -262,7 +260,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-22",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -441,7 +438,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-22",
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
@@ -508,7 +504,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-22",
         "2026-07-23",
         "2026-07-24",
         "2026-07-27",
@@ -716,7 +711,8 @@
         "2027-01-14",
         "2027-01-15",
         "2027-01-16",
-        "2027-01-17"
+        "2027-01-17",
+        "2027-01-18"
       ]
     },
     {
@@ -2379,11 +2375,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-22",
-          "start": "2026-07-22T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-29",
           "start": "2026-07-29T09:00:00-07:00",
           "all_day": false
@@ -2485,7 +2476,6 @@
         }
       ],
       "dates": [
-        "2026-07-22",
         "2026-07-29",
         "2026-08-05",
         "2026-08-12",
@@ -2509,64 +2499,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-07-22",
+      "next_date": "2026-07-29",
       "last_date": "2026-12-16",
-      "count": 21
+      "count": 20
     }
   ],
   "events": [
-    {
-      "id": 53242904770086,
-      "title": "Public Lecture: Rocky Exoplanet Atmospheres",
-      "url": "https://events.stanford.edu/event/public-lecture-rocky-exoplanet-atmospheres",
-      "experience": "hybrid",
-      "location": "Sapp Center for Science Teaching and Learning, 111, 376 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53242929382162/huge/65d12fb19984282658109e8fbd83086e960a5bf8.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-22",
-          "start": "2026-07-22T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-22"
-      ]
-    },
-    {
-      "id": 52621603442587,
-      "title": "SJW Presents: Ruth Davies’ Blues Night featuring Sean “Mack” McDonald",
-      "url": "https://events.stanford.edu/event/ruth-davies-blues-night-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621624466046/huge/bcf7f991a35364d15bc985abb472ef014219bf74.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-22",
-          "start": "2026-07-22T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-22"
-      ]
-    },
     {
       "id": 52940824986379,
       "title": "FULL - Lunchtime Curator Talk | JANE!",
@@ -2857,6 +2795,32 @@
       ],
       "dates": [
         "2026-07-29"
+      ]
+    },
+    {
+      "id": 53498047619757,
+      "title": "Fragile Frames: Early 20th Century Nitrate Cinema, remarks by Victor Davis Hanson",
+      "url": "https://events.stanford.edu/event/fragile-frames-early-20th-century-nitrate-cinema-remarks-by-victor-davis-hanson",
+      "experience": "inperson",
+      "location": "Hoover Institution, David & Joan Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53498065095423/huge/e406e0b146f7272a20ffbcbbc269abdba1c3c674.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-30",
+          "start": "2026-07-30T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-30"
       ]
     },
     {
@@ -3260,6 +3224,32 @@
         {
           "date": "2026-08-10",
           "start": "2026-08-10T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    {
+      "id": 53496913390594,
+      "title": "How to Invent: A 37-Year Journey with OLEDs",
+      "url": "https://events.stanford.edu/event/how-to-invent-a-37-year-journey-with-oleds",
+      "experience": "hybrid",
+      "location": "Allen Building Annex, 101X auditorium, 330 Jane Stanford Way Stanford",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53496939091624/huge/1241929366071f87fbe3b065b8e76c826eccb2a1.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-10",
+          "start": "2026-08-10T14:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4114,8 +4104,33 @@
       ]
     },
     {
+      "id": 53499289648508,
+      "title": "Strategic Stability during the Cold War and Beyond",
+      "url": "https://events.stanford.edu/event/strategic-stability-during-the-cold-war-and-beyond",
+      "experience": "inperson",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53499310406084/huge/8d47d5345dbe21794ef30ce7ed4b05d76cc92c80.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
       "id": 53427273212211,
-      "title": "Candidate Entry into Local Government",
+      "title": "Candidate Entry into Local Government - Katherine Casey",
       "url": "https://events.stanford.edu/event/candidate-entry-into-local-government",
       "experience": "inperson",
       "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
@@ -4123,7 +4138,8 @@
         "Lecture/Presentation/Talk"
       ],
       "subjects": [
-        "Law/Public Policy/Politics"
+        "Humanities",
+        "Diversity/Identity"
       ],
       "photo": "https://localist-images.azureedge.net/photos/53427279654145/huge/b743abf1a74dd7ebeef395d54ad10252618e111d.jpg",
       "free": false,
