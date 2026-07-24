@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T15:08:48+00:00",
+  "generated_at": "2026-07-24T04:14:24+00:00",
   "window": {
-    "start": "2026-07-23",
-    "end": "2027-01-19"
+    "start": "2026-07-24",
+    "end": "2027-01-20"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 10,
-    "recurring": 13,
-    "dated": 75
+    "recurring": 14,
+    "dated": 77
   },
   "ongoing": [
     {
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-29",
         "2026-07-30",
@@ -76,7 +75,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
@@ -137,7 +135,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
@@ -179,7 +176,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
@@ -260,7 +256,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
@@ -438,7 +433,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
@@ -504,7 +498,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-27",
         "2026-07-28",
@@ -590,7 +583,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-23",
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
@@ -1491,18 +1483,8 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-24",
-          "start": "2026-07-24T13:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-25",
           "start": "2026-07-25T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-07-26",
-          "start": "2026-07-26T13:00:00-07:00",
           "all_day": false
         },
         {
@@ -1513,11 +1495,6 @@
         {
           "date": "2026-08-01",
           "start": "2026-08-01T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-02",
-          "start": "2026-08-02T13:00:00-07:00",
           "all_day": false
         },
         {
@@ -1837,12 +1814,9 @@
         }
       ],
       "dates": [
-        "2026-07-24",
         "2026-07-25",
-        "2026-07-26",
         "2026-07-31",
         "2026-08-01",
-        "2026-08-02",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -1909,9 +1883,138 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-07-24",
+      "next_date": "2026-07-25",
       "last_date": "2026-12-27",
-      "count": 69
+      "count": 66
+    },
+    {
+      "id": 53507974492381,
+      "title": "Public Tour | Cantor Highlights: 3 PM",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-3-pm-7463",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53507974444251/huge/9f891abcdc1b7bf4e620ef736a9ab23262eb6200.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-25",
+          "start": "2026-07-25T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-01",
+          "start": "2026-08-01T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-08",
+          "start": "2026-08-08T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-09",
+          "start": "2026-08-09T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-30",
+          "start": "2026-08-30T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-05",
+          "start": "2026-09-05T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-06",
+          "start": "2026-09-06T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-13",
+          "start": "2026-09-13T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-19",
+          "start": "2026-09-19T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-27",
+          "start": "2026-09-27T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-25",
+        "2026-08-01",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-22",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "3 PM",
+      "next_date": "2026-07-25",
+      "last_date": "2026-09-27",
+      "count": 17
     },
     {
       "id": 38569589895140,
@@ -2103,11 +2206,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-23",
-          "start": "2026-07-23T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-30",
           "start": "2026-07-30T12:00:00-07:00",
           "all_day": false
@@ -2134,7 +2232,6 @@
         }
       ],
       "dates": [
-        "2026-07-23",
         "2026-07-30",
         "2026-08-06",
         "2026-08-13",
@@ -2143,9 +2240,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12 PM",
-      "next_date": "2026-07-23",
+      "next_date": "2026-07-30",
       "last_date": "2026-08-27",
-      "count": 6
+      "count": 5
     },
     {
       "id": 46378844583273,
@@ -2162,11 +2259,6 @@
       "photo": "https://localist-images.azureedge.net/photos/46378856094012/huge/127f9cd1a479f27de5eb15a64d723b6eb9b00b5f.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-23",
-          "start": "2026-07-23T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-07-30",
           "start": "2026-07-30T12:30:00-07:00",
@@ -2194,7 +2286,6 @@
         }
       ],
       "dates": [
-        "2026-07-23",
         "2026-07-30",
         "2026-08-06",
         "2026-08-13",
@@ -2203,9 +2294,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12:30 PM",
-      "next_date": "2026-07-23",
+      "next_date": "2026-07-30",
       "last_date": "2026-08-27",
-      "count": 6
+      "count": 5
     },
     {
       "id": 47557682677329,
@@ -2506,84 +2597,43 @@
   ],
   "events": [
     {
-      "id": 52940824986379,
-      "title": "FULL - Lunchtime Curator Talk | JANE!",
-      "url": "https://events.stanford.edu/event/lunchtime-curator-talk-jane",
+      "id": 53312065636549,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
+      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm-473",
       "experience": "inperson",
-      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52940921332671/huge/4e33616e7410a0008415d1f73e46575a8cb5aed4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-23",
-          "start": "2026-07-23T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-23"
-      ]
-    },
-    {
-      "id": 52621629777832,
-      "title": "SJW Presents: Stefon Harris & Blackout",
-      "url": "https://events.stanford.edu/event/stefon-harris-blackout-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621641544286/huge/bb14e251197d6b6d07d86333584c2fb19e3bb70c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-23",
-          "start": "2026-07-23T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-23"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
       "types": [
         "Tour"
       ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312065583299/huge/936e9d760bf420b9aa8026fa3794546b97736321.jpg",
       "free": false,
       "instances": [
         {
           "date": "2026-07-24",
-          "start": "2026-07-24T15:00:00-07:00",
+          "start": "2026-07-24T13:00:00-07:00",
           "all_day": false
         },
         {
-          "date": "2026-07-31",
-          "start": "2026-07-31T15:00:00-07:00",
+          "date": "2026-07-26",
+          "start": "2026-07-26T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T13:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
         "2026-07-24",
-        "2026-07-31"
+        "2026-07-26",
+        "2026-08-02"
       ]
     },
     {
@@ -2635,6 +2685,40 @@
       ],
       "dates": [
         "2026-07-25"
+      ]
+    },
+    {
+      "id": 53312069814495,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 3 PM",
+      "url": "https://events.stanford.edu/event/copy-of-copy-of-cancelled-public-tour-cantor-highlights-1-pm",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312069784797/huge/4bb79fcede5ac52f62ff65a8b34c2513a253fc37.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-26",
+          "start": "2026-07-26T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-26",
+        "2026-08-02"
       ]
     },
     {
@@ -2881,6 +2965,35 @@
       "dates": [
         "2026-07-30",
         "2026-07-31"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-07",
+          "start": "2026-08-07T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-31",
+        "2026-08-07"
       ]
     },
     {
@@ -3864,7 +3977,7 @@
       "instances": [
         {
           "date": "2026-10-15",
-          "start": "2026-10-15T12:00:00-07:00",
+          "start": "2026-10-15T23:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4366,6 +4479,31 @@
       ]
     },
     {
+      "id": 53507917771114,
+      "title": "After Fission: Recognition and Contestation in the Atomic Age",
+      "url": "https://events.stanford.edu/event/after-fission-recognition-and-contestation-in-the-atomic-age",
+      "experience": "inperson",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53507950833369/huge/1b2512130a666f1510358ea93ba9d900589ee52f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 52144974566394,
       "title": "Weintz Art Lecture Series: Elizabeth Dospěl Williams",
       "url": "https://events.stanford.edu/event/weintz-art-lecture-series-elizabeth-dospel-williams-2203",
@@ -4564,6 +4702,31 @@
       ],
       "dates": [
         "2026-12-10"
+      ]
+    },
+    {
+      "id": 53286220531217,
+      "title": "January Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/January-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286232796503/huge/b032dd6ed4b68adb24bc974c2b5afaadfbc1a8ca.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-01-19",
+          "start": "2027-01-19T11:15:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-19"
       ]
     }
   ]
