@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T14:54:51+00:00",
+  "generated_at": "2026-07-25T04:13:45+00:00",
   "window": {
-    "start": "2026-07-24",
-    "end": "2027-01-20"
+    "start": "2026-07-25",
+    "end": "2027-01-21"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 10,
     "recurring": 14,
-    "dated": 77
+    "dated": 76
   },
   "ongoing": [
     {
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-24",
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
@@ -75,7 +74,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-24",
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
@@ -135,7 +133,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-24",
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
@@ -176,7 +173,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-24",
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
@@ -256,7 +252,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-24",
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
@@ -433,7 +428,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-24",
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
@@ -498,7 +492,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-24",
         "2026-07-27",
         "2026-07-28",
         "2026-07-29",
@@ -550,7 +543,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-07-24",
         "2026-07-27",
         "2026-07-31",
         "2026-08-03",
@@ -583,7 +575,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-24",
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
@@ -847,11 +838,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-24",
-          "start": "2026-07-24T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-14",
           "start": "2026-08-14T12:00:00-07:00",
           "all_day": false
@@ -898,7 +884,6 @@
         }
       ],
       "dates": [
-        "2026-07-24",
         "2026-08-14",
         "2026-08-28",
         "2026-09-11",
@@ -911,9 +896,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-07-24",
+      "next_date": "2026-08-14",
       "last_date": "2027-01-08",
-      "count": 10
+      "count": 9
     },
     {
       "id": 46378544005855,
@@ -1180,11 +1165,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-24",
-          "start": "2026-07-24T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-25",
           "start": "2026-07-25T11:30:00-07:00",
           "all_day": false
@@ -1411,7 +1391,6 @@
         }
       ],
       "dates": [
-        "2026-07-24",
         "2026-07-25",
         "2026-07-31",
         "2026-08-01",
@@ -1460,9 +1439,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-07-24",
+      "next_date": "2026-07-25",
       "last_date": "2026-12-26",
-      "count": 46
+      "count": 45
     },
     {
       "id": 48376809728814,
@@ -2597,70 +2576,6 @@
   ],
   "events": [
     {
-      "id": 53312065636549,
-      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
-      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm-473",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53312065583299/huge/936e9d760bf420b9aa8026fa3794546b97736321.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-24",
-          "start": "2026-07-24T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-07-26",
-          "start": "2026-07-26T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-02",
-          "start": "2026-08-02T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-24",
-        "2026-07-26",
-        "2026-08-02"
-      ]
-    },
-    {
-      "id": 51934603837549,
-      "title": "Info session for Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-4105",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/51934608620606/huge/b324d6a4ca351d14faf87b5092a522ce271ae7fb.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-24",
-          "start": "2026-07-24T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-24"
-      ]
-    },
-    {
       "id": 52621649163647,
       "title": "SJW Presents: Yilian Cañizares Trio",
       "url": "https://events.stanford.edu/event/yilian-canizares-sjw26",
@@ -2685,6 +2600,40 @@
       ],
       "dates": [
         "2026-07-25"
+      ]
+    },
+    {
+      "id": 53312065636549,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
+      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm-473",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312065583299/huge/936e9d760bf420b9aa8026fa3794546b97736321.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-26",
+          "start": "2026-07-26T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-26",
+        "2026-08-02"
       ]
     },
     {
@@ -3322,7 +3271,7 @@
     {
       "id": 53482013632404,
       "title": "Gabriel Zucman on The Case for California's Billionaire Wealth Tax",
-      "url": "https://events.stanford.edu/event/taxbillionaires",
+      "url": "https://events.stanford.edu/event/billionairewealthtax",
       "experience": "inperson",
       "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
       "types": [
@@ -3331,7 +3280,7 @@
       "subjects": [
         "Business"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53482031287354/huge/bdb5ef1897154ac89c08c3813de00a4966eaba45.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53517341902203/huge/3492817e26983cf8cc870a47fde9fca3959beed9.jpg",
       "free": false,
       "instances": [
         {
