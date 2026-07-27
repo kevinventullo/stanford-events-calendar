@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26T14:28:40+00:00",
+  "generated_at": "2026-07-27T04:36:43+00:00",
   "window": {
-    "start": "2026-07-26",
-    "end": "2027-01-22"
+    "start": "2026-07-27",
+    "end": "2027-01-23"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 10,
     "recurring": 14,
-    "dated": 75
+    "dated": 74
   },
   "ongoing": [
     {
@@ -74,7 +74,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-26",
         "2026-07-27",
         "2026-07-30",
         "2026-07-31",
@@ -132,7 +131,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-26",
         "2026-07-27",
         "2026-07-30",
         "2026-07-31",
@@ -171,7 +169,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-26",
         "2026-07-27",
         "2026-07-28",
         "2026-07-29",
@@ -249,7 +246,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-26",
         "2026-07-27",
         "2026-07-28",
         "2026-07-29",
@@ -424,7 +420,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-26",
         "2026-07-27",
         "2026-07-28",
         "2026-07-29",
@@ -570,7 +565,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-26",
         "2026-07-27",
         "2026-07-30",
         "2026-07-31",
@@ -690,7 +684,8 @@
         "2027-01-16",
         "2027-01-17",
         "2027-01-18",
-        "2027-01-21"
+        "2027-01-21",
+        "2027-01-22"
       ]
     },
     {
@@ -876,6 +871,11 @@
           "date": "2027-01-08",
           "start": "2027-01-08T12:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-01-22",
+          "start": "2027-01-22T12:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -887,13 +887,14 @@
         "2026-10-23",
         "2026-11-13",
         "2026-12-11",
-        "2027-01-08"
+        "2027-01-08",
+        "2027-01-22"
       ],
       "pattern": "Fridays",
       "time": "12 PM",
       "next_date": "2026-08-14",
-      "last_date": "2027-01-08",
-      "count": 9
+      "last_date": "2027-01-22",
+      "count": 10
     },
     {
       "id": 46378544005855,
@@ -910,11 +911,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-26",
-          "start": "2026-07-26T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-01",
           "start": "2026-08-01T12:30:00-07:00",
@@ -967,7 +963,6 @@
         }
       ],
       "dates": [
-        "2026-07-26",
         "2026-08-01",
         "2026-08-02",
         "2026-08-08",
@@ -981,9 +976,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-07-26",
+      "next_date": "2026-08-01",
       "last_date": "2026-08-30",
-      "count": 11
+      "count": 10
     },
     {
       "id": 47049266947082,
@@ -1000,11 +995,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-26",
-          "start": "2026-07-26T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-01",
           "start": "2026-08-01T14:30:00-07:00",
@@ -1057,7 +1047,6 @@
         }
       ],
       "dates": [
-        "2026-07-26",
         "2026-08-01",
         "2026-08-02",
         "2026-08-08",
@@ -1071,9 +1060,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-07-26",
+      "next_date": "2026-08-01",
       "last_date": "2026-08-30",
-      "count": 11
+      "count": 10
     },
     {
       "id": 52489460033306,
@@ -2035,11 +2024,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-07-26",
-          "start": "2026-07-26T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-23",
           "start": "2026-08-23T11:30:00-07:00",
           "all_day": false
@@ -2066,7 +2050,6 @@
         }
       ],
       "dates": [
-        "2026-07-26",
         "2026-08-23",
         "2026-09-27",
         "2026-10-25",
@@ -2075,9 +2058,9 @@
       ],
       "pattern": "Sundays",
       "time": "11:30 AM",
-      "next_date": "2026-07-26",
+      "next_date": "2026-08-23",
       "last_date": "2026-12-27",
-      "count": 6
+      "count": 5
     },
     {
       "id": 51375729019846,
@@ -2535,101 +2518,6 @@
   ],
   "events": [
     {
-      "id": 53312065636549,
-      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
-      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm-473",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53312065583299/huge/936e9d760bf420b9aa8026fa3794546b97736321.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-26",
-          "start": "2026-07-26T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-02",
-          "start": "2026-08-02T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-26",
-        "2026-08-02"
-      ]
-    },
-    {
-      "id": 53312069814495,
-      "title": "[Cancelled] Public Tour | Cantor Highlights: 3 PM",
-      "url": "https://events.stanford.edu/event/copy-of-copy-of-cancelled-public-tour-cantor-highlights-1-pm",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53312069784797/huge/4bb79fcede5ac52f62ff65a8b34c2513a253fc37.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-26",
-          "start": "2026-07-26T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-02",
-          "start": "2026-08-02T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-26",
-        "2026-08-02"
-      ]
-    },
-    {
-      "id": 52621670794124,
-      "title": "SJW Presents: Sasha Berliner",
-      "url": "https://events.stanford.edu/event/sasha-berliner-sjw26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621685675435/huge/905dbf56c51f8c6742e2c192ca17631f8a7f398c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-26",
-          "start": "2026-07-26T20:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-26"
-      ]
-    },
-    {
       "id": 52621691779990,
       "title": "SJW Presents: Guitar Night featuring Camila Meza & Dan Wilson",
       "url": "https://events.stanford.edu/event/guitar-night-sjw26",
@@ -3006,6 +2894,62 @@
       ],
       "dates": [
         "2026-08-01"
+      ]
+    },
+    {
+      "id": 53312065636549,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
+      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-cantor-highlights-1-pm-473",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312065583299/huge/936e9d760bf420b9aa8026fa3794546b97736321.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-02"
+      ]
+    },
+    {
+      "id": 53312069814495,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 3 PM",
+      "url": "https://events.stanford.edu/event/copy-of-copy-of-cancelled-public-tour-cantor-highlights-1-pm",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312069784797/huge/4bb79fcede5ac52f62ff65a8b34c2513a253fc37.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-02",
+          "start": "2026-08-02T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-02"
       ]
     },
     {
