@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T15:42:13+00:00",
+  "generated_at": "2026-07-28T04:09:27+00:00",
   "window": {
-    "start": "2026-07-27",
-    "end": "2027-01-23"
+    "start": "2026-07-28",
+    "end": "2027-01-24"
   },
   "filters": {
     "public_audiences": [
@@ -21,11 +21,50 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 10,
+    "ongoing": 11,
     "recurring": 14,
-    "dated": 74
+    "dated": 75
   },
   "ongoing": [
+    {
+      "id": 51827589730708,
+      "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
+      "url": "https://events.stanford.edu/event/neurocrine",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/51827731132628/huge/beb89c9caa35c6e6186528e901dbf9ade4f7a104.jpg",
+      "free": false,
+      "first_date": "2026-01-14",
+      "last_date": "2026-08-16",
+      "dates": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16"
+      ]
+    },
     {
       "id": 52127684778082,
       "title": "You Are Here: Transit Cartography & Spatial Identity",
@@ -74,7 +113,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-27",
         "2026-07-30",
         "2026-07-31",
         "2026-08-01",
@@ -131,7 +169,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-27",
         "2026-07-30",
         "2026-07-31",
         "2026-08-01",
@@ -169,7 +206,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-27",
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
@@ -246,7 +282,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-27",
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
@@ -420,7 +455,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-27",
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
@@ -482,7 +516,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-27",
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
@@ -533,7 +566,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-07-27",
         "2026-07-31",
         "2026-08-03",
         "2026-08-07",
@@ -565,7 +597,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-27",
         "2026-07-30",
         "2026-07-31",
         "2026-08-01",
@@ -685,7 +716,8 @@
         "2027-01-17",
         "2027-01-18",
         "2027-01-21",
-        "2027-01-22"
+        "2027-01-22",
+        "2027-01-23"
       ]
     },
     {
@@ -2518,33 +2550,6 @@
   ],
   "events": [
     {
-      "id": 52621691779990,
-      "title": "SJW Presents: Guitar Night featuring Camila Meza & Dan Wilson",
-      "url": "https://events.stanford.edu/event/guitar-night-sjw26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621703980064/huge/37a6afb7fefeaa137f2c02a2c074fcf4e6fca2ab.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-27",
-          "start": "2026-07-27T20:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-27"
-      ]
-    },
-    {
       "id": 53233743685869,
       "title": "A Talk with Mensun Bound: Finding Shackleton’s Endurance",
       "url": "https://events.stanford.edu/event/a-talk-with-mensun-bound-finding-shackletons-endurance",
@@ -2569,6 +2574,43 @@
       ],
       "dates": [
         "2026-07-28"
+      ]
+    },
+    {
+      "id": 53544075714989,
+      "title": "Frontier and Pioneer Medal Symposium and Ceremony",
+      "url": "https://events.stanford.edu/event/frontier-and-pioneer-medal-symposium-and-ceremony",
+      "experience": "inperson",
+      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53544104761292/huge/011e671cd6297dc9334ad4c872f2cd5e760eab87.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-07-28",
+          "start": "2026-07-28T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-29",
+          "start": "2026-07-29T09:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-07-30",
+          "start": "2026-07-30T09:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     {
@@ -4376,6 +4418,31 @@
       ],
       "dates": [
         "2026-10-29"
+      ]
+    },
+    {
+      "id": 53543265910564,
+      "title": "Electrophysiology in the West 2026",
+      "url": "https://events.stanford.edu/event/electrophysiology-in-the-west-2026",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center for Learning and Knowledge, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53543268047531/huge/7d917ec45eddad4b05242725cd9b1f4965692f86.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T07:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30"
       ]
     },
     {
