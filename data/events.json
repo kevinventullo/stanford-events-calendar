@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T15:21:38+00:00",
+  "generated_at": "2026-07-29T04:12:20+00:00",
   "window": {
-    "start": "2026-07-28",
-    "end": "2027-01-24"
+    "start": "2026-07-29",
+    "end": "2027-01-25"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 11,
-    "recurring": 14,
-    "dated": 75
+    "ongoing": 12,
+    "recurring": 15,
+    "dated": 73
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-07-28",
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
@@ -206,7 +205,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-28",
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
@@ -282,7 +280,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-28",
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
@@ -455,7 +452,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-28",
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
@@ -516,7 +512,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-28",
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
@@ -717,7 +712,8 @@
         "2027-01-18",
         "2027-01-21",
         "2027-01-22",
-        "2027-01-23"
+        "2027-01-23",
+        "2027-01-24"
       ]
     },
     {
@@ -840,6 +836,134 @@
         "2026-12-11",
         "2026-12-12",
         "2026-12-13"
+      ]
+    },
+    {
+      "id": 53552587390086,
+      "title": "In Focus: Asian American Art from the Collection",
+      "url": "https://events.stanford.edu/event/in-focus-asian-american-art-from-the-collection",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Ruth Levison Halperin Gallery, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53552801889176/huge/f6251f853795373bfda33310663746cad25fdd20.jpg",
+      "free": false,
+      "first_date": "2026-08-27",
+      "last_date": "2027-02-21",
+      "dates": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-14",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-24",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-31",
+        "2027-01-01",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-11",
+        "2027-01-14",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-18",
+        "2027-01-21",
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-24"
       ]
     }
   ],
@@ -1149,6 +1273,36 @@
       "next_date": "2026-08-17",
       "last_date": "2026-08-21",
       "count": 5
+    },
+    {
+      "id": 44437607039811,
+      "title": "Lou Henry Hoover Carillon Performance",
+      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
+      "experience": "inperson",
+      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-31"
+      ],
+      "pattern": "Fridays",
+      "time": "6:30 PM",
+      "next_date": "2026-07-31",
+      "last_date": "2026-07-31",
+      "count": 1
     },
     {
       "id": 48217677268364,
@@ -2550,33 +2704,6 @@
   ],
   "events": [
     {
-      "id": 53233743685869,
-      "title": "A Talk with Mensun Bound: Finding Shackleton’s Endurance",
-      "url": "https://events.stanford.edu/event/a-talk-with-mensun-bound-finding-shackletons-endurance",
-      "experience": "inperson",
-      "location": "Hopkins Marine Station, Boatworks Lecture Hall, 120 Ocean View Blvd Pacific Grove, CA 93950",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Education",
-        "Engineering/Technology",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53233812087306/huge/9d8d9d0dc4b6ac4fef028e1ee12a0e13ae016641.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-28",
-          "start": "2026-07-28T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-28"
-      ]
-    },
-    {
       "id": 53544075714989,
       "title": "Frontier and Pioneer Medal Symposium and Ceremony",
       "url": "https://events.stanford.edu/event/frontier-and-pioneer-medal-symposium-and-ceremony",
@@ -2592,11 +2719,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-28",
-          "start": "2026-07-28T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-07-29",
           "start": "2026-07-29T09:30:00-07:00",
           "all_day": false
@@ -2608,36 +2730,8 @@
         }
       ],
       "dates": [
-        "2026-07-28",
         "2026-07-29",
         "2026-07-30"
-      ]
-    },
-    {
-      "id": 52621707573482,
-      "title": "SJW Presents: George Cables and Friends",
-      "url": "https://events.stanford.edu/event/george-cables-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621721170583/huge/b1133b4441ec28dd69aab288b0c2fd53f4d5f6f8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-28",
-          "start": "2026-07-28T20:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-28"
       ]
     },
     {
