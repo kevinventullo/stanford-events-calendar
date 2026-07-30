@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T15:08:17+00:00",
+  "generated_at": "2026-07-30T03:56:53+00:00",
   "window": {
-    "start": "2026-07-29",
-    "end": "2027-01-25"
+    "start": "2026-07-30",
+    "end": "2027-01-26"
   },
   "filters": {
     "public_audiences": [
@@ -21,7 +21,7 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 13,
     "recurring": 15,
     "dated": 73
   },
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-07-29",
         "2026-07-30",
         "2026-07-31",
         "2026-08-01",
@@ -79,7 +78,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-29",
         "2026-07-30",
         "2026-07-31",
         "2026-08-05",
@@ -205,7 +203,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-29",
         "2026-07-30",
         "2026-07-31",
         "2026-08-01",
@@ -280,7 +277,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-29",
         "2026-07-30",
         "2026-07-31",
         "2026-08-01",
@@ -452,7 +448,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-29",
         "2026-07-30",
         "2026-07-31",
         "2026-08-01",
@@ -512,7 +507,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-29",
         "2026-07-30",
         "2026-07-31",
         "2026-08-03",
@@ -713,7 +707,8 @@
         "2027-01-21",
         "2027-01-22",
         "2027-01-23",
-        "2027-01-24"
+        "2027-01-24",
+        "2027-01-25"
       ]
     },
     {
@@ -963,7 +958,66 @@
         "2027-01-21",
         "2027-01-22",
         "2027-01-23",
-        "2027-01-24"
+        "2027-01-24",
+        "2027-01-25"
+      ]
+    },
+    {
+      "id": 53560271099404,
+      "title": "Touch Me Not: 12th Annual Undergraduate Juried Exhibition",
+      "url": "https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition",
+      "experience": "inperson",
+      "location": "Art Gallery, 419 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53560273211047/huge/193c39a68858122743d275e4f67bdf08d65d2513.jpg",
+      "free": false,
+      "first_date": "2026-10-06",
+      "last_date": "2026-12-04",
+      "dates": [
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04"
       ]
     }
   ],
@@ -2573,11 +2627,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-29",
-          "start": "2026-07-29T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-05",
           "start": "2026-08-05T09:00:00-07:00",
           "all_day": false
@@ -2674,7 +2723,6 @@
         }
       ],
       "dates": [
-        "2026-07-29",
         "2026-08-05",
         "2026-08-12",
         "2026-08-19",
@@ -2697,95 +2745,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-07-29",
+      "next_date": "2026-08-05",
       "last_date": "2026-12-16",
-      "count": 20
+      "count": 19
     }
   ],
   "events": [
-    {
-      "id": 53544075714989,
-      "title": "Frontier and Pioneer Medal Symposium and Ceremony",
-      "url": "https://events.stanford.edu/event/frontier-and-pioneer-medal-symposium-and-ceremony",
-      "experience": "inperson",
-      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53544104761292/huge/011e671cd6297dc9334ad4c872f2cd5e760eab87.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-29",
-          "start": "2026-07-29T09:30:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-07-30",
-          "start": "2026-07-30T09:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-29",
-        "2026-07-30"
-      ]
-    },
-    {
-      "id": 52569014733355,
-      "title": "PhD Dissertation Defense: Savannah Lewis, Jagannathan Lab",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-savannah-lewis-jagannathan-lab",
-      "experience": "inperson",
-      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511044058927/huge/82e06e467448be9f7ba847ebd4ee1c82f7f97aaf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-29",
-          "start": "2026-07-29T14:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-29"
-      ]
-    },
-    {
-      "id": 52621724943025,
-      "title": "SJW Presents: Aldo López-Gavilán",
-      "url": "https://events.stanford.edu/event/aldo-lopez-galivan-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621740234377/huge/f03f8959befc9dd8102c64bd495433930463f5eb.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-29",
-          "start": "2026-07-29T20:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-29"
-      ]
-    },
     {
       "id": 53498047619757,
       "title": "Fragile Frames: Early 20th Century Nitrate Cinema, remarks by Victor Davis Hanson",
@@ -3169,6 +3134,31 @@
       ]
     },
     {
+      "id": 53544075714989,
+      "title": "Frontier and Pioneer Medal Symposium and Ceremony",
+      "url": "https://events.stanford.edu/event/frontier-and-pioneer-medal-symposium-and-ceremony",
+      "experience": "inperson",
+      "location": "Traitel Building, Memorial Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53544104761292/huge/689bd1ab581a91c7a05a88b18cd5576843a4c25d.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-07",
+          "start": "2026-08-07T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    {
       "id": 52683886525446,
       "title": "The 4th Global Piano Roll Meeting – Day 1",
       "url": "https://events.stanford.edu/event/2026-global-piano-roll-meeting-1",
@@ -3224,6 +3214,31 @@
       ],
       "dates": [
         "2026-08-08"
+      ]
+    },
+    {
+      "id": 53559382312396,
+      "title": "Policy Forum Jointly by AASF and Hoover Institution",
+      "url": "https://events.stanford.edu/event/science-policy-forum",
+      "experience": "inperson",
+      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53559398791376/huge/b7677f54b564af3a3289078c3881fd61e8883036.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-09",
+          "start": "2026-08-09T09:45:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-09"
       ]
     },
     {
@@ -3310,7 +3325,7 @@
       "title": "How to Invent: A 37-Year Journey with OLEDs",
       "url": "https://events.stanford.edu/event/how-to-invent-a-37-year-journey-with-oleds",
       "experience": "hybrid",
-      "location": "Allen Building Annex, 101X auditorium, 330 Jane Stanford Way Stanford",
+      "location": "Paul G. Allen Center for Integrated Systems Annex, 101X auditorium, 330 Jane Stanford Way, Stanford, CA 94305",
       "types": [
         "Class/Seminar"
       ],
@@ -3642,6 +3657,31 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15"
+      ]
+    },
+    {
+      "id": 53558991916783,
+      "title": "Stanford Medicine and Stanford Health Care Tri-Valley 2026 Cardiovascular Symposium: Advancements in Cardiovascular Care",
+      "url": "https://events.stanford.edu/event/stanford-medicine-and-stanford-health-care-tri-valley-2026-cardiovascular-symposium-advancements-in-cardiovascular-care",
+      "experience": "inperson",
+      "location": "Diablo Country Club, 1897 Club House Rd, Diablo, CA",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53558993929132/huge/6f7286a6b4620fbaab7111ecb70c2993b2d4b0e3.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T07:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-18"
       ]
     },
     {
