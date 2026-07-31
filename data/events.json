@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T15:10:54+00:00",
+  "generated_at": "2026-07-31T04:21:31+00:00",
   "window": {
-    "start": "2026-07-30",
-    "end": "2027-01-26"
+    "start": "2026-07-31",
+    "end": "2027-01-27"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 15,
-    "dated": 73
+    "dated": 71
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -78,7 +77,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-05",
         "2026-08-06",
@@ -110,7 +108,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -166,7 +163,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -203,7 +199,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -277,7 +272,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -448,7 +442,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -507,7 +500,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-03",
         "2026-08-04",
@@ -586,7 +578,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -2373,11 +2364,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-07-30",
-          "start": "2026-07-30T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-06",
           "start": "2026-08-06T12:00:00-07:00",
           "all_day": false
@@ -2399,7 +2385,6 @@
         }
       ],
       "dates": [
-        "2026-07-30",
         "2026-08-06",
         "2026-08-13",
         "2026-08-20",
@@ -2407,9 +2392,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12 PM",
-      "next_date": "2026-07-30",
+      "next_date": "2026-08-06",
       "last_date": "2026-08-27",
-      "count": 5
+      "count": 4
     },
     {
       "id": 46378844583273,
@@ -2426,11 +2411,6 @@
       "photo": "https://localist-images.azureedge.net/photos/46378856094012/huge/127f9cd1a479f27de5eb15a64d723b6eb9b00b5f.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-07-30",
-          "start": "2026-07-30T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-06",
           "start": "2026-08-06T12:30:00-07:00",
@@ -2453,7 +2433,6 @@
         }
       ],
       "dates": [
-        "2026-07-30",
         "2026-08-06",
         "2026-08-13",
         "2026-08-20",
@@ -2461,9 +2440,9 @@
       ],
       "pattern": "Thursdays",
       "time": "12:30 PM",
-      "next_date": "2026-07-30",
+      "next_date": "2026-08-06",
       "last_date": "2026-08-27",
-      "count": 5
+      "count": 4
     },
     {
       "id": 47557682677329,
@@ -2752,121 +2731,6 @@
   ],
   "events": [
     {
-      "id": 53498047619757,
-      "title": "Fragile Frames: Early 20th Century Nitrate Cinema, remarks by Victor Davis Hanson",
-      "url": "https://events.stanford.edu/event/fragile-frames-early-20th-century-nitrate-cinema-remarks-by-victor-davis-hanson",
-      "experience": "inperson",
-      "location": "Hoover Institution, David & Joan Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53498065095423/huge/e406e0b146f7272a20ffbcbbc269abdba1c3c674.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-30",
-          "start": "2026-07-30T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-30"
-      ]
-    },
-    {
-      "id": 52621778027132,
-      "title": "SJW Presents: Taylor Eigsti Group feat. Gretchen Parlato and Zack Grooves",
-      "url": "https://events.stanford.edu/event/taylor-eigsti-group-sjw26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621794043219/huge/be5c5d5f944ef542b0aacb2cc0450c938d599603.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-30",
-          "start": "2026-07-30T20:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-30"
-      ]
-    },
-    {
-      "id": 53426813502899,
-      "title": "Stanford Cardiovascular Research Symposium 2026",
-      "url": "https://events.stanford.edu/event/stanford-cardiovascular-research-symposium-2026",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, Paul & Mildred Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Career Development",
-        "Medicine",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53426841020240/huge/e958116374f705fa57599d9d3089a04cafffa1ef.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-30",
-          "start": "2026-07-30T00:00:00-07:00",
-          "all_day": true
-        },
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-07-30",
-        "2026-07-31"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-07",
-          "start": "2026-08-07T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-31",
-        "2026-08-07"
-      ]
-    },
-    {
       "id": 53426319146106,
       "title": "Shahrnush Parsipur: In Memoriam",
       "url": "https://events.stanford.edu/event/shahrnush-parsipur-in-memoriam",
@@ -2912,6 +2776,33 @@
           "date": "2026-07-31",
           "start": "2026-07-31T20:00:00-07:00",
           "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    {
+      "id": 53426813502899,
+      "title": "Stanford Cardiovascular Research Symposium 2026",
+      "url": "https://events.stanford.edu/event/stanford-cardiovascular-research-symposium-2026",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, Paul & Mildred Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Career Development",
+        "Medicine",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53426841020240/huge/e958116374f705fa57599d9d3089a04cafffa1ef.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-07-31",
+          "start": "2026-07-31T00:00:00-07:00",
+          "all_day": true
         }
       ],
       "dates": [
@@ -3131,6 +3022,35 @@
       ],
       "dates": [
         "2026-08-07"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-07",
+          "start": "2026-08-07T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-14",
+          "start": "2026-08-14T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-07",
+        "2026-08-14"
       ]
     },
     {
@@ -3559,7 +3479,7 @@
       "title": "PhD Dissertation Defense: Isabel Delwel, Mordecai Lab",
       "url": "https://events.stanford.edu/event/phd-dissertation-defense-isabel-delwel-mordecai-lab",
       "experience": "inperson",
-      "location": "",
+      "location": "Munzer Auditorium, 279 Campus Drive W, Stanford, CA 94305",
       "types": [
         "PhD Defense"
       ],
