@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T15:19:38+00:00",
+  "generated_at": "2026-08-01T04:21:01+00:00",
   "window": {
-    "start": "2026-07-31",
-    "end": "2027-01-27"
+    "start": "2026-08-01",
+    "end": "2027-01-28"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 13,
-    "recurring": 15,
-    "dated": 71
+    "recurring": 14,
+    "dated": 67
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
@@ -77,7 +76,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-07-31",
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
@@ -108,7 +106,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
@@ -163,7 +160,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
@@ -199,7 +195,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
@@ -272,7 +267,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
@@ -442,7 +436,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
@@ -500,7 +493,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-07-31",
         "2026-08-03",
         "2026-08-04",
         "2026-08-05",
@@ -547,7 +539,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-07-31",
         "2026-08-03",
         "2026-08-07",
         "2026-08-10",
@@ -578,7 +569,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
@@ -1320,36 +1310,6 @@
       "count": 5
     },
     {
-      "id": 44437607039811,
-      "title": "Lou Henry Hoover Carillon Performance",
-      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
-      "experience": "inperson",
-      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-31"
-      ],
-      "pattern": "Fridays",
-      "time": "6:30 PM",
-      "next_date": "2026-07-31",
-      "last_date": "2026-07-31",
-      "count": 1
-    },
-    {
       "id": 48217677268364,
       "title": "Public Tour |  Auguste Rodin",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-auguste-rodin",
@@ -1367,11 +1327,6 @@
       "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-01",
           "start": "2026-08-01T11:30:00-07:00",
@@ -1589,7 +1544,6 @@
         }
       ],
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-07",
         "2026-08-08",
@@ -1636,9 +1590,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-07-31",
+      "next_date": "2026-08-01",
       "last_date": "2026-12-26",
-      "count": 44
+      "count": 43
     },
     {
       "id": 48376809728814,
@@ -1658,11 +1612,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-01",
           "start": "2026-08-01T13:00:00-07:00",
@@ -1985,7 +1934,6 @@
         }
       ],
       "dates": [
-        "2026-07-31",
         "2026-08-01",
         "2026-08-07",
         "2026-08-08",
@@ -2053,9 +2001,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-07-31",
+      "next_date": "2026-08-01",
       "last_date": "2026-12-27",
-      "count": 65
+      "count": 64
     },
     {
       "id": 53507974492381,
@@ -2730,112 +2678,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53426319146106,
-      "title": "Shahrnush Parsipur: In Memoriam",
-      "url": "https://events.stanford.edu/event/shahrnush-parsipur-in-memoriam",
-      "experience": "hybrid",
-      "location": "In person at Stanford",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53426379838612/huge/4f7805cdeae946cb6746328cc527d4aedb735d58.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-31"
-      ]
-    },
-    {
-      "id": 52621797803237,
-      "title": "SJW Presents: SJW All-Star Jam",
-      "url": "https://events.stanford.edu/event/sjw-all-star-jam-2026",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52621810308048/huge/14429ee2e7588be678c057160bacb8f702b6653a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T20:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-31"
-      ]
-    },
-    {
-      "id": 53426813502899,
-      "title": "Stanford Cardiovascular Research Symposium 2026",
-      "url": "https://events.stanford.edu/event/stanford-cardiovascular-research-symposium-2026",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, Paul & Mildred Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Career Development",
-        "Medicine",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53426841020240/huge/e958116374f705fa57599d9d3089a04cafffa1ef.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-07-31"
-      ]
-    },
-    {
-      "id": 53134819877371,
-      "title": "Stanford Summer Symphony & Chorus",
-      "url": "https://events.stanford.edu/event/summer-symphony-chorus-2026-1",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53134859242585/huge/30993c7eda3b0b34cd437d90f6f04726125df49a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-07-31",
-          "start": "2026-07-31T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-07-31"
-      ]
-    },
     {
       "id": 52508200166798,
       "title": "RibFest 2026 - Symposium on the Surgical Stabilization of Traumatic Rib and Sternal Fractures",
