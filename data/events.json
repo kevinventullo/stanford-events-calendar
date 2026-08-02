@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T14:26:12+00:00",
+  "generated_at": "2026-08-02T04:22:56+00:00",
   "window": {
-    "start": "2026-08-01",
-    "end": "2027-01-28"
+    "start": "2026-08-02",
+    "end": "2027-01-29"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 14,
-    "dated": 67
+    "dated": 65
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-04",
@@ -106,7 +105,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-06",
@@ -160,7 +158,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-06",
@@ -195,7 +192,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-04",
@@ -267,7 +263,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-04",
@@ -436,7 +431,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-04",
@@ -569,7 +563,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-06",
@@ -689,7 +682,8 @@
         "2027-01-22",
         "2027-01-23",
         "2027-01-24",
-        "2027-01-25"
+        "2027-01-25",
+        "2027-01-28"
       ]
     },
     {
@@ -940,7 +934,8 @@
         "2027-01-22",
         "2027-01-23",
         "2027-01-24",
-        "2027-01-25"
+        "2027-01-25",
+        "2027-01-28"
       ]
     },
     {
@@ -1103,11 +1098,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-01",
-          "start": "2026-08-01T12:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-02",
           "start": "2026-08-02T12:30:00-07:00",
           "all_day": false
@@ -1154,7 +1144,6 @@
         }
       ],
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-08",
         "2026-08-09",
@@ -1167,9 +1156,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-08-01",
+      "next_date": "2026-08-02",
       "last_date": "2026-08-30",
-      "count": 10
+      "count": 9
     },
     {
       "id": 47049266947082,
@@ -1186,11 +1175,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-08-01",
-          "start": "2026-08-01T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-02",
           "start": "2026-08-02T14:30:00-07:00",
@@ -1238,7 +1222,6 @@
         }
       ],
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-08",
         "2026-08-09",
@@ -1251,9 +1234,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-08-01",
+      "next_date": "2026-08-02",
       "last_date": "2026-08-30",
-      "count": 10
+      "count": 9
     },
     {
       "id": 52489460033306,
@@ -1327,11 +1310,6 @@
       "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-01",
-          "start": "2026-08-01T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-07",
           "start": "2026-08-07T11:30:00-07:00",
@@ -1544,7 +1522,6 @@
         }
       ],
       "dates": [
-        "2026-08-01",
         "2026-08-07",
         "2026-08-08",
         "2026-08-14",
@@ -1590,9 +1567,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-08-01",
+      "next_date": "2026-08-07",
       "last_date": "2026-12-26",
-      "count": 43
+      "count": 42
     },
     {
       "id": 48376809728814,
@@ -1612,11 +1589,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-01",
-          "start": "2026-08-01T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-07",
           "start": "2026-08-07T13:00:00-07:00",
@@ -1934,7 +1906,6 @@
         }
       ],
       "dates": [
-        "2026-08-01",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -2001,9 +1972,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-08-01",
+      "next_date": "2026-08-07",
       "last_date": "2026-12-27",
-      "count": 64
+      "count": 63
     },
     {
       "id": 53507974492381,
@@ -2023,11 +1994,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53507974444251/huge/9f891abcdc1b7bf4e620ef736a9ab23262eb6200.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-01",
-          "start": "2026-08-01T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-08",
           "start": "2026-08-08T15:00:00-07:00",
@@ -2105,7 +2071,6 @@
         }
       ],
       "dates": [
-        "2026-08-01",
         "2026-08-08",
         "2026-08-09",
         "2026-08-15",
@@ -2124,9 +2089,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-08-01",
+      "next_date": "2026-08-08",
       "last_date": "2026-09-27",
-      "count": 16
+      "count": 15
     },
     {
       "id": 38569589895140,
@@ -2409,11 +2374,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-01",
-          "start": "2026-08-01T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-08",
           "start": "2026-08-08T09:30:00-07:00",
           "all_day": false
@@ -2510,7 +2470,6 @@
         }
       ],
       "dates": [
-        "2026-08-01",
         "2026-08-08",
         "2026-08-15",
         "2026-08-22",
@@ -2533,9 +2492,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-08-01",
+      "next_date": "2026-08-08",
       "last_date": "2026-12-12",
-      "count": 20
+      "count": 19
     },
     {
       "id": 51888083181057,
@@ -2678,58 +2637,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52508200166798,
-      "title": "RibFest 2026 - Symposium on the Surgical Stabilization of Traumatic Rib and Sternal Fractures",
-      "url": "https://events.stanford.edu/event/ribfest-2026-symposium-on-the-surgical-stabilization-of-traumatic-rib-and-sternal-fractures",
-      "experience": "inperson",
-      "location": "The Center for Clinical Sciences Research, 269 Campus Drive Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52523953561735/huge/a5b7d79e34b76686b2478d06d69b4bc0cc6c2b36.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-01",
-          "start": "2026-08-01T07:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-01"
-      ]
-    },
-    {
-      "id": 53134930194499,
-      "title": "Stanford Summer Symphony & Chorus",
-      "url": "https://events.stanford.edu/event/summer-symphony-chorus-2026-2",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53134930159681/huge/de960e0cae54a13e7b8d2baf48cb3bdf18bfcf27.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-01",
-          "start": "2026-08-01T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-01"
-      ]
-    },
     {
       "id": 53312065636549,
       "title": "[Cancelled] Public Tour | Cantor Highlights: 1 PM",
