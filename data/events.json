@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T15:43:09+00:00",
+  "generated_at": "2026-08-04T04:13:59+00:00",
   "window": {
-    "start": "2026-08-03",
-    "end": "2027-01-30"
+    "start": "2026-08-04",
+    "end": "2027-01-31"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 14,
-    "dated": 62
+    "dated": 66
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-03",
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
@@ -104,7 +103,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-03",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -156,7 +154,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-08-03",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -189,7 +186,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-03",
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
@@ -259,7 +255,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-03",
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
@@ -426,7 +421,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-03",
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
@@ -481,7 +475,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-03",
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
@@ -527,7 +520,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-08-03",
         "2026-08-07",
         "2026-08-10",
         "2026-08-14",
@@ -557,7 +549,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-03",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -677,7 +668,8 @@
         "2027-01-24",
         "2027-01-25",
         "2027-01-28",
-        "2027-01-29"
+        "2027-01-29",
+        "2027-01-30"
       ]
     },
     {
@@ -930,7 +922,8 @@
         "2027-01-24",
         "2027-01-25",
         "2027-01-28",
-        "2027-01-29"
+        "2027-01-29",
+        "2027-01-30"
       ]
     },
     {
@@ -2885,6 +2878,31 @@
       ]
     },
     {
+      "id": 53603907000962,
+      "title": "Geophysics Master's Presentation, Rebeca Ursu: \"Off-fault yielding resolves a constitutive limit of rate-and-state friction revealed by the Kīlauea caldera collapse\"",
+      "url": "https://events.stanford.edu/event/geophysics-masters-presentation-rebeca-ursu-off-fault-yielding-resolves-a-constitutive-limit-of-rate-and-state-friction-revealed-by-the-kilauea-caldera-collapse",
+      "experience": "hybrid",
+      "location": "Mitchell Earth Sciences, 350/372, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53605238038468/huge/d6549f4812628fdc51be77e085f088eeceef2e5f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-10",
+          "start": "2026-08-10T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    {
       "id": 53496913390594,
       "title": "How to Invent: A 37-Year Journey with OLEDs",
       "url": "https://events.stanford.edu/event/how-to-invent-a-37-year-journey-with-oleds",
@@ -3035,6 +3053,31 @@
         {
           "date": "2026-08-17",
           "start": "2026-08-17T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    {
+      "id": 53603849019432,
+      "title": "Geophysics PhD Defense, Ethan Lopes: \"Serpentinization in the Lab and Nature: Magnetic Insights into Thermochemical Alteration Processes\"",
+      "url": "https://events.stanford.edu/event/geophysics-phd-defense-ethan-lopes-serpentinization-in-the-lab-and-nature-magnetic-insights-into-thermochemical-alteration-processes",
+      "experience": "hybrid",
+      "location": "Mitchell Earth Sciences, Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53603858347447/huge/996ed1d9f973b9b9ea59f99e6207c3cfd11da1f4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-17",
+          "start": "2026-08-17T10:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3403,6 +3446,31 @@
       ],
       "dates": [
         "2026-10-02"
+      ]
+    },
+    {
+      "id": 53605515226527,
+      "title": "Enemies in Agreement: Political Volatility and the Design of Arms Control",
+      "url": "https://events.stanford.edu/event/enemies-in-agreement-political-volatility-and-the-design-of-arms-control-jane-vaynman",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53605520944132/huge/d07d73951b146a94c4628938681c7287c07b1e1b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
       ]
     },
     {
@@ -4141,6 +4209,31 @@
       ],
       "dates": [
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 53604059426372,
+      "title": "Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defensive Innovation",
+      "url": "https://events.stanford.edu/event/biosecurity-in-an-age-of-ai-frontier-safety-anticipatory-governance-and-defensive-innovation-jassi-pannu",
+      "experience": "inperson",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53604077753391/huge/2ce6bf74cf2b545e9a87daf41682eca167695131.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
       ]
     },
     {
