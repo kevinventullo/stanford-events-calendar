@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T15:24:18+00:00",
+  "generated_at": "2026-08-05T04:09:18+00:00",
   "window": {
-    "start": "2026-08-04",
-    "end": "2027-01-31"
+    "start": "2026-08-05",
+    "end": "2027-02-01"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 14,
-    "dated": 66
+    "dated": 74
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-04",
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
@@ -186,7 +185,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-04",
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
@@ -255,7 +253,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-04",
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
@@ -421,7 +418,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-04",
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
@@ -475,7 +471,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-04",
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
@@ -669,7 +664,8 @@
         "2027-01-25",
         "2027-01-28",
         "2027-01-29",
-        "2027-01-30"
+        "2027-01-30",
+        "2027-01-31"
       ]
     },
     {
@@ -923,7 +919,8 @@
         "2027-01-25",
         "2027-01-28",
         "2027-01-29",
-        "2027-01-30"
+        "2027-01-30",
+        "2027-01-31"
       ]
     },
     {
@@ -2929,6 +2926,29 @@
       ]
     },
     {
+      "id": 53613669269540,
+      "title": "PhD Dissertation Defense: George Crowley",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-george-crowley",
+      "experience": "hybrid",
+      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53613672663241/huge/06cd0455aec0b15512b7a6463030912ebba9c1d9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-11",
+          "start": "2026-08-11T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    {
       "id": 48049248605453,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5766",
@@ -3008,6 +3028,50 @@
       ]
     },
     {
+      "id": 49845006960734,
+      "title": "Public Tour | Cantor Highlights (Spanish Language)",
+      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-16",
+          "start": "2026-08-16T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-18",
+          "start": "2026-10-18T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-16",
+        "2026-09-20",
+        "2026-10-18",
+        "2026-11-22"
+      ]
+    },
+    {
       "id": 53004541128514,
       "title": "Public Tour | Outdoor Sculpture Walk, Museum",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-museum-9629",
@@ -3078,6 +3142,31 @@
         {
           "date": "2026-08-17",
           "start": "2026-08-17T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    {
+      "id": 53614506563480,
+      "title": "PhD Defense - Xiaoyu Yang: \"Modeling, Estimation, and Learning of Lithium Batteries\"",
+      "url": "https://events.stanford.edu/event/phd-defense-xiaoyu-yang-modeling-estimation-and-learning-of-lithium-batteries",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 365, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53614529370295/huge/a857660ef179dc7cec3e5ef2d9d98985d3305921.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-17",
+          "start": "2026-08-17T12:15:00-07:00",
           "all_day": false
         }
       ],
@@ -3224,6 +3313,32 @@
       ]
     },
     {
+      "id": 53614374771974,
+      "title": "Pacific Coast Surgical Association Meeting (PCSA) Abstract Deadline",
+      "url": "https://events.stanford.edu/event/copy-of-american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium",
+        "Meeting"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53614402539970/huge/736605a011d41d8aca88b3bc3b24e1742edf0089.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-01",
+          "start": "2026-09-01T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    {
       "id": 50852323821947,
       "title": "MRI: Clinical Updates and Practical Physics",
       "url": "https://events.stanford.edu/event/mri-clinical-updates-and-practical-physics-9762",
@@ -3367,6 +3482,35 @@
       ]
     },
     {
+      "id": 53612851682415,
+      "title": "Chasing Freedom: Coming of Age at the End of Empire - Dr. Simukai chicgudu",
+      "url": "https://events.stanford.edu/event/chasing-freedom-coming-og-age-at-the-end-of-empire-dr-simukai-chicgudu",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53612921792924/huge/7768d8b30980d05d4779d42dfd4dafefd9262adc.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
       "id": 53074254797631,
       "title": "Trust and Safety Research Conference",
       "url": "https://events.stanford.edu/event/trust-and-safety-research-conference-448",
@@ -3446,6 +3590,32 @@
       ],
       "dates": [
         "2026-10-02"
+      ]
+    },
+    {
+      "id": 53613895365023,
+      "title": "American Association of Plastic Surgeons Meeting (AAPS) Abstract Deadline",
+      "url": "https://events.stanford.edu/event/american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium",
+        "Meeting"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53614062633576/huge/24b6c3eb4a7a55f21c22017772e8ddb8e9234f77.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-05",
+          "start": "2026-10-05T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-05"
       ]
     },
     {
@@ -3555,7 +3725,7 @@
       "title": "CBD 2026: We Were Made for These Times: Coming Home to Ourselves in the Age of AI with Kaira Jewel Lingo",
       "url": "https://events.stanford.edu/event/cbd-2026-we-were-made-for-these-times-with-kaira-jewel-lingo",
       "experience": "hybrid",
-      "location": "",
+      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
       ],
@@ -3918,6 +4088,31 @@
         {
           "date": "2026-10-22",
           "start": "2026-10-22T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
+      "id": 53612685635155,
+      "title": "Bay Area Tech Economics Seminar",
+      "url": "https://events.stanford.edu/event/bay-area-tech-economics-seminar",
+      "experience": "inperson",
+      "location": "Stanford ChEM-H Building, E241 Rotunda, 290 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511080731730/huge/3345a12bd2976ada3376699db4ae7581f36f94e4.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T18:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4385,6 +4580,32 @@
       ],
       "dates": [
         "2026-12-10"
+      ]
+    },
+    {
+      "id": 53614433810476,
+      "title": "Society for Medical Decision Making (SMDM) Abstract Deadline",
+      "url": "https://events.stanford.edu/event/copy-of-pacific-coast-surgical-association-meeting-pcsa-abstract-deadline",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium",
+        "Meeting"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53614500703320/huge/5c0bda76e9d6e62f74667016828f3b8db1ffcca2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-12",
+          "start": "2027-01-12T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2027-01-12"
       ]
     },
     {
