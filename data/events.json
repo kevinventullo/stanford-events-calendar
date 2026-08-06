@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T15:13:17+00:00",
+  "generated_at": "2026-08-06T04:12:09+00:00",
   "window": {
-    "start": "2026-08-05",
-    "end": "2027-02-01"
+    "start": "2026-08-06",
+    "end": "2027-02-02"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 14,
-    "dated": 74
+    "dated": 75
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-05",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -72,7 +71,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-08-05",
         "2026-08-06",
         "2026-08-07",
         "2026-08-12",
@@ -185,7 +183,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-05",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -253,7 +250,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-05",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -418,7 +414,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-05",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -471,7 +466,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-05",
         "2026-08-06",
         "2026-08-07",
         "2026-08-10",
@@ -665,7 +659,8 @@
         "2027-01-28",
         "2027-01-29",
         "2027-01-30",
-        "2027-01-31"
+        "2027-01-31",
+        "2027-02-01"
       ]
     },
     {
@@ -920,7 +915,8 @@
         "2027-01-28",
         "2027-01-29",
         "2027-01-30",
-        "2027-01-31"
+        "2027-01-31",
+        "2027-02-01"
       ]
     },
     {
@@ -2480,11 +2476,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-05",
-          "start": "2026-08-05T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-12",
           "start": "2026-08-12T09:00:00-07:00",
           "all_day": false
@@ -2576,7 +2567,6 @@
         }
       ],
       "dates": [
-        "2026-08-05",
         "2026-08-12",
         "2026-08-19",
         "2026-08-26",
@@ -2598,9 +2588,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-08-05",
+      "next_date": "2026-08-12",
       "last_date": "2026-12-16",
-      "count": 19
+      "count": 18
     }
   ],
   "events": [
@@ -3003,6 +2993,29 @@
       ]
     },
     {
+      "id": 53621143096446,
+      "title": "PhD Dissertation Defense: Vivian Zhong",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-vivian-zhong",
+      "experience": "inperson",
+      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53621146703414/huge/bab8c2b1f05569249444487d73f6014c2ad9e0a3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-14",
+          "start": "2026-08-14T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-14"
+      ]
+    },
+    {
       "id": 53233549421372,
       "title": "Kintsugi: The Art of Repair",
       "url": "https://events.stanford.edu/event/kintsugi-the-art-of-golden-repair",
@@ -3025,50 +3038,6 @@
       ],
       "dates": [
         "2026-08-16"
-      ]
-    },
-    {
-      "id": 49845006960734,
-      "title": "Public Tour | Cantor Highlights (Spanish Language)",
-      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-20",
-          "start": "2026-09-20T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-16",
-        "2026-09-20",
-        "2026-10-18",
-        "2026-11-22"
       ]
     },
     {
@@ -3404,6 +3373,44 @@
       ],
       "dates": [
         "2026-09-18"
+      ]
+    },
+    {
+      "id": 49845006960734,
+      "title": "Public Tour | Cantor Highlights (Spanish Language)",
+      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-18",
+          "start": "2026-10-18T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-20",
+        "2026-10-18",
+        "2026-11-22"
       ]
     },
     {
