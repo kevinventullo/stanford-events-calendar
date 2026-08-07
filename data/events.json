@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T15:16:52+00:00",
+  "generated_at": "2026-08-07T03:49:16+00:00",
   "window": {
-    "start": "2026-08-06",
-    "end": "2027-02-02"
+    "start": "2026-08-07",
+    "end": "2027-02-03"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 13,
-    "recurring": 14,
-    "dated": 75
+    "recurring": 15,
+    "dated": 81
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -71,7 +70,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-12",
         "2026-08-13",
@@ -100,7 +98,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -151,7 +148,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -183,7 +179,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -250,7 +245,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -414,7 +408,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -466,7 +459,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-10",
         "2026-08-11",
@@ -538,7 +530,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -680,7 +671,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
@@ -979,6 +969,79 @@
     }
   ],
   "recurring": [
+    {
+      "id": 53629749361008,
+      "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
+      "url": "https://events.stanford.edu/event/copy-of-build-your-own-bouquet-odonohue-family-stanford-educational-farm-4191",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, Back Oak Deck, 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53629749340526/huge/a0945ef0b4f1f904d77010f42ed735db804cfcfc.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-13",
+          "start": "2026-08-13T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-20",
+          "start": "2026-08-20T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-27",
+          "start": "2026-08-27T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-03",
+          "start": "2026-09-03T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-10",
+          "start": "2026-09-10T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-17",
+          "start": "2026-09-17T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-24",
+          "start": "2026-09-24T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27",
+        "2026-09-03",
+        "2026-09-10",
+        "2026-09-17",
+        "2026-09-24",
+        "2026-10-01"
+      ],
+      "pattern": "Thursdays",
+      "time": "10 AM",
+      "next_date": "2026-08-13",
+      "last_date": "2026-10-01",
+      "count": 8
+    },
     {
       "id": 50967994153103,
       "title": "Drop-In Drawing @ The Anderson",
@@ -2240,11 +2303,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-06",
-          "start": "2026-08-06T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-13",
           "start": "2026-08-13T12:00:00-07:00",
           "all_day": false
@@ -2261,16 +2319,15 @@
         }
       ],
       "dates": [
-        "2026-08-06",
         "2026-08-13",
         "2026-08-20",
         "2026-08-27"
       ],
       "pattern": "Thursdays",
       "time": "12 PM",
-      "next_date": "2026-08-06",
+      "next_date": "2026-08-13",
       "last_date": "2026-08-27",
-      "count": 4
+      "count": 3
     },
     {
       "id": 46378844583273,
@@ -2288,11 +2345,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-06",
-          "start": "2026-08-06T12:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-13",
           "start": "2026-08-13T12:30:00-07:00",
           "all_day": false
@@ -2309,16 +2361,15 @@
         }
       ],
       "dates": [
-        "2026-08-06",
         "2026-08-13",
         "2026-08-20",
         "2026-08-27"
       ],
       "pattern": "Thursdays",
       "time": "12:30 PM",
-      "next_date": "2026-08-06",
+      "next_date": "2026-08-13",
       "last_date": "2026-08-27",
-      "count": 4
+      "count": 3
     },
     {
       "id": 47557682677329,
@@ -2595,32 +2646,6 @@
   ],
   "events": [
     {
-      "id": 52940922988592,
-      "title": "FULL - Lunchtime Curator Talk | JANE!",
-      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-jane-1387",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52940922967086/huge/72b2077f727ce9e9d0926d9fbcf58f39d8028e3d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-06",
-          "start": "2026-08-06T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-06"
-      ]
-    },
-    {
       "id": 53417820706962,
       "title": "2nd Annual Stanford Cardiothoracic Surgery Research Symposium",
       "url": "https://events.stanford.edu/event/2nd-annual-stanford-ct-surgery-research-symposium",
@@ -2646,35 +2671,6 @@
       ],
       "dates": [
         "2026-08-07"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-07",
-          "start": "2026-08-07T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-14",
-          "start": "2026-08-14T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-07",
-        "2026-08-14"
       ]
     },
     {
@@ -2940,7 +2936,7 @@
     },
     {
       "id": 48049248605453,
-      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
+      "title": "FULL—Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5766",
       "experience": "inperson",
       "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
@@ -2961,6 +2957,35 @@
       ],
       "dates": [
         "2026-08-13"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-14",
+          "start": "2026-08-14T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-21",
+          "start": "2026-08-21T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-14",
+        "2026-08-21"
       ]
     },
     {
@@ -3282,6 +3307,29 @@
       ]
     },
     {
+      "id": 53632053025442,
+      "title": "Stanford Football vs Hawaii | Pacific Islander Heritage Celebration + Cardinal Kids Day",
+      "url": "https://events.stanford.edu/event/stanford-football-vs-hawaii",
+      "experience": "inperson",
+      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53632138852294/huge/0194d1eb76c6c59f66cbe855542124b3602a5758.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-29"
+      ]
+    },
+    {
       "id": 53614374771974,
       "title": "Pacific Coast Surgical Association Meeting (PCSA) Abstract Deadline",
       "url": "https://events.stanford.edu/event/copy-of-american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline",
@@ -3305,6 +3353,29 @@
       ],
       "dates": [
         "2026-09-01"
+      ]
+    },
+    {
+      "id": 53632176417027,
+      "title": "Stanford Football vs Miami | Friday Night Lights + E-40 Halftime Show",
+      "url": "https://events.stanford.edu/event/stanford-football-vs-miami-friday-night-lights-e-40-halftime-show",
+      "experience": "inperson",
+      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53632250892022/huge/ebbf628c8760d8fcd4977461d6034104715722ad.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-04",
+          "start": "2026-09-04T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-04"
       ]
     },
     {
@@ -3461,6 +3532,29 @@
       ],
       "dates": [
         "2026-09-25"
+      ]
+    },
+    {
+      "id": 53632288644485,
+      "title": "Stanford Football vs Georgia Tech | Red Out",
+      "url": "https://events.stanford.edu/event/stanford-football-vs-georgia-tech-red-out",
+      "experience": "inperson",
+      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53632296400693/huge/027952ecaa9976d953a5120f28bf022119a413a1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-26"
       ]
     },
     {
@@ -3946,6 +4040,29 @@
       ]
     },
     {
+      "id": 53632331147575,
+      "title": "Stanford Football vs Elon | Reunion Homecoming",
+      "url": "https://events.stanford.edu/event/stanford-football-vs-elon-reunion-homecoming",
+      "experience": "inperson",
+      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53632336871089/huge/5c0a42f4847ec2c310336a44ee03e5c574795d33.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-17"
+      ]
+    },
+    {
       "id": 53002164813794,
       "title": "International Symposium on aß T-cell/CD19 B-cell Depleted Haploidentical HSCT",
       "url": "https://events.stanford.edu/event/international-symposium-on-ass-t-cellcd19-b-cell-depleted-haploidentical-hsct",
@@ -4175,6 +4292,29 @@
       ],
       "dates": [
         "2026-10-22"
+      ]
+    },
+    {
+      "id": 53632376002784,
+      "title": "Stanford Football vs NC State | Heroes Appreciation",
+      "url": "https://events.stanford.edu/event/stanford-football-vs-nc-state-heroes-appreciation",
+      "experience": "inperson",
+      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53632381690170/huge/998854a73cae79d42e2636826003d32458946466.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
       ]
     },
     {
@@ -4514,6 +4654,31 @@
       ]
     },
     {
+      "id": 53630642906694,
+      "title": "Anatomical Gift Program Donor Memorial Service",
+      "url": "https://events.stanford.edu/event/anatomical-gift-program-donor-memorial-service",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53630746291813/huge/d955c5e557a6cb3c9c5da2db66d08fc82692bb7a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
       "id": 53251196124368,
       "title": "Studio Lecture Series: Holly Herndon & Mat Dryhurst",
       "url": "https://events.stanford.edu/event/studio-lecture-series-holly-herndon-mat-dryhurst",
@@ -4537,6 +4702,29 @@
       ],
       "dates": [
         "2026-11-19"
+      ]
+    },
+    {
+      "id": 53632423836256,
+      "title": "Stanford Football vs SMU | Senior Day + Fan Appreciation",
+      "url": "https://events.stanford.edu/event/stanford-football-vs-smu-senior-day-fan-appreciation",
+      "experience": "inperson",
+      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53632429000277/huge/3b78e006d1a3cf529a1e04d0900aa7f63007eb6a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-28"
       ]
     },
     {
