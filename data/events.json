@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T14:13:24+00:00",
+  "generated_at": "2026-08-08T02:54:29+00:00",
   "window": {
-    "start": "2026-08-07",
-    "end": "2027-02-03"
+    "start": "2026-08-08",
+    "end": "2027-02-04"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 15,
-    "dated": 81
+    "dated": 79
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -70,7 +69,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-08-07",
         "2026-08-12",
         "2026-08-13",
         "2026-08-14",
@@ -98,7 +96,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -148,7 +145,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -179,7 +175,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -245,7 +240,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -408,7 +402,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -459,7 +452,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-07",
         "2026-08-10",
         "2026-08-11",
         "2026-08-12",
@@ -501,7 +493,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-08-07",
         "2026-08-10",
         "2026-08-14",
         "2026-08-17",
@@ -530,7 +521,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -671,7 +661,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -1343,11 +1332,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-07",
-          "start": "2026-08-07T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-08",
           "start": "2026-08-08T11:30:00-07:00",
           "all_day": false
@@ -1554,7 +1538,6 @@
         }
       ],
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-14",
         "2026-08-15",
@@ -1599,9 +1582,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-08-07",
+      "next_date": "2026-08-08",
       "last_date": "2026-12-26",
-      "count": 42
+      "count": 41
     },
     {
       "id": 48376809728814,
@@ -1621,11 +1604,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-07",
-          "start": "2026-08-07T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-08",
           "start": "2026-08-08T13:00:00-07:00",
@@ -1938,7 +1916,6 @@
         }
       ],
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-14",
@@ -2004,9 +1981,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-08-07",
+      "next_date": "2026-08-08",
       "last_date": "2026-12-27",
-      "count": 63
+      "count": 62
     },
     {
       "id": 53507974492381,
@@ -2646,88 +2623,6 @@
   ],
   "events": [
     {
-      "id": 53417820706962,
-      "title": "2nd Annual Stanford Cardiothoracic Surgery Research Symposium",
-      "url": "https://events.stanford.edu/event/2nd-annual-stanford-ct-surgery-research-symposium",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Education",
-        "Medicine",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53417844542202/huge/535901283adb0f8e16fb4e962afec32fb616a763.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-07",
-          "start": "2026-08-07T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-07"
-      ]
-    },
-    {
-      "id": 53544075714989,
-      "title": "Frontier and Pioneer Medal Symposium and Ceremony",
-      "url": "https://events.stanford.edu/event/frontier-and-pioneer-medal-symposium-and-ceremony",
-      "experience": "inperson",
-      "location": "Traitel Building, Memorial Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53544104761292/huge/689bd1ab581a91c7a05a88b18cd5576843a4c25d.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-08-07",
-          "start": "2026-08-07T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-08-07"
-      ]
-    },
-    {
-      "id": 52683886525446,
-      "title": "The 4th Global Piano Roll Meeting – Day 1",
-      "url": "https://events.stanford.edu/event/2026-global-piano-roll-meeting-1",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium",
-        "Lecture/Presentation/Talk",
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52683896098315/huge/2d217992fac38d46ea2163d24876643f9e0ac935.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-07",
-          "start": "2026-08-07T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-07"
-      ]
-    },
-    {
       "id": 52683909071353,
       "title": "The 4th Global Piano Roll Meeting – Day 2",
       "url": "https://events.stanford.edu/event/2026-global-piano-roll-meeting-2",
@@ -2904,6 +2799,29 @@
         {
           "date": "2026-08-10",
           "start": "2026-08-10T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    {
+      "id": 53639049871153,
+      "title": "PhD Dissertation Defense: Xitong Wang",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-xitong-wang",
+      "experience": "hybrid",
+      "location": "Paul G. Allen Center for Integrated Systems Annex, 101, 330 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53639052809073/huge/4892118b16318c58ed85f1101ac2052582ff87f3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-10",
+          "start": "2026-08-10T09:00:00-07:00",
           "all_day": false
         }
       ],
