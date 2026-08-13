@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T14:20:23+00:00",
+  "generated_at": "2026-08-13T03:26:32+00:00",
   "window": {
-    "start": "2026-08-12",
-    "end": "2027-02-08"
+    "start": "2026-08-13",
+    "end": "2027-02-09"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 15,
-    "dated": 72
+    "dated": 74
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-14",
         "2026-08-15",
@@ -65,7 +64,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-14",
         "2026-08-19",
@@ -165,7 +163,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-14",
         "2026-08-15",
@@ -226,7 +223,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-14",
         "2026-08-15",
@@ -384,7 +380,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-14",
         "2026-08-15",
@@ -430,7 +425,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-14",
         "2026-08-17",
@@ -617,7 +611,8 @@
         "2027-02-04",
         "2027-02-05",
         "2027-02-06",
-        "2027-02-07"
+        "2027-02-07",
+        "2027-02-08"
       ]
     },
     {
@@ -872,7 +867,8 @@
         "2027-02-04",
         "2027-02-05",
         "2027-02-06",
-        "2027-02-07"
+        "2027-02-07",
+        "2027-02-08"
       ]
     },
     {
@@ -2421,11 +2417,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-12",
-          "start": "2026-08-12T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-19",
           "start": "2026-08-19T09:00:00-07:00",
           "all_day": false
@@ -2512,7 +2503,6 @@
         }
       ],
       "dates": [
-        "2026-08-12",
         "2026-08-19",
         "2026-08-26",
         "2026-09-02",
@@ -2533,9 +2523,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-08-12",
+      "next_date": "2026-08-19",
       "last_date": "2026-12-16",
-      "count": 18
+      "count": 17
     }
   ],
   "events": [
@@ -2988,6 +2978,32 @@
       ]
     },
     {
+      "id": 53684743411338,
+      "title": "Innovation across the deep tech stack – and the hardware beneath",
+      "url": "https://events.stanford.edu/event/innovation-across-the-deep-tech-stack-and-the-hardware-beneath",
+      "experience": "inperson",
+      "location": "Encina Commons 123, 615 Crothers Way Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Business"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53684939560399/huge/1ef5a3e12e814d3ceffd61348425fe8ed5b66d43.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-02",
+          "start": "2026-09-02T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    {
       "id": 53632176417027,
       "title": "Stanford Football vs Miami | Friday Night Lights + E-40 Halftime Show",
       "url": "https://events.stanford.edu/event/stanford-football-vs-miami-friday-night-lights-e-40-halftime-show",
@@ -3266,6 +3282,32 @@
       ],
       "dates": [
         "2026-09-30"
+      ]
+    },
+    {
+      "id": 53685756293663,
+      "title": "Lunchtime Curator Talk | JANE!",
+      "url": "https://events.stanford.edu/event/copy-of-full-lunchtime-curator-talk-jane",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53685756248605/huge/de20e620c52b46941519c9edaef1edb4b63dcf1c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
       ]
     },
     {
