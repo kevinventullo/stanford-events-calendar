@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T14:22:20+00:00",
+  "generated_at": "2026-08-14T03:23:59+00:00",
   "window": {
-    "start": "2026-08-13",
-    "end": "2027-02-09"
+    "start": "2026-08-14",
+    "end": "2027-02-10"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 13,
-    "recurring": 15,
-    "dated": 74
+    "recurring": 16,
+    "dated": 77
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16"
@@ -64,7 +63,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-19",
         "2026-08-20",
@@ -90,7 +88,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
@@ -136,7 +133,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
@@ -163,7 +159,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
@@ -223,7 +218,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
@@ -380,7 +374,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
@@ -425,7 +418,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-17",
         "2026-08-18",
@@ -490,7 +482,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
@@ -632,7 +623,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-13",
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
@@ -948,11 +938,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-13",
-          "start": "2026-08-13T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-20",
           "start": "2026-08-20T10:00:00-07:00",
           "all_day": false
@@ -989,7 +974,6 @@
         }
       ],
       "dates": [
-        "2026-08-13",
         "2026-08-20",
         "2026-08-27",
         "2026-09-03",
@@ -1000,9 +984,9 @@
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-08-13",
+      "next_date": "2026-08-20",
       "last_date": "2026-10-01",
-      "count": 8
+      "count": 7
     },
     {
       "id": 50967994153103,
@@ -1530,6 +1514,302 @@
       "count": 40
     },
     {
+      "id": 53694822395653,
+      "title": "Public Tour |  Auguste Rodin",
+      "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste-rodin-565",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-21",
+          "start": "2026-08-21T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-22",
+          "start": "2026-08-22T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-28",
+          "start": "2026-08-28T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-04",
+          "start": "2026-09-04T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-05",
+          "start": "2026-09-05T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-11",
+          "start": "2026-09-11T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-19",
+          "start": "2026-09-19T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-25",
+          "start": "2026-09-25T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-03",
+          "start": "2026-10-03T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-10",
+          "start": "2026-10-10T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-31",
+          "start": "2026-10-31T11:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-07",
+          "start": "2026-11-07T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-21",
+          "start": "2026-11-21T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-27",
+          "start": "2026-11-27T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-11",
+          "start": "2026-12-11T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-12",
+          "start": "2026-12-12T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-08",
+          "start": "2027-01-08T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-09",
+          "start": "2027-01-09T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-15",
+          "start": "2027-01-15T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-16",
+          "start": "2027-01-16T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-22",
+          "start": "2027-01-22T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-23",
+          "start": "2027-01-23T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-29",
+          "start": "2027-01-29T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-30",
+          "start": "2027-01-30T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-05",
+          "start": "2027-02-05T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-06",
+          "start": "2027-02-06T11:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-15",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-11",
+        "2026-12-12",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-29",
+        "2027-01-30",
+        "2027-02-05",
+        "2027-02-06"
+      ],
+      "pattern": "Fri, Sat",
+      "time": "11:30 AM",
+      "next_date": "2026-08-15",
+      "last_date": "2027-02-06",
+      "count": 45
+    },
+    {
       "id": 48376809728814,
       "title": "Public Tour | Cantor Highlights: 1 PM",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-1-pm-4356",
@@ -1935,11 +2215,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-15",
-          "start": "2026-08-15T15:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-16",
           "start": "2026-08-16T15:00:00-07:00",
           "all_day": false
@@ -2001,7 +2276,6 @@
         }
       ],
       "dates": [
-        "2026-08-15",
         "2026-08-16",
         "2026-08-22",
         "2026-08-29",
@@ -2017,9 +2291,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-08-15",
+      "next_date": "2026-08-16",
       "last_date": "2026-09-27",
-      "count": 13
+      "count": 12
     },
     {
       "id": 38569589895140,
@@ -2039,11 +2313,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032187193603/huge/691d439746ff6c8ee4d2d870f750c3f0f27a5762.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-20",
           "start": "2026-09-20T14:00:00-07:00",
@@ -2066,7 +2335,6 @@
         }
       ],
       "dates": [
-        "2026-08-16",
         "2026-09-20",
         "2026-10-18",
         "2026-11-15",
@@ -2074,9 +2342,9 @@
       ],
       "pattern": "Sundays",
       "time": "2 PM",
-      "next_date": "2026-08-16",
+      "next_date": "2026-09-20",
       "last_date": "2026-12-20",
-      "count": 5
+      "count": 4
     },
     {
       "id": 40909411691045,
@@ -2199,11 +2467,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-13",
-          "start": "2026-08-13T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-20",
           "start": "2026-08-20T12:00:00-07:00",
           "all_day": false
@@ -2215,15 +2478,14 @@
         }
       ],
       "dates": [
-        "2026-08-13",
         "2026-08-20",
         "2026-08-27"
       ],
       "pattern": "Thursdays",
       "time": "12 PM",
-      "next_date": "2026-08-13",
+      "next_date": "2026-08-20",
       "last_date": "2026-08-27",
-      "count": 3
+      "count": 2
     },
     {
       "id": 46378844583273,
@@ -2241,11 +2503,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-13",
-          "start": "2026-08-13T12:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-20",
           "start": "2026-08-20T12:30:00-07:00",
           "all_day": false
@@ -2257,15 +2514,14 @@
         }
       ],
       "dates": [
-        "2026-08-13",
         "2026-08-20",
         "2026-08-27"
       ],
       "pattern": "Thursdays",
       "time": "12:30 PM",
-      "next_date": "2026-08-13",
+      "next_date": "2026-08-20",
       "last_date": "2026-08-27",
-      "count": 3
+      "count": 2
     },
     {
       "id": 47557682677329,
@@ -2530,60 +2786,6 @@
   ],
   "events": [
     {
-      "id": 48049248605453,
-      "title": "FULL—Tour Denning House, home to Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5766",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/48049253762636/huge/b61d60d7ee54a32c6c26f4301b7ee3eb01bb3eb3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-13",
-          "start": "2026-08-13T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-13"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-14",
-          "start": "2026-08-14T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-21",
-          "start": "2026-08-21T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-14",
-        "2026-08-21"
-      ]
-    },
-    {
       "id": 53188462758387,
       "title": "Human Biology Student Research Symposium & Faculty Keynote",
       "url": "https://events.stanford.edu/event/human-biology-student-research-symposium-faculty-keynote",
@@ -2633,6 +2835,34 @@
       ],
       "dates": [
         "2026-08-14"
+      ]
+    },
+    {
+      "id": 53312069814495,
+      "title": "[Cancelled] Public Tour | Cantor Highlights: 3 PM",
+      "url": "https://events.stanford.edu/event/copy-of-copy-of-cancelled-public-tour-cantor-highlights-1-pm",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53312069784797/huge/4bb79fcede5ac52f62ff65a8b34c2513a253fc37.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-15",
+          "start": "2026-08-15T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-15"
       ]
     },
     {
@@ -2789,6 +3019,35 @@
       ]
     },
     {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-21",
+          "start": "2026-08-21T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-08-28",
+          "start": "2026-08-28T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-21",
+        "2026-08-28"
+      ]
+    },
+    {
       "id": 51934608883260,
       "title": "Info session for Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-4345",
@@ -2837,6 +3096,31 @@
       ],
       "dates": [
         "2026-08-22"
+      ]
+    },
+    {
+      "id": 53694974239736,
+      "title": "Digital Humanities Summer Internship Symposium",
+      "url": "https://events.stanford.edu/event/digital-humanities-summer-internship-symposium",
+      "experience": "inperson",
+      "location": "Building 160, Wallenberg Hall, 420, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53695008095856/huge/6ee762a6caec0ee0621f321e5c498e28fad690db.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-24",
+          "start": "2026-08-24T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-24"
       ]
     },
     {
@@ -3095,6 +3379,43 @@
       ]
     },
     {
+      "id": 53695161366348,
+      "title": "Public Tour | Cantor Highlights in Chinese",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-in-chinese-4381",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53695161315145/huge/a04d5a884b40c05e4ace455aa3bf15a839776d62.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-13",
+          "start": "2026-09-13T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-11",
+          "start": "2026-10-11T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-13",
+        "2026-10-11",
+        "2026-11-15"
+      ]
+    },
+    {
       "id": 53558991916783,
       "title": "Stanford Medicine and Stanford Health Care Tri-Valley 2026 Cardiovascular Symposium: Advancements in Cardiovascular Care",
       "url": "https://events.stanford.edu/event/stanford-medicine-and-stanford-health-care-tri-valley-2026-cardiovascular-symposium-advancements-in-cardiovascular-care",
@@ -3121,7 +3442,7 @@
     },
     {
       "id": 49845006960734,
-      "title": "Public Tour | Cantor Highlights (Spanish Language)",
+      "title": "Public Tour | Cantor Highlights in Spanish Language",
       "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
       "experience": "inperson",
       "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
@@ -4250,6 +4571,34 @@
       ],
       "dates": [
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 53691925115268,
+      "title": "Documentary Objectives: Filming Africa from Colonialism to Independence - Rachel Gabara",
+      "url": "https://events.stanford.edu/event/documentary-objectives-filming-africa-from-colonialism-to-independence-rachel-gabara",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53691961395481/huge/dc25c1c06b256103e8ec368130ab23a5169ef32f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
       ]
     },
     {
