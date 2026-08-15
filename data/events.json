@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T14:15:38+00:00",
+  "generated_at": "2026-08-15T02:13:41+00:00",
   "window": {
-    "start": "2026-08-14",
-    "end": "2027-02-10"
+    "start": "2026-08-15",
+    "end": "2027-02-11"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 16,
-    "dated": 77
+    "dated": 76
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-08-16",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16"
       ]
@@ -63,7 +62,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-08-14",
         "2026-08-19",
         "2026-08-20",
         "2026-08-21"
@@ -88,7 +86,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
@@ -133,7 +130,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17"
@@ -159,7 +155,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
@@ -218,7 +213,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
@@ -374,7 +368,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
@@ -418,7 +411,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-14",
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
@@ -455,7 +447,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-08-14",
         "2026-08-17",
         "2026-08-21",
         "2026-08-24",
@@ -482,7 +473,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
@@ -623,7 +613,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
@@ -1004,11 +993,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-14",
-          "start": "2026-08-14T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-28",
           "start": "2026-08-28T12:00:00-07:00",
           "all_day": false
@@ -1055,7 +1039,6 @@
         }
       ],
       "dates": [
-        "2026-08-14",
         "2026-08-28",
         "2026-09-11",
         "2026-09-25",
@@ -1068,9 +1051,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-08-14",
+      "next_date": "2026-08-28",
       "last_date": "2027-01-22",
-      "count": 10
+      "count": 9
     },
     {
       "id": 46378544005855,
@@ -1264,11 +1247,6 @@
       "photo": "https://localist-images.azureedge.net/photos/38574975709435/huge/c4d8107d32866042683d80707c27df3d5adff22e.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-14",
-          "start": "2026-08-14T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-15",
           "start": "2026-08-15T11:30:00-07:00",
@@ -1466,7 +1444,6 @@
         }
       ],
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-21",
         "2026-08-22",
@@ -1509,9 +1486,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-08-14",
+      "next_date": "2026-08-15",
       "last_date": "2026-12-26",
-      "count": 40
+      "count": 39
     },
     {
       "id": 53694822395653,
@@ -1828,11 +1805,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-14",
-          "start": "2026-08-14T13:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-15",
           "start": "2026-08-15T13:00:00-07:00",
           "all_day": false
@@ -2129,7 +2101,6 @@
         }
       ],
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-21",
@@ -2192,9 +2163,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-08-14",
+      "next_date": "2026-08-15",
       "last_date": "2026-12-27",
-      "count": 60
+      "count": 59
     },
     {
       "id": 53507974492381,
@@ -2786,58 +2757,6 @@
   ],
   "events": [
     {
-      "id": 53188462758387,
-      "title": "Human Biology Student Research Symposium & Faculty Keynote",
-      "url": "https://events.stanford.edu/event/human-biology-student-research-symposium-faculty-keynote",
-      "experience": "inperson",
-      "location": "Fisher Conference Center, Stanford Alumni Center, 326 Galvez St, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability",
-        "Humanities",
-        "Medicine",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53188496404617/huge/f9fb4315a10a74248e5401c42403e506e0d5a539.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-14",
-          "start": "2026-08-14T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-14"
-      ]
-    },
-    {
-      "id": 53621143096446,
-      "title": "PhD Dissertation Defense: Vivian Zhong",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-vivian-zhong",
-      "experience": "inperson",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53621146703414/huge/bab8c2b1f05569249444487d73f6014c2ad9e0a3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-14",
-          "start": "2026-08-14T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-14"
-      ]
-    },
-    {
       "id": 53312069814495,
       "title": "[Cancelled] Public Tour | Cantor Highlights: 3 PM",
       "url": "https://events.stanford.edu/event/copy-of-copy-of-cancelled-public-tour-cantor-highlights-1-pm",
@@ -3011,6 +2930,29 @@
         {
           "date": "2026-08-20",
           "start": "2026-08-20T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    {
+      "id": 53701561922794,
+      "title": "PhD Dissertation Defense: Lara Weed",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-lara-weed",
+      "experience": "inperson",
+      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53701564709817/huge/6cef1973d4fb7401bed8aa6bc7133207d2bb47e8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-20",
+          "start": "2026-08-20T10:00:00-07:00",
           "all_day": false
         }
       ],
