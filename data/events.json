@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T13:31:12+00:00",
+  "generated_at": "2026-08-17T02:19:32+00:00",
   "window": {
-    "start": "2026-08-16",
-    "end": "2027-02-12"
+    "start": "2026-08-17",
+    "end": "2027-02-13"
   },
   "filters": {
     "public_audiences": [
@@ -21,31 +21,11 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
+    "ongoing": 12,
     "recurring": 16,
-    "dated": 77
+    "dated": 75
   },
   "ongoing": [
-    {
-      "id": 51827589730708,
-      "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
-      "url": "https://events.stanford.edu/event/neurocrine",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/51827731132628/huge/beb89c9caa35c6e6186528e901dbf9ade4f7a104.jpg",
-      "free": false,
-      "first_date": "2026-01-14",
-      "last_date": "2026-08-16",
-      "dates": [
-        "2026-08-16"
-      ]
-    },
     {
       "id": 52127684778082,
       "title": "You Are Here: Transit Cartography & Spatial Identity",
@@ -85,7 +65,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-16",
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
@@ -128,7 +107,6 @@
       "first_date": "2026-04-02",
       "last_date": "2026-08-17",
       "dates": [
-        "2026-08-16",
         "2026-08-17"
       ]
     },
@@ -152,7 +130,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-16",
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
@@ -209,7 +186,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-16",
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
@@ -363,7 +339,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-16",
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
@@ -467,7 +442,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-16",
         "2026-08-17",
         "2026-08-20",
         "2026-08-21",
@@ -587,7 +561,8 @@
         "2027-02-06",
         "2027-02-07",
         "2027-02-08",
-        "2027-02-11"
+        "2027-02-11",
+        "2027-02-12"
       ]
     },
     {
@@ -607,7 +582,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-16",
         "2026-08-17",
         "2026-08-19",
         "2026-08-20",
@@ -841,7 +815,8 @@
         "2027-02-06",
         "2027-02-07",
         "2027-02-08",
-        "2027-02-11"
+        "2027-02-11",
+        "2027-02-12"
       ]
     },
     {
@@ -1030,6 +1005,11 @@
           "date": "2027-01-22",
           "start": "2027-01-22T12:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-12",
+          "start": "2027-02-12T12:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1041,13 +1021,14 @@
         "2026-11-13",
         "2026-12-11",
         "2027-01-08",
-        "2027-01-22"
+        "2027-01-22",
+        "2027-02-12"
       ],
       "pattern": "Fridays",
       "time": "12 PM",
       "next_date": "2026-08-28",
-      "last_date": "2027-01-22",
-      "count": 9
+      "last_date": "2027-02-12",
+      "count": 10
     },
     {
       "id": 46378544005855,
@@ -1064,11 +1045,6 @@
       "photo": "https://localist-images.azureedge.net/photos/49852542487672/huge/58e4760de6b6fa6fddd6231f47c3561901421e62.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T12:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-22",
           "start": "2026-08-22T12:30:00-07:00",
@@ -1091,7 +1067,6 @@
         }
       ],
       "dates": [
-        "2026-08-16",
         "2026-08-22",
         "2026-08-23",
         "2026-08-29",
@@ -1099,9 +1074,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-08-16",
+      "next_date": "2026-08-22",
       "last_date": "2026-08-30",
-      "count": 5
+      "count": 4
     },
     {
       "id": 47049266947082,
@@ -1118,11 +1093,6 @@
       "photo": "https://localist-images.azureedge.net/photos/47049307410747/huge/1bd74a421b121047f5557d9b767b00f3572a1af7.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T14:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-22",
           "start": "2026-08-22T14:30:00-07:00",
@@ -1145,7 +1115,6 @@
         }
       ],
       "dates": [
-        "2026-08-16",
         "2026-08-22",
         "2026-08-23",
         "2026-08-29",
@@ -1153,9 +1122,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-08-16",
+      "next_date": "2026-08-22",
       "last_date": "2026-08-30",
-      "count": 5
+      "count": 4
     },
     {
       "id": 52489460033306,
@@ -1702,6 +1671,11 @@
           "date": "2027-02-06",
           "start": "2027-02-06T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-12",
+          "start": "2027-02-12T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1748,13 +1722,14 @@
         "2027-01-29",
         "2027-01-30",
         "2027-02-05",
-        "2027-02-06"
+        "2027-02-06",
+        "2027-02-12"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-08-21",
-      "last_date": "2027-02-06",
-      "count": 44
+      "last_date": "2027-02-12",
+      "count": 45
     },
     {
       "id": 48376809728814,
@@ -1774,11 +1749,6 @@
       "photo": "https://localist-images.azureedge.net/photos/41032210167233/huge/960b7b7690505dda8ee03ba824b8f1763ac82d09.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-21",
           "start": "2026-08-21T13:00:00-07:00",
@@ -2066,7 +2036,6 @@
         }
       ],
       "dates": [
-        "2026-08-16",
         "2026-08-21",
         "2026-08-22",
         "2026-08-23",
@@ -2127,9 +2096,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-08-16",
+      "next_date": "2026-08-21",
       "last_date": "2026-12-27",
-      "count": 58
+      "count": 57
     },
     {
       "id": 53507974492381,
@@ -2149,11 +2118,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53507974444251/huge/9f891abcdc1b7bf4e620ef736a9ab23262eb6200.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-22",
           "start": "2026-08-22T15:00:00-07:00",
@@ -2211,7 +2175,6 @@
         }
       ],
       "dates": [
-        "2026-08-16",
         "2026-08-22",
         "2026-08-29",
         "2026-08-30",
@@ -2226,9 +2189,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-08-16",
+      "next_date": "2026-08-22",
       "last_date": "2026-09-27",
-      "count": 12
+      "count": 11
     },
     {
       "id": 38569589895140,
@@ -2714,59 +2677,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53233549421372,
-      "title": "Kintsugi: The Art of Repair",
-      "url": "https://events.stanford.edu/event/kintsugi-the-art-of-golden-repair",
-      "experience": "inperson",
-      "location": "Anderson Collection, Denning Family Resource Center and Egan Terrace, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53234139365022/huge/1f0f90ae154daf0c77f428ca80bf4a2ce92aae9c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-16"
-      ]
-    },
-    {
-      "id": 53004541128514,
-      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-museum-9629",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53004541056832/huge/a31797a7ed6091ab48a32ed4c2dc730b3c8e6b48.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-16",
-          "start": "2026-08-16T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-16"
-      ]
-    },
     {
       "id": 53286158681921,
       "title": "August Museum Minis: Storytime at the Anderson",
