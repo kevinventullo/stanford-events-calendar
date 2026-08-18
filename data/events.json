@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T13:38:55+00:00",
+  "generated_at": "2026-08-18T02:15:23+00:00",
   "window": {
-    "start": "2026-08-17",
-    "end": "2027-02-13"
+    "start": "2026-08-18",
+    "end": "2027-02-14"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
-    "recurring": 16,
-    "dated": 75
+    "ongoing": 11,
+    "recurring": 15,
+    "dated": 76
   },
   "ongoing": [
     {
@@ -65,7 +65,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
@@ -91,26 +90,6 @@
       ]
     },
     {
-      "id": 52331703768568,
-      "title": "1,000 Ways to Hold: A New Work By Erika Chong Shuch",
-      "url": "https://events.stanford.edu/event/1000-ways-to-hold-a-new-work-by-erika-chong-shuch",
-      "experience": "inperson",
-      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52331706816489/huge/c88c6bf3fdf094f42905a39fb5a39b9bb6c60fb7.jpg",
-      "free": true,
-      "first_date": "2026-04-02",
-      "last_date": "2026-08-17",
-      "dates": [
-        "2026-08-17"
-      ]
-    },
-    {
       "id": 53020733796497,
       "title": "Moments in the History of East Asian Printing",
       "url": "https://events.stanford.edu/event/moments-in-the-history-of-east-asian-printing",
@@ -130,7 +109,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
@@ -186,7 +164,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
@@ -339,7 +316,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
@@ -380,7 +356,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
@@ -416,7 +391,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-08-17",
         "2026-08-21",
         "2026-08-24",
         "2026-08-28",
@@ -442,7 +416,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-17",
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
@@ -562,7 +535,8 @@
         "2027-02-07",
         "2027-02-08",
         "2027-02-11",
-        "2027-02-12"
+        "2027-02-12",
+        "2027-02-13"
       ]
     },
     {
@@ -582,7 +556,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-17",
         "2026-08-19",
         "2026-08-20",
         "2026-08-21",
@@ -816,7 +789,8 @@
         "2027-02-07",
         "2027-02-08",
         "2027-02-11",
-        "2027-02-12"
+        "2027-02-12",
+        "2027-02-13"
       ]
     },
     {
@@ -879,6 +853,39 @@
     }
   ],
   "recurring": [
+    {
+      "id": 38569589895140,
+      "title": "[Cancelled] Public Tour | Outdoor Sculpture Walk, Museum",
+      "url": "https://events.stanford.edu/event/public_tour_outdoor_sculpture_walk_museum",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Education",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/41032187193603/huge/691d439746ff6c8ee4d2d870f750c3f0f27a5762.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-20"
+      ],
+      "pattern": "Sundays",
+      "time": "2 PM",
+      "next_date": "2026-09-20",
+      "last_date": "2026-09-20",
+      "count": 1
+    },
     {
       "id": 53629749361008,
       "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
@@ -1142,11 +1149,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-17",
-          "start": "2026-08-17T00:00:00-07:00",
-          "all_day": true
-        },
-        {
           "date": "2026-08-18",
           "start": "2026-08-18T00:00:00-07:00",
           "all_day": true
@@ -1168,7 +1170,6 @@
         }
       ],
       "dates": [
-        "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
@@ -1176,9 +1177,9 @@
       ],
       "pattern": "Various days",
       "time": "All day",
-      "next_date": "2026-08-17",
+      "next_date": "2026-08-18",
       "last_date": "2026-08-21",
-      "count": 5
+      "count": 4
     },
     {
       "id": 48217677268364,
@@ -1676,6 +1677,11 @@
           "date": "2027-02-12",
           "start": "2027-02-12T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-13",
+          "start": "2027-02-13T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1723,13 +1729,14 @@
         "2027-01-30",
         "2027-02-05",
         "2027-02-06",
-        "2027-02-12"
+        "2027-02-12",
+        "2027-02-13"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-08-21",
-      "last_date": "2027-02-12",
-      "count": 45
+      "last_date": "2027-02-13",
+      "count": 46
     },
     {
       "id": 48376809728814,
@@ -2194,57 +2201,6 @@
       "count": 11
     },
     {
-      "id": 38569589895140,
-      "title": "Public Tour | Outdoor Sculpture Walk, Museum",
-      "url": "https://events.stanford.edu/event/public_tour_outdoor_sculpture_walk_museum",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/41032187193603/huge/691d439746ff6c8ee4d2d870f750c3f0f27a5762.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-20",
-          "start": "2026-09-20T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T14:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-20",
-          "start": "2026-12-20T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-20",
-        "2026-10-18",
-        "2026-11-15",
-        "2026-12-20"
-      ],
-      "pattern": "Sundays",
-      "time": "2 PM",
-      "next_date": "2026-09-20",
-      "last_date": "2026-12-20",
-      "count": 4
-    },
-    {
       "id": 40909411691045,
       "title": "Public Tour | Papua New Guinea Sculpture Walk",
       "url": "https://events.stanford.edu/event/public_tour_papua_new_guinea_sculpture_walk_1489",
@@ -2270,84 +2226,17 @@
           "date": "2026-09-27",
           "start": "2026-09-27T11:30:00-07:00",
           "all_day": false
-        },
-        {
-          "date": "2026-10-25",
-          "start": "2026-10-25T11:30:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T11:30:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-27",
-          "start": "2026-12-27T11:30:00-08:00",
-          "all_day": false
         }
       ],
       "dates": [
         "2026-08-23",
-        "2026-09-27",
-        "2026-10-25",
-        "2026-11-22",
-        "2026-12-27"
+        "2026-09-27"
       ],
       "pattern": "Sundays",
       "time": "11:30 AM",
       "next_date": "2026-08-23",
-      "last_date": "2026-12-27",
-      "count": 5
-    },
-    {
-      "id": 51375729019846,
-      "title": "Public Tour: Outdoor Sculpture Walk, Campus",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-outdoor-sculpture-walk-campus",
-      "experience": "inperson",
-      "location": "Meet at the top of the Oval near the benches.",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/51375728996292/huge/86507a7465df24e1ddb94f19d1e5cdf445682763.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-06",
-          "start": "2026-09-06T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-04",
-          "start": "2026-10-04T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-01",
-          "start": "2026-11-01T14:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-06",
-          "start": "2026-12-06T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-06",
-        "2026-10-04",
-        "2026-11-01",
-        "2026-12-06"
-      ],
-      "pattern": "Sundays",
-      "time": "2 PM",
-      "next_date": "2026-09-06",
-      "last_date": "2026-12-06",
-      "count": 4
+      "last_date": "2026-09-27",
+      "count": 2
     },
     {
       "id": 46378871982905,
@@ -2678,81 +2567,6 @@
   ],
   "events": [
     {
-      "id": 53286158681921,
-      "title": "August Museum Minis: Storytime at the Anderson",
-      "url": "https://events.stanford.edu/event/august-museum-minis-storytime-at-the-anderson",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53286171845691/huge/e34a1694e508c281ca2c0be653077eae3afbce00.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-08-17",
-          "start": "2026-08-17T11:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-17"
-      ]
-    },
-    {
-      "id": 53603849019432,
-      "title": "Geophysics PhD Defense, Ethan Lopes: \"Serpentinization in the Lab and Nature: Magnetic Insights into Thermochemical Alteration Processes\"",
-      "url": "https://events.stanford.edu/event/geophysics-phd-defense-ethan-lopes-serpentinization-in-the-lab-and-nature-magnetic-insights-into-thermochemical-alteration-processes",
-      "experience": "hybrid",
-      "location": "Mitchell Earth Sciences, Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53603858347447/huge/996ed1d9f973b9b9ea59f99e6207c3cfd11da1f4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-17",
-          "start": "2026-08-17T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-17"
-      ]
-    },
-    {
-      "id": 53614506563480,
-      "title": "PhD Defense - Xiaoyu Yang: \"Modeling, Estimation, and Learning of Lithium Batteries\"",
-      "url": "https://events.stanford.edu/event/phd-defense-xiaoyu-yang-modeling-estimation-and-learning-of-lithium-batteries",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 365, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53614529370295/huge/a857660ef179dc7cec3e5ef2d9d98985d3305921.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-17",
-          "start": "2026-08-17T12:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-17"
-      ]
-    },
-    {
       "id": 53365630823079,
       "title": "Evening Curator Talk | Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
       "url": "https://events.stanford.edu/event/evening-curator-talk-animal-vegetable-nor-mineral-works-by-miljohn-ruperto",
@@ -2770,6 +2584,30 @@
         {
           "date": "2026-08-20",
           "start": "2026-08-20T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    {
+      "id": 53727925273346,
+      "title": "Master of Liberal Arts Information Session",
+      "url": "https://events.stanford.edu/event/master-of-liberal-arts-information-session",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, 113, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Education",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53727938589260/huge/65fd0acb53f261a60c508df3dd7624159c579475.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-08-20",
+          "start": "2026-08-20T19:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3311,6 +3149,31 @@
       ]
     },
     {
+      "id": 53234372978860,
+      "title": "Patty Chang: surfacing | Artist Talk",
+      "url": "https://events.stanford.edu/event/surfacing-artist-talk",
+      "experience": "inperson",
+      "location": "Anderson Collection, Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53303937163194/huge/4cb681c056489877cf3d0fa542f74beb620a9cde.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-25",
+          "start": "2026-09-25T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    {
       "id": 53632288644485,
       "title": "Stanford Football vs Georgia Tech | Red Out",
       "url": "https://events.stanford.edu/event/stanford-football-vs-georgia-tech-red-out",
@@ -3650,6 +3513,48 @@
         {
           "date": "2026-10-14",
           "start": "2026-10-14T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
+      "id": 53727281212449,
+      "title": "Center for African Studies Welcome Reception",
+      "url": "https://events.stanford.edu/event/cas-welcome-reception",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Theater/Dance",
+        "Health/Wellness",
+        "Music",
+        "Business",
+        "Career Development",
+        "Education",
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53727344667635/huge/30be83b82e5a7c790d8c63ada3ea2156ac269d4a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T16:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4555,6 +4460,33 @@
       ],
       "dates": [
         "2026-11-28"
+      ]
+    },
+    {
+      "id": 53727115436518,
+      "title": "The Future of Health in Africa: How U.S. Presidential Decisions Are Shaping a Generation of African Children - Dr. Ruth Gibson",
+      "url": "https://events.stanford.edu/event/the-future-of-health-in-africa-how-us-presidential-decisions-are-shaping-a-generation-of-african-children-dr-ruth-gibson",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53727119305435/huge/543c4cc74c3351ddd6af75f7680149f95d34ad85.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
       ]
     },
     {
