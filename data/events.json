@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T13:43:27+00:00",
+  "generated_at": "2026-08-20T02:16:36+00:00",
   "window": {
-    "start": "2026-08-19",
-    "end": "2027-02-15"
+    "start": "2026-08-20",
+    "end": "2027-02-16"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 15,
-    "dated": 77
+    "dated": 84
   },
   "ongoing": [
     {
@@ -41,7 +41,6 @@
       "first_date": "2026-03-25",
       "last_date": "2026-08-21",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21"
       ]
@@ -65,7 +64,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
@@ -108,7 +106,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
@@ -162,7 +159,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
@@ -313,7 +309,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
@@ -352,7 +347,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21",
         "2026-08-24",
@@ -532,7 +526,8 @@
         "2027-02-11",
         "2027-02-12",
         "2027-02-13",
-        "2027-02-14"
+        "2027-02-14",
+        "2027-02-15"
       ]
     },
     {
@@ -552,7 +547,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
@@ -787,7 +781,8 @@
         "2027-02-11",
         "2027-02-12",
         "2027-02-13",
-        "2027-02-14"
+        "2027-02-14",
+        "2027-02-15"
       ]
     },
     {
@@ -1146,11 +1141,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-19",
-          "start": "2026-08-19T00:00:00-07:00",
-          "all_day": true
-        },
-        {
           "date": "2026-08-20",
           "start": "2026-08-20T00:00:00-07:00",
           "all_day": true
@@ -1162,15 +1152,14 @@
         }
       ],
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21"
       ],
-      "pattern": "Wed, Thu, Fri",
+      "pattern": "Thu, Fri",
       "time": "All day",
-      "next_date": "2026-08-19",
+      "next_date": "2026-08-20",
       "last_date": "2026-08-21",
-      "count": 3
+      "count": 2
     },
     {
       "id": 53694822395653,
@@ -2447,11 +2436,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-19",
-          "start": "2026-08-19T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-26",
           "start": "2026-08-26T09:00:00-07:00",
           "all_day": false
@@ -2533,7 +2517,6 @@
         }
       ],
       "dates": [
-        "2026-08-19",
         "2026-08-26",
         "2026-09-02",
         "2026-09-09",
@@ -2553,37 +2536,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-08-19",
+      "next_date": "2026-08-26",
       "last_date": "2026-12-16",
-      "count": 17
+      "count": 16
     }
   ],
   "events": [
-    {
-      "id": 53736742677258,
-      "title": "Joshua Neutel's PhD Defense",
-      "url": "https://events.stanford.edu/event/joshua-neutels-phd-defense",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 365, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-08-19",
-          "start": "2026-08-19T09:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-19"
-      ]
-    },
     {
       "id": 53365630823079,
       "title": "Evening Curator Talk | Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
@@ -2788,7 +2746,7 @@
     },
     {
       "id": 53667434739844,
-      "title": "Book Talk: \"Ba‘thist Iraq Through Archives Reflections, Explorations, And Opportunities\" By Lisa Blaydes And Samuel Helfont",
+      "title": "Book Talk: “Ba‘thist Iraq Through Archives Reflections, Explorations, And Opportunities” By Lisa Blaydes And Samuel Helfont",
       "url": "https://events.stanford.edu/event/book-talk-bathist-iraq-through-archives-reflections-explorations-and-opportunities-by-lisa-blaydes-and-samuel-helfont",
       "experience": "hybrid",
       "location": "Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
@@ -3142,6 +3100,56 @@
       ]
     },
     {
+      "id": 53746640312609,
+      "title": "Georgian Cinema Now: Self-Portrait Along the Borderline (2023), It Will Be Better Before (2024)",
+      "url": "https://events.stanford.edu/event/georgian-cinema-now-self-portrait-along-the-borderline-2023-it-will-be-better-before-2024",
+      "experience": "inperson",
+      "location": "McMurtry Building, 115, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53746645371447/huge/612d93e1b3b917c82080764de773d3da347c60a9.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-22",
+          "start": "2026-09-22T15:45:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    {
+      "id": 53746577579410,
+      "title": "Georgian Cinema Now: Taming the Garden (2021)",
+      "url": "https://events.stanford.edu/event/georgian-cinema-now-taming-the-garden-2021",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53746580397450/huge/0a6b67c09bf4f5b3f1f94e296686307cd306a00b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-22",
+          "start": "2026-09-22T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    {
       "id": 53444427372710,
       "title": "6th Annual Precision Mental Health Symposium: From Circuits to Mindsets: Precision Mental Health in the Real World",
       "url": "https://events.stanford.edu/event/6th-annual-precision-mental-health-symposium-from-circuits-to-mindsets-precision-mental-health-in-the-real-world",
@@ -3237,6 +3245,56 @@
       ],
       "dates": [
         "2026-09-27"
+      ]
+    },
+    {
+      "id": 53746665215880,
+      "title": "Georgian Cinema Now: Blackbird Blackbird Blackberry (2023)",
+      "url": "https://events.stanford.edu/event/georgian-cinema-now-blackbird-blackbird-blackberry-2023",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53746667652619/huge/43d56e4bca91c0336689faae94c9e7599fc7a56d.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    {
+      "id": 53746608322759,
+      "title": "Georgian Cinema Now: Temo Re (2025)",
+      "url": "https://events.stanford.edu/event/georgian-cinema-now-temo-re-2025",
+      "experience": "inperson",
+      "location": "McMurtry Building, 115, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53746612608713/huge/74c599215fc4321b8179efc7fadc2b876bcc5a2a.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T15:45:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
       ]
     },
     {
@@ -3403,6 +3461,35 @@
       ]
     },
     {
+      "id": 53746050079540,
+      "title": "Celebrating Human and Planetary Health | How is the Stanford community building a healthier future for people and the planet?",
+      "url": "https://events.stanford.edu/event/celebrating-human-and-planetary-health-how-is-the-stanford-community-building-a-healthier-future-for-people-and-the-planet",
+      "experience": "inperson",
+      "location": "Mackenzie Room, Jen-Hsun Huang Engineering Center Room 300, 475 Via Ortega 3rd Floor, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Education",
+        "Environment/Sustainability",
+        "Medicine",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53746933204926/huge/bb3cd8e128c621754305e17440ec86d9690fed19.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T15:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
       "id": 53605515226527,
       "title": "Enemies in Agreement: Political Volatility and the Design of Arms Control",
       "url": "https://events.stanford.edu/event/enemies-in-agreement-political-volatility-and-the-design-of-arms-control-jane-vaynman",
@@ -3425,6 +3512,35 @@
       ],
       "dates": [
         "2026-10-06"
+      ]
+    },
+    {
+      "id": 53746350240960,
+      "title": "Film Screening: Everyone Is Lying to You for Money",
+      "url": "https://events.stanford.edu/event/film-screening-everyone-is-lying-to-you-for-money",
+      "experience": "inperson",
+      "location": "GSB Knight - Arbuckle / Cemex, CEMEX, 641 Knight Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53746354748529/huge/d6641673bec5fa1c186339b9d9ee8bdbc4884598.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T18:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
       ]
     },
     {
@@ -4433,7 +4549,7 @@
     },
     {
       "id": 53251196124368,
-      "title": "Studio Lecture Series: Holly Herndon & Mat Dryhurst",
+      "title": "Holly Herndon & Mat Dryhurst: Protocol Art",
       "url": "https://events.stanford.edu/event/studio-lecture-series-holly-herndon-mat-dryhurst",
       "experience": "inperson",
       "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
@@ -4444,7 +4560,7 @@
         "Arts/Media",
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53251200075111/huge/573d2accef4c4ec281b351e2258409cfc7468d9c.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53747139094817/huge/931f88c02e18debcad6690347bdf8d31216d2849.jpg",
       "free": false,
       "instances": [
         {
@@ -4505,6 +4621,31 @@
       ],
       "dates": [
         "2026-12-02"
+      ]
+    },
+    {
+      "id": 53746948737798,
+      "title": "PhD Dissertation Defense: Alyssa Cutter, Bando Lab",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-alyssa-cutter-bando-lab",
+      "experience": "inperson",
+      "location": "Munzer Auditorium, 279 Campus Drive W, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04"
       ]
     },
     {
@@ -4657,6 +4798,31 @@
       ],
       "dates": [
         "2027-02-11"
+      ]
+    },
+    {
+      "id": 53286236184486,
+      "title": "February Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/february-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286288876339/huge/7b973592ffd8d039f78580b0e35c1dae965ef4bf.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-15",
+          "start": "2027-02-15T11:15:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-15"
       ]
     }
   ]
