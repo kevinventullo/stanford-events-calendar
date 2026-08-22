@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T13:44:23+00:00",
+  "generated_at": "2026-08-22T02:15:55+00:00",
   "window": {
-    "start": "2026-08-21",
-    "end": "2027-02-17"
+    "start": "2026-08-22",
+    "end": "2027-02-18"
   },
   "filters": {
     "public_audiences": [
@@ -22,26 +22,47 @@
   },
   "counts": {
     "ongoing": 11,
-    "recurring": 14,
-    "dated": 88
+    "recurring": 13,
+    "dated": 90
   },
   "ongoing": [
     {
-      "id": 52127684778082,
-      "title": "You Are Here: Transit Cartography & Spatial Identity",
-      "url": "https://events.stanford.edu/event/you-are-here",
+      "id": 51827589730708,
+      "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
+      "url": "https://events.stanford.edu/event/neurocrine",
       "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "location": "",
       "types": [
-        "Exhibition"
+        "Other"
       ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/52128448833355/huge/125a5e1bfdfc7082a66e11bc994f35960b200d84.jpg",
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/51827731132628/huge/beb89c9caa35c6e6186528e901dbf9ade4f7a104.jpg",
       "free": false,
-      "first_date": "2026-03-25",
-      "last_date": "2026-08-21",
+      "first_date": "2026-01-14",
+      "last_date": "2026-09-10",
       "dates": [
-        "2026-08-21"
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
       ]
     },
     {
@@ -63,7 +84,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
@@ -104,7 +124,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
@@ -156,7 +175,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
@@ -305,7 +323,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
@@ -342,7 +359,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-21",
         "2026-08-24",
         "2026-08-25",
         "2026-08-26",
@@ -374,7 +390,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-08-21",
         "2026-08-24",
         "2026-08-28",
         "2026-08-31"
@@ -399,7 +414,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
@@ -540,7 +554,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
@@ -1112,36 +1125,6 @@
       "count": 4
     },
     {
-      "id": 52489460033306,
-      "title": "Leading the Future of Healthcare: Stanford Medicine Leadership Intensive",
-      "url": "https://events.stanford.edu/event/leading-the-future-of-healthcare-stanford-medicine-leadership-intensive",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52490206798099/huge/184691418ba9c42b4d1fe568a907997960e67b96.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-21",
-          "start": "2026-08-21T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-08-21"
-      ],
-      "pattern": "Fridays",
-      "time": "All day",
-      "next_date": "2026-08-21",
-      "last_date": "2026-08-21",
-      "count": 1
-    },
-    {
       "id": 53694822395653,
       "title": "Public Tour |  Auguste Rodin",
       "url": "https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste-rodin-565",
@@ -1158,11 +1141,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-21",
-          "start": "2026-08-21T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-22",
           "start": "2026-08-22T11:30:00-07:00",
@@ -1390,7 +1368,6 @@
         }
       ],
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-28",
         "2026-08-29",
@@ -1439,9 +1416,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-08-21",
+      "next_date": "2026-08-22",
       "last_date": "2027-02-13",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737452675144,
@@ -2400,59 +2377,6 @@
   ],
   "events": [
     {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-21",
-          "start": "2026-08-21T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-08-28",
-          "start": "2026-08-28T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-21",
-        "2026-08-28"
-      ]
-    },
-    {
-      "id": 51934608883260,
-      "title": "Info session for Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-4345",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/51934617468061/huge/348f6800ab8b067bc69bc4f0d192f7d286ecdab3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-21",
-          "start": "2026-08-21T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-21"
-      ]
-    },
-    {
       "id": 53755608877782,
       "title": "[Cancelled] Public Tour | A Closer Look",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-1205",
@@ -2612,6 +2536,35 @@
       ],
       "dates": [
         "2026-08-26"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-28",
+          "start": "2026-08-28T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-04",
+          "start": "2026-09-04T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-08-28",
+        "2026-09-04"
       ]
     },
     {
@@ -2990,6 +2943,34 @@
       ],
       "dates": [
         "2026-09-22"
+      ]
+    },
+    {
+      "id": 53764792732437,
+      "title": "Three L.A.S.E.R. talks: Real and Artificial Minds, AI for Artists, Satirical Art",
+      "url": "https://events.stanford.edu/event/three-laser-talks-real-and-artificial-minds-ai-for-artists-satirical-art",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, LK 120, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53764810546528/huge/62dc18bb345cd0ba71fa3452f68209b25b4537b2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-24",
+          "start": "2026-09-24T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-24"
       ]
     },
     {
@@ -3979,6 +3960,29 @@
       ]
     },
     {
+      "id": 53764263973882,
+      "title": "The Human Factor: Work as Science in Modern China",
+      "url": "https://events.stanford.edu/event/the-human-factor-work-as-science-in-modern-china",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53764267965751/huge/384247d516aa7ad8ac8979ae12a3a149a7874474.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
       "id": 52206222934826,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-8021",
@@ -4185,6 +4189,37 @@
       ],
       "dates": [
         "2026-10-27"
+      ]
+    },
+    {
+      "id": 53763677186043,
+      "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
+      "url": "https://events.stanford.edu/event/Angels-Auditions",
+      "experience": "inperson",
+      "location": "To Be Announced",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Theater/Dance"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39122882589700/huge/a854057dad5fdeae267115dbb0cc3c49be14e0b3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T18:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29",
+        "2026-10-30"
       ]
     },
     {
