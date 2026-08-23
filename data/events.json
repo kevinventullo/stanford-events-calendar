@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T13:31:35+00:00",
+  "generated_at": "2026-08-23T02:23:34+00:00",
   "window": {
-    "start": "2026-08-22",
-    "end": "2027-02-18"
+    "start": "2026-08-23",
+    "end": "2027-02-19"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 13,
-    "dated": 90
+    "dated": 88
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
@@ -84,7 +83,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-24",
         "2026-08-27",
@@ -124,7 +122,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
@@ -175,7 +172,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
@@ -323,7 +319,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
@@ -414,7 +409,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-24",
         "2026-08-27",
@@ -534,7 +528,8 @@
         "2027-02-12",
         "2027-02-13",
         "2027-02-14",
-        "2027-02-15"
+        "2027-02-15",
+        "2027-02-18"
       ]
     },
     {
@@ -554,7 +549,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
@@ -787,7 +781,8 @@
         "2027-02-12",
         "2027-02-13",
         "2027-02-14",
-        "2027-02-15"
+        "2027-02-15",
+        "2027-02-18"
       ]
     },
     {
@@ -1044,11 +1039,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-22",
-          "start": "2026-08-22T12:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-23",
           "start": "2026-08-23T12:30:00-07:00",
           "all_day": false
@@ -1065,16 +1055,15 @@
         }
       ],
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-29",
         "2026-08-30"
       ],
       "pattern": "Sat, Sun",
       "time": "12:30 PM",
-      "next_date": "2026-08-22",
+      "next_date": "2026-08-23",
       "last_date": "2026-08-30",
-      "count": 4
+      "count": 3
     },
     {
       "id": 47049266947082,
@@ -1092,11 +1081,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-22",
-          "start": "2026-08-22T14:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-23",
           "start": "2026-08-23T14:30:00-07:00",
           "all_day": false
@@ -1113,16 +1097,15 @@
         }
       ],
       "dates": [
-        "2026-08-22",
         "2026-08-23",
         "2026-08-29",
         "2026-08-30"
       ],
       "pattern": "Sat, Sun",
       "time": "2:30 PM",
-      "next_date": "2026-08-22",
+      "next_date": "2026-08-23",
       "last_date": "2026-08-30",
-      "count": 4
+      "count": 3
     },
     {
       "id": 53694822395653,
@@ -1141,11 +1124,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-08-22",
-          "start": "2026-08-22T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-08-28",
           "start": "2026-08-28T11:30:00-07:00",
@@ -1368,7 +1346,6 @@
         }
       ],
       "dates": [
-        "2026-08-22",
         "2026-08-28",
         "2026-08-29",
         "2026-09-04",
@@ -1416,9 +1393,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-08-22",
+      "next_date": "2026-08-28",
       "last_date": "2027-02-13",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737452675144,
@@ -2143,11 +2120,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-22",
-          "start": "2026-08-22T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-29",
           "start": "2026-08-29T09:30:00-07:00",
           "all_day": false
@@ -2229,7 +2201,6 @@
         }
       ],
       "dates": [
-        "2026-08-22",
         "2026-08-29",
         "2026-09-05",
         "2026-09-12",
@@ -2249,9 +2220,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-08-22",
+      "next_date": "2026-08-29",
       "last_date": "2026-12-12",
-      "count": 17
+      "count": 16
     },
     {
       "id": 51888083181057,
@@ -2393,72 +2364,13 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-22",
-          "start": "2026-08-22T13:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-23",
           "start": "2026-08-23T13:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-08-22",
         "2026-08-23"
-      ]
-    },
-    {
-      "id": 53755560975894,
-      "title": "[Cancelled] Public Tour | A Closer Look",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-08-22",
-          "start": "2026-08-22T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-22"
-      ]
-    },
-    {
-      "id": 53064389481626,
-      "title": "SCI Breast Cancer and African American Conference",
-      "url": "https://events.stanford.edu/event/sci-breast-cancer-and-african-american-conference",
-      "experience": "inperson",
-      "location": "Doubletree by Hilton Hotel Newark - Fremont, 39900 Balentine Dr, Newark, CA 94560",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Diversity/Identity",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53064421037002/huge/396b915a41fffe03d1aa69148486c83fa8b9de15.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-22",
-          "start": "2026-08-22T07:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-22"
       ]
     },
     {
