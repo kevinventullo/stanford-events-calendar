@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T13:51:42+00:00",
+  "generated_at": "2026-08-25T02:18:12+00:00",
   "window": {
-    "start": "2026-08-24",
-    "end": "2027-02-20"
+    "start": "2026-08-25",
+    "end": "2027-02-21"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 13,
-    "dated": 88
+    "dated": 91
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-08-24",
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
@@ -82,7 +81,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-24",
         "2026-08-27",
         "2026-08-28",
         "2026-08-29",
@@ -120,7 +118,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-24",
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
@@ -169,7 +166,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-24",
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
@@ -315,7 +311,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-24",
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
@@ -349,7 +344,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-24",
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
@@ -380,7 +374,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-08-24",
         "2026-08-28",
         "2026-08-31"
       ]
@@ -404,7 +397,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-24",
         "2026-08-27",
         "2026-08-28",
         "2026-08-29",
@@ -524,7 +516,8 @@
         "2027-02-14",
         "2027-02-15",
         "2027-02-18",
-        "2027-02-19"
+        "2027-02-19",
+        "2027-02-20"
       ]
     },
     {
@@ -544,7 +537,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-24",
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
@@ -777,7 +769,8 @@
         "2027-02-14",
         "2027-02-15",
         "2027-02-18",
-        "2027-02-19"
+        "2027-02-19",
+        "2027-02-20"
       ]
     },
     {
@@ -1331,6 +1324,11 @@
           "date": "2027-02-19",
           "start": "2027-02-19T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-20",
+          "start": "2027-02-20T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1378,13 +1376,14 @@
         "2027-02-06",
         "2027-02-12",
         "2027-02-13",
-        "2027-02-19"
+        "2027-02-19",
+        "2027-02-20"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-08-28",
-      "last_date": "2027-02-19",
-      "count": 45
+      "last_date": "2027-02-20",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -1631,6 +1630,11 @@
           "date": "2027-02-14",
           "start": "2027-02-14T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-20",
+          "start": "2027-02-20T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1679,13 +1683,14 @@
         "2027-02-06",
         "2027-02-07",
         "2027-02-13",
-        "2027-02-14"
+        "2027-02-14",
+        "2027-02-20"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-08-29",
-      "last_date": "2027-02-14",
-      "count": 46
+      "last_date": "2027-02-20",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -1932,6 +1937,11 @@
           "date": "2027-02-14",
           "start": "2027-02-14T15:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-20",
+          "start": "2027-02-20T15:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1980,13 +1990,14 @@
         "2027-02-06",
         "2027-02-07",
         "2027-02-13",
-        "2027-02-14"
+        "2027-02-14",
+        "2027-02-20"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-08-29",
-      "last_date": "2027-02-14",
-      "count": 46
+      "last_date": "2027-02-20",
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -2325,31 +2336,6 @@
   ],
   "events": [
     {
-      "id": 53694974239736,
-      "title": "Digital Humanities Summer Internship Symposium",
-      "url": "https://events.stanford.edu/event/digital-humanities-summer-internship-symposium",
-      "experience": "inperson",
-      "location": "Building 160, Wallenberg Hall, 420, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53695008095856/huge/6ee762a6caec0ee0621f321e5c498e28fad690db.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-24",
-          "start": "2026-08-24T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-24"
-      ]
-    },
-    {
       "id": 53178080818274,
       "title": "PhD Dissertation Defense: Isabel Delwel, Mordecai Lab",
       "url": "https://events.stanford.edu/event/phd-dissertation-defense-isabel-delwel-mordecai-lab",
@@ -2588,6 +2574,31 @@
       ],
       "dates": [
         "2026-09-08"
+      ]
+    },
+    {
+      "id": 53790164070369,
+      "title": "Hopkins Marine Station Open House",
+      "url": "https://events.stanford.edu/event/hopkins-marine-station-open-house",
+      "experience": "inperson",
+      "location": "Hopkins Marine Station, 120 Ocean View Blvd Pacific Grove, CA 93950",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53790174845472/huge/acaf51cb321af3b1d229b29a4bfd9806ffebe3df.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-12"
       ]
     },
     {
@@ -2884,6 +2895,37 @@
       ],
       "dates": [
         "2026-09-25"
+      ]
+    },
+    {
+      "id": 53790488506507,
+      "title": "Challenge Success Annual Conference",
+      "url": "https://events.stanford.edu/event/challenge-success-annual-conference",
+      "experience": "inperson",
+      "location": "Angela Nomellini & Ken Olivier building (ANKO), 485 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53790574958116/huge/bcbbbd126f3568fbdad142676fc7f862c653d24c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T08:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-27",
+          "start": "2026-09-27T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-26",
+        "2026-09-27"
       ]
     },
     {
@@ -3280,6 +3322,31 @@
       ],
       "dates": [
         "2026-10-08"
+      ]
+    },
+    {
+      "id": 53790043944392,
+      "title": "Best Friend or Cyber Mother? A Confucian Reflection on AI Companionship",
+      "url": "https://events.stanford.edu/event/best-friend-or-cyber-mother-a-confucian-reflection-on-ai-companionship",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53790047424756/huge/e63b1810a10377dfac16dd93d2e5b0ee787b983a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-09"
       ]
     },
     {
@@ -3694,6 +3761,32 @@
       ],
       "dates": [
         "2026-10-19"
+      ]
+    },
+    {
+      "id": 53790134859204,
+      "title": "eWEAR Seminar: The Quantified Self",
+      "url": "https://events.stanford.edu/event/ewear-seminar-the-quantified-self",
+      "experience": "hybrid",
+      "location": "Paul G. Allen Center for Integrated Systems Annex, 101X auditorium, 330 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53790151326544/huge/389f338cf1a309b99ac075d8f7552cd0d3dc1009.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
       ]
     },
     {
@@ -4710,10 +4803,16 @@
           "date": "2027-02-19",
           "start": "2027-02-19T00:00:00-08:00",
           "all_day": true
+        },
+        {
+          "date": "2027-02-20",
+          "start": "2027-02-20T00:00:00-08:00",
+          "all_day": true
         }
       ],
       "dates": [
-        "2027-02-19"
+        "2027-02-19",
+        "2027-02-20"
       ]
     }
   ]
