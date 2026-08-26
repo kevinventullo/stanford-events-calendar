@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T13:50:21+00:00",
+  "generated_at": "2026-08-26T02:24:33+00:00",
   "window": {
-    "start": "2026-08-25",
-    "end": "2027-02-21"
+    "start": "2026-08-26",
+    "end": "2027-02-22"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 13,
-    "dated": 91
+    "dated": 97
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-08-25",
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
@@ -118,7 +117,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-25",
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
@@ -166,7 +164,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-25",
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
@@ -311,7 +308,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-25",
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
@@ -344,7 +340,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-25",
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
@@ -517,7 +512,8 @@
         "2027-02-15",
         "2027-02-18",
         "2027-02-19",
-        "2027-02-20"
+        "2027-02-20",
+        "2027-02-21"
       ]
     },
     {
@@ -537,7 +533,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-25",
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
@@ -770,7 +765,8 @@
         "2027-02-15",
         "2027-02-18",
         "2027-02-19",
-        "2027-02-20"
+        "2027-02-20",
+        "2027-02-21"
       ]
     },
     {
@@ -1635,6 +1631,11 @@
           "date": "2027-02-20",
           "start": "2027-02-20T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-21",
+          "start": "2027-02-21T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1684,13 +1685,14 @@
         "2027-02-07",
         "2027-02-13",
         "2027-02-14",
-        "2027-02-20"
+        "2027-02-20",
+        "2027-02-21"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-08-29",
-      "last_date": "2027-02-20",
-      "count": 47
+      "last_date": "2027-02-21",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -1942,6 +1944,11 @@
           "date": "2027-02-20",
           "start": "2027-02-20T15:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-21",
+          "start": "2027-02-21T15:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1991,13 +1998,14 @@
         "2027-02-07",
         "2027-02-13",
         "2027-02-14",
-        "2027-02-20"
+        "2027-02-20",
+        "2027-02-21"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-08-29",
-      "last_date": "2027-02-20",
-      "count": 47
+      "last_date": "2027-02-21",
+      "count": 48
     },
     {
       "id": 40909411691045,
@@ -2336,31 +2344,6 @@
   ],
   "events": [
     {
-      "id": 53178080818274,
-      "title": "PhD Dissertation Defense: Isabel Delwel, Mordecai Lab",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-isabel-delwel-mordecai-lab",
-      "experience": "inperson",
-      "location": "Munzer Auditorium, 279 Campus Drive W, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-25",
-          "start": "2026-08-25T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-08-25"
-      ]
-    },
-    {
       "id": 53667434739844,
       "title": "Book Talk: “Ba‘thist Iraq Through Archives Reflections, Explorations, And Opportunities” By Lisa Blaydes And Samuel Helfont",
       "url": "https://events.stanford.edu/event/book-talk-bathist-iraq-through-archives-reflections-explorations-and-opportunities-by-lisa-blaydes-and-samuel-helfont",
@@ -2563,7 +2546,7 @@
       "subjects": [
         "Science"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53666093481616/huge/0b23dbfa7d3abef180217ccbe89edf83e069418c.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53798539274019/huge/7f3628571b0303cb7f4cef680f87bf8b43c51690.jpg",
       "free": true,
       "instances": [
         {
@@ -2574,6 +2557,62 @@
       ],
       "dates": [
         "2026-09-08"
+      ]
+    },
+    {
+      "id": 53801176482521,
+      "title": "Stanford Future of Medicine Workshop: Accessing & Assessing Medical Truth in 2026",
+      "url": "https://events.stanford.edu/event/stanford-future-of-medicine-workshop-accessing-assessing-medical-truth-in-2026",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, LK 120, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511151498601/huge/0004c93a7e888e83b21c2c666e051bf5e857382e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-10",
+          "start": "2026-09-10T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    {
+      "id": 53801130738839,
+      "title": "Stanford Big Ideas in Medicine Conference",
+      "url": "https://events.stanford.edu/event/stanford-big-ideas-in-medicine-conference",
+      "experience": "hybrid",
+      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511119750107/huge/7ab7ef166d08f7d2a3df22d6504093683f94fa39.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-11",
+          "start": "2026-09-11T08:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-11",
+        "2026-09-12"
       ]
     },
     {
@@ -2679,6 +2718,31 @@
         "2026-09-13",
         "2026-10-11",
         "2026-11-15"
+      ]
+    },
+    {
+      "id": 53800171902023,
+      "title": "Constitution Day Lecture: Technology and Constitutional Rot",
+      "url": "https://events.stanford.edu/event/constitution-day-lecture-technology-and-constitutional-rot",
+      "experience": "inperson",
+      "location": "Law School, 290, 559 Nathon Abbott Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53800177287617/huge/888775d9cc06c4778b362a1a99ab98d01978751c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-17",
+          "start": "2026-09-17T05:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-17"
       ]
     },
     {
@@ -2817,6 +2881,36 @@
       ],
       "dates": [
         "2026-09-22"
+      ]
+    },
+    {
+      "id": 53799365594199,
+      "title": "\"In the Realm of the Last Man: A Memoir\" — Book Launch & Discussion with Francis Fukuyama",
+      "url": "https://events.stanford.edu/event/in-the-realm-of-the-last-man-a-memoir-book-launch-discussion-with-francis-fukuyama",
+      "experience": "hybrid",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Career Development",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53799414476819/huge/3a93603d0aa6ea1af89371e049247b4b73f3eae7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-23",
+          "start": "2026-09-23T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-23"
       ]
     },
     {
@@ -3765,7 +3859,7 @@
     },
     {
       "id": 53790134859204,
-      "title": "eWEAR Seminar: The Quantified Self",
+      "title": "eWEAR Seminar: The Quantified Self for Health",
       "url": "https://events.stanford.edu/event/ewear-seminar-the-quantified-self",
       "experience": "hybrid",
       "location": "Paul G. Allen Center for Integrated Systems Annex, 101X auditorium, 330 Jane Stanford Way, Stanford, CA 94305",
@@ -4282,6 +4376,31 @@
       ]
     },
     {
+      "id": 53801210598349,
+      "title": "Lunchtime Curator Talk | California Current: Art and Histories from the Bay Area",
+      "url": "https://events.stanford.edu/event/lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53801258335983/huge/9b760774564c40e7c9e5d9f1b9daf10c22f4f8e8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
       "id": 53604059426372,
       "title": "Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defensive Innovation",
       "url": "https://events.stanford.edu/event/biosecurity-in-an-age-of-ai-frontier-safety-anticipatory-governance-and-defensive-innovation-jassi-pannu",
@@ -4508,6 +4627,31 @@
       ]
     },
     {
+      "id": 53801258770132,
+      "title": "Lunchtime Curator Talk | California Current: Art and Histories from the Bay Area",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53801258722002/huge/cbfdac731cdb7cc31c09998b0a64f74d077e15d9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
       "id": 53746948737798,
       "title": "PhD Dissertation Defense: Alyssa Cutter, Bando Lab",
       "url": "https://events.stanford.edu/event/phd-dissertation-defense-alyssa-cutter-bando-lab",
@@ -4681,6 +4825,31 @@
       ],
       "dates": [
         "2027-01-19"
+      ]
+    },
+    {
+      "id": 53801280599480,
+      "title": "Lunchtime Curator Talk | California Current: Art and Histories from the Bay Area",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area-2439",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53801280565686/huge/1adfd1162319e2d18cdfdf930071036bf91d8661.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-04",
+          "start": "2027-02-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-04"
       ]
     },
     {
