@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T22:54:46+00:00",
+  "generated_at": "2026-08-29T07:41:22+00:00",
   "window": {
-    "start": "2026-08-28",
-    "end": "2027-02-24"
+    "start": "2026-08-29",
+    "end": "2027-02-25"
   },
   "filters": {
     "public_audiences": [
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -78,7 +77,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -114,7 +112,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -159,7 +156,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -301,7 +297,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -331,7 +326,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-28",
         "2026-08-31",
         "2026-09-01",
         "2026-09-02",
@@ -358,7 +352,6 @@
       "first_date": "2026-07-01",
       "last_date": "2026-08-31",
       "dates": [
-        "2026-08-28",
         "2026-08-31"
       ]
     },
@@ -381,7 +374,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -522,7 +514,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -627,7 +618,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -971,11 +961,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-08-28",
-          "start": "2026-08-28T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-11",
           "start": "2026-09-11T12:00:00-07:00",
           "all_day": false
@@ -1022,7 +1007,6 @@
         }
       ],
       "dates": [
-        "2026-08-28",
         "2026-09-11",
         "2026-09-25",
         "2026-10-09",
@@ -1035,9 +1019,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-08-28",
+      "next_date": "2026-09-11",
       "last_date": "2027-02-12",
-      "count": 10
+      "count": 9
     },
     {
       "id": 53818764048938,
@@ -1405,11 +1389,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-08-28",
-          "start": "2026-08-28T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-08-29",
           "start": "2026-08-29T11:30:00-07:00",
           "all_day": false
@@ -1636,7 +1615,6 @@
         }
       ],
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-09-04",
         "2026-09-05",
@@ -1685,9 +1663,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-08-28",
+      "next_date": "2026-08-29",
       "last_date": "2027-02-20",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2574,43 +2552,6 @@
   ],
   "events": [
     {
-      "id": 53002107624161,
-      "title": "Stanford Orthopaedic Trauma Symposium",
-      "url": "https://events.stanford.edu/event/stanford-orthopaedic-trauma-symposium",
-      "experience": "inperson",
-      "location": "The Quail Lodge, 8205 Valley Greens Dr, Carmel, CA 93923",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53002117273692/huge/727ef542d6047bd42ccfd94f5249c01d71a83fe0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-08-28",
-          "start": "2026-08-28T00:00:00-07:00",
-          "all_day": true
-        },
-        {
-          "date": "2026-08-29",
-          "start": "2026-08-29T00:00:00-07:00",
-          "all_day": true
-        },
-        {
-          "date": "2026-08-30",
-          "start": "2026-08-30T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30"
-      ]
-    },
-    {
       "id": 53755560975894,
       "title": "[Cancelled] Public Tour | A Closer Look",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
@@ -2657,6 +2598,37 @@
       ],
       "dates": [
         "2026-08-29"
+      ]
+    },
+    {
+      "id": 53002107624161,
+      "title": "Stanford Orthopaedic Trauma Symposium",
+      "url": "https://events.stanford.edu/event/stanford-orthopaedic-trauma-symposium",
+      "experience": "inperson",
+      "location": "The Quail Lodge, 8205 Valley Greens Dr, Carmel, CA 93923",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53002117273692/huge/727ef542d6047bd42ccfd94f5249c01d71a83fe0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-08-29",
+          "start": "2026-08-29T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-08-30",
+          "start": "2026-08-30T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-08-29",
+        "2026-08-30"
       ]
     },
     {
