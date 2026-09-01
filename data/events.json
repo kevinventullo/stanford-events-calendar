@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T19:24:57+00:00",
+  "generated_at": "2026-09-01T06:03:02+00:00",
   "window": {
-    "start": "2026-08-31",
-    "end": "2027-02-27"
+    "start": "2026-09-01",
+    "end": "2027-02-28"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 11,
     "recurring": 10,
-    "dated": 116
+    "dated": 118
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-08-31",
         "2026-09-01",
         "2026-09-02",
         "2026-09-03",
@@ -75,7 +74,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-08-31",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -108,7 +106,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-08-31",
         "2026-09-01",
         "2026-09-02",
         "2026-09-03",
@@ -150,7 +147,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-08-31",
         "2026-09-01",
         "2026-09-02",
         "2026-09-03",
@@ -289,7 +285,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-08-31",
         "2026-09-01",
         "2026-09-02",
         "2026-09-03",
@@ -316,33 +311,10 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-08-31",
         "2026-09-01",
         "2026-09-02",
         "2026-09-03",
         "2026-09-04"
-      ]
-    },
-    {
-      "id": 53305547834880,
-      "title": "Branner Library Monthly Book & Map Exhibit - Mapping the Oceans",
-      "url": "https://events.stanford.edu/event/branner-library-monthly-book-map-exhibit-mapping-oceans",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53305569346744/huge/04357bc661d55b9eda4fed1aa80cdab70a8cd6d7.jpg",
-      "free": false,
-      "first_date": "2026-07-01",
-      "last_date": "2026-08-31",
-      "dates": [
-        "2026-08-31"
       ]
     },
     {
@@ -364,7 +336,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-08-31",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -484,7 +455,8 @@
         "2027-02-21",
         "2027-02-22",
         "2027-02-25",
-        "2027-02-26"
+        "2027-02-26",
+        "2027-02-27"
       ]
     },
     {
@@ -504,7 +476,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-08-31",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -606,7 +577,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-08-31",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -1532,6 +1502,11 @@
           "date": "2027-02-26",
           "start": "2027-02-26T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-27",
+          "start": "2027-02-27T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1579,13 +1554,14 @@
         "2027-02-13",
         "2027-02-19",
         "2027-02-20",
-        "2027-02-26"
+        "2027-02-26",
+        "2027-02-27"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-09-04",
-      "last_date": "2027-02-26",
-      "count": 45
+      "last_date": "2027-02-27",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -1832,6 +1808,11 @@
           "date": "2027-02-21",
           "start": "2027-02-21T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-27",
+          "start": "2027-02-27T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1880,13 +1861,14 @@
         "2027-02-13",
         "2027-02-14",
         "2027-02-20",
-        "2027-02-21"
+        "2027-02-21",
+        "2027-02-27"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-09-05",
-      "last_date": "2027-02-21",
-      "count": 46
+      "last_date": "2027-02-27",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2133,6 +2115,11 @@
           "date": "2027-02-21",
           "start": "2027-02-21T15:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-27",
+          "start": "2027-02-27T15:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2181,13 +2168,14 @@
         "2027-02-13",
         "2027-02-14",
         "2027-02-20",
-        "2027-02-21"
+        "2027-02-21",
+        "2027-02-27"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-09-05",
-      "last_date": "2027-02-21",
-      "count": 46
+      "last_date": "2027-02-27",
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -4927,6 +4915,33 @@
       ]
     },
     {
+      "id": 53852108956000,
+      "title": "BOOK LAUNCH: Literature and Emergency Law in Kashmir and Northern Ireland",
+      "url": "https://events.stanford.edu/event/book-launch-literature-and-emergency-law-in-kashmir-and-northern-ireland",
+      "experience": "inperson",
+      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53853315634004/huge/6d841b27d47b4b0b7f0bc5dffe236fbf07444b8d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
       "id": 52825303977410,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-to-knight-hennessy-scholars",
@@ -5557,6 +5572,30 @@
       ],
       "dates": [
         "2027-02-15"
+      ]
+    },
+    {
+      "id": 53853565265595,
+      "title": "Reading with Robin Coste Lewis, the Mohr Visiting Poet",
+      "url": "https://events.stanford.edu/event/reading-with-robin-coste-lewis-the-mohr-visiting-poet",
+      "experience": "inperson",
+      "location": "Faculty Club, Cedar Room, 439 Lagunita Drive, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39076598473596/huge/3a03ff9175c0769268c7f9d5db5ef7828f950d61.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-17",
+          "start": "2027-02-17T20:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-17"
       ]
     },
     {
