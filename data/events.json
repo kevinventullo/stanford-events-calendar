@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T17:10:47+00:00",
+  "generated_at": "2026-09-02T05:29:01+00:00",
   "window": {
-    "start": "2026-09-01",
-    "end": "2027-02-28"
+    "start": "2026-09-02",
+    "end": "2027-03-01"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 11,
+    "ongoing": 12,
     "recurring": 10,
-    "dated": 118
+    "dated": 127
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-09-01",
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
@@ -106,7 +105,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-01",
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
@@ -147,7 +145,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-01",
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
@@ -285,7 +282,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-09-01",
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
@@ -311,7 +307,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-09-01",
         "2026-09-02",
         "2026-09-03",
         "2026-09-04"
@@ -456,7 +451,8 @@
         "2027-02-22",
         "2027-02-25",
         "2027-02-26",
-        "2027-02-27"
+        "2027-02-27",
+        "2027-02-28"
       ]
     },
     {
@@ -699,6 +695,147 @@
         "2027-02-19",
         "2027-02-20",
         "2027-02-21"
+      ]
+    },
+    {
+      "id": 53861575489955,
+      "title": "A Vision of Paris: the Roxane Debuisson Collection at Stanford",
+      "url": "https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53861625895887/huge/6166f89c0f3189b35df59e3ca5785709e3167d73.jpg",
+      "free": false,
+      "first_date": "2026-09-22",
+      "last_date": "2027-01-24",
+      "dates": [
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-08",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-06",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-11",
+        "2027-01-12",
+        "2027-01-13",
+        "2027-01-14",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-19",
+        "2027-01-20",
+        "2027-01-21",
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-24"
       ]
     },
     {
@@ -1813,6 +1950,11 @@
           "date": "2027-02-27",
           "start": "2027-02-27T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-28",
+          "start": "2027-02-28T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1862,13 +2004,14 @@
         "2027-02-14",
         "2027-02-20",
         "2027-02-21",
-        "2027-02-27"
+        "2027-02-27",
+        "2027-02-28"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-09-05",
-      "last_date": "2027-02-27",
-      "count": 47
+      "last_date": "2027-02-28",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2120,6 +2263,11 @@
           "date": "2027-02-27",
           "start": "2027-02-27T15:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-02-28",
+          "start": "2027-02-28T15:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2169,13 +2317,14 @@
         "2027-02-14",
         "2027-02-20",
         "2027-02-21",
-        "2027-02-27"
+        "2027-02-27",
+        "2027-02-28"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-09-05",
-      "last_date": "2027-02-27",
-      "count": 47
+      "last_date": "2027-02-28",
+      "count": 48
     },
     {
       "id": 40909411691045,
@@ -2442,36 +2591,10 @@
   ],
   "events": [
     {
-      "id": 53614374771974,
-      "title": "Pacific Coast Surgical Association Meeting (PCSA) Abstract Deadline",
-      "url": "https://events.stanford.edu/event/copy-of-american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Conference/Symposium",
-        "Meeting"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53614402539970/huge/736605a011d41d8aca88b3bc3b24e1742edf0089.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-01",
-          "start": "2026-09-01T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-09-01"
-      ]
-    },
-    {
       "id": 53684743411338,
       "title": "Innovation across the deep tech stack – and the hardware beneath",
       "url": "https://events.stanford.edu/event/innovation-across-the-deep-tech-stack-and-the-hardware-beneath",
-      "experience": "inperson",
+      "experience": "hybrid",
       "location": "Paul G. Allen Center for Integrated Systems Annex, AllenX 101X Auditorium, 330 Jane Stanford Way, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
@@ -2851,6 +2974,32 @@
       ]
     },
     {
+      "id": 53862056931079,
+      "title": "William C. Dement Seminar Series",
+      "url": "https://events.stanford.edu/event/william-c-dement-seminar-series",
+      "experience": "hybrid",
+      "location": "Li Ka Shing Center, Room LK120, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Medicine",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53862061189455/huge/be6a70a51a1bdbace9e537380bb57da5cbc40c65.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-18"
+      ]
+    },
+    {
       "id": 49845006960734,
       "title": "Public Tour | Cantor Highlights in Spanish",
       "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
@@ -3025,6 +3174,58 @@
       ],
       "dates": [
         "2026-09-23",
+        "2026-09-24"
+      ]
+    },
+    {
+      "id": 53860821548188,
+      "title": "HAI Seminar with Alexandr Lenk and Arvind Karunakaran",
+      "url": "https://events.stanford.edu/event/hai-seminar-with-alexandr-lenk-and-arvind-karunakaran",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53860825318435/huge/6290db53f2e42795e8acd336a3b743d49ca31ca0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-23",
+          "start": "2026-09-23T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    {
+      "id": 53862496557289,
+      "title": "Jane Casey: “Establishing Chronology in Tibetan Art: A Study of Taklung Paintings”",
+      "url": "https://events.stanford.edu/event/jane-casey-establishing-chronology-in-tibetan-art-a-study-of-taklung-paintings",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Arts/Media",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53862504954413/huge/4c75bafd6443ecf898c28e722f75cecdada44d83.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-24",
+          "start": "2026-09-24T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
         "2026-09-24"
       ]
     },
@@ -3289,7 +3490,7 @@
     },
     {
       "id": 53612851682415,
-      "title": "Chasing Freedom: Coming of Age at the End of Empire - Dr. Simukai chicgudu",
+      "title": "Chasing Freedom: Coming of Age at the End of Empire - Dr. Simukai Chigudu",
       "url": "https://events.stanford.edu/event/chasing-freedom-coming-og-age-at-the-end-of-empire-dr-simukai-chicgudu",
       "experience": "inperson",
       "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
@@ -3584,6 +3785,31 @@
       ]
     },
     {
+      "id": 53861040222429,
+      "title": "HAI Seminar with Tim de Silva",
+      "url": "https://events.stanford.edu/event/hai-seminar-with-tim-de-silva",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53861046414467/huge/95391bd212a3a7bb93ee549c8e3bc7bdbe34ca14.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    {
       "id": 53746350240960,
       "title": "Film Screening: Everyone Is Lying to You for Money",
       "url": "https://events.stanford.edu/event/film-screening-everyone-is-lying-to-you-for-money",
@@ -3632,6 +3858,33 @@
         {
           "date": "2026-10-08",
           "start": "2026-10-08T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": 53862604643420,
+      "title": "Shih-shan Susan Huang: \"Buddhist Book Roads: The Dynamic Spread of Buddhist Print Culture in China and Beyond\"",
+      "url": "https://events.stanford.edu/event/shih-shan-susan-huang-buddhist-book-roads-the-dynamic-spread-of-buddhist-print-culture-in-china-and-beyond",
+      "experience": "inperson",
+      "location": "Lathrop Library, 338, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Arts/Media",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53862633577310/huge/aa6da47294466cc2639b0c3b98a288146d41a4cb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4176,16 +4429,10 @@
           "date": "2026-10-20",
           "start": "2026-10-20T18:30:00-07:00",
           "all_day": false
-        },
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T18:00:00-07:00",
-          "all_day": false
         }
       ],
       "dates": [
-        "2026-10-20",
-        "2026-10-22"
+        "2026-10-20"
       ]
     },
     {
@@ -4241,7 +4488,7 @@
     },
     {
       "id": 53427273212211,
-      "title": "Candidate Entry into Local Government - Katherine Casey",
+      "title": "Political Entry in Sierra Leone - Katherine Casey",
       "url": "https://events.stanford.edu/event/candidate-entry-into-local-government",
       "experience": "inperson",
       "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
@@ -4810,6 +5057,31 @@
       ]
     },
     {
+      "id": 53861067887185,
+      "title": "HAI Seminar with Marcos Santiago Rojas Pino & Thomas Caruso",
+      "url": "https://events.stanford.edu/event/hai-seminar-with-marcos-santiago-rojas-pino-thomas-caruso",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53861076430472/huge/ed7c17e4f774dd722660541444c9e9027070dc2c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "id": 53691925115268,
       "title": "Documentary Objectives: Filming Africa from Colonialism to Independence - Rachel Gabara",
       "url": "https://events.stanford.edu/event/documentary-objectives-filming-africa-from-colonialism-to-independence-rachel-gabara",
@@ -5069,6 +5341,31 @@
       ]
     },
     {
+      "id": 53861242574667,
+      "title": "HAI Seminar with Mike Wooldridge | The AI 100",
+      "url": "https://events.stanford.edu/event/hai-seminar-with-mike-wooldridge-the-ai-100",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53861248643179/huge/2a3b78e3ba13b8cb9dd42c59d18aa19fbf434a71.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
       "id": 53806899252102,
       "title": "Reading with Martín Espada, part of the Lane Lecture Series",
       "url": "https://events.stanford.edu/event/reading-with-martin-espada-part-of-the-lane-lecture-series",
@@ -5298,6 +5595,31 @@
       ]
     },
     {
+      "id": 53861598502049,
+      "title": "HAI Seminar with Angele Christin in Conversation with Hannah Zeavin",
+      "url": "https://events.stanford.edu/event/hai-seminar-with-angele-christin-in-conversation-with-hannah-zeavin",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53861602268295/huge/2a234e9cc80dc22415d9ae58e6d44c2aac6e88b0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-09",
+          "start": "2026-12-09T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-09"
+      ]
+    },
+    {
       "id": 52941065398626,
       "title": "Lunchtime Curator Talk | Solid Pictures",
       "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-solid-pictures",
@@ -5399,6 +5721,32 @@
       ]
     },
     {
+      "id": 53862726308385,
+      "title": "Eugene Wang: \"Biocosmic Art; or How to Capture a Painter’s Brain?\"",
+      "url": "https://events.stanford.edu/event/eugene-wang-biocosmic-art-or-how-to-capture-a-painters-brain",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53862737344787/huge/7ac5d5fbf6d16b0d64fea3adea121a6a1fdccc5d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-14",
+          "start": "2027-01-14T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-14"
+      ]
+    },
+    {
       "id": 53756063465669,
       "title": "Curator Led Talk | surfacing",
       "url": "https://events.stanford.edu/event/curator-led-talk-surfacing-jan",
@@ -5446,6 +5794,32 @@
       ],
       "dates": [
         "2027-01-19"
+      ]
+    },
+    {
+      "id": 53862757495029,
+      "title": "Anning Jing: \"Borobudur and a Tantric Buddhist  Maṇḍala Associated with Vajrabodhi (671-741)\"",
+      "url": "https://events.stanford.edu/event/anning-jing-borobudur-and-a-tantric-buddhist-maala-associated-with-vajrabodhi-671-741",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53862762496276/huge/8a08f4f52ad561c7508f004840b88e28b75e53a3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-28",
+          "start": "2027-01-28T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-28"
       ]
     },
     {
@@ -5585,7 +5959,7 @@
         "Arts/Media",
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/39076598473596/huge/3a03ff9175c0769268c7f9d5db5ef7828f950d61.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53861399652371/huge/a3b357c613e4f20be3ccc8a9098845d1a5987fbf.jpg",
       "free": false,
       "instances": [
         {
