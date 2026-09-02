@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:29:01+00:00",
+  "generated_at": "2026-09-02T17:01:34+00:00",
   "window": {
     "start": "2026-09-02",
     "end": "2027-03-01"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 127
+    "dated": 128
   },
   "ongoing": [
     {
@@ -2921,6 +2921,29 @@
         "2026-09-13",
         "2026-10-11",
         "2026-11-15"
+      ]
+    },
+    {
+      "id": 53868991970104,
+      "title": "Game Nights @ Green: Orientation Week Preview",
+      "url": "https://events.stanford.edu/event/game-nights-green-orientation-week-preview",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, 166, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/39078028170292/huge/4a76916771a71980996b171e1129d6c1e87ec941.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-15",
+          "start": "2026-09-15T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-15"
       ]
     },
     {
