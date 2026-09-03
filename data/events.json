@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T17:01:34+00:00",
+  "generated_at": "2026-09-03T05:30:25+00:00",
   "window": {
-    "start": "2026-09-02",
-    "end": "2027-03-01"
+    "start": "2026-09-03",
+    "end": "2027-03-02"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 128
+    "dated": 134
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-09-02",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -105,7 +104,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-02",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -145,7 +143,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-02",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -282,7 +279,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-09-02",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05"
@@ -307,7 +303,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-09-02",
         "2026-09-03",
         "2026-09-04"
       ]
@@ -452,7 +447,8 @@
         "2027-02-25",
         "2027-02-26",
         "2027-02-27",
-        "2027-02-28"
+        "2027-02-28",
+        "2027-03-01"
       ]
     },
     {
@@ -699,7 +695,7 @@
     },
     {
       "id": 53861575489955,
-      "title": "A Vision of Paris: the Roxane Debuisson Collection at Stanford",
+      "title": "A Vision of Paris: The Roxane Debuisson Collection at Stanford",
       "url": "https://events.stanford.edu/event/a-vision-of-paris-the-roxane-debuisson-collection-at-stanford",
       "experience": "inperson",
       "location": "Green Library, Bing Wing, 459 Lasuen Mall, Stanford, CA 94305",
@@ -716,7 +712,7 @@
         "Law/Public Policy/Politics",
         "Public Service/Government"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53861625895887/huge/6166f89c0f3189b35df59e3ca5785709e3167d73.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53869869915497/huge/a69a56de3c253ceba914f0ea619e3040181c6f33.jpg",
       "free": false,
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
@@ -2490,11 +2486,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-02",
-          "start": "2026-09-02T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-09",
           "start": "2026-09-09T09:00:00-07:00",
           "all_day": false
@@ -2566,7 +2557,6 @@
         }
       ],
       "dates": [
-        "2026-09-02",
         "2026-09-09",
         "2026-09-16",
         "2026-09-23",
@@ -2584,38 +2574,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-09-02",
+      "next_date": "2026-09-09",
       "last_date": "2026-12-16",
-      "count": 15
+      "count": 14
     }
   ],
   "events": [
-    {
-      "id": 53684743411338,
-      "title": "Innovation across the deep tech stack – and the hardware beneath",
-      "url": "https://events.stanford.edu/event/innovation-across-the-deep-tech-stack-and-the-hardware-beneath",
-      "experience": "hybrid",
-      "location": "Paul G. Allen Center for Integrated Systems Annex, AllenX 101X Auditorium, 330 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53684939560399/huge/1ef5a3e12e814d3ceffd61348425fe8ed5b66d43.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-02",
-          "start": "2026-09-02T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-02"
-      ]
-    },
     {
       "id": 53816024786970,
       "title": "PhD Dissertation Defense: Madeline Hays",
@@ -2780,6 +2744,32 @@
         {
           "date": "2026-09-11",
           "start": "2026-09-11T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    {
+      "id": 53870437963557,
+      "title": "Introductory Design Thinking Workshop",
+      "url": "https://events.stanford.edu/event/introductory-design-thinking-workshop",
+      "experience": "inperson",
+      "location": "Building 550, Peterson Laboratory, Atrium, 416 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Business",
+        "Career Development"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53870446629713/huge/46b779d27ee55590bee1f77912e084852432c416.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-11",
+          "start": "2026-09-11T13:45:00-07:00",
           "all_day": false
         }
       ],
@@ -3541,6 +3531,56 @@
       ]
     },
     {
+      "id": 53871349979577,
+      "title": "Conversations on Korean Modern and Contemporary Art",
+      "url": "https://events.stanford.edu/event/conversations-on-korean-modern-and-contemporary-art",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53871380706323/huge/d26d50b28cd616f0734374db414e254c97964e5f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
+      "id": 53870497268780,
+      "title": "HAI Orientation and Seminar with Daniel Zhang, Caroline Meinhardt, Jiajun Wu, and Russell Wald",
+      "url": "https://events.stanford.edu/event/hai-orientation-and-seminar-with-daniel-zhang-caroline-meinhardt-jiajun-wu-and-russell-wald",
+      "experience": "inperson",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53870502352628/huge/1d5633f7c228328b61e501369d34073b70faa4b3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
       "id": 53745649825975,
       "title": "Green Parrots: A Memoir of Survival in Iran's Evin Prison",
       "url": "https://events.stanford.edu/event/green-parrots-a-memoir-of-survival-in-irans-evin-prison",
@@ -3652,6 +3692,33 @@
       ]
     },
     {
+      "id": 53870307151880,
+      "title": "Wild & Bright: Designing for Belonging | Artist Talk with Yiying Lu, in Conversation with Thomas S. Mullaney",
+      "url": "https://events.stanford.edu/event/wild-bright-designing-for-belonging-artist-talk-with-yiying-lu-in-conversation-with-thomas-s-mullaney",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53870321165198/huge/83a6a726e19e34099247a65f26355044cda11576.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    {
       "id": 51934618089632,
       "title": "Info session for Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-633",
@@ -3668,6 +3735,31 @@
         {
           "date": "2026-10-02",
           "start": "2026-10-02T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    {
+      "id": 53870657085179,
+      "title": "Stanford Award for the Advancement of the Common Good, Honoring Jacqueline Novogratz, MBA'91",
+      "url": "https://events.stanford.edu/event/novogratz-award-2026",
+      "experience": "inperson",
+      "location": "Graduate School of Business, Oberndorf Event Center, 655 Knight Way Stanford, CA 94305 USA",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53870683923067/huge/2592ffbd0d8a7d8a8055e5195c27b64d954dd15b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T17:45:00-07:00",
           "all_day": false
         }
       ],
@@ -4553,6 +4645,36 @@
         {
           "date": "2026-10-22",
           "start": "2026-10-22T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
+      "id": 53870073813821,
+      "title": "Book Event with Kimberley Johnson and Pedro Regalado: \"Dark Concrete: Black Power Urbanism and the American Metropolis\"",
+      "url": "https://events.stanford.edu/event/dark-concrete-black-power-urbansim-and-the-american-metropolis",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, 122, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Humanities",
+        "Diversity/Identity",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53870081998937/huge/ebb2c144dd897f7b0386d757081288b12da0caa6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T16:30:00-07:00",
           "all_day": false
         }
       ],
@@ -5618,6 +5740,32 @@
       ]
     },
     {
+      "id": 53870838803268,
+      "title": "\"Tracing Mindfulness Back to Its Sources\": T. T. and W. F. Chao Workshop with Bhikkhunī Dhammadinnā and Paul Harrison",
+      "url": "https://events.stanford.edu/event/tracing-mindfulness-back-to-its-sources-t-t-and-w-f-chao-workshop-with-bhikkhuni-dhammadinna-and-paul-harrison",
+      "experience": "inperson",
+      "location": "TBD",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53870917392076/huge/1381be71b2919803fa88550053769468deed60fc.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-05"
+      ]
+    },
+    {
       "id": 53861598502049,
       "title": "HAI Seminar with Angele Christin in Conversation with Hannah Zeavin",
       "url": "https://events.stanford.edu/event/hai-seminar-with-angele-christin-in-conversation-with-hannah-zeavin",
@@ -5829,8 +5977,8 @@
         "Lecture/Presentation/Talk"
       ],
       "subjects": [
-        "Humanities",
-        "Arts/Media"
+        "Arts/Media",
+        "Religion/Spirituality"
       ],
       "photo": "https://localist-images.azureedge.net/photos/53862762496276/huge/8a08f4f52ad561c7508f004840b88e28b75e53a3.jpg",
       "free": false,
