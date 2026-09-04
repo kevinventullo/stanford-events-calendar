@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T16:57:22+00:00",
+  "generated_at": "2026-09-04T05:34:32+00:00",
   "window": {
-    "start": "2026-09-03",
-    "end": "2027-03-02"
+    "start": "2026-09-04",
+    "end": "2027-03-03"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 13,
     "recurring": 10,
-    "dated": 134
+    "dated": 151
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -72,7 +71,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -104,7 +102,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -143,7 +140,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -279,7 +275,6 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05"
       ]
@@ -303,7 +298,6 @@
       "first_date": "2026-06-22",
       "last_date": "2026-09-04",
       "dates": [
-        "2026-09-03",
         "2026-09-04"
       ]
     },
@@ -326,7 +320,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -468,7 +461,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -569,7 +561,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -835,6 +826,99 @@
       ]
     },
     {
+      "id": 53878610973590,
+      "title": "Korean Indigenous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래- K아트, 디아스포라, 세계",
+      "url": "https://events.stanford.edu/event/korean-indigenous-futures",
+      "experience": "inperson",
+      "location": "Lathrop Library, East Asia Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53878617233508/huge/165663f647971bc70d23da111d651d4446d25b91.jpg",
+      "free": false,
+      "first_date": "2026-09-29",
+      "last_date": "2026-12-11",
+      "dates": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-08",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11"
+      ]
+    },
+    {
       "id": 53560271099404,
       "title": "Touch Me Not: 12th Annual Undergraduate Juried Exhibition",
       "url": "https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition",
@@ -996,11 +1080,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-03",
-          "start": "2026-09-03T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-10",
           "start": "2026-09-10T10:00:00-07:00",
           "all_day": false
@@ -1022,7 +1101,6 @@
         }
       ],
       "dates": [
-        "2026-09-03",
         "2026-09-10",
         "2026-09-17",
         "2026-09-24",
@@ -1030,9 +1108,9 @@
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-09-03",
+      "next_date": "2026-09-10",
       "last_date": "2026-10-01",
-      "count": 5
+      "count": 4
     },
     {
       "id": 50967994153103,
@@ -1417,11 +1495,6 @@
           "all_day": false
         },
         {
-          "date": "2026-09-05",
-          "start": "2026-09-05T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-11",
           "start": "2026-09-11T11:30:00-07:00",
           "all_day": false
@@ -1644,7 +1717,6 @@
       ],
       "dates": [
         "2026-09-04",
-        "2026-09-05",
         "2026-09-11",
         "2026-09-12",
         "2026-09-18",
@@ -1694,7 +1766,7 @@
       "time": "11:30 AM",
       "next_date": "2026-09-04",
       "last_date": "2027-02-27",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -1715,11 +1787,6 @@
         {
           "date": "2026-09-05",
           "start": "2026-09-05T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-06",
-          "start": "2026-09-06T13:00:00-07:00",
           "all_day": false
         },
         {
@@ -1955,7 +2022,6 @@
       ],
       "dates": [
         "2026-09-05",
-        "2026-09-06",
         "2026-09-12",
         "2026-09-13",
         "2026-09-19",
@@ -2007,7 +2073,7 @@
       "time": "1 PM",
       "next_date": "2026-09-05",
       "last_date": "2027-02-28",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2028,11 +2094,6 @@
         {
           "date": "2026-09-05",
           "start": "2026-09-05T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-06",
-          "start": "2026-09-06T15:00:00-07:00",
           "all_day": false
         },
         {
@@ -2268,7 +2329,6 @@
       ],
       "dates": [
         "2026-09-05",
-        "2026-09-06",
         "2026-09-12",
         "2026-09-13",
         "2026-09-19",
@@ -2320,7 +2380,7 @@
       "time": "3 PM",
       "next_date": "2026-09-05",
       "last_date": "2027-02-28",
-      "count": 48
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -2581,52 +2641,6 @@
   ],
   "events": [
     {
-      "id": 53816024786970,
-      "title": "PhD Dissertation Defense: Madeline Hays",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-madeline-hays",
-      "experience": "hybrid",
-      "location": "Paul G. Allen Center for Integrated Systems Annex, 101X, 330 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53816028129513/huge/47a43413ccfefee46337aca48acf44643bc8c61b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-03",
-          "start": "2026-09-03T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-03"
-      ]
-    },
-    {
-      "id": 53808991185632,
-      "title": "PhD Dissertation Defense: Maya Sheth",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-maya-sheth",
-      "experience": "hybrid",
-      "location": "Biomedical Innovations, 1021, 240 Pasteur Drive, Palo Alto, CA 94304",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53808994179338/huge/1d9dbe73d8e4d8af7257261854a14d223ac5e514.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-03",
-          "start": "2026-09-03T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-03"
-      ]
-    },
-    {
       "id": 53632176417027,
       "title": "Stanford Football vs Miami | Friday Night Lights + E-40 Halftime Show",
       "url": "https://events.stanford.edu/event/stanford-football-vs-miami-friday-night-lights-e-40-halftime-show",
@@ -2647,6 +2661,85 @@
       ],
       "dates": [
         "2026-09-04"
+      ]
+    },
+    {
+      "id": 52887501786542,
+      "title": "[Cancelled] Public Tour |  Auguste Rodin",
+      "url": "https://events.stanford.edu/event/cancelled-public-tour-auguste-rodin",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52887510430057/huge/4d79752fb2343c1d30a44545f2086f704d85d0aa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-05",
+          "start": "2026-09-05T11:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-05"
+      ]
+    },
+    {
+      "id": 53755608877782,
+      "title": "[Cancelled] Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-1205",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53755608839893/huge/83380207f72593057cc9e2cb1317f116008b2330.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-06",
+          "start": "2026-09-06T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-06"
+      ]
+    },
+    {
+      "id": 53755560975894,
+      "title": "[Cancelled] Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-06",
+          "start": "2026-09-06T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-06"
       ]
     },
     {
@@ -2959,6 +3052,56 @@
       ],
       "dates": [
         "2026-09-17"
+      ]
+    },
+    {
+      "id": 53879766243832,
+      "title": "Tour Cubberley Education Library",
+      "url": "https://events.stanford.edu/event/tour-cubberley-education-library",
+      "experience": "inperson",
+      "location": "Education (Cubberley Bldg), 101, 485 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879792952804/huge/b24e0ab98b9722f9f22f904ca8189943d9ebba56.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-17",
+          "start": "2026-09-17T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    {
+      "id": 53879684015873,
+      "title": "Asian American Activities Center Open House",
+      "url": "https://events.stanford.edu/event/asian-american-activities-center-open-house",
+      "experience": "inperson",
+      "location": "Old Union Clubhouse, 1st Floor, 524 Lasuen Mall",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879699076700/huge/8c1ca917cec8d6a584d0ce1d3fe74265b36d6742.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-18"
       ]
     },
     {
@@ -3659,6 +3802,27 @@
       ]
     },
     {
+      "id": 53800058118106,
+      "title": "Sober State: Origins of Alcohol Prohibition in India| Book Talk with Darinee Alagirisamy",
+      "url": "https://events.stanford.edu/event/sober-state-origins-of-alcohol-prohibition-in-india-book-talk-with-darinee-alagirisamy",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53800247543139/huge/8082d8af5d720aa76e870de8472f6b6a9677ad37.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    {
       "id": 53074254797631,
       "title": "Trust and Safety Research Conference",
       "url": "https://events.stanford.edu/event/trust-and-safety-research-conference-448",
@@ -3981,6 +4145,31 @@
       ]
     },
     {
+      "id": 53878651047316,
+      "title": "Opening Reception and Dance Performance for Korean Indigenous Futures: The Art of Kim Bong-Jun",
+      "url": "https://events.stanford.edu/event/opening-reception-and-dance-performance-for-korean-indigenous-futures",
+      "experience": "inperson",
+      "location": "Lathrop Library, East Asia Library Courtyard & Library Gallery, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53878655386235/huge/4334963dc5a751dd30078dbb2ec54aa40904417a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
       "id": 53862604643420,
       "title": "Shih-shan Susan Huang: \"Buddhist Book Roads: The Dynamic Spread of Buddhist Print Culture in China and Beyond\"",
       "url": "https://events.stanford.edu/event/shih-shan-susan-huang-buddhist-book-roads-the-dynamic-spread-of-buddhist-print-culture-in-china-and-beyond",
@@ -4107,6 +4296,36 @@
       ],
       "dates": [
         "2026-10-12"
+      ]
+    },
+    {
+      "id": 53879764192027,
+      "title": "Special, Unique, and Rare: MONSTERS",
+      "url": "https://events.stanford.edu/event/special-unique-and-rare-monsters",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Education",
+        "Engineering/Technology",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879797141584/huge/ce2e13f1dd08385c89adc5858dc57be4182a9e25.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
       ]
     },
     {
@@ -4418,6 +4637,59 @@
       ]
     },
     {
+      "id": 53851911370204,
+      "title": "Darshan and the savarna sensorium",
+      "url": "https://events.stanford.edu/event/darshan-and-the-savarna-sensorium",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Diversity/Identity",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53851922753202/huge/f71b5fede80838f01b83b3dc54f24bd671572fb2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
+      "id": 53853507644950,
+      "title": "Hell No, Jim Crow! (I Don't Go for That): The Convergence of Art and Politics, An Intimate Evening With Dr. Samuel Waymon at DAAAS",
+      "url": "https://events.stanford.edu/event/an-intimate-evening-with-dr-samuel-waymon",
+      "experience": "inperson",
+      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Humanities",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53868563037233/huge/fee7217d74f4ba6223fab2d9dd78a97f4598d7fe.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
       "id": 53002164813794,
       "title": "International Symposium on aß T-cell/CD19 B-cell Depleted Haploidentical HSCT",
       "url": "https://events.stanford.edu/event/international-symposium-on-ass-t-cellcd19-b-cell-depleted-haploidentical-hsct",
@@ -4599,6 +4871,33 @@
       ],
       "dates": [
         "2026-10-20"
+      ]
+    },
+    {
+      "id": 53879236295619,
+      "title": "Foxes and Lions: Renaissance City-States in the Age of Machiavelli",
+      "url": "https://events.stanford.edu/event/foxes-and-lions-renaissance-city-states-in-the-age-of-machiavelli",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, 122, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879241968607/huge/58f40b7fab48c83ddd5098c9b7fdfc902273b50b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
       ]
     },
     {
@@ -5043,6 +5342,29 @@
       ]
     },
     {
+      "id": 53878443469394,
+      "title": "Maisha Winn, \"Futuring Black Lives: Independent Black Institutions and the Literary Imagination\"",
+      "url": "https://events.stanford.edu/event/maisha-winn-futuring-black-lives-independent-black-institutions-and-the-literary-imagination",
+      "experience": "inperson",
+      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53878484500957/huge/30760e9cc0178fabdb6edc78a3e97c497c351ec0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 53763677186043,
       "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
       "url": "https://events.stanford.edu/event/Angels-Auditions",
@@ -5332,6 +5654,59 @@
       ]
     },
     {
+      "id": 53879694289980,
+      "title": "L. Maria Bo, \"Writing on Water: Cold War Literary Translations and the Chinese Diaspora\"",
+      "url": "https://events.stanford.edu/event/l-maria-bo-writing-on-water-cold-war-literary-translations-and-the-chinese-diaspora",
+      "experience": "inperson",
+      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53879699800212/huge/cc416dd61b34ef1b035774065e9fdd408540bf53.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": 53879814094096,
+      "title": "Special, Unique, and Rare: CITIES",
+      "url": "https://events.stanford.edu/event/special-unique-and-rare-cities",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Education",
+        "Engineering/Technology",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879814068494/huge/e5e4be8de374e72afe410b8883335a3edc4d560f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
       "id": 53852108956000,
       "title": "BOOK LAUNCH: Literature and Emergency Law in Kashmir and Northern Ireland",
       "url": "https://events.stanford.edu/event/book-launch-literature-and-emergency-law-in-kashmir-and-northern-ireland",
@@ -5356,6 +5731,61 @@
       ],
       "dates": [
         "2026-11-11"
+      ]
+    },
+    {
+      "id": 53880673382098,
+      "title": "Drop-In Samizdat* Workshop (*DIY Unofficial, Unsanctioned, Limited Edition Publication)",
+      "url": "https://events.stanford.edu/event/samizdat-november-2026",
+      "experience": "inperson",
+      "location": "Hohbach Hall, lobby/interactive zone, 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53880705311763/huge/53a0436260c355474cca97c67bdbc79fd22af950.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
+      "id": 53879093950767,
+      "title": "How to Fix a Broken Hierarchy",
+      "url": "https://events.stanford.edu/event/how-to-fix-a-broken-hierarchy",
+      "experience": "hybrid",
+      "location": "GSB Knight - Class of 1968, C102, 653 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879105725094/huge/9edf45d06261c032d5a86ead614e5541ac758869.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
       ]
     },
     {
@@ -5744,7 +6174,7 @@
       "title": "\"Tracing Mindfulness Back to Its Sources\": T. T. and W. F. Chao Workshop with Bhikkhunī Dhammadinnā and Paul Harrison",
       "url": "https://events.stanford.edu/event/tracing-mindfulness-back-to-its-sources-t-t-and-w-f-chao-workshop-with-bhikkhuni-dhammadinna-and-paul-harrison",
       "experience": "inperson",
-      "location": "TBD",
+      "location": "Alumni Center, McCaw Hall, 326 Galvez Street, Stanford, CA 94305",
       "types": [
         "Workshop"
       ],
@@ -5763,6 +6193,36 @@
       ],
       "dates": [
         "2026-12-05"
+      ]
+    },
+    {
+      "id": 53879839502108,
+      "title": "Special, Unique, and Rare: HOME",
+      "url": "https://events.stanford.edu/event/special-unique-and-rare-home",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Education",
+        "Engineering/Technology",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879839468314/huge/98acd6d48f8ab30220cc358de4cb61ae7285b5fd.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-08",
+          "start": "2026-12-08T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-08"
       ]
     },
     {
@@ -5969,7 +6429,7 @@
     },
     {
       "id": 53862757495029,
-      "title": "Anning Jing: \"Borobudur and a Tantric Buddhist  Maṇḍala Associated with Vajrabodhi (671-741)\"",
+      "title": "Anning Jing: \"Borobudur and a Tantric Buddhist Maṇḍala Associated with Vajrabodhi (671–741)\"",
       "url": "https://events.stanford.edu/event/anning-jing-borobudur-and-a-tantric-buddhist-maala-associated-with-vajrabodhi-671-741",
       "experience": "inperson",
       "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
@@ -6041,6 +6501,36 @@
       ],
       "dates": [
         "2027-02-08"
+      ]
+    },
+    {
+      "id": 53879859668912,
+      "title": "Special, Unique, and Rare: THE NEWS",
+      "url": "https://events.stanford.edu/event/special-unique-and-rare-the-news",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Education",
+        "Engineering/Technology",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879859613614/huge/c490eb2b935de2397ffab70ac4fdb58cf9821b15.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-09",
+          "start": "2027-02-09T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-09"
       ]
     },
     {
@@ -6130,7 +6620,7 @@
         "Arts/Media",
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53861399652371/huge/a3b357c613e4f20be3ccc8a9098845d1a5987fbf.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53879491329682/huge/1cb4dba1211a1856fa750df4dded4f6d345d6fc7.jpg",
       "free": false,
       "instances": [
         {
@@ -6141,6 +6631,33 @@
       ],
       "dates": [
         "2027-02-17"
+      ]
+    },
+    {
+      "id": 53880712020556,
+      "title": "Drop-In Samizdat* Workshop (*DIY Unofficial, Unsanctioned, Limited Edition Publication)",
+      "url": "https://events.stanford.edu/event/samizdat-february-2027",
+      "experience": "inperson",
+      "location": "Hohbach Hall, lobby/interactive zone, 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53880724512876/huge/86e549aeb3f872983e6a06979a676128fee49ac9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-18",
+          "start": "2027-02-18T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-18"
       ]
     },
     {
