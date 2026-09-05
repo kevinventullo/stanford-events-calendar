@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T16:46:08+00:00",
+  "generated_at": "2026-09-05T05:18:28+00:00",
   "window": {
-    "start": "2026-09-04",
-    "end": "2027-03-03"
+    "start": "2026-09-05",
+    "end": "2027-03-04"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
-    "recurring": 10,
-    "dated": 151
+    "ongoing": 12,
+    "recurring": 11,
+    "dated": 159
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -71,7 +70,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -102,7 +100,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -140,7 +137,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -275,30 +271,7 @@
       "first_date": "2026-06-05",
       "last_date": "2026-09-05",
       "dates": [
-        "2026-09-04",
         "2026-09-05"
-      ]
-    },
-    {
-      "id": 52951257804174,
-      "title": "Summer Escape at Bowes Library",
-      "url": "https://events.stanford.edu/event/summer-escape-at-bowes-library",
-      "experience": "inperson",
-      "location": "McMurtry Building, Bowes Library, 2nd fl. For visitors, please call the circulation desk for building and elevator access: 650-723-3408., 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Environment/Sustainability",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52951456763108/huge/fa59c3aa0fc73c9046b97249d441506d0baa7801.jpg",
-      "free": false,
-      "first_date": "2026-06-22",
-      "last_date": "2026-09-04",
-      "dates": [
-        "2026-09-04"
       ]
     },
     {
@@ -320,7 +293,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -461,7 +433,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -561,7 +532,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -1490,11 +1460,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-04",
-          "start": "2026-09-04T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-11",
           "start": "2026-09-11T11:30:00-07:00",
           "all_day": false
@@ -1716,7 +1681,6 @@
         }
       ],
       "dates": [
-        "2026-09-04",
         "2026-09-11",
         "2026-09-12",
         "2026-09-18",
@@ -1764,9 +1728,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-09-04",
+      "next_date": "2026-09-11",
       "last_date": "2027-02-27",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -2415,6 +2379,78 @@
       "count": 1
     },
     {
+      "id": 53889137015268,
+      "title": "University Public Worship: Ecumenical Christian Service with Rev. Dr. T.L. Steinwert Preaching",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-dr-tl-steinwert-preaching",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889243240200/huge/6978b1f3f2186611cb3917c3245448d2e672bae1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-27",
+          "start": "2026-09-27T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-04",
+          "start": "2026-10-04T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-18",
+          "start": "2026-10-18T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-29",
+          "start": "2026-11-29T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-10",
+          "start": "2027-01-10T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-31",
+          "start": "2027-01-31T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-28",
+          "start": "2027-02-28T11:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-27",
+        "2026-10-04",
+        "2026-10-18",
+        "2026-11-15",
+        "2026-11-29",
+        "2027-01-10",
+        "2027-01-31",
+        "2027-02-28"
+      ],
+      "pattern": "Sundays",
+      "time": "11 AM",
+      "next_date": "2026-09-27",
+      "last_date": "2027-02-28",
+      "count": 8
+    },
+    {
       "id": 47557682677329,
       "title": "Volunteering at Stanford Educational Farm",
       "url": "https://events.stanford.edu/event/copy-of-volunteering-at-the-stanford-educational-farm",
@@ -2641,29 +2677,6 @@
   ],
   "events": [
     {
-      "id": 53632176417027,
-      "title": "Stanford Football vs Miami | Friday Night Lights + E-40 Halftime Show",
-      "url": "https://events.stanford.edu/event/stanford-football-vs-miami-friday-night-lights-e-40-halftime-show",
-      "experience": "inperson",
-      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53632250892022/huge/ebbf628c8760d8fcd4977461d6034104715722ad.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-04",
-          "start": "2026-09-04T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-04"
-      ]
-    },
-    {
       "id": 52887501786542,
       "title": "[Cancelled] Public Tour |  Auguste Rodin",
       "url": "https://events.stanford.edu/event/cancelled-public-tour-auguste-rodin",
@@ -2838,10 +2851,16 @@
           "date": "2026-09-11",
           "start": "2026-09-11T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-09-11"
+        "2026-09-11",
+        "2026-09-18"
       ]
     },
     {
@@ -3153,6 +3172,29 @@
       ],
       "dates": [
         "2026-09-18"
+      ]
+    },
+    {
+      "id": 53888944981559,
+      "title": "Multifaith Welcome at Memorial Church",
+      "url": "https://events.stanford.edu/event/multifaith-welcome-at-memorial-church",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-20"
       ]
     },
     {
@@ -3565,6 +3607,35 @@
       ],
       "dates": [
         "2026-09-27"
+      ]
+    },
+    {
+      "id": 53886889414499,
+      "title": "2026 Bright Award for Environmental Sustainability in honor of Precious Mabilo",
+      "url": "https://events.stanford.edu/event/2026-bright-award",
+      "experience": "inperson",
+      "location": "Munger Complex, Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Diversity/Identity",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53886930566082/huge/8bac33297cae44d45a91d718ca635679d9e401cd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-28",
+          "start": "2026-09-28T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-28"
       ]
     },
     {
@@ -4089,6 +4160,33 @@
       ]
     },
     {
+      "id": 53870472969547,
+      "title": "Cursed Subjects and Other Sights: Qajar Prison Photography and the Sounds and Silences of Heresy in Nineteenth-Century Iranian Legal History",
+      "url": "https://events.stanford.edu/event/cursed-subjects-and-other-sights-qajar-prison-photography-and-the-sounds-and-silences-of-heresy-in-nineteenth-century-iranian-legal-history",
+      "experience": "inperson",
+      "location": "In person at Stanford",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53870508115048/huge/dadd72d4bef60fc6dd3fea57f270a58f137f2d1b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
       "id": 53746350240960,
       "title": "Film Screening: Everyone Is Lying to You for Money",
       "url": "https://events.stanford.edu/event/film-screening-everyone-is-lying-to-you-for-money",
@@ -4162,6 +4260,31 @@
         {
           "date": "2026-10-08",
           "start": "2026-10-08T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": 53889534770473,
+      "title": "Science for Everyone: Tactile Braille Periodic Table of Elements at Stanford",
+      "url": "https://events.stanford.edu/event/science-for-everyone-tactile-braille-periodic-table-of-elements-at-stanford",
+      "experience": "inperson",
+      "location": "Sapp Center for Science Teaching and Learning, Sapp Auditorium, 376 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889547512679/huge/95a21e040bf7a08d3299750ed8292618d6a28c1c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4269,6 +4392,37 @@
       ],
       "dates": [
         "2026-10-11"
+      ]
+    },
+    {
+      "id": 53889295589079,
+      "title": "University Public Worship: Ecumenical Multifaith Service with Rabbi Ilana Goldhaber-Gordon Preaching",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-rabbi-ilana-goldhaber-gordon-preaching",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889305139573/huge/0122ecdf10bd049045a182fc6e9bc11017a3a079.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-11",
+          "start": "2026-10-11T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-25",
+          "start": "2027-01-25T11:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-11",
+        "2027-01-25"
       ]
     },
     {
@@ -4862,6 +5016,29 @@
       ],
       "photo": "https://localist-images.azureedge.net/photos/53499310406084/huge/8d47d5345dbe21794ef30ce7ed4b05d76cc92c80.jpg",
       "free": true,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 53887340620089,
+      "title": "Wendy Salkin, \"Speaking for Others\"",
+      "url": "https://events.stanford.edu/event/wendy-salkin-speaking-for-others",
+      "experience": "inperson",
+      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53887348083031/huge/bb2b897343a04bd8f22d76bd0a44bbad480354c9.jpg",
+      "free": false,
       "instances": [
         {
           "date": "2026-10-20",
@@ -5602,6 +5779,31 @@
       ]
     },
     {
+      "id": 53889377253207,
+      "title": "University Public Worship: Ecumenical Multifaith Service with Chaplain Kenneth Nacario Lee (Kula Pradipa Das).",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-chaplain-kenneth-nacario-lee-kula-pradipa-das",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889400677174/huge/48b0bcda8f14eeba08236ae4e4e74037dfbf0362.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-08",
+          "start": "2026-11-08T11:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-08"
+      ]
+    },
+    {
       "id": 53552403342725,
       "title": "Stanford Energy Seminar | Tiziana Vanorio, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11092026",
@@ -5891,6 +6093,32 @@
       ]
     },
     {
+      "id": 53886818518422,
+      "title": "3rd Annual Silicon Valley IP Forum",
+      "url": "https://events.stanford.edu/event/3rd-annual-silicon-valley-ip-forum",
+      "experience": "inperson",
+      "location": "Munger Complex, Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53886830974403/huge/3dd2cebb738d7a9a91778d83f9ffb40224fdc792.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T08:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
       "id": 53428011861681,
       "title": "How New is the New Nuclear Age?",
       "url": "https://events.stanford.edu/event/how-new-is-the-new-nuclear-age",
@@ -5917,7 +6145,7 @@
     },
     {
       "id": 53861242574667,
-      "title": "HAI Seminar with Mike Wooldridge | The AI 100",
+      "title": "HAI Seminar The AI 100",
       "url": "https://events.stanford.edu/event/hai-seminar-with-mike-wooldridge-the-ai-100",
       "experience": "hybrid",
       "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
@@ -5927,7 +6155,7 @@
       "subjects": [
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53861248643179/huge/2a3b78e3ba13b8cb9dd42c59d18aa19fbf434a71.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53889452955614/huge/b2713a7e384e047f77dd433baeaa607a34c1a86a.jpg",
       "free": false,
       "instances": [
         {
@@ -6193,6 +6421,37 @@
       ],
       "dates": [
         "2026-12-05"
+      ]
+    },
+    {
+      "id": 53889458133359,
+      "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889478755330/huge/d62095b7f0db6dca332e9ade25d80a22a4fe8a72.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-13",
+          "start": "2026-12-13T11:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-06",
+        "2026-12-13"
       ]
     },
     {
