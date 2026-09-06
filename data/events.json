@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T15:49:29+00:00",
+  "generated_at": "2026-09-06T05:33:27+00:00",
   "window": {
-    "start": "2026-09-05",
-    "end": "2027-03-04"
+    "start": "2026-09-06",
+    "end": "2027-03-05"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 11,
     "recurring": 11,
-    "dated": 159
+    "dated": 158
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-08",
@@ -70,7 +69,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-10",
@@ -100,7 +98,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-08",
@@ -137,7 +134,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-08",
@@ -249,32 +245,6 @@
       ]
     },
     {
-      "id": 52883532576991,
-      "title": "Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford",
-      "url": "https://events.stanford.edu/event/ginsberg-at-100-selections-from-the-allen-ginsberg-papers-at-stanford",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, Peterson Gallery and Munger Rotunda, 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Religion/Spirituality",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52888408449314/huge/f0211c1a9668cc3811c55872f7154f2111b6d303.jpg",
-      "free": false,
-      "first_date": "2026-06-05",
-      "last_date": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ]
-    },
-    {
       "id": 52880326677126,
       "title": "JANE! An intimate exploration of Gilded Age excess  and the enigmatic life and death of Jane Stanford",
       "url": "https://events.stanford.edu/event/jane-an-intimate-exploration-of-gilded-age-excess-and-the-enigmatic-life-and-death-of-jane-stanford",
@@ -293,7 +263,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-10",
@@ -413,7 +382,8 @@
         "2027-02-26",
         "2027-02-27",
         "2027-02-28",
-        "2027-03-01"
+        "2027-03-01",
+        "2027-03-04"
       ]
     },
     {
@@ -433,7 +403,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-10",
@@ -532,7 +501,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-10",
@@ -1749,11 +1717,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-05",
-          "start": "2026-09-05T13:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-12",
           "start": "2026-09-12T13:00:00-07:00",
           "all_day": false
@@ -1985,7 +1948,6 @@
         }
       ],
       "dates": [
-        "2026-09-05",
         "2026-09-12",
         "2026-09-13",
         "2026-09-19",
@@ -2035,9 +1997,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-09-05",
+      "next_date": "2026-09-12",
       "last_date": "2027-02-28",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2055,11 +2017,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-05",
-          "start": "2026-09-05T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-12",
           "start": "2026-09-12T15:00:00-07:00",
@@ -2292,7 +2249,6 @@
         }
       ],
       "dates": [
-        "2026-09-05",
         "2026-09-12",
         "2026-09-13",
         "2026-09-19",
@@ -2342,9 +2298,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-09-05",
+      "next_date": "2026-09-12",
       "last_date": "2027-02-28",
-      "count": 47
+      "count": 46
     },
     {
       "id": 40909411691045,
@@ -2467,11 +2423,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-05",
-          "start": "2026-09-05T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-12",
           "start": "2026-09-12T09:30:00-07:00",
           "all_day": false
@@ -2543,7 +2494,6 @@
         }
       ],
       "dates": [
-        "2026-09-05",
         "2026-09-12",
         "2026-09-19",
         "2026-09-26",
@@ -2561,9 +2511,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-09-05",
+      "next_date": "2026-09-12",
       "last_date": "2026-12-12",
-      "count": 15
+      "count": 14
     },
     {
       "id": 51888083181057,
@@ -2676,33 +2626,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52887501786542,
-      "title": "[Cancelled] Public Tour |  Auguste Rodin",
-      "url": "https://events.stanford.edu/event/cancelled-public-tour-auguste-rodin",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52887510430057/huge/4d79752fb2343c1d30a44545f2086f704d85d0aa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-05",
-          "start": "2026-09-05T11:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-05"
-      ]
-    },
     {
       "id": 53755608877782,
       "title": "[Cancelled] Public Tour | A Closer Look",
