@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T17:06:52+00:00",
+  "generated_at": "2026-09-09T05:45:27+00:00",
   "window": {
-    "start": "2026-09-08",
-    "end": "2027-03-07"
+    "start": "2026-09-09",
+    "end": "2027-03-08"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 11,
+    "ongoing": 12,
     "recurring": 11,
-    "dated": 156
+    "dated": 159
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-09-08",
         "2026-09-09",
         "2026-09-10"
       ]
@@ -94,7 +93,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-08",
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
@@ -128,7 +126,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-08",
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
@@ -375,7 +372,8 @@
         "2027-03-01",
         "2027-03-04",
         "2027-03-05",
-        "2027-03-06"
+        "2027-03-06",
+        "2027-03-07"
       ]
     },
     {
@@ -608,6 +606,93 @@
         "2027-02-19",
         "2027-02-20",
         "2027-02-21"
+      ]
+    },
+    {
+      "id": 53923391076842,
+      "title": "Emergent Properties: Decennial Reflections on Collections",
+      "url": "https://events.stanford.edu/event/emergent-properties",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53923524240935/huge/4fff769cf5feaab3558d7c41f99a8b7ff4e0bd38.jpg",
+      "free": false,
+      "first_date": "2026-09-09",
+      "last_date": "2027-03-05",
+      "dates": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18",
+        "2027-01-06",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-13",
+        "2027-01-14",
+        "2027-01-15",
+        "2027-01-20",
+        "2027-01-21",
+        "2027-01-22",
+        "2027-01-27",
+        "2027-01-28",
+        "2027-01-29",
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05",
+        "2027-02-10",
+        "2027-02-11",
+        "2027-02-12",
+        "2027-02-17",
+        "2027-02-18",
+        "2027-02-19",
+        "2027-02-24",
+        "2027-02-25",
+        "2027-02-26",
+        "2027-03-03",
+        "2027-03-04",
+        "2027-03-05"
       ]
     },
     {
@@ -1950,6 +2035,11 @@
           "date": "2027-03-06",
           "start": "2027-03-06T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-07",
+          "start": "2027-03-07T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1999,13 +2089,14 @@
         "2027-02-21",
         "2027-02-27",
         "2027-02-28",
-        "2027-03-06"
+        "2027-03-06",
+        "2027-03-07"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-09-12",
-      "last_date": "2027-03-06",
-      "count": 47
+      "last_date": "2027-03-07",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2257,6 +2348,11 @@
           "date": "2027-03-06",
           "start": "2027-03-06T15:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-07",
+          "start": "2027-03-07T15:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2306,13 +2402,14 @@
         "2027-02-21",
         "2027-02-27",
         "2027-02-28",
-        "2027-03-06"
+        "2027-03-06",
+        "2027-03-07"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-09-12",
-      "last_date": "2027-03-06",
-      "count": 47
+      "last_date": "2027-03-07",
+      "count": 48
     },
     {
       "id": 40909411691045,
@@ -2639,31 +2736,6 @@
   ],
   "events": [
     {
-      "id": 53666075482827,
-      "title": "Nerds of the Roundtable: \"The New Space Race: Power, Policy and the Moon\"",
-      "url": "https://events.stanford.edu/event/nerds-of-the-roundtable-the-new-space-race-power-policy-and-the-moon",
-      "experience": "inperson",
-      "location": "Hoover Institution, Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53798539274019/huge/7f3628571b0303cb7f4cef680f87bf8b43c51690.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-08",
-          "start": "2026-09-08T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-08"
-      ]
-    },
-    {
       "id": 53342477305300,
       "title": "CFI: ConTech Deep Dive co-hosted by CIFE",
       "url": "https://events.stanford.edu/event/cfi-contech-deep-dive",
@@ -2924,6 +2996,34 @@
         {
           "date": "2026-09-15",
           "start": "2026-09-15T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    {
+      "id": 53923611891331,
+      "title": "Pediatric Grand Rounds (CME): Declining Health of American Children: Addressing the Developmental Ecosystem",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-the-current-state-of-childrens-health-and-health-equity-in-the-united-states-3440",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53923611839105/huge/0aeb43c7d47e25fc7a7faabd849567b4a4a0ae76.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-15",
+          "start": "2026-09-15T08:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3705,6 +3805,31 @@
       ]
     },
     {
+      "id": 53922486596596,
+      "title": "LATE FAME: Screening and conversation with director Kent Jones and Professor Alexander Nemerov",
+      "url": "https://events.stanford.edu/event/late-fame-screening-and-conversation-with-director-kent-jones-and-professor-alexander-nemerov",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53922498515777/huge/36474c9f301c47a3e7ab047783fac591ef81b733.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    {
       "id": 53685756293663,
       "title": "Lunchtime Curator Talk | JANE!",
       "url": "https://events.stanford.edu/event/copy-of-full-lunchtime-curator-talk-jane",
@@ -4018,6 +4143,31 @@
       ]
     },
     {
+      "id": 53923679627540,
+      "title": "Nerds of the Roundtable: The Distributed Space Age",
+      "url": "https://events.stanford.edu/event/nerds-of-the-roundtable-the-distributed-space-age",
+      "experience": "inperson",
+      "location": "George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53798539274019/huge/7f3628571b0303cb7f4cef680f87bf8b43c51690.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
       "id": 53861040222429,
       "title": "HAI Seminar with Tim de Silva",
       "url": "https://events.stanford.edu/event/hai-seminar-with-tim-de-silva",
@@ -4118,6 +4268,31 @@
         {
           "date": "2026-10-08",
           "start": "2026-10-08T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": 53923354197721,
+      "title": "Improving All Lives Through Science: The Case for Fundamental Research, Public Policy, and Advocacy",
+      "url": "https://events.stanford.edu/event/improving-all-lives-through-science-the-case-for-fundamental-research-public-policy-and-advocacy",
+      "experience": "inperson",
+      "location": "Sapp Center for Science Teaching and Learning, STLC 114 - Sapp Lecture Hall, 376 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53923417852772/huge/1cf94ae1ad9dac4546fbe8ae7ca54b6f192053d5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T15:00:00-07:00",
           "all_day": false
         }
       ],
