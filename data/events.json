@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:45:27+00:00",
+  "generated_at": "2026-09-09T17:03:59+00:00",
   "window": {
     "start": "2026-09-09",
     "end": "2027-03-08"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 159
+    "dated": 160
   },
   "ongoing": [
     {
@@ -5648,6 +5648,31 @@
         {
           "date": "2026-10-29",
           "start": "2026-10-29T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
+      "id": 53745897362219,
+      "title": "Witness to Iran’s Paradigm Shift: From Flight PS752 to Woman, Life, Freedom and Beyond",
+      "url": "https://events.stanford.edu/event/witness-to-irans-paradigm-shift-from-flight-ps752-to-woman-life-freedom-and-beyond",
+      "experience": "inperson",
+      "location": "In person at Stanford",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53930753807752/huge/06f0518671b1deeb79b229fecb01c19e2c75ee50.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T18:30:00-07:00",
           "all_day": false
         }
       ],
