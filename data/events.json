@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:40:14+00:00",
+  "generated_at": "2026-09-10T16:55:37+00:00",
   "window": {
     "start": "2026-09-10",
     "end": "2027-03-09"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 12,
-    "dated": 159
+    "dated": 160
   },
   "ongoing": [
     {
@@ -3810,6 +3810,34 @@
         {
           "date": "2026-09-30",
           "start": "2026-09-30T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
+      "id": 53939315812490,
+      "title": "Sensing Nankeen: Skilled Perception as an Alternative to Centralized Production",
+      "url": "https://events.stanford.edu/event/sensing-nankeen-skilled-perception-as-an-alternative-to-centralized-production",
+      "experience": "hybrid",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53939320885756/huge/0ce7e25fe8654b5d6f04c6432883f25d5e02a2a4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T17:00:00-07:00",
           "all_day": false
         }
       ],
