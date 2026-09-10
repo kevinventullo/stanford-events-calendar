@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T17:03:59+00:00",
+  "generated_at": "2026-09-10T05:40:14+00:00",
   "window": {
-    "start": "2026-09-09",
-    "end": "2027-03-08"
+    "start": "2026-09-10",
+    "end": "2027-03-09"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 12,
-    "recurring": 11,
-    "dated": 160
+    "recurring": 12,
+    "dated": 159
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-09-10",
       "dates": [
-        "2026-09-09",
         "2026-09-10"
       ]
     },
@@ -93,7 +92,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-09",
         "2026-09-10",
         "2026-09-11",
         "2026-09-12",
@@ -126,7 +124,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-09",
         "2026-09-10",
         "2026-09-11",
         "2026-09-12",
@@ -373,7 +370,8 @@
         "2027-03-04",
         "2027-03-05",
         "2027-03-06",
-        "2027-03-07"
+        "2027-03-07",
+        "2027-03-08"
       ]
     },
     {
@@ -623,7 +621,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-09",
         "2026-09-10",
         "2026-09-11",
         "2026-09-16",
@@ -1482,6 +1479,36 @@
       "next_date": "2026-10-02",
       "last_date": "2027-01-03",
       "count": 42
+    },
+    {
+      "id": 44437607039811,
+      "title": "Lou Henry Hoover Carillon Performance",
+      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
+      "experience": "inperson",
+      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-15",
+          "start": "2026-09-15T17:45:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-15"
+      ],
+      "pattern": "Tuesdays",
+      "time": "5:45 PM",
+      "next_date": "2026-09-15",
+      "last_date": "2026-09-15",
+      "count": 1
     },
     {
       "id": 53694822395653,
@@ -2641,11 +2668,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-09",
-          "start": "2026-09-09T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-16",
           "start": "2026-09-16T09:00:00-07:00",
           "all_day": false
@@ -2712,7 +2734,6 @@
         }
       ],
       "dates": [
-        "2026-09-09",
         "2026-09-16",
         "2026-09-23",
         "2026-09-30",
@@ -2729,41 +2750,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-09-09",
+      "next_date": "2026-09-16",
       "last_date": "2026-12-16",
-      "count": 14
+      "count": 13
     }
   ],
   "events": [
-    {
-      "id": 53342477305300,
-      "title": "CFI: ConTech Deep Dive co-hosted by CIFE",
-      "url": "https://events.stanford.edu/event/cfi-contech-deep-dive",
-      "experience": "inperson",
-      "location": "Tresidder Union, Oak Lounge, 459 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53342491938468/huge/111f8e70d21d36310dec72f2204111bbe4d4920e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-09",
-          "start": "2026-09-09T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-09"
-      ]
-    },
     {
       "id": 53801176482521,
       "title": "Stanford Future of Medicine Workshop: Accessing & Assessing Medical Truth in 2026",
@@ -3024,6 +3016,29 @@
         {
           "date": "2026-09-15",
           "start": "2026-09-15T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    {
+      "id": 53933108327942,
+      "title": "PhD Dissertation Defense: Eliel Akinbami",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-eliel-akinbami",
+      "experience": "hybrid",
+      "location": "Stanford ChEM-H Building, E153, 290 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53933111411879/huge/364a6c0652f4fd9e1a5a52addcf8fdc9121ad239.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-15",
+          "start": "2026-09-15T13:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3646,6 +3661,31 @@
       ],
       "dates": [
         "2026-09-28"
+      ]
+    },
+    {
+      "id": 53932464840896,
+      "title": "Cotton and State Power in China: The First Hundred Years",
+      "url": "https://events.stanford.edu/event/cotton-and-state-power-in-china-the-first-hundred-years",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53932565425506/huge/ad1f1d50fa404ea3c026f1c5313c1a41c288191a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
       ]
     },
     {
@@ -4541,40 +4581,6 @@
       ]
     },
     {
-      "id": 52739055358476,
-      "title": "CBD 2026: We Were Made for These Times: Coming Home to Ourselves in the Age of AI with Kaira Jewel Lingo",
-      "url": "https://events.stanford.edu/event/cbd-2026-we-were-made-for-these-times-with-kaira-jewel-lingo",
-      "experience": "hybrid",
-      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52739234409727/huge/6ff0b242e1e4a217f0e461dcb1231e888c5925a4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
       "id": 53727281212449,
       "title": "Center for African Studies Welcome Reception",
       "url": "https://events.stanford.edu/event/cas-welcome-reception",
@@ -4617,40 +4623,6 @@
       ]
     },
     {
-      "id": 52739238555812,
-      "title": "CBD 2026: Interactive Workshop, Educating for Interbeing: Imagination, Embodiment, and the Education of Compassion with Kaira Jewel Lingo",
-      "url": "https://events.stanford.edu/event/cbd-2026-educating-for-interbeing-with-kaira-jewel-lingo",
-      "experience": "hybrid",
-      "location": "The CIRCLE, Community Room, Center for Inter-Religious Community, Learning and Experiences, The CIRCLE, Old Union, 3rd Floor",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52739238533283/huge/5ec0a17190d70471f7cf8fa6609eeed78071de58.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T11:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
       "id": 52940965451403,
       "title": "Lunchtime Curator Talk | Solid Pictures",
       "url": "https://events.stanford.edu/event/lunchtime-curator-talk-solid-pictures",
@@ -4673,40 +4645,6 @@
       ],
       "dates": [
         "2026-10-15"
-      ]
-    },
-    {
-      "id": 52739250588724,
-      "title": "CBD 2026: Interbeing Meditation: Touching Our Source and Growing Our Connection with Kaira Jewel Lingo",
-      "url": "https://events.stanford.edu/event/cbd-2026-interbeing-meditation-with-kaira-jewel-lingo",
-      "experience": "hybrid",
-      "location": "The CIRCLE, Community Room, Center for Inter-Religious Community, Learning and Experiences, The CIRCLE, Old Union, 3rd Floor",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52739250556979/huge/f1610bf0516d067ec6e21a0793a134be80f32f1d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-16",
-          "start": "2026-10-16T07:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-16"
       ]
     },
     {
@@ -5806,6 +5744,34 @@
       ],
       "dates": [
         "2026-11-04"
+      ]
+    },
+    {
+      "id": 53871308386123,
+      "title": "36th Annual Jonathan J. King Lecture: Dr. Bryant Lin & Dr. Shoshana Ungerleider",
+      "url": "https://events.stanford.edu/event/36th-annual-jonathan-j-king-lecture",
+      "experience": "hybrid",
+      "location": "Cedar Room, Stanford Faculty Club, Cedar Room, Stanford Faculty Club, 439 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Humanities",
+        "Medicine",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53877661181393/huge/d3963f3367eb4adbaa5edf13065eac72d46465cf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
       ]
     },
     {
