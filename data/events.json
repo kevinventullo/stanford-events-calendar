@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:39:39+00:00",
+  "generated_at": "2026-09-11T16:56:29+00:00",
   "window": {
     "start": "2026-09-11",
     "end": "2027-03-10"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 11,
     "recurring": 12,
-    "dated": 166
+    "dated": 168
   },
   "ongoing": [
     {
@@ -3650,6 +3650,31 @@
       ]
     },
     {
+      "id": 53947982552067,
+      "title": "Biology Seminar Series - Alex Pollen \"Perturbational Genomics of Human Brain Evolution\"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-alex-pollen-perturbational-genomics-of-human-brain-evolution",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53947984539164/huge/434c1ec6f4a70376bc026df8ad1e5d544743a676.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-28",
+          "start": "2026-09-28T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    {
       "id": 53552124726869,
       "title": "Stanford Energy Seminar | AI for Climate Solutions: GRAIL | Shanthakumar Bannirchelvam, SUN New Energy Capital",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-09282026",
@@ -4849,6 +4874,31 @@
       ],
       "dates": [
         "2026-10-17"
+      ]
+    },
+    {
+      "id": 53947940289112,
+      "title": "Biology Seminar Series: Mercedes Paredes “The Dynamic Neonatal Brain: Postnatal Neurodevelopmental Processes and Implications in Disease \"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-mercedes-paredes-the-dynamic-neonatal-brain-postnatal-neurodevelopmental-processes-and-implications-in-disease",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53947947727189/huge/458bed2e3eb333462ec3483228ddb719568a4172.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
       ]
     },
     {
