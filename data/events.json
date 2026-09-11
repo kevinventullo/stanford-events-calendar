@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T16:55:37+00:00",
+  "generated_at": "2026-09-11T05:39:39+00:00",
   "window": {
-    "start": "2026-09-10",
-    "end": "2027-03-09"
+    "start": "2026-09-11",
+    "end": "2027-03-10"
   },
   "filters": {
     "public_audiences": [
@@ -21,31 +21,11 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 11,
     "recurring": 12,
-    "dated": 160
+    "dated": 166
   },
   "ongoing": [
-    {
-      "id": 51827589730708,
-      "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
-      "url": "https://events.stanford.edu/event/neurocrine",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/51827731132628/huge/beb89c9caa35c6e6186528e901dbf9ade4f7a104.jpg",
-      "free": false,
-      "first_date": "2026-01-14",
-      "last_date": "2026-09-10",
-      "dates": [
-        "2026-09-10"
-      ]
-    },
     {
       "id": 52888406473919,
       "title": "Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
@@ -65,7 +45,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-09-10",
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
@@ -92,7 +71,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-10",
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
@@ -124,7 +102,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-10",
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
@@ -249,7 +226,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-10",
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
@@ -391,7 +367,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-10",
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
@@ -487,7 +462,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-10",
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
@@ -621,7 +595,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-10",
         "2026-09-11",
         "2026-09-16",
         "2026-09-17",
@@ -1088,11 +1061,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-10",
-          "start": "2026-09-10T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-17",
           "start": "2026-09-17T10:00:00-07:00",
           "all_day": false
@@ -1106,19 +1074,42 @@
           "date": "2026-10-01",
           "start": "2026-10-01T10:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T10:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T10:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-09-10",
         "2026-09-17",
         "2026-09-24",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29"
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-09-10",
-      "last_date": "2026-10-01",
-      "count": 4
+      "next_date": "2026-09-17",
+      "last_date": "2026-10-29",
+      "count": 7
     },
     {
       "id": 50967994153103,
@@ -2147,11 +2138,6 @@
           "all_day": false
         },
         {
-          "date": "2026-09-13",
-          "start": "2026-09-13T15:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-19",
           "start": "2026-09-19T15:00:00-07:00",
           "all_day": false
@@ -2384,7 +2370,6 @@
       ],
       "dates": [
         "2026-09-12",
-        "2026-09-13",
         "2026-09-19",
         "2026-09-20",
         "2026-09-26",
@@ -2436,7 +2421,7 @@
       "time": "3 PM",
       "next_date": "2026-09-12",
       "last_date": "2027-03-07",
-      "count": 48
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -2757,60 +2742,6 @@
   ],
   "events": [
     {
-      "id": 53801176482521,
-      "title": "Stanford Future of Medicine Workshop: Accessing & Assessing Medical Truth in 2026",
-      "url": "https://events.stanford.edu/event/stanford-future-of-medicine-workshop-accessing-assessing-medical-truth-in-2026",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, LK 120, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511151498601/huge/0004c93a7e888e83b21c2c666e051bf5e857382e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-10",
-          "start": "2026-09-10T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-10"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-11",
-          "start": "2026-09-11T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-18",
-          "start": "2026-09-18T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-11",
-        "2026-09-18"
-      ]
-    },
-    {
       "id": 53870437963557,
       "title": "Introductory Design Thinking Workshop",
       "url": "https://events.stanford.edu/event/introductory-design-thinking-workshop",
@@ -2933,6 +2864,32 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15"
+      ]
+    },
+    {
+      "id": 53755560975894,
+      "title": "[Cancelled] Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-13",
+          "start": "2026-09-13T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-13"
       ]
     },
     {
@@ -3063,7 +3020,7 @@
       "instances": [
         {
           "date": "2026-09-17",
-          "start": "2026-09-17T05:30:00-07:00",
+          "start": "2026-09-17T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3119,6 +3076,35 @@
       ],
       "dates": [
         "2026-09-18"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-18",
+          "start": "2026-09-18T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-18",
+        "2026-10-02"
       ]
     },
     {
@@ -3418,6 +3404,33 @@
         {
           "date": "2026-09-24",
           "start": "2026-09-24T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    {
+      "id": 53924446895763,
+      "title": "Series Overview: Challenges and Solutions for Critical Materials in Energy and Electronics",
+      "url": "https://events.stanford.edu/event/series-overview-critical-materials",
+      "experience": "hybrid",
+      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53924446838416/huge/888b090ae306591417ab3d361dedf7df4dc6924c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-24",
+          "start": "2026-09-24T16:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4552,6 +4565,29 @@
       ]
     },
     {
+      "id": 53939832065433,
+      "title": "Reclaiming Liberal Education in America",
+      "url": "https://events.stanford.edu/event/reclaiming-liberal-education-in-america",
+      "experience": "hybrid",
+      "location": "Hoover Institution - George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53939851522109/huge/863ce25f0832031db41421af0f82b5bad6d8cacb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-12",
+          "start": "2026-10-12T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    {
       "id": 53552376625397,
       "title": "Stanford Energy Seminar | Nick Franchot, GoodFinch",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-10122026",
@@ -4643,6 +4679,32 @@
         {
           "date": "2026-10-14",
           "start": "2026-10-14T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
+      "id": 52685971359572,
+      "title": "The Rise and Future of the Korean Semiconductor Memory Industry: Perspectives and Insights from 1983 to 2026 and Beyond",
+      "url": "https://events.stanford.edu/event/the-rise-and-future-of-the-korean-semiconductor-memory-industry-perspectives-and-insights-from-1983-to-2026-and-beyond",
+      "experience": "inperson",
+      "location": "Encina Hall, 3rd Floor, Philippines Conference Room (C330), 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53941315400000/huge/527ec978c6583fdecb9447525a6b8ad930ca2d4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4973,6 +5035,35 @@
       ],
       "dates": [
         "2026-10-19"
+      ]
+    },
+    {
+      "id": 53941977012598,
+      "title": "2026 Shorenstein Journalism Award: Shibani Mahtani on Democratic Backsliding in Southeast Asia",
+      "url": "https://events.stanford.edu/event/2026-shorenstein-journalism-award-shibani-mahtani-on-attacks-against-the-free-press-and-democratic-backsliding-in-southeast-asia",
+      "experience": "inperson",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53942026169380/huge/7a2318d1f2f66fc9f1f7bf817d2566a33fb45d9c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
       ]
     },
     {
@@ -5594,6 +5685,31 @@
       "dates": [
         "2026-10-29",
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 53941595325725,
+      "title": "Korea’s Nuclear Odyssey Beyond Borders: From KEDO to the Age of AI",
+      "url": "https://events.stanford.edu/event/koreas-nuclear-odyssey-beyond-borders-from-kedo-to-the-age-of-ai",
+      "experience": "inperson",
+      "location": "Encina Hall, 3RD Floor, Philippines Conference Room (C330), 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53941786556300/huge/09b71c051ebb95356a069dc312ef57c4e6492753.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
       ]
     },
     {
@@ -7025,6 +7141,36 @@
       "dates": [
         "2027-02-19",
         "2027-02-20"
+      ]
+    },
+    {
+      "id": 53879874311461,
+      "title": "Special, Unique, and Rare: GAMES",
+      "url": "https://events.stanford.edu/event/special-unique-and-rare-games",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Education",
+        "Engineering/Technology",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879874280739/huge/cbc26e3c20eecff6ff0247b45a07ffe825490819.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-03-09",
+          "start": "2027-03-09T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-09"
       ]
     }
   ]
