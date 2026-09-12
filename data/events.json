@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T16:56:29+00:00",
+  "generated_at": "2026-09-12T05:27:23+00:00",
   "window": {
-    "start": "2026-09-11",
-    "end": "2027-03-10"
+    "start": "2026-09-12",
+    "end": "2027-03-11"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 11,
+    "ongoing": 12,
     "recurring": 12,
-    "dated": 168
+    "dated": 173
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-13",
         "2026-09-14"
@@ -71,7 +70,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
@@ -102,7 +100,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
@@ -226,7 +223,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
@@ -367,7 +363,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
@@ -462,7 +457,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
@@ -595,7 +589,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-11",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18",
@@ -900,6 +893,70 @@
       ]
     },
     {
+      "id": 53948654465100,
+      "title": "Tangling the Digital: Weaving, Printmaking, Computing",
+      "url": "https://events.stanford.edu/event/tangling-the-digital-weaving-printmaking-computing",
+      "experience": "inperson",
+      "location": "McMurtry Building, Coulter Art Gallery, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53948663019330/huge/c979f90e82badeda481f51abb8e7689afb44f11d.jpg",
+      "free": false,
+      "first_date": "2026-09-29",
+      "last_date": "2026-12-04",
+      "dates": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04"
+      ]
+    },
+    {
       "id": 53560271099404,
       "title": "Touch Me Not: 12th Annual Undergraduate Juried Exhibition",
       "url": "https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition",
@@ -1127,11 +1184,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-11",
-          "start": "2026-09-11T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-25",
           "start": "2026-09-25T12:00:00-07:00",
           "all_day": false
@@ -1178,7 +1230,6 @@
         }
       ],
       "dates": [
-        "2026-09-11",
         "2026-09-25",
         "2026-10-09",
         "2026-10-23",
@@ -1191,9 +1242,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-09-11",
+      "next_date": "2026-09-25",
       "last_date": "2027-02-26",
-      "count": 10
+      "count": 9
     },
     {
       "id": 53818764048938,
@@ -1519,11 +1570,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-11",
-          "start": "2026-09-11T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-12",
           "start": "2026-09-12T11:30:00-07:00",
           "all_day": false
@@ -1750,7 +1796,6 @@
         }
       ],
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-18",
         "2026-09-19",
@@ -1799,9 +1844,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-09-11",
+      "next_date": "2026-09-12",
       "last_date": "2027-03-06",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2742,63 +2787,6 @@
   ],
   "events": [
     {
-      "id": 53870437963557,
-      "title": "Introductory Design Thinking Workshop",
-      "url": "https://events.stanford.edu/event/introductory-design-thinking-workshop",
-      "experience": "inperson",
-      "location": "Building 550, Peterson Laboratory, Atrium, 416 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Business",
-        "Career Development"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53876606889151/huge/1ab0015a9a62ad68980a69b022448c0c2c0be6d5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-11",
-          "start": "2026-09-11T13:45:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-11"
-      ]
-    },
-    {
-      "id": 53801130738839,
-      "title": "Stanford Big Ideas in Medicine Conference",
-      "url": "https://events.stanford.edu/event/stanford-big-ideas-in-medicine-conference",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511119750107/huge/7ab7ef166d08f7d2a3df22d6504093683f94fa39.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-11",
-          "start": "2026-09-11T08:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-12",
-          "start": "2026-09-12T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-11",
-        "2026-09-12"
-      ]
-    },
-    {
       "id": 53790164070369,
       "title": "Hopkins Marine Station Open House",
       "url": "https://events.stanford.edu/event/hopkins-marine-station-open-house",
@@ -2864,6 +2852,31 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15"
+      ]
+    },
+    {
+      "id": 53801130738839,
+      "title": "Stanford Big Ideas in Medicine Conference",
+      "url": "https://events.stanford.edu/event/stanford-big-ideas-in-medicine-conference",
+      "experience": "hybrid",
+      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511119750107/huge/7ab7ef166d08f7d2a3df22d6504093683f94fa39.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-12",
+          "start": "2026-09-12T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-12"
       ]
     },
     {
@@ -4065,6 +4078,39 @@
       ],
       "dates": [
         "2026-10-01"
+      ]
+    },
+    {
+      "id": 53932526909284,
+      "title": "Empirical Methods in the Age of AI",
+      "url": "https://events.stanford.edu/event/empirical-methods-in-the-age-of-ai",
+      "experience": "inperson",
+      "location": "Simonyi Conference Center, CoDa, 389 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53950833220207/huge/6b9b8d9746bdeb0ba4ffe84391e93ea57036288f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T08:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-03",
+          "start": "2026-10-03T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02",
+        "2026-10-03"
       ]
     },
     {
@@ -6047,6 +6093,32 @@
       ]
     },
     {
+      "id": 53948468115058,
+      "title": "For the Next Generation: Mental Health in Asian American, Native Hawaiian, and Pacific Islander Youth",
+      "url": "https://events.stanford.edu/event/for-the-next-generation-mental-health-in-asian-american-native-hawaiian-and-pacific-islander-youth",
+      "experience": "inperson",
+      "location": "Building 360, CCSRE Conference Room (First Floor), Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53948487024196/huge/db01ef8525fcfc966146ef5571b077b260a03392.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    {
       "id": 53552403342725,
       "title": "Stanford Energy Seminar | Tiziana Vanorio, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11092026",
@@ -6488,6 +6560,29 @@
       ]
     },
     {
+      "id": 53950377018749,
+      "title": "Galicia's Promised City with Oskar Czendze",
+      "url": "https://events.stanford.edu/event/galicias-promised-city-with-oskar-czendze",
+      "experience": "inperson",
+      "location": "Building 200, History Corner, 307, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53950626537637/huge/188454cd1c6354b06ef8dc99da2b78118262ff20.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
       "id": 53251196124368,
       "title": "Holly Herndon & Mat Dryhurst: Protocol Art",
       "url": "https://events.stanford.edu/event/studio-lecture-series-holly-herndon-mat-dryhurst",
@@ -6564,6 +6659,34 @@
       ]
     },
     {
+      "id": 53949492427776,
+      "title": "Book Event with Roland Betancourt and T.L. Taylor, \"Disneyland and the Rise of Automation\"",
+      "url": "https://events.stanford.edu/event/book-event-with-roland-betancourt-and-tl-taylor-disneyland-and-the-rise-of-automation",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, 122, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Business",
+        "Engineering/Technology",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53949501849289/huge/60cee755371cdf7ad425dd89b92c1bc3955ef1cc.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
       "id": 53727115436518,
       "title": "The Future of Health in Africa: How U.S. Presidential Decisions Are Shaping a Generation of African Children - Dr. Ruth Gibson",
       "url": "https://events.stanford.edu/event/the-future-of-health-in-africa-how-us-presidential-decisions-are-shaping-a-generation-of-african-children-dr-ruth-gibson",
@@ -6613,6 +6736,31 @@
       ],
       "dates": [
         "2026-12-03"
+      ]
+    },
+    {
+      "id": 53948951033153,
+      "title": "Fall 2026 Open Studios",
+      "url": "https://events.stanford.edu/event/fall-2026-open-studios",
+      "experience": "inperson",
+      "location": "McMurtry Building, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53949002132708/huge/ff26b315e313abe1d1af97956d3d1cd167bdbd4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04"
       ]
     },
     {
@@ -6695,6 +6843,31 @@
       "dates": [
         "2026-12-06",
         "2026-12-13"
+      ]
+    },
+    {
+      "id": 53949146024224,
+      "title": "2026 Fall MFA Documentary Film Screening",
+      "url": "https://events.stanford.edu/event/2026-fall-mfa-documentary-film-screening",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53949156547124/huge/82301cf22886692c94de17adf9116268e8ce5719.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-08",
+          "start": "2026-12-08T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-08"
       ]
     },
     {
