@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-12T16:01:27+00:00",
+  "generated_at": "2026-09-13T05:43:04+00:00",
   "window": {
-    "start": "2026-09-12",
-    "end": "2027-03-11"
+    "start": "2026-09-13",
+    "end": "2027-03-12"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 12,
-    "dated": 173
+    "dated": 172
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-03-26",
       "last_date": "2026-09-14",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-14"
       ]
@@ -70,7 +69,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
@@ -100,7 +98,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
@@ -223,7 +220,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-14",
         "2026-09-18",
@@ -343,7 +339,8 @@
         "2027-03-05",
         "2027-03-06",
         "2027-03-07",
-        "2027-03-08"
+        "2027-03-08",
+        "2027-03-11"
       ]
     },
     {
@@ -363,7 +360,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
@@ -457,7 +453,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-14",
         "2026-09-17",
@@ -1570,11 +1565,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-12",
-          "start": "2026-09-12T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-18",
           "start": "2026-09-18T11:30:00-07:00",
           "all_day": false
@@ -1796,7 +1786,6 @@
         }
       ],
       "dates": [
-        "2026-09-12",
         "2026-09-18",
         "2026-09-19",
         "2026-09-25",
@@ -1844,9 +1833,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-09-12",
+      "next_date": "2026-09-18",
       "last_date": "2027-03-06",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -1864,11 +1853,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-12",
-          "start": "2026-09-12T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-13",
           "start": "2026-09-13T13:00:00-07:00",
@@ -2106,7 +2090,6 @@
         }
       ],
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-19",
         "2026-09-20",
@@ -2157,9 +2140,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-09-12",
+      "next_date": "2026-09-13",
       "last_date": "2027-03-07",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2177,11 +2160,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-12",
-          "start": "2026-09-12T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-19",
           "start": "2026-09-19T15:00:00-07:00",
@@ -2414,7 +2392,6 @@
         }
       ],
       "dates": [
-        "2026-09-12",
         "2026-09-19",
         "2026-09-20",
         "2026-09-26",
@@ -2464,9 +2441,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-09-12",
+      "next_date": "2026-09-19",
       "last_date": "2027-03-07",
-      "count": 47
+      "count": 46
     },
     {
       "id": 40909411691045,
@@ -2589,11 +2566,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-12",
-          "start": "2026-09-12T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-19",
           "start": "2026-09-19T09:30:00-07:00",
           "all_day": false
@@ -2660,7 +2632,6 @@
         }
       ],
       "dates": [
-        "2026-09-12",
         "2026-09-19",
         "2026-09-26",
         "2026-10-03",
@@ -2677,9 +2648,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-09-12",
+      "next_date": "2026-09-19",
       "last_date": "2026-12-12",
-      "count": 14
+      "count": 13
     },
     {
       "id": 51888083181057,
@@ -2787,99 +2758,6 @@
   ],
   "events": [
     {
-      "id": 53790164070369,
-      "title": "Hopkins Marine Station Open House",
-      "url": "https://events.stanford.edu/event/hopkins-marine-station-open-house",
-      "experience": "inperson",
-      "location": "Hopkins Marine Station, 120 Ocean View Blvd Pacific Grove, CA 93950",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53790174845472/huge/acaf51cb321af3b1d229b29a4bfd9806ffebe3df.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-12",
-          "start": "2026-09-12T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-12"
-      ]
-    },
-    {
-      "id": 50852323821947,
-      "title": "MRI: Clinical Updates and Practical Physics",
-      "url": "https://events.stanford.edu/event/mri-clinical-updates-and-practical-physics-9762",
-      "experience": "inperson",
-      "location": "The Frances C. Arrillaga Alumni Center, Stanford, CA, 326 Galvez St, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/50852329121613/huge/adec9a9bb5175416267e59695fb33a64040bed23.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-12",
-          "start": "2026-09-12T07:20:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-13",
-          "start": "2026-09-13T07:20:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-14",
-          "start": "2026-09-14T07:20:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-15",
-          "start": "2026-09-15T07:20:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-14",
-        "2026-09-15"
-      ]
-    },
-    {
-      "id": 53801130738839,
-      "title": "Stanford Big Ideas in Medicine Conference",
-      "url": "https://events.stanford.edu/event/stanford-big-ideas-in-medicine-conference",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511119750107/huge/7ab7ef166d08f7d2a3df22d6504093683f94fa39.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-12",
-          "start": "2026-09-12T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-12"
-      ]
-    },
-    {
       "id": 53755560975894,
       "title": "[Cancelled] Public Tour | A Closer Look",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
@@ -2903,6 +2781,43 @@
       ],
       "dates": [
         "2026-09-13"
+      ]
+    },
+    {
+      "id": 50852323821947,
+      "title": "MRI: Clinical Updates and Practical Physics",
+      "url": "https://events.stanford.edu/event/mri-clinical-updates-and-practical-physics-9762",
+      "experience": "inperson",
+      "location": "The Frances C. Arrillaga Alumni Center, Stanford, CA, 326 Galvez St, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50852329121613/huge/adec9a9bb5175416267e59695fb33a64040bed23.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-13",
+          "start": "2026-09-13T07:20:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-14",
+          "start": "2026-09-14T07:20:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-15",
+          "start": "2026-09-15T07:20:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15"
       ]
     },
     {
@@ -7394,6 +7309,31 @@
       ],
       "dates": [
         "2027-03-09"
+      ]
+    },
+    {
+      "id": 53869955895639,
+      "title": "Evening Curator Talk | California Current: Art and Histories from the Bay Area",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area-282",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53869955870037/huge/27afe68f212996ab833ffd098822cf0f8839af8f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-03-11",
+          "start": "2027-03-11T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-11"
       ]
     }
   ]
