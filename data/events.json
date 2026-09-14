@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:51:48+00:00",
+  "generated_at": "2026-09-14T18:23:47+00:00",
   "window": {
     "start": "2026-09-14",
     "end": "2027-03-13"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 13,
-    "dated": 172
+    "dated": 179
   },
   "ongoing": [
     {
@@ -3634,6 +3634,29 @@
       ]
     },
     {
+      "id": 53974904585335,
+      "title": "Applied Physics/Physics Colloquium: Benjamin Safdi - \" The Search for Axion Dark Matter\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-benjamin-safdi-the-search-for-axion-dark-matter",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53974914746632/huge/3d252a8701e73f71de0df7e33543a64df9b35491.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T15:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    {
       "id": 53932464840896,
       "title": "Cotton and State Power in China: The First Hundred Years",
       "url": "https://events.stanford.edu/event/cotton-and-state-power-in-china-the-first-hundred-years",
@@ -4239,6 +4262,31 @@
       ]
     },
     {
+      "id": 53971964567762,
+      "title": "Distinguished Lecture Series Lunch Talk | Two Modes of Sedentism on the Tibetan Plateau",
+      "url": "https://events.stanford.edu/event/distinguished-lecture-series-lunch-talk-two-modes-of-sedentism-on-the-tibetan-plateau",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53971982999062/huge/e7eb35bd7d3b0484dee52f7920ea73f3f9a13ce9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    {
       "id": 53861040222429,
       "title": "HAI Seminar with Tim de Silva",
       "url": "https://events.stanford.edu/event/hai-seminar-with-tim-de-silva",
@@ -4283,6 +4331,31 @@
         {
           "date": "2026-10-08",
           "start": "2026-10-08T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": 53972017186836,
+      "title": "Distinguished Lecture | The third East-West Road in the Old World: Early crop and livestock dispersal across the Tibetan Plateau",
+      "url": "https://events.stanford.edu/event/distinguished-lecture-the-third-east-west-road-in-the-old-world-early-crop-and-livestock-dispersal-across-the-tibetan-plateau",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53972023900545/huge/b35295a0bfa9211b17869ceeaeda40aa127e8f64.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4708,6 +4781,31 @@
       ]
     },
     {
+      "id": 53971797448204,
+      "title": "Lunch Club Series | Lessons Learned? Looting, Loss, and Landscape at Early Bronze Age sites in Jordan",
+      "url": "https://events.stanford.edu/event/lessons-learned-looting-loss-and-landscape-at-early-bronze-age-sites-in-jordan",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53971826260556/huge/fa53f966ec84b8e85d4ced7405809ea7c3487cf0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
       "id": 52685971359572,
       "title": "The Rise and Future of the Korean Semiconductor Memory Industry: Perspectives and Insights from 1983 to 2026 and Beyond",
       "url": "https://events.stanford.edu/event/the-rise-and-future-of-the-korean-semiconductor-memory-industry-perspectives-and-insights-from-1983-to-2026-and-beyond",
@@ -5105,6 +5203,29 @@
         {
           "date": "2026-10-20",
           "start": "2026-10-20T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 53974944829183,
+      "title": "Applied Physics/Physics Colloquium: Giulio Vampa - \"Quantum-optical Properties of High-Harmonic Generation\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-giulio-vampa-quantum-optical-properties-of-high-harmonic-generation",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53974947285147/huge/bf0650acadd81fe73937fe64879f5344cfa285a1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T15:30:00-07:00",
           "all_day": false
         }
       ],
@@ -5578,6 +5699,31 @@
       ]
     },
     {
+      "id": 53975524031896,
+      "title": "Biology Seminar Series - Orion Weiner \"From Swarms to Flocks: Discovering and Rewriting the Rules of Collective Cell Migration\"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-orion-weiner-from-swarms-to-flocks-discovering-and-rewriting-the-rules-of-collective-cell-migration",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53975526096152/huge/57e0bf10b1d75c258c28f63ceca74827211bf5a2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    {
       "id": 53552394769358,
       "title": "Stanford Energy Seminar | Richard Newell, C3 AI (former)",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-10262026",
@@ -5649,6 +5795,33 @@
         {
           "date": "2026-10-27",
           "start": "2026-10-27T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
+      "id": 53941494800329,
+      "title": "An Evening of Poetry with Fady Joudah",
+      "url": "https://events.stanford.edu/event/an-evening-of-poetry-with-fady-joudah",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53949212623007/huge/505debd8aed3056d577624c7bf06a3dea7ba5db4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T17:00:00-07:00",
           "all_day": false
         }
       ],
