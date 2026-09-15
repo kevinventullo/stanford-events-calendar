@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T18:23:47+00:00",
+  "generated_at": "2026-09-15T17:31:24+00:00",
   "window": {
-    "start": "2026-09-14",
-    "end": "2027-03-13"
+    "start": "2026-09-15",
+    "end": "2027-03-14"
   },
   "filters": {
     "public_audiences": [
@@ -23,31 +23,9 @@
   "counts": {
     "ongoing": 12,
     "recurring": 13,
-    "dated": 179
+    "dated": 187
   },
   "ongoing": [
-    {
-      "id": 52888406473919,
-      "title": "Animal, Vegetable, nor Mineral: Works by Miljohn Ruperto",
-      "url": "https://events.stanford.edu/event/animal-vegetable-nor-mineral-works-by-miljohn-ruperto",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Freidenrich Family Gallery, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52888469565681/huge/5c9ff39ac8e8c4b5db77a877a28d8ef14a8236ae.jpg",
-      "free": false,
-      "first_date": "2026-03-26",
-      "last_date": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ]
-    },
     {
       "id": 53020733796497,
       "title": "Moments in the History of East Asian Printing",
@@ -68,7 +46,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-14",
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
@@ -96,7 +73,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-14",
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
@@ -217,7 +193,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-14",
         "2026-09-18",
         "2026-09-19",
         "2026-09-20",
@@ -337,7 +312,8 @@
         "2027-03-07",
         "2027-03-08",
         "2027-03-11",
-        "2027-03-12"
+        "2027-03-12",
+        "2027-03-13"
       ]
     },
     {
@@ -357,7 +333,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-14",
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
@@ -449,7 +424,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-14",
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
@@ -646,6 +620,98 @@
         "2027-03-03",
         "2027-03-04",
         "2027-03-05"
+      ]
+    },
+    {
+      "id": 53490384005179,
+      "title": "Electric Contrasts: the Art of the Detail",
+      "url": "https://events.stanford.edu/event/electric-contrasts-the-art-of-the-detail-7315",
+      "experience": "inperson",
+      "location": "McMurtry Building, Bowes Art & Architecture Library, 2nd floor. Visitors: Please call 650-723-3408 for building/elevator access., 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53490388698325/huge/a1137d799bd6f58204309a8268c19e00bafe6123.jpg",
+      "free": false,
+      "first_date": "2026-09-21",
+      "last_date": "2026-12-18",
+      "dates": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-08",
+        "2026-12-09",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
       ]
     },
     {
@@ -1861,6 +1927,11 @@
           "date": "2027-03-12",
           "start": "2027-03-12T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-13",
+          "start": "2027-03-13T11:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1908,13 +1979,14 @@
         "2027-02-27",
         "2027-03-05",
         "2027-03-06",
-        "2027-03-12"
+        "2027-03-12",
+        "2027-03-13"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-09-18",
-      "last_date": "2027-03-12",
-      "count": 45
+      "last_date": "2027-03-13",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -2161,6 +2233,11 @@
           "date": "2027-03-07",
           "start": "2027-03-07T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-13",
+          "start": "2027-03-13T13:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2209,13 +2286,14 @@
         "2027-02-27",
         "2027-02-28",
         "2027-03-06",
-        "2027-03-07"
+        "2027-03-07",
+        "2027-03-13"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-09-19",
-      "last_date": "2027-03-07",
-      "count": 46
+      "last_date": "2027-03-13",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2462,6 +2540,11 @@
           "date": "2027-03-07",
           "start": "2027-03-07T15:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-13",
+          "start": "2027-03-13T15:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2510,13 +2593,14 @@
         "2027-02-27",
         "2027-02-28",
         "2027-03-06",
-        "2027-03-07"
+        "2027-03-07",
+        "2027-03-13"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-09-19",
-      "last_date": "2027-03-07",
-      "count": 46
+      "last_date": "2027-03-13",
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -2831,37 +2915,6 @@
   ],
   "events": [
     {
-      "id": 50852323821947,
-      "title": "MRI: Clinical Updates and Practical Physics",
-      "url": "https://events.stanford.edu/event/mri-clinical-updates-and-practical-physics-9762",
-      "experience": "inperson",
-      "location": "The Frances C. Arrillaga Alumni Center, Stanford, CA, 326 Galvez St, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/50852329121613/huge/adec9a9bb5175416267e59695fb33a64040bed23.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-14",
-          "start": "2026-09-14T07:20:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-15",
-          "start": "2026-09-15T07:20:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-14",
-        "2026-09-15"
-      ]
-    },
-    {
       "id": 53868991970104,
       "title": "Game Nights @ Green: Orientation Week Preview",
       "url": "https://events.stanford.edu/event/game-nights-green-orientation-week-preview",
@@ -2877,6 +2930,31 @@
         {
           "date": "2026-09-15",
           "start": "2026-09-15T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    {
+      "id": 50852323821947,
+      "title": "MRI: Clinical Updates and Practical Physics",
+      "url": "https://events.stanford.edu/event/mri-clinical-updates-and-practical-physics-9762",
+      "experience": "inperson",
+      "location": "The Frances C. Arrillaga Alumni Center, Stanford, CA, 326 Galvez St, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50852329121613/huge/adec9a9bb5175416267e59695fb33a64040bed23.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-15",
+          "start": "2026-09-15T07:20:00-07:00",
           "all_day": false
         }
       ],
@@ -3088,6 +3166,49 @@
       ],
       "dates": [
         "2026-09-18"
+      ]
+    },
+    {
+      "id": 53980202596562,
+      "title": "Stanford Neurodiversity Summit",
+      "url": "https://events.stanford.edu/event/stanford-neurodiversity-summit",
+      "experience": "hybrid",
+      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Health/Wellness",
+        "Career Development",
+        "Education",
+        "Medicine",
+        "Science",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-19",
+          "start": "2026-09-19T08:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T08:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-21",
+          "start": "2026-09-21T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21"
       ]
     },
     {
@@ -3416,6 +3537,33 @@
         {
           "date": "2026-09-25",
           "start": "2026-09-25T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    {
+      "id": 53977091913062,
+      "title": "Five Years after the Youth Protests: The Thai Monarchy Strikes Back",
+      "url": "https://events.stanford.edu/event/five-years-after-the-youth-protests-the-thai-monarchy-strikes-back",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53977095882171/huge/5912d6894899d43406f5b1093753d7ff97102338.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-25",
+          "start": "2026-09-25T16:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3772,7 +3920,7 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53871380706323/huge/d26d50b28cd616f0734374db414e254c97964e5f.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53977606535251/huge/200865fcc3872bffc8368347d0ab91386cb45484.jpg",
       "free": false,
       "instances": [
         {
@@ -4709,6 +4857,29 @@
       ]
     },
     {
+      "id": 53975636548068,
+      "title": "Emma Shaw Crane, \"The Periphery Within: War, Labor, and the Camp in the Florida Suburbs\"",
+      "url": "https://events.stanford.edu/event/emma-shaw-crane-the-periphery-within-war-labor-and-the-camp-in-the-florida-suburbs",
+      "experience": "inperson",
+      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53975639412470/huge/8ea53175fe9e2ec67c6f8b3da3297727f01516a7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 53879764192027,
       "title": "Special, Unique, and Rare: MONSTERS",
       "url": "https://events.stanford.edu/event/special-unique-and-rare-monsters",
@@ -4854,6 +5025,32 @@
       ],
       "dates": [
         "2026-10-15"
+      ]
+    },
+    {
+      "id": 53977055387868,
+      "title": "After Liberalism? The Future of Hedging and the Chimerica Choice for Southeast Asia",
+      "url": "https://events.stanford.edu/event/after-liberalism-the-future-of-hedging-and-the-chimerica-choice-for-southeast-asia",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 3rd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53977060112091/huge/e8f5d2d84ea6b55ed07db41928aad2541366a1e0.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
       ]
     },
     {
@@ -5022,7 +5219,7 @@
     },
     {
       "id": 53851911370204,
-      "title": "Darshan and the savarna sensorium",
+      "title": "Darshan and the Savarna Sensorium",
       "url": "https://events.stanford.edu/event/darshan-and-the-savarna-sensorium",
       "experience": "inperson",
       "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
@@ -5876,6 +6073,33 @@
       ]
     },
     {
+      "id": 53800398914002,
+      "title": "The Illicit Finance Hydra: Crypto, Sanctions Evasion, and the New Financial Battlefield",
+      "url": "https://events.stanford.edu/event/the-illicit-finance-hydra-crypto-sanctions-evasion-and-the-new-financial-battlefield",
+      "experience": "inperson",
+      "location": "Hohbach Hall, Presentation Palace, 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53977693622909/huge/beaf62ef60b18878336cadff57314fdc3be9b52b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 53763677186043,
       "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
       "url": "https://events.stanford.edu/event/Angels-Auditions",
@@ -6183,6 +6407,31 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 53977038028894,
+      "title": "The Fate of the Social in Modern Life: American Social Scientists and Japan as Archive",
+      "url": "https://events.stanford.edu/event/the-fate-of-the-social-in-modern-life-american-social-scientists-and-japan-as-archive",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53977155516223/huge/2f1c1c04a0b556a2531c56d12a2a5d2fd12a8bcd.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T16:30:00-08:00",
           "all_day": false
         }
       ],
@@ -6633,6 +6882,34 @@
       ]
     },
     {
+      "id": 53976866892371,
+      "title": "The Disappearance of Enforced Disappearances in Kashmir: Militarization, Mourning, and the Production of Normalcy",
+      "url": "https://events.stanford.edu/event/the-disappearance-of-enforced-disappearances-in-kashmir-militarization-mourning-and-the-production-of-normalcy-9170",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Religion/Spirituality",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53976869460583/huge/1243b6dee39019acc31856115ae2bb1a4ec749aa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
       "id": 53630642906694,
       "title": "Anatomical Gift Program Donor Memorial Service",
       "url": "https://events.stanford.edu/event/anatomical-gift-program-donor-memorial-service",
@@ -6854,6 +7131,31 @@
         {
           "date": "2026-12-03",
           "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
+      "id": 53976376154062,
+      "title": "When a “Salami Slice” Becomes a Maritime Blockade: China’s Maritime Disruptions in the Indo-Pacific and Consequences for Human Populations",
+      "url": "https://events.stanford.edu/event/when-a-salami-slice-becomes-a-maritime-blockade-chinas-maritime-disruptions-in-the-indo-pacific-and-consequences-for-human-populations",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53976399924954/huge/07ca28dd8ed87becb6c33100094613256519bcd6.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T15:30:00-08:00",
           "all_day": false
         }
       ],
