@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T17:31:24+00:00",
+  "generated_at": "2026-09-16T05:41:53+00:00",
   "window": {
-    "start": "2026-09-15",
-    "end": "2027-03-14"
+    "start": "2026-09-16",
+    "end": "2027-03-15"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 12,
-    "recurring": 13,
-    "dated": 187
+    "recurring": 12,
+    "dated": 185
   },
   "ongoing": [
     {
@@ -46,7 +46,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-15",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18",
@@ -73,7 +72,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-15",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18",
@@ -313,7 +311,8 @@
         "2027-03-08",
         "2027-03-11",
         "2027-03-12",
-        "2027-03-13"
+        "2027-03-13",
+        "2027-03-14"
       ]
     },
     {
@@ -333,7 +332,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-15",
         "2026-09-16",
         "2026-09-17",
         "2026-09-18",
@@ -1585,36 +1583,6 @@
       "count": 42
     },
     {
-      "id": 44437607039811,
-      "title": "Lou Henry Hoover Carillon Performance",
-      "url": "https://events.stanford.edu/event/lou_henry_hoover_carillon_performance_5127",
-      "experience": "inperson",
-      "location": "Hoover Tower, 550 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/43448370830761/huge/b839a7d25555105f9bffe3593c403bb959fd2b4f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-15",
-          "start": "2026-09-15T17:45:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-15"
-      ],
-      "pattern": "Tuesdays",
-      "time": "5:45 PM",
-      "next_date": "2026-09-15",
-      "last_date": "2026-09-15",
-      "count": 1
-    },
-    {
       "id": 53969632558021,
       "title": "Lunchtime Recitals & Communi-Tea",
       "url": "https://events.stanford.edu/event/lunchtime-recitals-communi-tea-2247",
@@ -2238,6 +2206,11 @@
           "date": "2027-03-13",
           "start": "2027-03-13T13:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-14",
+          "start": "2027-03-14T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2287,13 +2260,14 @@
         "2027-02-28",
         "2027-03-06",
         "2027-03-07",
-        "2027-03-13"
+        "2027-03-13",
+        "2027-03-14"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-09-19",
-      "last_date": "2027-03-13",
-      "count": 47
+      "last_date": "2027-03-14",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2545,6 +2519,11 @@
           "date": "2027-03-13",
           "start": "2027-03-13T15:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-14",
+          "start": "2027-03-14T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2594,13 +2573,14 @@
         "2027-02-28",
         "2027-03-06",
         "2027-03-07",
-        "2027-03-13"
+        "2027-03-13",
+        "2027-03-14"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-09-19",
-      "last_date": "2027-03-13",
-      "count": 47
+      "last_date": "2027-03-14",
+      "count": 48
     },
     {
       "id": 40909411691045,
@@ -2914,105 +2894,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53868991970104,
-      "title": "Game Nights @ Green: Orientation Week Preview",
-      "url": "https://events.stanford.edu/event/game-nights-green-orientation-week-preview",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, 166, 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/39078028170292/huge/4a76916771a71980996b171e1129d6c1e87ec941.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-15",
-          "start": "2026-09-15T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-15"
-      ]
-    },
-    {
-      "id": 50852323821947,
-      "title": "MRI: Clinical Updates and Practical Physics",
-      "url": "https://events.stanford.edu/event/mri-clinical-updates-and-practical-physics-9762",
-      "experience": "inperson",
-      "location": "The Frances C. Arrillaga Alumni Center, Stanford, CA, 326 Galvez St, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/50852329121613/huge/adec9a9bb5175416267e59695fb33a64040bed23.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-15",
-          "start": "2026-09-15T07:20:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-15"
-      ]
-    },
-    {
-      "id": 53923611891331,
-      "title": "Pediatric Grand Rounds (CME): Declining Health of American Children: Addressing the Developmental Ecosystem",
-      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-the-current-state-of-childrens-health-and-health-equity-in-the-united-states-3440",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Medicine",
-        "Science",
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53923611839105/huge/0aeb43c7d47e25fc7a7faabd849567b4a4a0ae76.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-15",
-          "start": "2026-09-15T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-15"
-      ]
-    },
-    {
-      "id": 53933108327942,
-      "title": "PhD Dissertation Defense: Eliel Akinbami",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-eliel-akinbami",
-      "experience": "hybrid",
-      "location": "Stanford ChEM-H Building, E153, 290 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53933111411879/huge/364a6c0652f4fd9e1a5a52addcf8fdc9121ad239.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-15",
-          "start": "2026-09-15T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-15"
-      ]
-    },
     {
       "id": 53800171902023,
       "title": "Constitution Day Lecture: Technology and Constitutional Rot",
@@ -3698,35 +3579,6 @@
       ],
       "dates": [
         "2026-09-27"
-      ]
-    },
-    {
-      "id": 53886889414499,
-      "title": "2026 Bright Award for Environmental Sustainability in honor of Precious Mabilo",
-      "url": "https://events.stanford.edu/event/2026-bright-award",
-      "experience": "inperson",
-      "location": "Munger Complex, Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Diversity/Identity",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53886930566082/huge/8bac33297cae44d45a91d718ca635679d9e401cd.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-28",
-          "start": "2026-09-28T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-28"
       ]
     },
     {
@@ -5896,6 +5748,31 @@
       ]
     },
     {
+      "id": 53985907944513,
+      "title": "Being Muslim on Campus",
+      "url": "https://events.stanford.edu/event/being-muslim-on-campus",
+      "experience": "inperson",
+      "location": "Raikes Building, Stanford Graduate School of Education (GSE), Longview Meeting Room",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53985942791464/huge/9baa3c83f73ec8f49b5078cabe4920a480d5bbc4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    {
       "id": 53975524031896,
       "title": "Biology Seminar Series - Orion Weiner \"From Swarms to Flocks: Discovering and Rewriting the Rules of Collective Cell Migration\"",
       "url": "https://events.stanford.edu/event/biology-seminar-series-orion-weiner-from-swarms-to-flocks-discovering-and-rewriting-the-rules-of-collective-cell-migration",
@@ -6097,6 +5974,29 @@
       ],
       "dates": [
         "2026-10-27"
+      ]
+    },
+    {
+      "id": 53985621685446,
+      "title": "Liu Lecture: Llisa Demetrios",
+      "url": "https://events.stanford.edu/event/liu-lecture-llisa-demetrios",
+      "experience": "inperson",
+      "location": "Building 550, Peterson Laboratory, Atrium, 416 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53985647586703/huge/721d3b7c487dc9a19ba07fbd2a65b9d588a59810.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
       ]
     },
     {
@@ -6462,6 +6362,31 @@
       ],
       "dates": [
         "2026-11-08"
+      ]
+    },
+    {
+      "id": 53984485260371,
+      "title": "Biology Seminar Series - Stefan Feske, MD \"Ion channels and transporters regulating lymphocyte function \"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-stefan-feske-md-ion-channels-and-transporters-regulating-lymphocyte-function",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53984486925343/huge/e8a03274b27c60bc636f9e0d8a80740a26d06784.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
       ]
     },
     {
@@ -7263,11 +7188,17 @@
           "date": "2026-12-13",
           "start": "2026-12-13T11:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-14",
+          "start": "2027-03-14T11:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
         "2026-12-06",
-        "2026-12-13"
+        "2026-12-13",
+        "2027-03-14"
       ]
     },
     {
