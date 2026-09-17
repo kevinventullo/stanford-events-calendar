@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16T17:30:30+00:00",
+  "generated_at": "2026-09-17T05:49:26+00:00",
   "window": {
-    "start": "2026-09-16",
-    "end": "2027-03-15"
+    "start": "2026-09-17",
+    "end": "2027-03-16"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 13,
     "recurring": 12,
-    "dated": 185
+    "dated": 198
   },
   "ongoing": [
     {
@@ -46,7 +46,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-16",
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
@@ -72,7 +71,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-16",
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
@@ -312,7 +310,8 @@
         "2027-03-11",
         "2027-03-12",
         "2027-03-13",
-        "2027-03-14"
+        "2027-03-14",
+        "2027-03-15"
       ]
     },
     {
@@ -332,7 +331,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-16",
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
@@ -551,7 +549,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-16",
         "2026-09-17",
         "2026-09-18",
         "2026-09-23",
@@ -618,6 +615,53 @@
         "2027-03-03",
         "2027-03-04",
         "2027-03-05"
+      ]
+    },
+    {
+      "id": 53993437264584,
+      "title": "Branner Library Book & Map Exhibit - Water in the West",
+      "url": "https://events.stanford.edu/event/branner-library-book-map-exhibit-water",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53993508503863/huge/3e08e99def3fbd1aff649846c087c260c42e9ce0.jpg",
+      "free": false,
+      "first_date": "2026-09-18",
+      "last_date": "2026-12-18",
+      "dates": [
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-04",
+        "2026-12-07",
+        "2026-12-11",
+        "2026-12-14",
+        "2026-12-18"
       ]
     },
     {
@@ -2806,11 +2850,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-16",
-          "start": "2026-09-16T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-23",
           "start": "2026-09-23T09:00:00-07:00",
           "all_day": false
@@ -2872,7 +2911,6 @@
         }
       ],
       "dates": [
-        "2026-09-16",
         "2026-09-23",
         "2026-09-30",
         "2026-10-07",
@@ -2888,9 +2926,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-09-16",
+      "next_date": "2026-09-23",
       "last_date": "2026-12-16",
-      "count": 13
+      "count": 12
     }
   ],
   "events": [
@@ -3866,6 +3904,33 @@
       ]
     },
     {
+      "id": 53993529715091,
+      "title": "Invited Presentation, Building with Mushrooms at the Extremes: Design of Mycelium Biocomposite Construction Materials for Arctic Environments with Dr. Philippe Amstislavski",
+      "url": "https://events.stanford.edu/event/invited-presentation-building-with-mushrooms-at-the-extremes-design-of-mycelium-biocomposite-construction-materials-for-arctic-environments",
+      "experience": "inperson",
+      "location": "Hasso Plattner Institute of Design (d.school), Atrium, 416 Escondido Mall #550, Stanford, CA, 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53993677797814/huge/e2a0b36573285c8919329ddf525c5a7ae0da4cb8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    {
       "id": 53922486596596,
       "title": "LATE FAME: Screening and conversation with director Kent Jones and Professor Alexander Nemerov",
       "url": "https://events.stanford.edu/event/late-fame-screening-and-conversation-with-director-kent-jones-and-professor-alexander-nemerov",
@@ -4053,6 +4118,52 @@
       "dates": [
         "2026-10-02",
         "2026-10-03"
+      ]
+    },
+    {
+      "id": 50731549488587,
+      "title": "First Fridays at IDA (Social)",
+      "url": "https://events.stanford.edu/event/first-fridays-at-ida-social",
+      "experience": "inperson",
+      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Theater/Dance",
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50731589838305/huge/66f5a6605e0c3218e8608fd25e12fa02c44d4a76.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T17:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T17:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T17:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-05",
+          "start": "2027-02-05T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02",
+        "2026-11-06",
+        "2026-12-04",
+        "2027-02-05"
       ]
     },
     {
@@ -4259,6 +4370,29 @@
       ],
       "dates": [
         "2026-10-06"
+      ]
+    },
+    {
+      "id": 53994679393617,
+      "title": "Building 360 Open House",
+      "url": "https://events.stanford.edu/event/building-360-open-house-9896",
+      "experience": "inperson",
+      "location": "Building 360, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53994695139110/huge/acbbe2e56624af0e4ee20982001ea2dfbc79427e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T11:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
       ]
     },
     {
@@ -4762,6 +4896,32 @@
       ]
     },
     {
+      "id": 53992893085823,
+      "title": "Two Routes to Scale: Innovation Clusters in Tokyo-Yokohama and the Greater Bay Area",
+      "url": "https://events.stanford.edu/event/two-routes-to-scale-innovation-clusters-in-tokyo-yokohama-and-the-greater-bay-area-5632",
+      "experience": "inperson",
+      "location": "Encina Hall, 3rd Floor, Okimoto Conference Room (E307), 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53993103591638/huge/95821455c6d1b8345b3bb45e63d7faba929f6762.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 53727281212449,
       "title": "Center for African Studies Welcome Reception",
       "url": "https://events.stanford.edu/event/cas-welcome-reception",
@@ -4989,6 +5149,31 @@
         {
           "date": "2026-10-17",
           "start": "2026-10-17T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-17"
+      ]
+    },
+    {
+      "id": 53994364480741,
+      "title": "Chinaka Hodge's All Greg's Kids Come Home, a staged reading",
+      "url": "https://events.stanford.edu/event/chinaka-hodges-all-gregs-kids-come-home-a-staged-reading",
+      "experience": "inperson",
+      "location": "Bing Studio, 327 Lasuen Street, Stanford CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53994368659011/huge/7e7fd57497673df4804a490279c68281a287532d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T19:00:00-07:00",
           "all_day": false
         }
       ],
@@ -5759,7 +5944,7 @@
       "subjects": [
         "Education"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53985942791464/huge/9baa3c83f73ec8f49b5078cabe4920a480d5bbc4.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53993178124786/huge/7f4ba3b2722d58a79bb902e280c709515830bc3c.jpg",
       "free": false,
       "instances": [
         {
@@ -6000,6 +6185,31 @@
       ]
     },
     {
+      "id": 53995708802403,
+      "title": "The Future of Decision-Making Conference",
+      "url": "https://events.stanford.edu/event/the-future-of-decision-making-conference",
+      "experience": "hybrid",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53995708748130/huge/b7d3c7178a42ec806ac4a9b71699170b3cd3f8de.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
       "id": 53763677186043,
       "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
       "url": "https://events.stanford.edu/event/Angels-Auditions",
@@ -6226,6 +6436,30 @@
         {
           "date": "2026-11-04",
           "start": "2026-11-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
+      "id": 53994605586593,
+      "title": "Stegner Fellow Reading with Daniel Lurie and Katerina Ivanov Prado",
+      "url": "https://events.stanford.edu/event/stegner-fellow-reading-with-daniel-lurie-and-katerina-ivanov-prado",
+      "experience": "inperson",
+      "location": "Stanford ChEM-H Building, John A. and Cynthia Fry Gunn Rotunda, E241, 290 Jane Stanford Way, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53994921854778/huge/5386d347debcae676c2d6135a0659544f6e80078.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T18:30:00-08:00",
           "all_day": false
         }
       ],
@@ -6628,6 +6862,31 @@
       ]
     },
     {
+      "id": 53993186509703,
+      "title": "Biology Seminar Series - Cecilia Leal \"Non-Lamellar Lipid Membranes as Regulators of Biological Function \"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-cecilia-leal-non-lamellar-lipid-membranes-as-regulators-of-biological-function",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53993188204035/huge/2257ab8b1b92d0f5e49dba91c1d1a18651e02f7f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 53755956103976,
       "title": "Curator Led Talk | surfacing",
       "url": "https://events.stanford.edu/event/curator-led-talk-surfacing-nov",
@@ -6954,6 +7213,31 @@
       ],
       "dates": [
         "2026-11-28"
+      ]
+    },
+    {
+      "id": 53994065163024,
+      "title": "Biology Seminar Series - Peter Walter, PhD \"Targeting the Cell’s Stress Pathways for Therapeutic Benefit\"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-peter-walter-phd-targeting-the-cells-stress-pathways-for-therapeutic-benefit",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53994067388414/huge/6742ef6021ef739876da7d4272e607c18d52ec71.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-30",
+          "start": "2026-11-30T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-30"
       ]
     },
     {
@@ -7459,6 +7743,30 @@
       ]
     },
     {
+      "id": 53994705838159,
+      "title": "Stegner Fellow Reading with Cheyenne Fletcher and Yi Jiang",
+      "url": "https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-daniel-lurie-and-katerina-ivanov-prado",
+      "experience": "inperson",
+      "location": "Building 460, Margaret Jacks Hall, Terrace Room (Room 426), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53994932075798/huge/ba1c8c3e14da13a8bff23f199cc621ee3da71a1f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-27",
+          "start": "2027-01-27T18:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-27"
+      ]
+    },
+    {
       "id": 53862757495029,
       "title": "Anning Jing: \"Borobudur and a Tantric Buddhist Maṇḍala Associated with Vajrabodhi (671–741)\"",
       "url": "https://events.stanford.edu/event/anning-jing-borobudur-and-a-tantric-buddhist-maala-associated-with-vajrabodhi-671-741",
@@ -7590,6 +7898,30 @@
       ],
       "dates": [
         "2027-02-09"
+      ]
+    },
+    {
+      "id": 53995045819269,
+      "title": "Stegner Fellow Reading with Priscilla Wathington and Jonathon Atkinson",
+      "url": "https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-cheyenne-fletcher-and-yi-jiang",
+      "experience": "inperson",
+      "location": "Building 460, Margaret Jacks Hall, Terrace Room (Room 426), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53995119199061/huge/6fef36532f956522f61961b7ec9671e6d32c2e00.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-10",
+          "start": "2027-02-10T18:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-10"
       ]
     },
     {
@@ -7751,6 +8083,46 @@
       ]
     },
     {
+      "id": 50731771512445,
+      "title": "The 2027 William & Louise Greaves Filmmaker Seminar",
+      "url": "https://events.stanford.edu/event/2025-greaves-filmmaker-seminar",
+      "experience": "inperson",
+      "location": "Harmony House, Various Locations at Stanford University, 561 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium",
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53994424774515/huge/04afeaca45f0dde99adc73d5e56ae976f81ef5ad.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-03-05",
+          "start": "2027-03-05T10:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-06",
+          "start": "2027-03-06T10:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-07",
+          "start": "2027-03-07T10:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-05",
+        "2027-03-06",
+        "2027-03-07"
+      ]
+    },
+    {
       "id": 53879874311461,
       "title": "Special, Unique, and Rare: GAMES",
       "url": "https://events.stanford.edu/event/special-unique-and-rare-games",
@@ -7803,6 +8175,31 @@
       ],
       "dates": [
         "2027-03-11"
+      ]
+    },
+    {
+      "id": 53286290488139,
+      "title": "March Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/march-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286314193393/huge/4f573f0dfb8ae127b30d2c072707f2a7d3624490.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-03-15",
+          "start": "2027-03-15T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-15"
       ]
     }
   ]
