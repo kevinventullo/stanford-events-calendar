@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:49:26+00:00",
+  "generated_at": "2026-09-17T17:31:36+00:00",
   "window": {
     "start": "2026-09-17",
     "end": "2027-03-16"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 12,
-    "dated": 198
+    "dated": 223
   },
   "ongoing": [
     {
@@ -3357,6 +3357,31 @@
       ]
     },
     {
+      "id": 53998032217668,
+      "title": "The O'Donohue Family Stanford Educational Farm - Tour",
+      "url": "https://events.stanford.edu/event/the-odonohue-family-stanford-educational-farm-tour",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, 100, 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53998043979271/huge/f4afdb8d8d2fd7255e72a0c4080192f10682d802.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-23",
+          "start": "2026-09-23T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    {
       "id": 53862496557289,
       "title": "Jane Casey: “Establishing Chronology in Tibetan Art: A Study of Taklung Paintings”",
       "url": "https://events.stanford.edu/event/jane-casey-establishing-chronology-in-tibetan-art-a-study-of-taklung-paintings",
@@ -3841,6 +3866,33 @@
         {
           "date": "2026-09-30",
           "start": "2026-09-30T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
+      "id": 54001077795296,
+      "title": "Noon Concert: Voice Students of Nova Jiménez",
+      "url": "https://events.stanford.edu/event/noon-jimenez-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001077744094/huge/584c8f60b9471ae8ba860ef870e4f8309d6aa8e6.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T12:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4438,6 +4490,33 @@
         {
           "date": "2026-10-07",
           "start": "2026-10-07T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    {
+      "id": 54001322692353,
+      "title": "Noon Concert: Guitar Students of Charles Ferguson",
+      "url": "https://events.stanford.edu/event/noon-ferguson-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001333362554/huge/46f0ab1ce55c766201e8adb6e0a37099f42c4556.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T12:30:00-07:00",
           "all_day": false
         }
       ],
@@ -5594,6 +5673,33 @@
       ]
     },
     {
+      "id": 54001283834458,
+      "title": "Noon Concert: Violin Students of Robin Sharp",
+      "url": "https://events.stanford.edu/event/noon-sharp-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511188301759/huge/46a5d7d58f1f7376b88a082d38d19cb4b4cff48c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
       "id": 53427273212211,
       "title": "Political Entry in Sierra Leone - Katherine Casey",
       "url": "https://events.stanford.edu/event/candidate-entry-into-local-government",
@@ -6185,6 +6291,33 @@
       ]
     },
     {
+      "id": 54001183269070,
+      "title": "Noon Concert: Cello Students of Christopher Costanza",
+      "url": "https://events.stanford.edu/event/noon-costanza-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001183235277/huge/067694c7fca6615398f1d5b011237a807b1e218d.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
       "id": 53995708802403,
       "title": "The Future of Decision-Making Conference",
       "url": "https://events.stanford.edu/event/the-future-of-decision-making-conference",
@@ -6366,6 +6499,33 @@
       ]
     },
     {
+      "id": 54001258187764,
+      "title": "Noon Concert: Cello Students of Stephen Harrison",
+      "url": "https://events.stanford.edu/event/noon-harrison-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001258162163/huge/be6fb1e00628f21629e7fc3dcdcbd1ab52b3f7b9.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    {
       "id": 53552399038673,
       "title": "Stanford Energy Seminar | The US Energy Transition: What is the Same; What Has Changed; and What Could Be | Philip Deutch, NGP Energy Technology Partners",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11022026",
@@ -6436,6 +6596,33 @@
         {
           "date": "2026-11-04",
           "start": "2026-11-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
+      "id": 54001150943800,
+      "title": "Noon Concert: Piano Students of Laura Dahl",
+      "url": "https://events.stanford.edu/event/noon-dahl-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001150906935/huge/4ad3e129fea88bf9fee758a43db953aa83eae669.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T12:30:00-08:00",
           "all_day": false
         }
       ],
@@ -6571,6 +6758,33 @@
       ],
       "dates": [
         "2026-11-05"
+      ]
+    },
+    {
+      "id": 54001166590136,
+      "title": "Noon Concert: Piano Students of Melinda Lee Masur",
+      "url": "https://events.stanford.edu/event/noon-masur-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001166570679/huge/46beaad9ab2fa80f904e5b96d9150820bff3b2fa.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06"
       ]
     },
     {
@@ -7040,6 +7254,33 @@
       ]
     },
     {
+      "id": 54001223928413,
+      "title": "Noon Concert: Flute Students of Melody Holmes",
+      "url": "https://events.stanford.edu/event/noon-holmes-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001223805532/huge/5ad8aae5dfea13d1a9cd2de8082f9076a67f863d.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
       "id": 53806899252102,
       "title": "Reading with Martín Espada, part of the Lane Lecture Series",
       "url": "https://events.stanford.edu/event/reading-with-martin-espada-part-of-the-lane-lecture-series",
@@ -7193,6 +7434,33 @@
       ]
     },
     {
+      "id": 54001244715309,
+      "title": "Noon Concert: Piano Students of Sandra Shen",
+      "url": "https://events.stanford.edu/event/noon-shen-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001244685612/huge/3a62fe4e9b28f25edccbc1142678f72a11af0fd5.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    {
       "id": 53632423836256,
       "title": "Stanford Football vs SMU | Senior Day + Fan Appreciation",
       "url": "https://events.stanford.edu/event/stanford-football-vs-smu-senior-day-fan-appreciation",
@@ -7296,6 +7564,33 @@
       ]
     },
     {
+      "id": 54001209854743,
+      "title": "Noon Concert: Piano Students of Kumaran Arul",
+      "url": "https://events.stanford.edu/event/noon-arul-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001209747222/huge/385a58af7012252115bc4bbf229438b5205c302d.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
       "id": 53727115436518,
       "title": "The Future of Health in Africa: How U.S. Presidential Decisions Are Shaping a Generation of African Children - Dr. Ruth Gibson",
       "url": "https://events.stanford.edu/event/the-future-of-health-in-africa-how-us-presidential-decisions-are-shaping-a-generation-of-african-children-dr-ruth-gibson",
@@ -7390,6 +7685,33 @@
         {
           "date": "2026-12-04",
           "start": "2026-12-04T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04"
+      ]
+    },
+    {
+      "id": 54001135875839,
+      "title": "Noon Concert: Piano Students of Elizabeth Schumann",
+      "url": "https://events.stanford.edu/event/noon-schumann-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001135841022/huge/88367094035042216767489457bd1573ebeba3b1.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T12:30:00-08:00",
           "all_day": false
         }
       ],
@@ -7667,6 +7989,33 @@
       ]
     },
     {
+      "id": 54001335768555,
+      "title": "Noon Concert: Guitar Students of Charles Ferguson",
+      "url": "https://events.stanford.edu/event/noon-ferguson-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001335751145/huge/03a0276e8a4faa287304eb9592de02f4c242dd49.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-01-13",
+          "start": "2027-01-13T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-13"
+      ]
+    },
+    {
       "id": 53862726308385,
       "title": "Eugene Wang: \"Biocosmic Art; or How to Capture a Painter’s Brain?\"",
       "url": "https://events.stanford.edu/event/eugene-wang-biocosmic-art-or-how-to-capture-a-painters-brain",
@@ -7743,6 +8092,33 @@
       ]
     },
     {
+      "id": 54001292432519,
+      "title": "Noon Concert: Violin Students of Robin Sharp",
+      "url": "https://events.stanford.edu/event/noon-sharp-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511188301759/huge/46a5d7d58f1f7376b88a082d38d19cb4b4cff48c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-01-27",
+          "start": "2027-01-27T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-27"
+      ]
+    },
+    {
       "id": 53994705838159,
       "title": "Stegner Fellow Reading with Cheyenne Fletcher and Yi Jiang",
       "url": "https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-daniel-lurie-and-katerina-ivanov-prado",
@@ -7793,6 +8169,33 @@
       ]
     },
     {
+      "id": 54001116853432,
+      "title": "Noon Concert: Voice Students of Nova Jiménez",
+      "url": "https://events.stanford.edu/event/noon-jimenez-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001116812470/huge/923919a7bf53fc33a9a7fefddfd64930992bd6f7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-01-29",
+          "start": "2027-01-29T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-29"
+      ]
+    },
+    {
       "id": 53969482836715,
       "title": "Industrialized Construction Forum 2027",
       "url": "https://events.stanford.edu/event/ICF-2027",
@@ -7813,6 +8216,33 @@
         {
           "date": "2027-02-03",
           "start": "2027-02-03T08:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-03"
+      ]
+    },
+    {
+      "id": 54001272248497,
+      "title": "Noon Concert: Violin Students of Debra Fong",
+      "url": "https://events.stanford.edu/event/noon-fong-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511188301759/huge/46a5d7d58f1f7376b88a082d38d19cb4b4cff48c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-03",
+          "start": "2027-02-03T12:30:00-08:00",
           "all_day": false
         }
       ],
@@ -7898,6 +8328,33 @@
       ],
       "dates": [
         "2027-02-09"
+      ]
+    },
+    {
+      "id": 54001234058070,
+      "title": "Noon Concert: Flute Students of Melody Holmes",
+      "url": "https://events.stanford.edu/event/noon-holmes-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001234036565/huge/524252d14f5be36c493bf3041703a4a9c16f0427.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-10",
+          "start": "2027-02-10T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-10"
       ]
     },
     {
@@ -8001,6 +8458,33 @@
       ]
     },
     {
+      "id": 54001191001722,
+      "title": "Noon Concert: Cello Students of Christopher Costanza",
+      "url": "https://events.stanford.edu/event/noon-costanza-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001190980217/huge/c3c13a7e9187ad21873febcd1d185586b590161a.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-17",
+          "start": "2027-02-17T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-17"
+      ]
+    },
+    {
       "id": 53853565265595,
       "title": "Reading with Robin Coste Lewis, the Mohr Visiting Poet",
       "url": "https://events.stanford.edu/event/reading-with-robin-coste-lewis-the-mohr-visiting-poet",
@@ -8052,6 +8536,33 @@
       ]
     },
     {
+      "id": 54001155842876,
+      "title": "Noon Concert: Piano Students of Laura Dahl",
+      "url": "https://events.stanford.edu/event/noon-dahl-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001155816251/huge/c55dd5478bf468e5dfe4b23078a574e9dab183dd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-19",
+          "start": "2027-02-19T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-19"
+      ]
+    },
+    {
       "id": 53619872696597,
       "title": "Pediatric Otolaryngology Updates",
       "url": "https://events.stanford.edu/event/pediatric-otolaryngology-updates",
@@ -8080,6 +8591,114 @@
       "dates": [
         "2027-02-19",
         "2027-02-20"
+      ]
+    },
+    {
+      "id": 54001262459238,
+      "title": "Noon Concert: Cello Students of Stephen Harrison",
+      "url": "https://events.stanford.edu/event/noon-harrison-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001262404965/huge/e82c1bbd83403243a8fb8c6df1075e73415a55ed.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-24",
+          "start": "2027-02-24T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-24"
+      ]
+    },
+    {
+      "id": 54001213084977,
+      "title": "Noon Concert: Piano Students of Kumaran Arul",
+      "url": "https://events.stanford.edu/event/noon-arul-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001213064496/huge/5f2d525a78797239c36f9f250160632064a663af.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-26",
+          "start": "2027-02-26T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-26"
+      ]
+    },
+    {
+      "id": 54001303505318,
+      "title": "Noon Concert: Viola Students of Lesley Robertson",
+      "url": "https://events.stanford.edu/event/noon-robertson-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001314730052/huge/96bdcde3105c70bba019f033c0077f37fee43700.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-03-03",
+          "start": "2027-03-03T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-03"
+      ]
+    },
+    {
+      "id": 54001170241168,
+      "title": "Noon Concert: Piano Students of Melinda Lee Masur",
+      "url": "https://events.stanford.edu/event/noon-masur-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001170217615/huge/1a37463097b7f756d2287fec04b026144e9d8fb5.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-03-05",
+          "start": "2027-03-05T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-05"
       ]
     },
     {
@@ -8153,6 +8772,33 @@
       ]
     },
     {
+      "id": 54001141512682,
+      "title": "Noon Concert: Piano Students of Elizabeth Schumann",
+      "url": "https://events.stanford.edu/event/noon-schumann-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001141482985/huge/86df1f9ce9aaf49d879edbbc4b44cd119e3ced6d.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-03-10",
+          "start": "2027-03-10T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-10"
+      ]
+    },
+    {
       "id": 53869955895639,
       "title": "Evening Curator Talk | California Current: Art and Histories from the Bay Area",
       "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area-282",
@@ -8175,6 +8821,33 @@
       ],
       "dates": [
         "2027-03-11"
+      ]
+    },
+    {
+      "id": 54001249603556,
+      "title": "Noon Concert: Piano Students of Sandra Shen",
+      "url": "https://events.stanford.edu/event/noon-shen-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001249510371/huge/2101a403b9f8f0a8c9635ac58f3475710face1c3.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-03-12",
+          "start": "2027-03-12T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-12"
       ]
     },
     {
