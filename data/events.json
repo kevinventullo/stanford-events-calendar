@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T17:31:36+00:00",
+  "generated_at": "2026-09-18T05:36:43+00:00",
   "window": {
-    "start": "2026-09-17",
-    "end": "2027-03-16"
+    "start": "2026-09-18",
+    "end": "2027-03-17"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 12,
-    "dated": 223
+    "dated": 252
   },
   "ongoing": [
     {
@@ -46,7 +46,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-17",
         "2026-09-18",
         "2026-09-19",
         "2026-09-20"
@@ -71,7 +70,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-17",
         "2026-09-18",
         "2026-09-19",
         "2026-09-20",
@@ -331,7 +329,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-17",
         "2026-09-18",
         "2026-09-19",
         "2026-09-20",
@@ -420,7 +417,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-17",
         "2026-09-18",
         "2026-09-19",
         "2026-09-20",
@@ -549,7 +545,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-17",
         "2026-09-18",
         "2026-09-23",
         "2026-09-24",
@@ -677,7 +672,7 @@
         "Arts/Media",
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53992720074621/huge/6930b9e9bd3531d8c32e691fba16314b10211cf6.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54002417518144/huge/15b9d62b00409f58a84bb41ef6b783485662e077.jpg",
       "free": false,
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
@@ -1216,11 +1211,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-17",
-          "start": "2026-09-17T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-24",
           "start": "2026-09-24T10:00:00-07:00",
           "all_day": false
@@ -1252,7 +1242,6 @@
         }
       ],
       "dates": [
-        "2026-09-17",
         "2026-09-24",
         "2026-10-01",
         "2026-10-08",
@@ -1262,9 +1251,9 @@
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-09-17",
+      "next_date": "2026-09-24",
       "last_date": "2026-10-29",
-      "count": 7
+      "count": 6
     },
     {
       "id": 50967994153103,
@@ -2933,56 +2922,6 @@
   ],
   "events": [
     {
-      "id": 53800171902023,
-      "title": "Constitution Day Lecture: Technology and Constitutional Rot",
-      "url": "https://events.stanford.edu/event/constitution-day-lecture-technology-and-constitutional-rot",
-      "experience": "inperson",
-      "location": "Law School, 290, 559 Nathon Abbott Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53800177287617/huge/888775d9cc06c4778b362a1a99ab98d01978751c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-17",
-          "start": "2026-09-17T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-17"
-      ]
-    },
-    {
-      "id": 53879766243832,
-      "title": "Tour Cubberley Education Library",
-      "url": "https://events.stanford.edu/event/tour-cubberley-education-library",
-      "experience": "inperson",
-      "location": "Education (Cubberley Bldg), 101, 485 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53879792952804/huge/b24e0ab98b9722f9f22f904ca8189943d9ebba56.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-17",
-          "start": "2026-09-17T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-17"
-      ]
-    },
-    {
       "id": 53879684015873,
       "title": "Asian American Activities Center Open House",
       "url": "https://events.stanford.edu/event/asian-american-activities-center-open-house",
@@ -3005,35 +2944,6 @@
       ],
       "dates": [
         "2026-09-18"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-18",
-          "start": "2026-09-18T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-18",
-        "2026-10-02"
       ]
     },
     {
@@ -3267,36 +3177,6 @@
       ]
     },
     {
-      "id": 53799365594199,
-      "title": "\"In the Realm of the Last Man: A Memoir\" — Book Launch & Discussion with Francis Fukuyama",
-      "url": "https://events.stanford.edu/event/in-the-realm-of-the-last-man-a-memoir-book-launch-discussion-with-francis-fukuyama",
-      "experience": "hybrid",
-      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Career Development",
-        "Humanities",
-        "Diversity/Identity",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53799414476819/huge/3a93603d0aa6ea1af89371e049247b4b73f3eae7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-23",
-          "start": "2026-09-23T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-23"
-      ]
-    },
-    {
       "id": 53845627612077,
       "title": "CIFE 2026 Summer Program",
       "url": "https://events.stanford.edu/event/cife-2026-summer-program",
@@ -3374,6 +3254,36 @@
         {
           "date": "2026-09-23",
           "start": "2026-09-23T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    {
+      "id": 53799365594199,
+      "title": "“In the Realm of the Last Man: A Memoir” – Book Launch & Discussion with Francis Fukuyama",
+      "url": "https://events.stanford.edu/event/in-the-realm-of-the-last-man-a-memoir-book-launch-discussion-with-francis-fukuyama",
+      "experience": "hybrid",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Career Development",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53799414476819/huge/3a93603d0aa6ea1af89371e049247b4b73f3eae7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-23",
+          "start": "2026-09-23T16:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3795,6 +3705,31 @@
       ]
     },
     {
+      "id": 54003782267247,
+      "title": "Adam Nash @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/adam-nash-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003839670926/huge/03c1f3d3187f7baa8132af9d15292d4ffd077034.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
       "id": 53612851682415,
       "title": "Chasing Freedom: Coming of Age at the End of Empire - Dr. Simukai Chigudu",
       "url": "https://events.stanford.edu/event/chasing-freedom-coming-og-age-at-the-end-of-empire-dr-simukai-chicgudu",
@@ -3926,6 +3861,56 @@
       ],
       "dates": [
         "2026-09-30"
+      ]
+    },
+    {
+      "id": 54003270966250,
+      "title": "SRWC Wellness Fair: Campus Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/srwc-wellness-fair-campus-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "Cardinal Hall, Dining Pavilion, 505 Broadway, Redwood City, CA, 505 Broadway, Redwood City, CA 94063",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003314453075/huge/87bbe339b7d5c61b7ecffb2c27b7cae104fb1528.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
+      "id": 54003404786768,
+      "title": "800 Welch Rd: Campus Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/800-welch-rd-campus-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "800 Welch Rd, 800 Welch Rd, Palo Alto, CA 94304",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003407536037/huge/0ea5635f02fbe06922c6ee4b6b7e8f4b1f0dccc7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
       ]
     },
     {
@@ -4140,6 +4125,35 @@
       ]
     },
     {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02",
+        "2026-10-09"
+      ]
+    },
+    {
       "id": 53932526909284,
       "title": "Empirical Methods in the Age of AI",
       "url": "https://events.stanford.edu/event/empirical-methods-in-the-age-of-ai",
@@ -4216,6 +4230,34 @@
         "2026-11-06",
         "2026-12-04",
         "2027-02-05"
+      ]
+    },
+    {
+      "id": 54002030507290,
+      "title": "First Fridays Collab Lab",
+      "url": "https://events.stanford.edu/event/collab-lab-oct2",
+      "experience": "inperson",
+      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance",
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54002114363038/huge/fb42b73e3e2419f4b9e725ce031847d10cff6ad3.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T11:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02"
       ]
     },
     {
@@ -4312,6 +4354,34 @@
           "date": "2026-10-05",
           "start": "2026-10-05T00:00:00-07:00",
           "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    {
+      "id": 54001970911713,
+      "title": "Ron Alexander Memorial Lectures in Musicology – Matthew D. Morrison, Stanford University",
+      "url": "https://events.stanford.edu/event/alexander-lecture-matthew-morrison",
+      "experience": "inperson",
+      "location": "Braun Music Center, Room 103, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001984666466/huge/fc2ddd93dc2f05b0475c4fd55a981ff2062cd11b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-05",
+          "start": "2026-10-05T16:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -4465,6 +4535,31 @@
         {
           "date": "2026-10-07",
           "start": "2026-10-07T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    {
+      "id": 54003893812402,
+      "title": "Eric Ries @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/eric-ries-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003914262267/huge/ad30e2eaa17ab6305b9c4e16fead681c3f942d07.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T16:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4923,7 +5018,7 @@
     },
     {
       "id": 53975636548068,
-      "title": "Emma Shaw Crane, \"The Periphery Within: War, Labor, and the Camp in the Florida Suburbs\"",
+      "title": "Emma Shaw Crane, \"The Periphery Within: War, Labor, and the Camp in the Florida Suburbs,\" in conversation with Abigail Kahn (CCSRE Graduate Dissertation Fellow)",
       "url": "https://events.stanford.edu/event/emma-shaw-crane-the-periphery-within-war-labor-and-the-camp-in-the-florida-suburbs",
       "experience": "inperson",
       "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
@@ -5091,6 +5186,56 @@
       ],
       "dates": [
         "2026-10-14"
+      ]
+    },
+    {
+      "id": 54003923027648,
+      "title": "Vineet Edupuganti @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/vineet-edupuganti-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003951144229/huge/552eede1c0a2a876d45da790b53bd27927ad916e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
+      "id": 54002277923354,
+      "title": "Career Conversation: Ross Stein, PhD '80",
+      "url": "https://events.stanford.edu/event/career-conversation-ross-stein-phd-80-5344",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Career Development"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54002279731334/huge/cd1ec702ef27223befc337af9c2863bc656527fe.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
       ]
     },
     {
@@ -5624,7 +5769,7 @@
     },
     {
       "id": 53887340620089,
-      "title": "Wendy Salkin, \"Speaking for Others\"",
+      "title": "Wendy Salkin, \"Speaking for Others,\" in conversation with Steven O. Roberts",
       "url": "https://events.stanford.edu/event/wendy-salkin-speaking-for-others",
       "experience": "inperson",
       "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
@@ -5665,6 +5810,31 @@
         {
           "date": "2026-10-21",
           "start": "2026-10-21T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
+      "id": 54003958063488,
+      "title": "Michael Bernstein @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/michael-bernstein-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003982172070/huge/c0ad5b8403febaece0588f976db2217a606dbd2f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T16:30:00-07:00",
           "all_day": false
         }
       ],
@@ -6089,6 +6259,34 @@
       ]
     },
     {
+      "id": 54001990173451,
+      "title": "Ron Alexander Memorial Lectures in Musicology – Joy H. Calico, UCLA",
+      "url": "https://events.stanford.edu/event/alexander-lectures-joy-calico",
+      "experience": "inperson",
+      "location": "Braun Music Center, Room 103, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54002009081556/huge/013c127b25a4ef4f6bd10044b7015ec16ebfc6fd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    {
       "id": 53552394769358,
       "title": "Stanford Energy Seminar | Richard Newell, C3 AI (former)",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-10262026",
@@ -6268,6 +6466,31 @@
       ]
     },
     {
+      "id": 54003988046060,
+      "title": "Carina Hong @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/carina-hong-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54004012554424/huge/af2f5028bf169b119855c1fc3acd215843e26be7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
       "id": 53985621685446,
       "title": "Liu Lecture: Llisa Demetrios",
       "url": "https://events.stanford.edu/event/liu-lecture-llisa-demetrios",
@@ -6374,6 +6597,33 @@
       ]
     },
     {
+      "id": 54001907477231,
+      "title": "From Yahweh to Jupiter: Orthodox Muscovy Deals with the Classical World",
+      "url": "https://events.stanford.edu/event/from-yahweh-to-jupiter-orthodox-muscovy-deals-with-the-classical-world",
+      "experience": "inperson",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001933532443/huge/d994eb5c0329b624db9bb11d77b5a3dd874a4947.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
       "id": 53941595325725,
       "title": "Korea’s Nuclear Odyssey Beyond Borders: From KEDO to the Age of AI",
       "url": "https://events.stanford.edu/event/koreas-nuclear-odyssey-beyond-borders-from-kedo-to-the-age-of-ai",
@@ -6474,6 +6724,33 @@
       ]
     },
     {
+      "id": 54003212411520,
+      "title": "2026 Halloween Concert",
+      "url": "https://events.stanford.edu/event/2026-halloween-concert",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003212361339/huge/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    {
       "id": 53543265910564,
       "title": "Electrophysiology in the West 2026",
       "url": "https://events.stanford.edu/event/electrophysiology-in-the-west-2026",
@@ -6550,6 +6827,31 @@
       ],
       "dates": [
         "2026-11-02"
+      ]
+    },
+    {
+      "id": 54004044824795,
+      "title": "Celine Halioua @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/celine-halioua-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54004099093765/huge/c62e244dfea66ba80b2b9fe04e1f437fcaf798be.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
       ]
     },
     {
@@ -6761,6 +7063,34 @@
       ]
     },
     {
+      "id": 54002115861484,
+      "title": "First Fridays Collab Lab",
+      "url": "https://events.stanford.edu/event/collab-lab-nov6",
+      "experience": "inperson",
+      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance",
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54002115803115/huge/829f4d4ffc4e4823a5bd7906d84cb10cf4bbdb46.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T11:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    {
       "id": 54001166590136,
       "title": "Noon Concert: Piano Students of Melinda Lee Masur",
       "url": "https://events.stanford.edu/event/noon-masur-fall26",
@@ -6785,6 +7115,33 @@
       ],
       "dates": [
         "2026-11-06"
+      ]
+    },
+    {
+      "id": 54003233902547,
+      "title": "Stanford Philharmonia",
+      "url": "https://events.stanford.edu/event/philharmonia-fall26",
+      "experience": "hybrid",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003233816528/huge/55cea8c68af4409775a52ccb9d8d0e6974f9070c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-07",
+          "start": "2026-11-07T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-07"
       ]
     },
     {
@@ -6917,7 +7274,7 @@
     },
     {
       "id": 53879694289980,
-      "title": "L. Maria Bo, \"Writing on Water: Cold War Literary Translations and the Chinese Diaspora\"",
+      "title": "L. Maria Bo, \"Writing on Water: Cold War Literary Translations and the Chinese Diaspora,\" in conversation with Vaughn Rasberry",
       "url": "https://events.stanford.edu/event/l-maria-bo-writing-on-water-cold-war-literary-translations-and-the-chinese-diaspora",
       "experience": "inperson",
       "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
@@ -6926,6 +7283,33 @@
       ],
       "subjects": [],
       "photo": "https://localist-images.azureedge.net/photos/53879699800212/huge/cc416dd61b34ef1b035774065e9fdd408540bf53.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": 54004138575427,
+      "title": "Protest and Politics in Turkey in the 70s",
+      "url": "https://events.stanford.edu/event/protest-and-politics-in-turkey-in-the-70s",
+      "experience": "hybrid",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54004141303312/huge/9f04aa7659774c9c33033ea417517bebc111a02c.jpg",
       "free": false,
       "instances": [
         {
@@ -6993,6 +7377,57 @@
       ],
       "dates": [
         "2026-11-11"
+      ]
+    },
+    {
+      "id": 54004107756594,
+      "title": "Lauren Kolodny @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/lauren-kolodny-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54004147212043/huge/626c5ad8ff3e225d208cd002f34d82bb49bd9a37.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": 54004348721357,
+      "title": "Artist Talk | Holographic Girl, a talk by Charles Ray",
+      "url": "https://events.stanford.edu/event/charles-ray",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Cantor Eastman Auditorium, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54004410265658/huge/1f4bbf265d694d15a3e4b6c821cad74b546b98e2.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
       ]
     },
     {
@@ -7073,6 +7508,168 @@
       ],
       "dates": [
         "2026-11-12"
+      ]
+    },
+    {
+      "id": 54003333227618,
+      "title": "Stanford Jazz Orchestra",
+      "url": "https://events.stanford.edu/event/jazz-orchestra-fall26",
+      "experience": "hybrid",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003351232669/huge/8edddec49f26fb631a8789a4579948401ce208bf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    {
+      "id": 54003291220950,
+      "title": "Stanford Symphony Orchestra",
+      "url": "https://events.stanford.edu/event/symphony-orchestra-fall26-1",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003291132881/huge/0d8ec1fbc468afb3eb703e1878fb62f7957c7b15.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    {
+      "id": 54003375972123,
+      "title": "Stanford Afro-Latin Jazz Ensemble",
+      "url": "https://events.stanford.edu/event/salje-fall26",
+      "experience": "hybrid",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003375927062/huge/40bd94702aa37f347f1cd65a65eb02f76d3876ca.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    {
+      "id": 54003414394147,
+      "title": "Stanford Chamber Chorale: Echoes",
+      "url": "https://events.stanford.edu/event/chamber-chorale-fall26",
+      "experience": "hybrid",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003414300960/huge/53975b3a4680d4c17ab59abf5a9f24d5f9c5be8c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T20:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    {
+      "id": 54003361308978,
+      "title": "Stanford Wind Symphony",
+      "url": "https://events.stanford.edu/event/wind-symphony-fall26",
+      "experience": "hybrid",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003361264945/huge/c4d56d36af741680654a1664c6a1041cba633a23.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    {
+      "id": 54003312429091,
+      "title": "Stanford Symphony Orchestra",
+      "url": "https://events.stanford.edu/event/symphony-orchestra-fall26-2",
+      "experience": "hybrid",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003312389150/huge/f2c21d9febf1e7e3393d3c9e194446c237fb771a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T14:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-15"
       ]
     },
     {
@@ -7229,6 +7826,31 @@
       ]
     },
     {
+      "id": 54004168043919,
+      "title": "Demi Guo @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
+      "url": "https://events.stanford.edu/event/demi-guo-entrepreneurial-thought-leaders-speaker-series-etl",
+      "experience": "inperson",
+      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54004188614988/huge/d836aa64c333c70de8c5bbb029be135d877aedd5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
       "id": 53861242574667,
       "title": "HAI Seminar The AI 100",
       "url": "https://events.stanford.edu/event/hai-seminar-with-mike-wooldridge-the-ai-100",
@@ -7327,6 +7949,33 @@
         {
           "date": "2026-11-18",
           "start": "2026-11-18T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
+      "id": 54003430264096,
+      "title": "University Singers",
+      "url": "https://events.stanford.edu/event/university-singers-fall26",
+      "experience": "hybrid",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003430234397/huge/a98ee88c6fcf2980b356451afb3240f5655ad432.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T19:30:00-08:00",
           "all_day": false
         }
       ],
@@ -7458,6 +8107,60 @@
       ],
       "dates": [
         "2026-11-20"
+      ]
+    },
+    {
+      "id": 54003450133619,
+      "title": "Stanford Symphonic Chorus & Peninsula Symphony",
+      "url": "https://events.stanford.edu/event/symphonic-chorus-peninsula-symphony-fall26-1",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003450062961/huge/2dd28d7726e803dc046a87fc1642f31923b1baa4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    {
+      "id": 54003463383712,
+      "title": "Stanford Symphonic Chorus & Peninsula Symphony",
+      "url": "https://events.stanford.edu/event/symphonic-chorus-peninsula-symphony-fall26-2",
+      "experience": "hybrid",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003463317151/huge/2b0df9db885f623ff804a1156d9bd81152e51714.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-21",
+          "start": "2026-11-21T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-21"
       ]
     },
     {
@@ -7771,6 +8474,33 @@
       ]
     },
     {
+      "id": 54003474269501,
+      "title": "2026 Holiday Musicale",
+      "url": "https://events.stanford.edu/event/holiday-musicale-2026",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003474209083/huge/3e51d6e60910e3ed51a27d569c8af3c0b6ab84d3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T14:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-05"
+      ]
+    },
+    {
       "id": 53889458133359,
       "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
       "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
@@ -7935,6 +8665,34 @@
       ],
       "dates": [
         "2026-12-10"
+      ]
+    },
+    {
+      "id": 54003485129117,
+      "title": "Annual Sing/Play Along Messiah",
+      "url": "https://events.stanford.edu/event/messiah-fall26",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance",
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54003485098393/huge/23c46937c6f0f52d3464615e8770126faa2452f1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-11",
+          "start": "2026-12-11T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-11"
       ]
     },
     {
