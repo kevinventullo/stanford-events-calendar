@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:36:43+00:00",
+  "generated_at": "2026-09-18T16:59:32+00:00",
   "window": {
     "start": "2026-09-18",
     "end": "2027-03-17"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 12,
-    "dated": 252
+    "dated": 253
   },
   "ongoing": [
     {
@@ -3869,9 +3869,7 @@
       "url": "https://events.stanford.edu/event/srwc-wellness-fair-campus-flu-covid-19-vaccination-clinic",
       "experience": "inperson",
       "location": "Cardinal Hall, Dining Pavilion, 505 Broadway, Redwood City, CA, 505 Broadway, Redwood City, CA 94063",
-      "types": [
-        "Other"
-      ],
+      "types": [],
       "subjects": [
         "Health/Wellness"
       ],
@@ -5155,6 +5153,34 @@
         {
           "date": "2026-10-14",
           "start": "2026-10-14T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
+      "id": 54010325570517,
+      "title": "Moustafa Bayoumi | “I can’t imagine living next to a wall”: Palestine and the Tohono O’odham Nation",
+      "url": "https://events.stanford.edu/event/moustafa-bayoumi-i-cant-imagine-living-next-to-a-wall-palestine-and-the-tohono-oodham-nation",
+      "experience": "inperson",
+      "location": "Building 160, Wallenberg Hall, 433A (CESTA), 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54010349653607/huge/c1b3f24a3742071fdf6174d7d25af5b42fcae547.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T16:30:00-07:00",
           "all_day": false
         }
       ],
