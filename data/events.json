@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T16:59:32+00:00",
+  "generated_at": "2026-09-19T05:32:27+00:00",
   "window": {
-    "start": "2026-09-18",
-    "end": "2027-03-17"
+    "start": "2026-09-19",
+    "end": "2027-03-18"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 12,
-    "dated": 253
+    "dated": 258
   },
   "ongoing": [
     {
@@ -46,7 +46,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-18",
         "2026-09-19",
         "2026-09-20"
       ]
@@ -70,7 +69,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-18",
         "2026-09-19",
         "2026-09-20",
         "2026-09-21",
@@ -187,7 +185,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-18",
         "2026-09-19",
         "2026-09-20",
         "2026-09-21",
@@ -329,7 +326,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-18",
         "2026-09-19",
         "2026-09-20",
         "2026-09-21",
@@ -417,7 +413,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-18",
         "2026-09-19",
         "2026-09-20",
         "2026-09-21",
@@ -545,7 +540,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-18",
         "2026-09-23",
         "2026-09-24",
         "2026-09-25",
@@ -631,7 +625,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-18",
         "2026-09-21",
         "2026-09-25",
         "2026-09-28",
@@ -998,7 +991,7 @@
         "Arts/Media",
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53948663019330/huge/c979f90e82badeda481f51abb8e7689afb44f11d.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54012840867202/huge/5c9fd0856baa064fc3f3f637fa771034cd217e95.jpg",
       "free": false,
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
@@ -1705,11 +1698,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-18",
-          "start": "2026-09-18T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-19",
           "start": "2026-09-19T11:30:00-07:00",
           "all_day": false
@@ -1936,7 +1924,6 @@
         }
       ],
       "dates": [
-        "2026-09-18",
         "2026-09-19",
         "2026-09-25",
         "2026-09-26",
@@ -1985,9 +1972,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-09-18",
+      "next_date": "2026-09-19",
       "last_date": "2027-03-13",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2922,82 +2909,6 @@
   ],
   "events": [
     {
-      "id": 53879684015873,
-      "title": "Asian American Activities Center Open House",
-      "url": "https://events.stanford.edu/event/asian-american-activities-center-open-house",
-      "experience": "inperson",
-      "location": "Old Union Clubhouse, 1st Floor, 524 Lasuen Mall",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53879699076700/huge/8c1ca917cec8d6a584d0ce1d3fe74265b36d6742.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-18",
-          "start": "2026-09-18T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-18"
-      ]
-    },
-    {
-      "id": 53558991916783,
-      "title": "Stanford Medicine and Stanford Health Care Tri-Valley 2026 Cardiovascular Symposium: Advancements in Cardiovascular Care",
-      "url": "https://events.stanford.edu/event/stanford-medicine-and-stanford-health-care-tri-valley-2026-cardiovascular-symposium-advancements-in-cardiovascular-care",
-      "experience": "inperson",
-      "location": "Diablo Country Club, 1897 Club House Rd, Diablo, CA",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53558993929132/huge/6f7286a6b4620fbaab7111ecb70c2993b2d4b0e3.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-18",
-          "start": "2026-09-18T07:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-18"
-      ]
-    },
-    {
-      "id": 53862056931079,
-      "title": "William C. Dement Seminar Series",
-      "url": "https://events.stanford.edu/event/william-c-dement-seminar-series",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Room LK120, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Medicine",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53862061189455/huge/be6a70a51a1bdbace9e537380bb57da5cbc40c65.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-18",
-          "start": "2026-09-18T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-18"
-      ]
-    },
-    {
       "id": 53980202596562,
       "title": "Stanford Neurodiversity Summit",
       "url": "https://events.stanford.edu/event/stanford-neurodiversity-summit",
@@ -3177,6 +3088,35 @@
       ]
     },
     {
+      "id": 54012379552475,
+      "title": "Pediatric Grand Rounds (CME): Beyond Bias: Dreaming, Designing, and Doing Justice in Pediatric Medical Education",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-declining-health-of-american-children-addressing-the-developmental-ecosystem",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54012379510489/huge/64de228d8e4e898691c70b67de2878af24760377.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-22",
+          "start": "2026-09-22T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    {
       "id": 53845627612077,
       "title": "CIFE 2026 Summer Program",
       "url": "https://events.stanford.edu/event/cife-2026-summer-program",
@@ -3238,7 +3178,7 @@
     },
     {
       "id": 53998032217668,
-      "title": "The O'Donohue Family Stanford Educational Farm - Tour",
+      "title": "The O’Donohue Family Stanford Educational Farm - Tour",
       "url": "https://events.stanford.edu/event/the-odonohue-family-stanford-educational-farm-tour",
       "experience": "inperson",
       "location": "O'Donohue Educational Farm, 100, 175 Electioneer Rd, Stanford, CA 94305",
@@ -3332,7 +3272,7 @@
         "Engineering/Technology",
         "International Affairs"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53924446838416/huge/888b090ae306591417ab3d361dedf7df4dc6924c.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54012445212770/huge/a2ecebff17b43be9a78a4087bf9cbb6a73db12f5.jpg",
       "free": false,
       "instances": [
         {
@@ -3705,6 +3645,34 @@
       ]
     },
     {
+      "id": 54012405544607,
+      "title": "Pediatric Grand Rounds (CME): Marijuana Smoke and Children",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-beyond-bias-dreaming-designing-and-doing-justice-in-pediatric-medical-education",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54012405511837/huge/5ce7e94fe5bdc9e173f255d98b916d14f81f847e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    {
       "id": 54003782267247,
       "title": "Adam Nash @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
       "url": "https://events.stanford.edu/event/adam-nash-entrepreneurial-thought-leaders-speaker-series-etl",
@@ -3865,7 +3833,7 @@
     },
     {
       "id": 54003270966250,
-      "title": "SRWC Wellness Fair: Campus Flu & COVID-19 Vaccination Clinic",
+      "title": "SRWC Wellness Fair: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/srwc-wellness-fair-campus-flu-covid-19-vaccination-clinic",
       "experience": "inperson",
       "location": "Cardinal Hall, Dining Pavilion, 505 Broadway, Redwood City, CA, 505 Broadway, Redwood City, CA 94063",
@@ -3888,13 +3856,11 @@
     },
     {
       "id": 54003404786768,
-      "title": "800 Welch Rd: Campus Flu & COVID-19 Vaccination Clinic",
+      "title": "800 Welch: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/800-welch-rd-campus-flu-covid-19-vaccination-clinic",
       "experience": "inperson",
       "location": "800 Welch Rd, 800 Welch Rd, Palo Alto, CA 94304",
-      "types": [
-        "Other"
-      ],
+      "types": [],
       "subjects": [
         "Health/Wellness"
       ],
@@ -3905,10 +3871,16 @@
           "date": "2026-10-01",
           "start": "2026-10-01T14:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T10:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-20"
       ]
     },
     {
@@ -4009,6 +3981,33 @@
         {
           "date": "2026-10-01",
           "start": "2026-10-01T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    {
+      "id": 54003957524583,
+      "title": "Moving Up the Chain, Into the Water: Critical Resources in India for Advanced Computing",
+      "url": "https://events.stanford.edu/event/copy-of-series-overview-challenges-and-solutions-for-critical-materials-in-energy-and-electronics",
+      "experience": "hybrid",
+      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54012407201801/huge/5360160024ff9f7c7e00920f2d744ad37e639316.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T16:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4493,6 +4492,29 @@
       ]
     },
     {
+      "id": 54012302942844,
+      "title": "SU Wellness Fair: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/su-wellness-fair-campus-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "Arrillaga Outdoor Education & Recreation Center, 285 Santa Teresa St, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54012307528923/huge/ec157f80abdc4af440faeed1bd9a2fa2e65e9e68.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T10:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
       "id": 53994679393617,
       "title": "Building 360 Open House",
       "url": "https://events.stanford.edu/event/building-360-open-house-9896",
@@ -4508,6 +4530,29 @@
         {
           "date": "2026-10-07",
           "start": "2026-10-07T11:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    {
+      "id": 54012334885643,
+      "title": "Clark Center: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/clark-center-campus-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "Clark Center, 318 Campus Drive, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54012340048968/huge/fa3bf57a8ae73683d418e95a8182e720d9d16a4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4878,6 +4923,52 @@
       ]
     },
     {
+      "id": 54012373863502,
+      "title": "White Plaza (Vaden Flourishing on the Farm): Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/white-plaza-vaden-flourishing-on-the-farm-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "White Plaza, White Memorial Plaza, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54012381851069/huge/c1decff0687a03a8495cff44f74617439fba6a38.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    {
+      "id": 54014346273372,
+      "title": "White Plaza: Vaden Flourishing on the Farm: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/white-plaza-vaden-flourishing-on-the-farm-flu-covid-19-vaccination-clinic-4590",
+      "experience": "inperson",
+      "location": "White Plaza, White Memorial Plaza, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54014352129783/huge/69813371f83b89ec334059f712090b42e02b3516.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    {
       "id": 52827065017882,
       "title": "Kronos Quartet with Mahsa and Marjan Vahdat: Placeless",
       "url": "https://events.stanford.edu/event/kronos-quartet-with-mahsa-and-marjan-vahdat-placeless",
@@ -5237,31 +5328,6 @@
       ],
       "dates": [
         "2026-10-14"
-      ]
-    },
-    {
-      "id": 54002277923354,
-      "title": "Career Conversation: Ross Stein, PhD '80",
-      "url": "https://events.stanford.edu/event/career-conversation-ross-stein-phd-80-5344",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Career Development"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54002279731334/huge/cd1ec702ef27223befc337af9c2863bc656527fe.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
       ]
     },
     {
@@ -5769,6 +5835,29 @@
       ]
     },
     {
+      "id": 54014263825700,
+      "title": "Science and Engineering Quad: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/y2e2-flu-covid-19-vaccination-clinic-4905",
+      "experience": "inperson",
+      "location": "Jen-Hsun Huang Building (School of Engineering), (Outdoors) Science and Engineering Quad Courtyard Lawn, 475 Via Ortega, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54014298650700/huge/7ae39bfde9fac2d6f730fd8a48ed3114dfbd339b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
       "id": 53499289648508,
       "title": "Strategic Stability during the Cold War and Beyond",
       "url": "https://events.stanford.edu/event/strategic-stability-during-the-cold-war-and-beyond",
@@ -5939,6 +6028,31 @@
         {
           "date": "2026-10-22",
           "start": "2026-10-22T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
+      "id": 54010978869329,
+      "title": "ABOUT A HERO (2024): Film Screening & Panel Discussion",
+      "url": "https://events.stanford.edu/event/about-a-hero-2024-film-screening-panel-discussion",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54010984445201/huge/f184abee233a9622c3696d2dd50ebce27843fa50.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T17:30:00-07:00",
           "all_day": false
         }
       ],
@@ -7056,6 +7170,34 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 54011243976882,
+      "title": "No Ideas But in Things",
+      "url": "https://events.stanford.edu/event/no-ideas-but-in-things",
+      "experience": "inperson",
+      "location": "Clark Center, Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Film/Screening",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54011260052607/huge/cdd631d1cd2ffe47a192406a572d21a99f7134a5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T16:30:00-08:00",
           "all_day": false
         }
       ],
@@ -9580,31 +9722,6 @@
       ],
       "dates": [
         "2027-03-10"
-      ]
-    },
-    {
-      "id": 53869955895639,
-      "title": "Evening Curator Talk | California Current: Art and Histories from the Bay Area",
-      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area-282",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53869955870037/huge/27afe68f212996ab833ffd098822cf0f8839af8f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2027-03-11",
-          "start": "2027-03-11T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2027-03-11"
       ]
     },
     {
