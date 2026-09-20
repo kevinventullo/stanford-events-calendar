@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T16:17:23+00:00",
+  "generated_at": "2026-09-20T05:47:34+00:00",
   "window": {
-    "start": "2026-09-19",
-    "end": "2027-03-18"
+    "start": "2026-09-20",
+    "end": "2027-03-19"
   },
   "filters": {
     "public_audiences": [
@@ -46,7 +46,6 @@
       "first_date": "2026-05-29",
       "last_date": "2026-09-20",
       "dates": [
-        "2026-09-19",
         "2026-09-20"
       ]
     },
@@ -69,7 +68,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-19",
         "2026-09-20",
         "2026-09-21",
         "2026-09-22",
@@ -185,7 +183,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-19",
         "2026-09-20",
         "2026-09-21",
         "2026-09-24",
@@ -306,7 +303,8 @@
         "2027-03-12",
         "2027-03-13",
         "2027-03-14",
-        "2027-03-15"
+        "2027-03-15",
+        "2027-03-18"
       ]
     },
     {
@@ -326,7 +324,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-19",
         "2026-09-20",
         "2026-09-21",
         "2026-09-24",
@@ -413,7 +410,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-19",
         "2026-09-20",
         "2026-09-21",
         "2026-09-24",
@@ -1698,11 +1694,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-19",
-          "start": "2026-09-19T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-25",
           "start": "2026-09-25T11:30:00-07:00",
           "all_day": false
@@ -1924,7 +1915,6 @@
         }
       ],
       "dates": [
-        "2026-09-19",
         "2026-09-25",
         "2026-09-26",
         "2026-10-02",
@@ -1972,9 +1962,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-09-19",
+      "next_date": "2026-09-25",
       "last_date": "2027-03-13",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -1992,11 +1982,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-19",
-          "start": "2026-09-19T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-20",
           "start": "2026-09-20T13:00:00-07:00",
@@ -2234,7 +2219,6 @@
         }
       ],
       "dates": [
-        "2026-09-19",
         "2026-09-20",
         "2026-09-26",
         "2026-09-27",
@@ -2285,9 +2269,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-09-19",
+      "next_date": "2026-09-20",
       "last_date": "2027-03-14",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2305,11 +2289,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-19",
-          "start": "2026-09-19T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-20",
           "start": "2026-09-20T15:00:00-07:00",
@@ -2547,7 +2526,6 @@
         }
       ],
       "dates": [
-        "2026-09-19",
         "2026-09-20",
         "2026-09-26",
         "2026-09-27",
@@ -2598,9 +2576,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-09-19",
+      "next_date": "2026-09-20",
       "last_date": "2027-03-14",
-      "count": 48
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -2723,11 +2701,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-19",
-          "start": "2026-09-19T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-26",
           "start": "2026-09-26T09:30:00-07:00",
           "all_day": false
@@ -2789,7 +2762,6 @@
         }
       ],
       "dates": [
-        "2026-09-19",
         "2026-09-26",
         "2026-10-03",
         "2026-10-10",
@@ -2805,9 +2777,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-09-19",
+      "next_date": "2026-09-26",
       "last_date": "2026-12-12",
-      "count": 13
+      "count": 12
     },
     {
       "id": 51888083181057,
@@ -2909,49 +2881,6 @@
   ],
   "events": [
     {
-      "id": 53980202596562,
-      "title": "Stanford Neurodiversity Summit",
-      "url": "https://events.stanford.edu/event/stanford-neurodiversity-summit",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Health/Wellness",
-        "Career Development",
-        "Education",
-        "Medicine",
-        "Science",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-19",
-          "start": "2026-09-19T08:30:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-20",
-          "start": "2026-09-20T08:30:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-09-21",
-          "start": "2026-09-21T08:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-21"
-      ]
-    },
-    {
       "id": 53888944981559,
       "title": "Multifaith Welcome at Memorial Church",
       "url": "https://events.stanford.edu/event/multifaith-welcome-at-memorial-church",
@@ -3010,6 +2939,43 @@
         "2026-09-20",
         "2026-10-18",
         "2026-11-22"
+      ]
+    },
+    {
+      "id": 53980202596562,
+      "title": "Stanford Neurodiversity Summit",
+      "url": "https://events.stanford.edu/event/stanford-neurodiversity-summit",
+      "experience": "hybrid",
+      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Health/Wellness",
+        "Career Development",
+        "Education",
+        "Medicine",
+        "Science",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-20",
+          "start": "2026-09-20T08:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-09-21",
+          "start": "2026-09-21T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-20",
+        "2026-09-21"
       ]
     },
     {
