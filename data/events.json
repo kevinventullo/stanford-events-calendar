@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T16:43:00+00:00",
+  "generated_at": "2026-09-21T05:58:39+00:00",
   "window": {
-    "start": "2026-09-20",
-    "end": "2027-03-19"
+    "start": "2026-09-21",
+    "end": "2027-03-20"
   },
   "filters": {
     "public_audiences": [
@@ -21,34 +21,11 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
-    "recurring": 12,
-    "dated": 258
+    "ongoing": 12,
+    "recurring": 11,
+    "dated": 259
   },
   "ongoing": [
-    {
-      "id": 53020733796497,
-      "title": "Moments in the History of East Asian Printing",
-      "url": "https://events.stanford.edu/event/moments-in-the-history-of-east-asian-printing",
-      "experience": "inperson",
-      "location": "Lathrop Library, East Asia Library, Lathrop Library, 2nd Floor, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Engineering/Technology",
-        "Humanities",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53020752917103/huge/5ce53358be4b42ec55d4bb41e7297d2c776e9133.jpg",
-      "free": false,
-      "first_date": "2026-05-29",
-      "last_date": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ]
-    },
     {
       "id": 53251159287291,
       "title": "Text Machines: Scarlet Thread of the Digital Order (1883-2026)",
@@ -68,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-20",
         "2026-09-21",
         "2026-09-22",
         "2026-09-23",
@@ -183,7 +159,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-20",
         "2026-09-21",
         "2026-09-24",
         "2026-09-25",
@@ -304,7 +279,8 @@
         "2027-03-13",
         "2027-03-14",
         "2027-03-15",
-        "2027-03-18"
+        "2027-03-18",
+        "2027-03-19"
       ]
     },
     {
@@ -324,7 +300,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-20",
         "2026-09-21",
         "2026-09-24",
         "2026-09-25",
@@ -410,7 +385,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-20",
         "2026-09-21",
         "2026-09-24",
         "2026-09-25",
@@ -1151,39 +1125,6 @@
   ],
   "recurring": [
     {
-      "id": 38569589895140,
-      "title": "[Cancelled] Public Tour | Outdoor Sculpture Walk, Museum",
-      "url": "https://events.stanford.edu/event/public_tour_outdoor_sculpture_walk_museum",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/41032187193603/huge/691d439746ff6c8ee4d2d870f750c3f0f27a5762.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-20",
-          "start": "2026-09-20T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-20"
-      ],
-      "pattern": "Sundays",
-      "time": "2 PM",
-      "next_date": "2026-09-20",
-      "last_date": "2026-09-20",
-      "count": 1
-    },
-    {
       "id": 53629749361008,
       "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
       "url": "https://events.stanford.edu/event/copy-of-build-your-own-bouquet-odonohue-family-stanford-educational-farm-4191",
@@ -1912,6 +1853,11 @@
           "date": "2027-03-13",
           "start": "2027-03-13T11:30:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-19",
+          "start": "2027-03-19T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1958,13 +1904,14 @@
         "2027-03-05",
         "2027-03-06",
         "2027-03-12",
-        "2027-03-13"
+        "2027-03-13",
+        "2027-03-19"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-09-25",
-      "last_date": "2027-03-13",
-      "count": 44
+      "last_date": "2027-03-19",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -1982,11 +1929,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-20",
-          "start": "2026-09-20T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-26",
           "start": "2026-09-26T13:00:00-07:00",
@@ -2219,7 +2161,6 @@
         }
       ],
       "dates": [
-        "2026-09-20",
         "2026-09-26",
         "2026-09-27",
         "2026-10-03",
@@ -2269,9 +2210,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-09-20",
+      "next_date": "2026-09-26",
       "last_date": "2027-03-14",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2289,11 +2230,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-20",
-          "start": "2026-09-20T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-26",
           "start": "2026-09-26T15:00:00-07:00",
@@ -2526,7 +2462,6 @@
         }
       ],
       "dates": [
-        "2026-09-20",
         "2026-09-26",
         "2026-09-27",
         "2026-10-03",
@@ -2576,9 +2511,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-09-20",
+      "next_date": "2026-09-26",
       "last_date": "2027-03-14",
-      "count": 47
+      "count": 46
     },
     {
       "id": 40909411691045,
@@ -2881,64 +2816,28 @@
   ],
   "events": [
     {
-      "id": 53888944981559,
-      "title": "Multifaith Welcome at Memorial Church",
-      "url": "https://events.stanford.edu/event/multifaith-welcome-at-memorial-church",
+      "id": 53286176810091,
+      "title": "September Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/september-museum-minis-storytime-at-the-anderson",
       "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
       "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-20",
-          "start": "2026-09-20T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-20"
-      ]
-    },
-    {
-      "id": 49845006960734,
-      "title": "Public Tour | Cantor Highlights in Spanish",
-      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
+        "Social Event/Reception"
       ],
       "subjects": [
-        "Arts/Media",
-        "Education"
+        "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53286186378155/huge/bd6f4d2e2c505f66ce4c015a1c4f9e6dc988e857.jpg",
       "free": true,
       "instances": [
         {
-          "date": "2026-09-20",
-          "start": "2026-09-20T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T14:00:00-08:00",
+          "date": "2026-09-21",
+          "start": "2026-09-21T11:15:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-09-20",
-        "2026-10-18",
-        "2026-11-22"
+        "2026-09-21"
       ]
     },
     {
@@ -2963,39 +2862,8 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-20",
-          "start": "2026-09-20T08:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-21",
           "start": "2026-09-21T08:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-20",
-        "2026-09-21"
-      ]
-    },
-    {
-      "id": 53286176810091,
-      "title": "September Museum Minis: Storytime at the Anderson",
-      "url": "https://events.stanford.edu/event/september-museum-minis-storytime-at-the-anderson",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53286186378155/huge/bd6f4d2e2c505f66ce4c015a1c4f9e6dc988e857.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-21",
-          "start": "2026-09-21T11:15:00-07:00",
           "all_day": false
         }
       ],
@@ -5487,6 +5355,38 @@
       ]
     },
     {
+      "id": 49845006960734,
+      "title": "Public Tour | Cantor Highlights in Spanish",
+      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-18",
+          "start": "2026-10-18T14:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-18",
+        "2026-11-22"
+      ]
+    },
+    {
       "id": 53947940289112,
       "title": "Biology Seminar Series: Mercedes Paredes “The Dynamic Neonatal Brain: Postnatal Neurodevelopmental Processes and Implications in Disease \"",
       "url": "https://events.stanford.edu/event/biology-seminar-series-mercedes-paredes-the-dynamic-neonatal-brain-postnatal-neurodevelopmental-processes-and-implications-in-disease",
@@ -7119,6 +7019,31 @@
       ]
     },
     {
+      "id": 54032052037076,
+      "title": "Electric Contrasts Study Evening",
+      "url": "https://events.stanford.edu/event/electric-contrasts-study-evening",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54032061381358/huge/7d0ba7394bccf75e04bf84a26d12534e0b739f57.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
       "id": 53801210598349,
       "title": "Lunchtime Curator Talk | California Current: Art and Histories from the Bay Area",
       "url": "https://events.stanford.edu/event/lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area",
@@ -7772,6 +7697,31 @@
         {
           "date": "2026-11-14",
           "start": "2026-11-14T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    {
+      "id": 54029201020422,
+      "title": "Tracing What Remains: Memory, Place, and Chinese American Histories",
+      "url": "https://events.stanford.edu/event/tracing-what-remains-memory-place-and-chinese-american-histories",
+      "experience": "inperson",
+      "location": "Anderson Collection, Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54029226935330/huge/8bfe99dd39718cc7166b1dc5e5a3df8c1ce9a693.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T17:30:00-08:00",
           "all_day": false
         }
       ],
