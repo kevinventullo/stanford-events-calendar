@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:58:39+00:00",
+  "generated_at": "2026-09-21T18:32:15+00:00",
   "window": {
     "start": "2026-09-21",
     "end": "2027-03-20"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 259
+    "dated": 263
   },
   "ongoing": [
     {
@@ -4247,6 +4247,29 @@
       ]
     },
     {
+      "id": 54036343928909,
+      "title": "Applied Physics/Physics Colloquium: Robert Huang - \"High-rate qLDPC processors\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-robert-huang-high-rate-qldpc-processors",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54036351076511/huge/8cfecb024a824c5b7d5b16a01bc3850a860cbdb6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T15:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
       "id": 53746050079540,
       "title": "Celebrating Human and Planetary Health | How is the Stanford community building a healthier future for people and the planet?",
       "url": "https://events.stanford.edu/event/celebrating-human-and-planetary-health-how-is-the-stanford-community-building-a-healthier-future-for-people-and-the-planet",
@@ -4724,6 +4747,33 @@
         {
           "date": "2026-10-08",
           "start": "2026-10-08T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": 54036684763937,
+      "title": "What is the Islamic Archive? Methods Revisited",
+      "url": "https://events.stanford.edu/event/what-is-the-islamic-archive-methods-revisited",
+      "experience": "inperson",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54036692000614/huge/d4958cdd2015daa49a552634e6c8f53b8b2d4bfe.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -8167,6 +8217,32 @@
       ]
     },
     {
+      "id": 54037411906317,
+      "title": "Jannis Panagiotidis- Racism against East Europeans in Germany: History and Present",
+      "url": "https://events.stanford.edu/event/racism-against-east-europeans-in-germany-history-and-present",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, Encina Hall Central, 2nd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54037422709458/huge/79ec7884c7cee3fea728d4f44df6f412fff1c18e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
       "id": 54001244715309,
       "title": "Noon Concert: Piano Students of Sandra Shen",
       "url": "https://events.stanford.edu/event/noon-shen-fall26",
@@ -8402,6 +8478,32 @@
       ],
       "dates": [
         "2026-12-02"
+      ]
+    },
+    {
+      "id": 54037437866562,
+      "title": "Jana Hunter- The Child of Freedom: Temporal Sovereignty in Habsburg Bohemia",
+      "url": "https://events.stanford.edu/event/the-child-of-freedom-temporal-sovereignty-in-habsburg-bohemia",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, Encina Hall Central, 2nd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54037445157317/huge/708200471f8c99d0ce21f14fc145de275202cc03.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
       ]
     },
     {
