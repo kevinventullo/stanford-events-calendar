@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21T18:32:15+00:00",
+  "generated_at": "2026-09-22T05:54:11+00:00",
   "window": {
-    "start": "2026-09-21",
-    "end": "2027-03-20"
+    "start": "2026-09-22",
+    "end": "2027-03-21"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 263
+    "dated": 265
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-21",
         "2026-09-22",
         "2026-09-23",
         "2026-09-24",
@@ -159,7 +158,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-21",
         "2026-09-24",
         "2026-09-25",
         "2026-09-26",
@@ -280,7 +278,8 @@
         "2027-03-14",
         "2027-03-15",
         "2027-03-18",
-        "2027-03-19"
+        "2027-03-19",
+        "2027-03-20"
       ]
     },
     {
@@ -300,7 +299,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-21",
         "2026-09-24",
         "2026-09-25",
         "2026-09-26",
@@ -385,7 +383,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-21",
         "2026-09-24",
         "2026-09-25",
         "2026-09-26",
@@ -595,7 +592,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-21",
         "2026-09-25",
         "2026-09-28",
         "2026-10-02",
@@ -640,7 +636,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-21",
         "2026-09-22",
         "2026-09-23",
         "2026-09-24",
@@ -1858,6 +1853,11 @@
           "date": "2027-03-19",
           "start": "2027-03-19T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-20",
+          "start": "2027-03-20T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1905,13 +1905,14 @@
         "2027-03-06",
         "2027-03-12",
         "2027-03-13",
-        "2027-03-19"
+        "2027-03-19",
+        "2027-03-20"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-09-25",
-      "last_date": "2027-03-19",
-      "count": 45
+      "last_date": "2027-03-20",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -2158,6 +2159,11 @@
           "date": "2027-03-14",
           "start": "2027-03-14T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-20",
+          "start": "2027-03-20T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2206,13 +2212,14 @@
         "2027-03-06",
         "2027-03-07",
         "2027-03-13",
-        "2027-03-14"
+        "2027-03-14",
+        "2027-03-20"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-09-26",
-      "last_date": "2027-03-14",
-      "count": 46
+      "last_date": "2027-03-20",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2459,6 +2466,11 @@
           "date": "2027-03-14",
           "start": "2027-03-14T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-20",
+          "start": "2027-03-20T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2507,13 +2519,14 @@
         "2027-03-06",
         "2027-03-07",
         "2027-03-13",
-        "2027-03-14"
+        "2027-03-14",
+        "2027-03-20"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-09-26",
-      "last_date": "2027-03-14",
-      "count": 46
+      "last_date": "2027-03-20",
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -2815,62 +2828,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53286176810091,
-      "title": "September Museum Minis: Storytime at the Anderson",
-      "url": "https://events.stanford.edu/event/september-museum-minis-storytime-at-the-anderson",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53286186378155/huge/bd6f4d2e2c505f66ce4c015a1c4f9e6dc988e857.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-21",
-          "start": "2026-09-21T11:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-21"
-      ]
-    },
-    {
-      "id": 53980202596562,
-      "title": "Stanford Neurodiversity Summit",
-      "url": "https://events.stanford.edu/event/stanford-neurodiversity-summit",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Health/Wellness",
-        "Career Development",
-        "Education",
-        "Medicine",
-        "Science",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-21",
-          "start": "2026-09-21T08:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-21"
-      ]
-    },
     {
       "id": 53746640312609,
       "title": "Georgian Cinema Now: Self-Portrait Along the Borderline (2023), It Will Be Better Before (2024)",
@@ -3342,6 +3299,31 @@
       ],
       "photo": "https://localist-images.azureedge.net/photos/53947984539164/huge/434c1ec6f4a70376bc026df8ad1e5d544743a676.jpg",
       "free": false,
+      "instances": [
+        {
+          "date": "2026-09-28",
+          "start": "2026-09-28T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    {
+      "id": 54038866673904,
+      "title": "Inside China's Secret Prisons: An Undercover Exposé and its Lasting Legacy",
+      "url": "https://events.stanford.edu/event/inside-chinas-secret-prisons-an-undercover-expose-and-its-lasting-legacy",
+      "experience": "hybrid",
+      "location": "George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54038881140312/huge/44f45db953a46579413a510bb3888c04b25c52df.jpg",
+      "free": true,
       "instances": [
         {
           "date": "2026-09-28",
@@ -5043,6 +5025,31 @@
       ]
     },
     {
+      "id": 54038249644275,
+      "title": "The Science of Nuclear Winter: What We Know and What We Don't Know about the Consequences of a Nuclear War | Drell Lecture 2026 with Brian Toon",
+      "url": "https://events.stanford.edu/event/the-science-of-nuclear-winter-what-we-know-and-what-we-dont-know-about-the-consequences-of-a-nuclear-war-drell-lecture-2026-with-brian-toon",
+      "experience": "hybrid",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39077921220013/huge/50dd80dc46937e4a8180b3f5f8eb47ffd69e8537.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T15:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 53992893085823,
       "title": "Two Routes to Scale: Innovation Clusters in Tokyo-Yokohama and the Greater Bay Area",
       "url": "https://events.stanford.edu/event/two-routes-to-scale-innovation-clusters-in-tokyo-yokohama-and-the-greater-bay-area-5632",
@@ -5927,6 +5934,30 @@
       ]
     },
     {
+      "id": 54039149213452,
+      "title": "Stegner Fellow Reading",
+      "url": "https://events.stanford.edu/event/stegner-fellow-reading",
+      "experience": "inperson",
+      "location": "Building 460, Margaret Jacks Hall, Terrace Room (426), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
       "id": 53012995941585,
       "title": "9th Annual Stanford Maternal and Child Health Research Institute Symposium",
       "url": "https://events.stanford.edu/event/9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
@@ -5953,7 +5984,7 @@
     },
     {
       "id": 54010978869329,
-      "title": "ABOUT A HERO (2024): Film Screening & Panel Discussion",
+      "title": "ABOUT A HERO (2024): Agent Cinema, Panel Discussion",
       "url": "https://events.stanford.edu/event/about-a-hero-2024-film-screening-panel-discussion",
       "experience": "inperson",
       "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
@@ -5963,7 +5994,7 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54010984445201/huge/f184abee233a9622c3696d2dd50ebce27843fa50.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54010984445201/huge/b17738c3c37f7f4b381418b9fab4c976203b10f7.jpg",
       "free": false,
       "instances": [
         {
@@ -6307,6 +6338,33 @@
         {
           "date": "2026-10-26",
           "start": "2026-10-26T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    {
+      "id": 52375162653967,
+      "title": "Revolutionizing Privacy and AI with Meredith Whittaker",
+      "url": "https://events.stanford.edu/event/revolutionizing-privacy-and-ai-with-meredith-whittaker",
+      "experience": "inperson",
+      "location": "Simonyi Conference Center, CoDa, 389 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54040057874784/huge/3922920770b8723c41c3fe732914a0e901b4ea8b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -7316,7 +7374,7 @@
         "Health/Wellness",
         "Diversity/Identity"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53948487024196/huge/db01ef8525fcfc966146ef5571b077b260a03392.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54038092476111/huge/024e9dbff49de02b6839a88216d6f1dbf2ae0ad0.jpg",
       "free": true,
       "instances": [
         {
@@ -7515,7 +7573,7 @@
     },
     {
       "id": 54004348721357,
-      "title": "Artist Talk | Holographic Girl, a talk by Charles Ray",
+      "title": "Artist Talk | Holographic Space, a talk by Charles Ray",
       "url": "https://events.stanford.edu/event/charles-ray",
       "experience": "inperson",
       "location": "Cantor Arts Center, Cantor Eastman Auditorium, 328 Lomita Drive, Stanford, CA 94305",
