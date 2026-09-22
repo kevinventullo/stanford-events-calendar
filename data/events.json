@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:54:11+00:00",
+  "generated_at": "2026-09-22T17:33:19+00:00",
   "window": {
     "start": "2026-09-22",
     "end": "2027-03-21"
@@ -3585,33 +3585,6 @@
         {
           "date": "2026-09-30",
           "start": "2026-09-30T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
-    {
-      "id": 54001077795296,
-      "title": "Noon Concert: Voice Students of Nova Jiménez",
-      "url": "https://events.stanford.edu/event/noon-jimenez-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54001077744094/huge/584c8f60b9471ae8ba860ef870e4f8309d6aa8e6.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T12:30:00-07:00",
           "all_day": false
         }
       ],
@@ -7670,6 +7643,33 @@
         {
           "date": "2026-11-12",
           "start": "2026-11-12T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
+      "id": 54045658778096,
+      "title": "What is a Public Intellectual Today: Alexis Madrigal",
+      "url": "https://events.stanford.edu/event/what-is-a-public-intellectual-today-alexis-madrigal",
+      "experience": "inperson",
+      "location": "Tresidder Union, Oak Lounge, 459 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Career Development",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54045907384218/huge/1a0cfd3b0696593002d9f45864b6441a5b6ce1e9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T18:30:00-08:00",
           "all_day": false
         }
       ],
