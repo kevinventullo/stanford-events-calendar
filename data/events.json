@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:33:27+00:00",
+  "generated_at": "2026-09-23T17:45:49+00:00",
   "window": {
     "start": "2026-09-23",
     "end": "2027-03-22"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 269
+    "dated": 270
   },
   "ongoing": [
     {
@@ -3334,6 +3334,32 @@
         {
           "date": "2026-09-29",
           "start": "2026-09-29T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    {
+      "id": 53972415478414,
+      "title": "Earth & Planetary Sciences Seminar - Josh Goodwin, PG, CEG - “Geologist-in-Training (GIT): Pathway to the California Professional Geologist License.”",
+      "url": "https://events.stanford.edu/event/earth-planetary-science-seminar-josh-goodwin-pg-ceg-geologist-in-training-git-pathway-to-the-california-professional-geologist-license-169",
+      "experience": "inperson",
+      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53972582150952/huge/835a9c999eee68c9b020aeced2225ac0e62d1483.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -9244,33 +9270,6 @@
       ]
     },
     {
-      "id": 54047913855452,
-      "title": "Yōkai! Songs of the Japanese  Supernatural",
-      "url": "https://events.stanford.edu/event/yokai-songs-of-the-japanese-supernatural",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54047926777894/huge/cf580c61565b2beb69a22878adfd985c9b3eb493.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2027-02-02",
-          "start": "2027-02-02T19:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2027-02-02"
-      ]
-    },
-    {
       "id": 53969482836715,
       "title": "Industrialized Construction Forum 2027",
       "url": "https://events.stanford.edu/event/ICF-2027",
@@ -9747,6 +9746,33 @@
       ],
       "dates": [
         "2027-02-26"
+      ]
+    },
+    {
+      "id": 54047913855452,
+      "title": "Yōkai! Songs of the Japanese  Supernatural",
+      "url": "https://events.stanford.edu/event/yokai-songs-of-the-japanese-supernatural",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54047926777894/huge/cf580c61565b2beb69a22878adfd985c9b3eb493.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-28",
+          "start": "2027-02-28T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-28"
       ]
     },
     {
