@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T17:33:19+00:00",
+  "generated_at": "2026-09-23T05:33:27+00:00",
   "window": {
-    "start": "2026-09-22",
-    "end": "2027-03-21"
+    "start": "2026-09-23",
+    "end": "2027-03-22"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 265
+    "dated": 269
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-22",
         "2026-09-23",
         "2026-09-24",
         "2026-09-25",
@@ -279,7 +278,8 @@
         "2027-03-15",
         "2027-03-18",
         "2027-03-19",
-        "2027-03-20"
+        "2027-03-20",
+        "2027-03-21"
       ]
     },
     {
@@ -636,7 +636,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-22",
         "2026-09-23",
         "2026-09-24",
         "2026-09-25",
@@ -733,7 +732,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-22",
         "2026-09-23",
         "2026-09-24",
         "2026-09-25",
@@ -2164,6 +2162,11 @@
           "date": "2027-03-20",
           "start": "2027-03-20T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-21",
+          "start": "2027-03-21T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2213,13 +2216,14 @@
         "2027-03-07",
         "2027-03-13",
         "2027-03-14",
-        "2027-03-20"
+        "2027-03-20",
+        "2027-03-21"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-09-26",
-      "last_date": "2027-03-20",
-      "count": 47
+      "last_date": "2027-03-21",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2471,6 +2475,11 @@
           "date": "2027-03-20",
           "start": "2027-03-20T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-21",
+          "start": "2027-03-21T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2520,13 +2529,14 @@
         "2027-03-07",
         "2027-03-13",
         "2027-03-14",
-        "2027-03-20"
+        "2027-03-20",
+        "2027-03-21"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-09-26",
-      "last_date": "2027-03-20",
-      "count": 47
+      "last_date": "2027-03-21",
+      "count": 48
     },
     {
       "id": 40909411691045,
@@ -2828,85 +2838,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53746640312609,
-      "title": "Georgian Cinema Now: Self-Portrait Along the Borderline (2023), It Will Be Better Before (2024)",
-      "url": "https://events.stanford.edu/event/georgian-cinema-now-self-portrait-along-the-borderline-2023-it-will-be-better-before-2024",
-      "experience": "inperson",
-      "location": "McMurtry Building, 115, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53746645371447/huge/612d93e1b3b917c82080764de773d3da347c60a9.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-22",
-          "start": "2026-09-22T15:45:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-22"
-      ]
-    },
-    {
-      "id": 53746577579410,
-      "title": "Georgian Cinema Now: Taming the Garden (2021)",
-      "url": "https://events.stanford.edu/event/georgian-cinema-now-taming-the-garden-2021",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53746580397450/huge/0a6b67c09bf4f5b3f1f94e296686307cd306a00b.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-22",
-          "start": "2026-09-22T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-22"
-      ]
-    },
-    {
-      "id": 54012379552475,
-      "title": "Pediatric Grand Rounds (CME): Beyond Bias: Dreaming, Designing, and Doing Justice in Pediatric Medical Education",
-      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-declining-health-of-american-children-addressing-the-developmental-ecosystem",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Medicine",
-        "Science",
-        "Health/Wellness",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54012379510489/huge/64de228d8e4e898691c70b67de2878af24760377.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-22",
-          "start": "2026-09-22T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-22"
-      ]
-    },
     {
       "id": 53845627612077,
       "title": "CIFE 2026 Summer Program",
@@ -3660,16 +3591,10 @@
           "date": "2026-10-01",
           "start": "2026-10-01T14:00:00-07:00",
           "all_day": false
-        },
-        {
-          "date": "2026-10-20",
-          "start": "2026-10-20T10:00:00-07:00",
-          "all_day": false
         }
       ],
       "dates": [
-        "2026-10-01",
-        "2026-10-20"
+        "2026-10-01"
       ]
     },
     {
@@ -4121,6 +4046,31 @@
       ]
     },
     {
+      "id": 54048769031258,
+      "title": "Stanford Medicine Orchestra with violinist Stella Chen.",
+      "url": "https://events.stanford.edu/event/stanford-medicine-orchestra-with-violinist-stella-chen",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54048812658538/huge/a48d8dec0461df773f6a753351051d46f901bd7b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    {
       "id": 53613895365023,
       "title": "American Association of Plastic Surgeons Meeting (AAPS) Abstract Deadline",
       "url": "https://events.stanford.edu/event/american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline",
@@ -4194,6 +4144,29 @@
         {
           "date": "2026-10-05",
           "start": "2026-10-05T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    {
+      "id": 54046164806066,
+      "title": "Vaden: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/vaden-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "Vaden Student Health Center, 866 Campus Drive, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54046168461128/huge/28e827a8e5dbb55f11d64ea44d5a4837d24c4ece.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-05",
+          "start": "2026-10-05T11:00:00-07:00",
           "all_day": false
         }
       ],
@@ -5602,7 +5575,7 @@
     },
     {
       "id": 53552386783151,
-      "title": "Stanford Energy Seminar | Susan Uthayakumar, Prologis",
+      "title": "Stanford Energy Seminar | Powering What’s Next: Real Estate’s Role in the Energy Transition | Susan Uthayakumar, Prologis",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-10192026",
       "experience": "hybrid",
       "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
@@ -5649,6 +5622,29 @@
         {
           "date": "2026-10-20",
           "start": "2026-10-20T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 54046323082777,
+      "title": "800 Welch: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/800-welch-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "800 Welch Road, Palo Alto, CA, 800 Welch Road, Palo Alto, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54046326942647/huge/3f68f8a5a1beb6e429f309c8841ab4c1c32286fd.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T10:00:00-07:00",
           "all_day": false
         }
       ],
@@ -5780,7 +5776,7 @@
     },
     {
       "id": 53887340620089,
-      "title": "Wendy Salkin, \"Speaking for Others,\" in conversation with Steven O. Roberts",
+      "title": "Wendy Salkin, \"Speaking for Others\"",
       "url": "https://events.stanford.edu/event/wendy-salkin-speaking-for-others",
       "experience": "inperson",
       "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
@@ -5821,6 +5817,29 @@
         {
           "date": "2026-10-21",
           "start": "2026-10-21T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
+      "id": 54046356434340,
+      "title": "Hopkins Marine Station: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/hopkins-marine-station-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "Hopkins Marine Station, 120 Ocean View Blvd Pacific Grove, CA 93950",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54046360566369/huge/639df63377e3dd2770611901f2e1e3b31663694a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T13:00:00-07:00",
           "all_day": false
         }
       ],
@@ -6319,7 +6338,7 @@
       ]
     },
     {
-      "id": 52375162653967,
+      "id": 54046886454860,
       "title": "Revolutionizing Privacy and AI with Meredith Whittaker",
       "url": "https://events.stanford.edu/event/revolutionizing-privacy-and-ai-with-meredith-whittaker",
       "experience": "inperson",
@@ -6332,7 +6351,7 @@
         "Social Justice/Human Rights",
         "Public Service/Government"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54040057874784/huge/3922920770b8723c41c3fe732914a0e901b4ea8b.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54046886369867/huge/74676605ded01d038dba3c58dbfa5be367038f0c.jpg",
       "free": false,
       "instances": [
         {
@@ -6504,7 +6523,7 @@
     },
     {
       "id": 53878443469394,
-      "title": "Maisha Winn, \"Futuring Black Lives: Independent Black Institutions and the Literary Imagination\"",
+      "title": "Maisha Winn, \"Futuring Black Lives: Independent Black Institutions and the Literary Imagination,\" in conversation with Adam Banks",
       "url": "https://events.stanford.edu/event/maisha-winn-futuring-black-lives-independent-black-institutions-and-the-literary-imagination",
       "experience": "inperson",
       "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
@@ -7282,6 +7301,33 @@
       ],
       "dates": [
         "2026-11-07"
+      ]
+    },
+    {
+      "id": 54045329866890,
+      "title": "Stanford Alumni Recital",
+      "url": "https://events.stanford.edu/event/stanford-alumni-recital-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511180561564/huge/6c8086a1bec359c4c123fd421480414907486882.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-08",
+          "start": "2026-11-08T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-08"
       ]
     },
     {
@@ -8838,7 +8884,7 @@
     },
     {
       "id": 53861598502049,
-      "title": "HAI Seminar with Angele Christin in Conversation with Hannah Zeavin",
+      "title": "HAI Seminar with Angèle Christin in Conversation with Hannah Zeavin",
       "url": "https://events.stanford.edu/event/hai-seminar-with-angele-christin-in-conversation-with-hannah-zeavin",
       "experience": "hybrid",
       "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
@@ -9195,6 +9241,33 @@
       ],
       "dates": [
         "2027-01-29"
+      ]
+    },
+    {
+      "id": 54047913855452,
+      "title": "Yōkai! Songs of the Japanese  Supernatural",
+      "url": "https://events.stanford.edu/event/yokai-songs-of-the-japanese-supernatural",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54047926777894/huge/cf580c61565b2beb69a22878adfd985c9b3eb493.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-02",
+          "start": "2027-02-02T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-02"
       ]
     },
     {
@@ -9642,6 +9715,33 @@
         {
           "date": "2027-02-26",
           "start": "2027-02-26T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-26"
+      ]
+    },
+    {
+      "id": 54047423815956,
+      "title": "Sound and Images of the Invisible World in Japan",
+      "url": "https://events.stanford.edu/event/sound-and-images-of-the-invisible-world-in-japan",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54047440874073/huge/e782e6ede2e81611036418404c66be4984390084.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-26",
+          "start": "2027-02-26T15:00:00-08:00",
           "all_day": false
         }
       ],
