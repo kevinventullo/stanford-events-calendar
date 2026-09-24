@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-23T17:45:49+00:00",
+  "generated_at": "2026-09-24T05:54:46+00:00",
   "window": {
-    "start": "2026-09-23",
-    "end": "2027-03-22"
+    "start": "2026-09-24",
+    "end": "2027-03-23"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 270
+    "dated": 273
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-23",
         "2026-09-24",
         "2026-09-25",
         "2026-09-26",
@@ -279,7 +278,8 @@
         "2027-03-18",
         "2027-03-19",
         "2027-03-20",
-        "2027-03-21"
+        "2027-03-21",
+        "2027-03-22"
       ]
     },
     {
@@ -507,7 +507,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-23",
         "2026-09-24",
         "2026-09-25",
         "2026-09-30",
@@ -636,7 +635,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-23",
         "2026-09-24",
         "2026-09-25",
         "2026-09-27",
@@ -732,7 +730,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-23",
         "2026-09-24",
         "2026-09-25",
         "2026-09-26",
@@ -2756,11 +2753,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-23",
-          "start": "2026-09-23T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-30",
           "start": "2026-09-30T09:00:00-07:00",
           "all_day": false
@@ -2817,7 +2809,6 @@
         }
       ],
       "dates": [
-        "2026-09-23",
         "2026-09-30",
         "2026-10-07",
         "2026-10-14",
@@ -2832,9 +2823,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-09-23",
+      "next_date": "2026-09-30",
       "last_date": "2026-12-16",
-      "count": 12
+      "count": 11
     }
   ],
   "events": [
@@ -2858,99 +2849,13 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-23",
-          "start": "2026-09-23T08:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-24",
           "start": "2026-09-24T08:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-09-23",
         "2026-09-24"
-      ]
-    },
-    {
-      "id": 53860821548188,
-      "title": "HAI Seminar with Alexandr Lenk and Arvind Karunakaran",
-      "url": "https://events.stanford.edu/event/hai-seminar-with-alexandr-lenk-and-arvind-karunakaran",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53860825318435/huge/6290db53f2e42795e8acd336a3b743d49ca31ca0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-23",
-          "start": "2026-09-23T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-23"
-      ]
-    },
-    {
-      "id": 53998032217668,
-      "title": "The O’Donohue Family Stanford Educational Farm - Tour",
-      "url": "https://events.stanford.edu/event/the-odonohue-family-stanford-educational-farm-tour",
-      "experience": "inperson",
-      "location": "O'Donohue Educational Farm, 100, 175 Electioneer Rd, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53998043979271/huge/f4afdb8d8d2fd7255e72a0c4080192f10682d802.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-23",
-          "start": "2026-09-23T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-23"
-      ]
-    },
-    {
-      "id": 53799365594199,
-      "title": "“In the Realm of the Last Man: A Memoir” – Book Launch & Discussion with Francis Fukuyama",
-      "url": "https://events.stanford.edu/event/in-the-realm-of-the-last-man-a-memoir-book-launch-discussion-with-francis-fukuyama",
-      "experience": "hybrid",
-      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Career Development",
-        "Humanities",
-        "Diversity/Identity",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53799414476819/huge/3a93603d0aa6ea1af89371e049247b4b73f3eae7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-23",
-          "start": "2026-09-23T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-23"
       ]
     },
     {
@@ -3113,6 +3018,34 @@
       ]
     },
     {
+      "id": 54056662638089,
+      "title": "Precourt Institute special event: Battery fast charging for affordable and sustainable EVs",
+      "url": "https://events.stanford.edu/event/precourt-special-event-battery-fast-charging-for-affordable-and-sustainable-electrification",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54056694073150/huge/d46d8e4131168cc57f383e9d36357b3f3c9cfd9e.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-25",
+          "start": "2026-09-25T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    {
       "id": 53790488506507,
       "title": "Challenge Success Annual Conference",
       "url": "https://events.stanford.edu/event/challenge-success-annual-conference",
@@ -3243,7 +3176,7 @@
     },
     {
       "id": 54038866673904,
-      "title": "Inside China's Secret Prisons: An Undercover Exposé and its Lasting Legacy",
+      "title": "Inside China’s Secret Prisons: An Undercover Exposé and its Lasting Legacy",
       "url": "https://events.stanford.edu/event/inside-chinas-secret-prisons-an-undercover-expose-and-its-lasting-legacy",
       "experience": "hybrid",
       "location": "George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
@@ -3615,7 +3548,7 @@
       "instances": [
         {
           "date": "2026-10-01",
-          "start": "2026-10-01T14:00:00-07:00",
+          "start": "2026-10-01T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4303,6 +4236,34 @@
       ]
     },
     {
+      "id": 54055372554908,
+      "title": "Pediatric Grand Rounds (CME): Brain in a Dish, Cure in a Pipeline: Organoid-Based Drug Discovery for Neuropsychiatric Diseases",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-marijuana-smoke-and-children",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54055372504729/huge/e5b200b74db8c1f29664ccba04ab1aa6f05f30ec.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
       "id": 54012302942844,
       "title": "SU Wellness Fair: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/su-wellness-fair-campus-flu-covid-19-vaccination-clinic",
@@ -4518,6 +4479,33 @@
         {
           "date": "2026-10-08",
           "start": "2026-10-08T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": 54055140049070,
+      "title": "Film Screening: Alaav (2024)",
+      "url": "https://events.stanford.edu/event/film-screening-alaav-2024",
+      "experience": "inperson",
+      "location": "Oshman Hall, 355 Roth Way",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54055522234011/huge/304276be577a35d6bc31f2f8f7da3b4ba9c92e87.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T17:30:00-07:00",
           "all_day": false
         }
       ],
@@ -5048,6 +5036,29 @@
       ]
     },
     {
+      "id": 54055996878895,
+      "title": "(GSB) Graduate School of Business: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/gsb-graduate-school-of-business-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "Graduate School of Business, McClelland Building, Collaborations Lab (M101), 655 Knight Way Stanford, CA 94305 USA",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54056002952019/huge/f02385c427da5342dd2337c2f0ff484abcdb05e6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
       "id": 53727281212449,
       "title": "Center for African Studies Welcome Reception",
       "url": "https://events.stanford.edu/event/cas-welcome-reception",
@@ -5237,6 +5248,40 @@
         {
           "date": "2026-10-16",
           "start": "2026-10-16T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
+      "id": 52739250588724,
+      "title": "CBD 2026: Interbeing Meditation: Touching Our Source and Growing Our Connection with Kaira Jewel Lingo",
+      "url": "https://events.stanford.edu/event/cbd-2026-interbeing-meditation-with-kaira-jewel-lingo",
+      "experience": "hybrid",
+      "location": "Old Union, The CIRCLE Common Room, 3rd floor Old Union, 520 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine",
+        "Religion/Spirituality",
+        "Science",
+        "Career Development",
+        "Education",
+        "Environment/Sustainability",
+        "Social Justice/Human Rights",
+        "Public Service/Government",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52739250556979/huge/f1610bf0516d067ec6e21a0793a134be80f32f1d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T07:30:00-07:00",
           "all_day": false
         }
       ],
@@ -5670,7 +5715,7 @@
       "instances": [
         {
           "date": "2026-10-20",
-          "start": "2026-10-20T10:00:00-07:00",
+          "start": "2026-10-20T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -7434,7 +7479,7 @@
     },
     {
       "id": 53552403342725,
-      "title": "Stanford Energy Seminar | Tiziana Vanorio, Stanford University",
+      "title": "Stanford Energy Seminar | More Value per Tonne: Rethinking How We Use Rock | Tiziana Vanorio, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11092026",
       "experience": "hybrid",
       "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
@@ -8662,6 +8707,31 @@
       ]
     },
     {
+      "id": 53869952396056,
+      "title": "Lunchtime Curator Talk | California Current: Art and Histories from the Bay Area",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area-7503",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53869952293654/huge/0c2697af5169556cfff243e3d56671ce3b00c1f7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
       "id": 53976376154062,
       "title": "When a “Salami Slice” Becomes a Maritime Blockade: China’s Maritime Disruptions in the Indo-Pacific and Consequences for Human Populations",
       "url": "https://events.stanford.edu/event/when-a-salami-slice-becomes-a-maritime-blockade-chinas-maritime-disruptions-in-the-indo-pacific-and-consequences-for-human-populations",
@@ -9695,6 +9765,33 @@
       ]
     },
     {
+      "id": 54047423815956,
+      "title": "\"Sound and Images of the Invisible World in Japan\"",
+      "url": "https://events.stanford.edu/event/sound-and-images-of-the-invisible-world-in-japan",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54047440874073/huge/e782e6ede2e81611036418404c66be4984390084.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-26",
+          "start": "2027-02-26T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-26"
+      ]
+    },
+    {
       "id": 54001213084977,
       "title": "Noon Concert: Piano Students of Kumaran Arul",
       "url": "https://events.stanford.edu/event/noon-arul-win27",
@@ -9722,35 +9819,8 @@
       ]
     },
     {
-      "id": 54047423815956,
-      "title": "Sound and Images of the Invisible World in Japan",
-      "url": "https://events.stanford.edu/event/sound-and-images-of-the-invisible-world-in-japan",
-      "experience": "inperson",
-      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54047440874073/huge/e782e6ede2e81611036418404c66be4984390084.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2027-02-26",
-          "start": "2027-02-26T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2027-02-26"
-      ]
-    },
-    {
       "id": 54047913855452,
-      "title": "Yōkai! Songs of the Japanese  Supernatural",
+      "title": "\"Yōkai! Songs of the Japanese  Supernatural\"",
       "url": "https://events.stanford.edu/event/yokai-songs-of-the-japanese-supernatural",
       "experience": "inperson",
       "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
