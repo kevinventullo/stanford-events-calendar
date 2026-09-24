@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:54:46+00:00",
+  "generated_at": "2026-09-24T17:48:09+00:00",
   "window": {
     "start": "2026-09-24",
     "end": "2027-03-23"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 273
+    "dated": 276
   },
   "ongoing": [
     {
@@ -3351,6 +3351,31 @@
       ]
     },
     {
+      "id": 54062506978725,
+      "title": "Learning the right lessons from COVID to do better next time: How to evaluate non-pharmaceutical interventions",
+      "url": "https://events.stanford.edu/event/learning-the-right-lessons-from-covid-to-do-better-next-time-how-to-evaluate-non-pharmaceutical-interventions",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, 120, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T13:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    {
       "id": 54012405544607,
       "title": "Pediatric Grand Rounds (CME): Marijuana Smoke and Children",
       "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-beyond-bias-dreaming-designing-and-doing-justice-in-pediatric-medical-education",
@@ -3549,6 +3574,31 @@
         {
           "date": "2026-10-01",
           "start": "2026-10-01T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    {
+      "id": 54063804301112,
+      "title": "Enviromental Humanities Project: Inaugural Meeting",
+      "url": "https://events.stanford.edu/event/enviromental-humanities-project-eh-grad-certificate-info-session",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54063850923628/huge/e3de901b01508ca515d189cb29aa955ffdf5b249.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4375,6 +4425,32 @@
         {
           "date": "2026-10-07",
           "start": "2026-10-07T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    {
+      "id": 54063367935133,
+      "title": "French Speaking Worlds: Lauren Clay - A Crisis of Representation: Chambers of Commerce, Empire, and the Politics of Grievance on the Eve of the French Revolution",
+      "url": "https://events.stanford.edu/event/french-speaking-worlds-lauren-clay-a-crisis-of-representation-chambers-of-commerce-empire-and-the-politics-of-grievance-on-the-eve-of-the-french-revolution",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54063395628942/huge/054c2266b24b6661d6cfd3a2a9d991752fea530e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T17:00:00-07:00",
           "all_day": false
         }
       ],
