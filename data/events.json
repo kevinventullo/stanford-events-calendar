@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:55:08+00:00",
+  "generated_at": "2026-09-25T17:49:13+00:00",
   "window": {
     "start": "2026-09-25",
     "end": "2027-03-24"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 281
+    "dated": 282
   },
   "ongoing": [
     {
@@ -5667,6 +5667,32 @@
         {
           "date": "2026-10-19",
           "start": "2026-10-19T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
+      "id": 54045789572264,
+      "title": "Shimizu Distinguished Lecture - Bob Pragada: \"From Disruption to Opportunity\"",
+      "url": "https://events.stanford.edu/event/shimizu-distinguished-lecture-bob-pragada",
+      "experience": "inperson",
+      "location": "Stanford ChEM-H Building, E241 - Gunn Rotunda, 290 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54045795096774/huge/d7eb11a2adba05bcdefbaa0c4d66d2c06337f8d3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T16:30:00-07:00",
           "all_day": false
         }
       ],
