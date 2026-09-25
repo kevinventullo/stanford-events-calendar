@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T17:48:09+00:00",
+  "generated_at": "2026-09-25T05:55:08+00:00",
   "window": {
-    "start": "2026-09-24",
-    "end": "2027-03-23"
+    "start": "2026-09-25",
+    "end": "2027-03-24"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 11,
-    "dated": 276
+    "dated": 281
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-24",
         "2026-09-25",
         "2026-09-26",
         "2026-09-27",
@@ -156,7 +155,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-24",
         "2026-09-25",
         "2026-09-26",
         "2026-09-27",
@@ -279,7 +277,8 @@
         "2027-03-19",
         "2027-03-20",
         "2027-03-21",
-        "2027-03-22"
+        "2027-03-22",
+        "2027-03-23"
       ]
     },
     {
@@ -299,7 +298,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-24",
         "2026-09-25",
         "2026-09-26",
         "2026-09-27",
@@ -383,7 +381,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-24",
         "2026-09-25",
         "2026-09-26",
         "2026-09-27",
@@ -507,7 +504,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-24",
         "2026-09-25",
         "2026-09-30",
         "2026-10-01",
@@ -635,7 +631,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-24",
         "2026-09-25",
         "2026-09-27",
         "2026-09-28",
@@ -730,7 +725,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-24",
         "2026-09-25",
         "2026-09-26",
         "2026-09-27",
@@ -1014,7 +1008,7 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53560273211047/huge/193c39a68858122743d275e4f67bdf08d65d2513.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54064380551427/huge/f4fdd43a0461f5c9e201f57e92e937d533a54f7e.jpg",
       "free": false,
       "first_date": "2026-10-06",
       "last_date": "2026-12-04",
@@ -1131,11 +1125,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-24",
-          "start": "2026-09-24T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-01",
           "start": "2026-10-01T10:00:00-07:00",
           "all_day": false
@@ -1162,7 +1151,6 @@
         }
       ],
       "dates": [
-        "2026-09-24",
         "2026-10-01",
         "2026-10-08",
         "2026-10-15",
@@ -1171,9 +1159,9 @@
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-09-24",
+      "next_date": "2026-10-01",
       "last_date": "2026-10-29",
-      "count": 6
+      "count": 5
     },
     {
       "id": 50967994153103,
@@ -2830,117 +2818,6 @@
   ],
   "events": [
     {
-      "id": 53845627612077,
-      "title": "CIFE 2026 Summer Program",
-      "url": "https://events.stanford.edu/event/cife-2026-summer-program",
-      "experience": "inperson",
-      "location": "Jen-Hsun Huang Building (School of Engineering), 300, 475 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium",
-        "Exhibition",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Engineering/Technology",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53845639665944/huge/a52769aef656836b5813da7d399aef5076970da5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-24",
-          "start": "2026-09-24T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-24"
-      ]
-    },
-    {
-      "id": 53862496557289,
-      "title": "Jane Casey: “Establishing Chronology in Tibetan Art: A Study of Taklung Paintings”",
-      "url": "https://events.stanford.edu/event/jane-casey-establishing-chronology-in-tibetan-art-a-study-of-taklung-paintings",
-      "experience": "inperson",
-      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Arts/Media",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53862504954413/huge/4c75bafd6443ecf898c28e722f75cecdada44d83.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-24",
-          "start": "2026-09-24T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-24"
-      ]
-    },
-    {
-      "id": 53924446895763,
-      "title": "Series Overview: Challenges and Solutions for Critical Materials in Energy and Electronics",
-      "url": "https://events.stanford.edu/event/series-overview-critical-materials",
-      "experience": "hybrid",
-      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54012445212770/huge/a2ecebff17b43be9a78a4087bf9cbb6a73db12f5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-24",
-          "start": "2026-09-24T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-24"
-      ]
-    },
-    {
-      "id": 53764792732437,
-      "title": "Three L.A.S.E.R. talks: Real and Artificial Minds, AI for Artists, Satirical Art",
-      "url": "https://events.stanford.edu/event/three-laser-talks-real-and-artificial-minds-ai-for-artists-satirical-art",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, LK 120, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Engineering/Technology",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53764810546528/huge/62dc18bb345cd0ba71fa3452f68209b25b4537b2.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-24",
-          "start": "2026-09-24T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-24"
-      ]
-    },
-    {
       "id": 53444427372710,
       "title": "6th Annual Precision Mental Health Symposium: From Circuits to Mindsets: Precision Mental Health in the Real World",
       "url": "https://events.stanford.edu/event/6th-annual-precision-mental-health-symposium-from-circuits-to-mindsets-precision-mental-health-in-the-real-world",
@@ -3483,8 +3360,31 @@
       ]
     },
     {
+      "id": 54064720634503,
+      "title": "HAI Orientation",
+      "url": "https://events.stanford.edu/event/hai-orientation",
+      "experience": "inperson",
+      "location": "Gates Computer Science Building, Backyard, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54064729755107/huge/03b5a2a90b1a85bfa4202db2701e68c0f97c374a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-30",
+          "start": "2026-09-30T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    {
       "id": 53870497268780,
-      "title": "HAI Orientation and Seminar with Daniel Zhang, Caroline Meinhardt, Jiajun Wu, and Russell Wald",
+      "title": "Seminar with Daniel Zhang, Caroline Meinhardt, Jiajun Wu, and Russell Wald",
       "url": "https://events.stanford.edu/event/hai-orientation-and-seminar-with-daniel-zhang-caroline-meinhardt-jiajun-wu-and-russell-wald",
       "experience": "inperson",
       "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
@@ -3653,6 +3553,33 @@
         {
           "date": "2026-10-01",
           "start": "2026-10-01T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    {
+      "id": 54064324667679,
+      "title": "Justene Hill Edwards | Slavery, Freedom, and the Complicated Logics of American Capitalism",
+      "url": "https://events.stanford.edu/event/justene-hill-edwards-slavery-freedom-and-the-complicated-logics-of-american-capitalism",
+      "experience": "inperson",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54064339423219/huge/bba41ae7b02ab7f06f9f5cdc618ea418fd577f69.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-01",
+          "start": "2026-10-01T12:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4896,6 +4823,32 @@
       ]
     },
     {
+      "id": 54064831729453,
+      "title": "Plastic Surgery Research Council Meeting (PSRC) Abstract Deadline",
+      "url": "https://events.stanford.edu/event/copy-of-american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline-1834",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium",
+        "Meeting"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54064883613590/huge/7cb2915a444274a1e449d4426ada8059c6382c49.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-11",
+          "start": "2026-10-11T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-11"
+      ]
+    },
+    {
       "id": 53695161366348,
       "title": "Public Tour | Cantor Highlights in Chinese",
       "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-in-chinese-4381",
@@ -5005,6 +4958,32 @@
       ],
       "dates": [
         "2026-10-12"
+      ]
+    },
+    {
+      "id": 54064328074120,
+      "title": "American Society of Colon and Rectal Surgeons Meeting (ASCRS) Abstract Deadline",
+      "url": "https://events.stanford.edu/event/copy-of-american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline-1384",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium",
+        "Meeting"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54064446828293/huge/99326461375de3f29cf53c96ca265dfa01f2e26b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-13"
       ]
     },
     {
@@ -6753,7 +6732,7 @@
         "Lecture/Presentation/Talk"
       ],
       "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53985647586703/huge/721d3b7c487dc9a19ba07fbd2a65b9d588a59810.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54064164514064/huge/4d5575d3f4f4ba40db9737cb9da50cd965d677f3.jpg",
       "free": false,
       "instances": [
         {
@@ -7053,6 +7032,31 @@
       ],
       "dates": [
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 54065335413227,
+      "title": "Biology Seminar Series - Jonathan Pritchard  \"Trait Causal Models: Combining GWAS, Genetic Perturbations, and Observational 'Omics to Study Human Biology.\"",
+      "url": "https://events.stanford.edu/event/biology-seminbar-series-jonathan-pritchard-trait-causal-models-combining-gwas-genetic-perturbations-and-observational-omics-to-study-human-biology",
+      "experience": "inperson",
+      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54065337452768/huge/786b2a0992caf99bdaaa7f319a60cce71b575b39.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
       ]
     },
     {
@@ -8058,6 +8062,32 @@
       ]
     },
     {
+      "id": 54064916323501,
+      "title": "The Pacific Association of Pediatric Surgeons (PAPS) Abstract Deadline",
+      "url": "https://events.stanford.edu/event/copy-of-plastic-surgery-research-council-meeting-psrc-abstract-deadline",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium",
+        "Meeting"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54065086438612/huge/eac1a6041477e71a181c90f40c82625906a53fa4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-15"
+      ]
+    },
+    {
       "id": 53993186509703,
       "title": "Biology Seminar Series - Cecilia Leal \"Non-Lamellar Lipid Membranes as Regulators of Biological Function \"",
       "url": "https://events.stanford.edu/event/biology-seminar-series-cecilia-leal-non-lamellar-lipid-membranes-as-regulators-of-biological-function",
@@ -8179,6 +8209,32 @@
           "date": "2026-11-17",
           "start": "2026-11-17T08:30:00-08:00",
           "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54064489983767,
+      "title": "American Surgical Association (ASA) Meeting Abstract Deadline",
+      "url": "https://events.stanford.edu/event/copy-of-american-society-of-colon-and-rectal-surgeons-meeting-ascrs-abstract-deadline",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium",
+        "Meeting"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54064532718457/huge/b1bd0944a3fb83b2fcfaa68cc714c26e043dcce9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T00:00:00-08:00",
+          "all_day": true
         }
       ],
       "dates": [
@@ -9000,6 +9056,31 @@
       ]
     },
     {
+      "id": 54065599198708,
+      "title": "Biology Seminar Series - Suliana Manley \"Compartmentalizing and connecting the mitochondrial collective\"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-suliana-manley-compartmentalizing-and-connecting-the-mitochondrial-collective",
+      "experience": "inperson",
+      "location": "Stanford ChEM-H Building, ChEM-H Auditorium, 290 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54065655465461/huge/5dc435c7dbab0ddda907e5dd81da6dc89d87e1f5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-07",
+          "start": "2026-12-07T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-07"
+      ]
+    },
+    {
       "id": 53949146024224,
       "title": "2026 Fall MFA Documentary Film Screening",
       "url": "https://events.stanford.edu/event/2026-fall-mfa-documentary-film-screening",
@@ -9155,6 +9236,31 @@
       ],
       "dates": [
         "2026-12-11"
+      ]
+    },
+    {
+      "id": 54065946629855,
+      "title": "Biology Seminar Series - Andrew Ward \"Structure first approaches to vaccine design and antibody discovery\"",
+      "url": "https://events.stanford.edu/event/biology-seminar-series-andrew-ward-structure-first-approaches-to-vaccine-design-and-antibody-discovery",
+      "experience": "inperson",
+      "location": "Clark Center, Clark S360/S361, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54065949127503/huge/778e5ac51f52ea3e77ef491ee11342b5ad6b77aa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-14",
+          "start": "2026-12-14T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-14"
       ]
     },
     {
@@ -9859,7 +9965,7 @@
       "instances": [
         {
           "date": "2027-02-26",
-          "start": "2027-02-26T15:00:00-08:00",
+          "start": "2027-02-26T16:00:00-08:00",
           "all_day": false
         }
       ],
