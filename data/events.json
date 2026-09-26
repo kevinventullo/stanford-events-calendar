@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-25T17:49:13+00:00",
+  "generated_at": "2026-09-26T05:55:05+00:00",
   "window": {
-    "start": "2026-09-25",
-    "end": "2027-03-24"
+    "start": "2026-09-26",
+    "end": "2027-03-25"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 12,
-    "recurring": 11,
-    "dated": 282
+    "recurring": 12,
+    "dated": 285
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-25",
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
@@ -155,7 +154,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-25",
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
@@ -298,7 +296,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-25",
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
@@ -381,7 +378,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-25",
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
@@ -504,7 +500,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-25",
         "2026-09-30",
         "2026-10-01",
         "2026-10-02",
@@ -587,7 +582,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-25",
         "2026-09-28",
         "2026-10-02",
         "2026-10-05",
@@ -631,7 +625,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-25",
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
@@ -725,7 +718,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-25",
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
@@ -1109,6 +1101,37 @@
   ],
   "recurring": [
     {
+      "id": 53755560975894,
+      "title": "[Cancelled] Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-09-26",
+          "start": "2026-09-26T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-26"
+      ],
+      "pattern": "Saturdays",
+      "time": "3 PM",
+      "next_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "count": 1
+    },
+    {
       "id": 53629749361008,
       "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
       "url": "https://events.stanford.edu/event/copy-of-build-your-own-bouquet-odonohue-family-stanford-educational-farm-4191",
@@ -1179,11 +1202,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-25",
-          "start": "2026-09-25T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-09",
           "start": "2026-10-09T12:00:00-07:00",
           "all_day": false
@@ -1230,7 +1248,6 @@
         }
       ],
       "dates": [
-        "2026-09-25",
         "2026-10-09",
         "2026-10-23",
         "2026-11-13",
@@ -1243,9 +1260,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-09-25",
+      "next_date": "2026-10-09",
       "last_date": "2027-03-12",
-      "count": 10
+      "count": 9
     },
     {
       "id": 53818764048938,
@@ -1613,11 +1630,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-25",
-          "start": "2026-09-25T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-26",
           "start": "2026-09-26T11:30:00-07:00",
           "all_day": false
@@ -1844,7 +1856,6 @@
         }
       ],
       "dates": [
-        "2026-09-25",
         "2026-09-26",
         "2026-10-02",
         "2026-10-03",
@@ -1893,9 +1904,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-09-25",
+      "next_date": "2026-09-26",
       "last_date": "2027-03-20",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2227,11 +2238,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-26",
-          "start": "2026-09-26T15:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-27",
           "start": "2026-09-27T15:00:00-07:00",
           "all_day": false
@@ -2468,7 +2474,6 @@
         }
       ],
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-10-03",
         "2026-10-04",
@@ -2519,9 +2524,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-09-26",
+      "next_date": "2026-09-27",
       "last_date": "2027-03-21",
-      "count": 48
+      "count": 47
     },
     {
       "id": 40909411691045,
@@ -2818,111 +2823,6 @@
   ],
   "events": [
     {
-      "id": 53444427372710,
-      "title": "6th Annual Precision Mental Health Symposium: From Circuits to Mindsets: Precision Mental Health in the Real World",
-      "url": "https://events.stanford.edu/event/6th-annual-precision-mental-health-symposium-from-circuits-to-mindsets-precision-mental-health-in-the-real-world",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center for Learning and Knowledge, 291 Campus Drive, Stanford, CA",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53444430753859/huge/f60a21cf6d706226b0d14946fbfb40d1f0865d51.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-25",
-          "start": "2026-09-25T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-25"
-      ]
-    },
-    {
-      "id": 53977091913062,
-      "title": "Five Years after the Youth Protests: The Thai Monarchy Strikes Back",
-      "url": "https://events.stanford.edu/event/five-years-after-the-youth-protests-the-thai-monarchy-strikes-back",
-      "experience": "inperson",
-      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53977095882171/huge/5912d6894899d43406f5b1093753d7ff97102338.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-25",
-          "start": "2026-09-25T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-25"
-      ]
-    },
-    {
-      "id": 53234372978860,
-      "title": "Patty Chang: surfacing | Artist Talk",
-      "url": "https://events.stanford.edu/event/surfacing-artist-talk",
-      "experience": "inperson",
-      "location": "Anderson Collection, Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53303937163194/huge/4cb681c056489877cf3d0fa542f74beb620a9cde.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-25",
-          "start": "2026-09-25T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-25"
-      ]
-    },
-    {
-      "id": 54056662638089,
-      "title": "Precourt Institute special event: Battery fast charging for affordable and sustainable EVs",
-      "url": "https://events.stanford.edu/event/precourt-special-event-battery-fast-charging-for-affordable-and-sustainable-electrification",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54056694073150/huge/d46d8e4131168cc57f383e9d36357b3f3c9cfd9e.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-25",
-          "start": "2026-09-25T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-25"
-      ]
-    },
-    {
       "id": 53790488506507,
       "title": "Challenge Success Annual Conference",
       "url": "https://events.stanford.edu/event/challenge-success-annual-conference",
@@ -3104,6 +3004,31 @@
       ]
     },
     {
+      "id": 54074369039227,
+      "title": "ADIKORO: Women and Music in Ghana featuring Pamela Owusu-Brenyah",
+      "url": "https://events.stanford.edu/event/adikoro-women-and-music-in-ghana-featuring-pamela-owusu-brenyah",
+      "experience": "inperson",
+      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Film/Screening",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54074586556638/huge/e0c604cae14a9946179f07f65bb0aca0ddc3773e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    {
       "id": 53974904585335,
       "title": "Applied Physics/Physics Colloquium: Benjamin Safdi - \" The Search for Axion Dark Matter\"",
       "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-benjamin-safdi-the-search-for-axion-dark-matter",
@@ -3170,6 +3095,31 @@
         {
           "date": "2026-09-29",
           "start": "2026-09-29T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    {
+      "id": 54067690568753,
+      "title": "Explore Energy Seminar | Stanford's Top-Flight Energy Complex",
+      "url": "https://events.stanford.edu/event/explore-energy-seminar-stanfords-top-flight-energy-complex",
+      "experience": "inperson",
+      "location": "Central Energy Facility, 506 Oak Road",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54073848689647/huge/9e26b5f23e3a85060829bf53d6af30df0ad8a669.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-09-29",
+          "start": "2026-09-29T18:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4061,6 +4011,31 @@
       ]
     },
     {
+      "id": 54073122839767,
+      "title": "Stanford Center for AI Safety (SAFE) Annual Meeting 2026",
+      "url": "https://events.stanford.edu/event/stanford-center-for-ai-safety-safe-annual-meeting-2026",
+      "experience": "inperson",
+      "location": "Paul Brest Hall, Stanford University, 555 Salvatierra Walk Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54073206551269/huge/53d403ab157addb12e70b46f73167a945eaa7f04.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-05",
+          "start": "2026-10-05T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    {
       "id": 53552162402582,
       "title": "Stanford Energy Seminar | Improving Decisions for U.S. Electricity under Policy Uncertainty | Inês Azevedo, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-10052026",
@@ -4180,6 +4155,56 @@
         {
           "date": "2026-10-06",
           "start": "2026-10-06T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
+      "id": 54067704899002,
+      "title": "Explore Energy Seminar | Energy Science & Engineering in the Stanford Doerr School of Sustainability",
+      "url": "https://events.stanford.edu/event/explore-energy-seminar-energy-in-the-stanford-doerr-school-of-sustainability",
+      "experience": "inperson",
+      "location": "Elliot Program Center, 589 Governor's Avenue",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54073883939733/huge/eab7f7ddae93479b0452d466c56c48b3a2bfc0a3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
+      "id": 54075679384949,
+      "title": "History of Art and Student Organizing  with Dr. Omowale Satterwhite",
+      "url": "https://events.stanford.edu/event/history-of-art-and-student-organizing-with-dr-omowale-satterwhite",
+      "experience": "inperson",
+      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54075684831274/huge/84ee91b4d5f486f1da67b1b74d1a36da729170dd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T13:30:00-07:00",
           "all_day": false
         }
       ],
@@ -6697,6 +6722,31 @@
       ]
     },
     {
+      "id": 54075763488294,
+      "title": "Power, Art, + Practice with Prof. Matthew Morrison, Usha Iyer",
+      "url": "https://events.stanford.edu/event/power-art-practice-with-prof-matthew-morrisonusha-iyer",
+      "experience": "inperson",
+      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511180561564/huge/6c8086a1bec359c4c123fd421480414907486882.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T13:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 53800398914002,
       "title": "The Illicit Finance Hydra: Crypto, Sanctions Evasion, and the New Financial Battlefield",
       "url": "https://events.stanford.edu/event/the-illicit-finance-hydra-crypto-sanctions-evasion-and-the-new-financial-battlefield",
@@ -7110,6 +7160,31 @@
       ],
       "dates": [
         "2026-11-02"
+      ]
+    },
+    {
+      "id": 54074581179929,
+      "title": "5th Annual Research Symposium",
+      "url": "https://events.stanford.edu/event/5th-annual-research-symposium-",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, 2nd Floor, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54075122343840/huge/2a9d30e063adf494916284a5190bd185304ad635.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T08:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
       ]
     },
     {
