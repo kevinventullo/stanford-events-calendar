@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26T16:55:23+00:00",
+  "generated_at": "2026-09-27T06:19:28+00:00",
   "window": {
-    "start": "2026-09-26",
-    "end": "2027-03-25"
+    "start": "2026-09-27",
+    "end": "2027-03-26"
   },
   "filters": {
     "public_audiences": [
@@ -22,7 +22,7 @@
   },
   "counts": {
     "ongoing": 12,
-    "recurring": 12,
+    "recurring": 11,
     "dated": 285
   },
   "ongoing": [
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
@@ -154,7 +153,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-09-28",
         "2026-10-02",
@@ -296,7 +294,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-09-28",
         "2026-10-01",
@@ -378,7 +375,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-09-28",
         "2026-10-01",
@@ -718,7 +714,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
@@ -1100,37 +1095,6 @@
     }
   ],
   "recurring": [
-    {
-      "id": 53755560975894,
-      "title": "[Cancelled] Public Tour | A Closer Look",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-26",
-          "start": "2026-09-26T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-26"
-      ],
-      "pattern": "Saturdays",
-      "time": "3 PM",
-      "next_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "count": 1
-    },
     {
       "id": 53629749361008,
       "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
@@ -1630,11 +1594,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-26",
-          "start": "2026-09-26T11:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-02",
           "start": "2026-10-02T11:30:00-07:00",
           "all_day": false
@@ -1856,7 +1815,6 @@
         }
       ],
       "dates": [
-        "2026-09-26",
         "2026-10-02",
         "2026-10-03",
         "2026-10-09",
@@ -1904,9 +1862,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-09-26",
+      "next_date": "2026-10-02",
       "last_date": "2027-03-20",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -1924,11 +1882,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-26",
-          "start": "2026-09-26T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-09-27",
           "start": "2026-09-27T13:00:00-07:00",
@@ -2166,7 +2119,6 @@
         }
       ],
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-10-03",
         "2026-10-04",
@@ -2217,9 +2169,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-09-26",
+      "next_date": "2026-09-27",
       "last_date": "2027-03-21",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2649,11 +2601,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-26",
-          "start": "2026-09-26T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-03",
           "start": "2026-10-03T09:30:00-07:00",
           "all_day": false
@@ -2710,7 +2657,6 @@
         }
       ],
       "dates": [
-        "2026-09-26",
         "2026-10-03",
         "2026-10-10",
         "2026-10-17",
@@ -2725,9 +2671,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-09-26",
+      "next_date": "2026-10-03",
       "last_date": "2026-12-12",
-      "count": 12
+      "count": 11
     },
     {
       "id": 51888083181057,
@@ -2838,42 +2784,13 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-09-26",
-          "start": "2026-09-26T08:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-09-27",
           "start": "2026-09-27T08:30:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-09-26",
         "2026-09-27"
-      ]
-    },
-    {
-      "id": 53632288644485,
-      "title": "Stanford Football vs Georgia Tech | Red Out",
-      "url": "https://events.stanford.edu/event/stanford-football-vs-georgia-tech-red-out",
-      "experience": "inperson",
-      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53632296400693/huge/027952ecaa9976d953a5120f28bf022119a413a1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-26",
-          "start": "2026-09-26T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-26"
       ]
     },
     {
@@ -10329,6 +10246,31 @@
       ],
       "dates": [
         "2027-03-15"
+      ]
+    },
+    {
+      "id": 53869955895639,
+      "title": "Evening Curator Talk | California Current: Art and Histories from the Bay Area",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area-282",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53869955870037/huge/27afe68f212996ab833ffd098822cf0f8839af8f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-03-25",
+          "start": "2027-03-25T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-25"
       ]
     }
   ]
