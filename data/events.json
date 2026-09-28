@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:22:43+00:00",
+  "generated_at": "2026-09-28T20:02:31+00:00",
   "window": {
     "start": "2026-09-28",
     "end": "2027-03-27"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 282
+    "dated": 286
   },
   "ongoing": [
     {
@@ -4262,6 +4262,32 @@
       ]
     },
     {
+      "id": 54099809720194,
+      "title": "A3C Graduate Community Boba Mixer",
+      "url": "https://events.stanford.edu/event/a3c-graduate-community-boba-mixer",
+      "experience": "inperson",
+      "location": "Asian American Activities Center, 524 Lasuen Mall, 1st Floor, 524 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54099817961903/huge/efd295c505183f8cbddb9dd3394423c7c3fec3a9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
       "id": 53870472969547,
       "title": "Cursed Subjects and Other Sights: Qajar Prison Photography and the Sounds and Silences of Heresy in Nineteenth-Century Iranian Legal History",
       "url": "https://events.stanford.edu/event/cursed-subjects-and-other-sights-qajar-prison-photography-and-the-sounds-and-silences-of-heresy-in-nineteenth-century-iranian-legal-history",
@@ -4568,6 +4594,31 @@
         {
           "date": "2026-10-09",
           "start": "2026-10-09T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    {
+      "id": 54099150082268,
+      "title": "Geophysics PhD Defense, Josh Rines: \"Greenland supraglacial lake drainage events: modeling and observations\"",
+      "url": "https://events.stanford.edu/event/geophysics-phd-defense-josh-rines-greenland-supraglacial-lake-drainage-events-modeling-and-observations",
+      "experience": "hybrid",
+      "location": "Lathrop Library, 299, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54099179997197/huge/ebe2b3f1b92d9fe35a51fecc2f0adac320f2b702.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -5101,6 +5152,32 @@
         {
           "date": "2026-10-15",
           "start": "2026-10-15T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
+      "id": 54099343520050,
+      "title": "Spreading the Spores: From the First Chef-in-Residence to the Next",
+      "url": "https://events.stanford.edu/event/spreading-the-spores",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54099390407536/huge/21377a7d037f5929b44595b87a81d586985c4242.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -9494,6 +9571,33 @@
         {
           "date": "2027-02-04",
           "start": "2027-02-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-04"
+      ]
+    },
+    {
+      "id": 54099709559855,
+      "title": "Shosan Victoria Austin: \"Zen Work Practice: Cultivating a Field of Blessings\"",
+      "url": "https://events.stanford.edu/event/zen-work-practice-cultivating-a-field-of-blessings",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54099713329956/huge/8f6affbe642d4be6bbf2cd9c4b11db699b5b23b2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-04",
+          "start": "2027-02-04T16:00:00-08:00",
           "all_day": false
         }
       ],
