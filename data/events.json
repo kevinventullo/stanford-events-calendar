@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T17:33:55+00:00",
+  "generated_at": "2026-09-28T06:22:43+00:00",
   "window": {
-    "start": "2026-09-27",
-    "end": "2027-03-26"
+    "start": "2026-09-28",
+    "end": "2027-03-27"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 12,
-    "recurring": 11,
-    "dated": 285
+    "recurring": 10,
+    "dated": 282
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-27",
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
@@ -153,7 +152,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-27",
         "2026-09-28",
         "2026-10-02",
         "2026-10-03",
@@ -274,7 +272,8 @@
         "2027-03-20",
         "2027-03-21",
         "2027-03-22",
-        "2027-03-23"
+        "2027-03-23",
+        "2027-03-26"
       ]
     },
     {
@@ -294,7 +293,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-27",
         "2026-09-28",
         "2026-10-01",
         "2026-10-02",
@@ -375,7 +373,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-27",
         "2026-09-28",
         "2026-10-01",
         "2026-10-02",
@@ -621,7 +618,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-27",
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
@@ -714,7 +710,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-27",
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
@@ -1209,6 +1204,11 @@
           "date": "2027-03-12",
           "start": "2027-03-12T12:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-26",
+          "start": "2027-03-26T12:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1220,13 +1220,14 @@
         "2027-01-22",
         "2027-02-12",
         "2027-02-26",
-        "2027-03-12"
+        "2027-03-12",
+        "2027-03-26"
       ],
       "pattern": "Fridays",
       "time": "12 PM",
       "next_date": "2026-10-09",
-      "last_date": "2027-03-12",
-      "count": 9
+      "last_date": "2027-03-26",
+      "count": 10
     },
     {
       "id": 53818764048938,
@@ -1812,6 +1813,11 @@
           "date": "2027-03-20",
           "start": "2027-03-20T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-26",
+          "start": "2027-03-26T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1858,13 +1864,14 @@
         "2027-03-12",
         "2027-03-13",
         "2027-03-19",
-        "2027-03-20"
+        "2027-03-20",
+        "2027-03-26"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-02",
-      "last_date": "2027-03-20",
-      "count": 44
+      "last_date": "2027-03-26",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -1882,11 +1889,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-27",
-          "start": "2026-09-27T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-03",
           "start": "2026-10-03T13:00:00-07:00",
@@ -2119,7 +2121,6 @@
         }
       ],
       "dates": [
-        "2026-09-27",
         "2026-10-03",
         "2026-10-04",
         "2026-10-10",
@@ -2169,9 +2170,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-09-27",
+      "next_date": "2026-10-03",
       "last_date": "2027-03-21",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2189,11 +2190,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-09-27",
-          "start": "2026-09-27T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-03",
           "start": "2026-10-03T15:00:00-07:00",
@@ -2426,7 +2422,6 @@
         }
       ],
       "dates": [
-        "2026-09-27",
         "2026-10-03",
         "2026-10-04",
         "2026-10-10",
@@ -2476,41 +2471,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-09-27",
+      "next_date": "2026-10-03",
       "last_date": "2027-03-21",
-      "count": 47
-    },
-    {
-      "id": 40909411691045,
-      "title": "Public Tour | Papua New Guinea Sculpture Walk",
-      "url": "https://events.stanford.edu/event/public_tour_papua_new_guinea_sculpture_walk_1489",
-      "experience": "inperson",
-      "location": "Meet at the Papua New Guinea Sculpture Garden, at the corner of Santa Teresa & Lomita Drive.",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38565881969726/huge/a2a76de9261f98cdb8252bbe5b50eef882bfd7d4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-27",
-          "start": "2026-09-27T11:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-27"
-      ],
-      "pattern": "Sundays",
-      "time": "11:30 AM",
-      "next_date": "2026-09-27",
-      "last_date": "2026-09-27",
-      "count": 1
+      "count": 46
     },
     {
       "id": 53889137015268,
@@ -2527,11 +2490,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53889243240200/huge/6978b1f3f2186611cb3917c3245448d2e672bae1.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-09-27",
-          "start": "2026-09-27T11:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-04",
           "start": "2026-10-04T11:00:00-07:00",
@@ -2569,7 +2527,6 @@
         }
       ],
       "dates": [
-        "2026-09-27",
         "2026-10-04",
         "2026-10-18",
         "2026-11-15",
@@ -2580,9 +2537,9 @@
       ],
       "pattern": "Sundays",
       "time": "11 AM",
-      "next_date": "2026-09-27",
+      "next_date": "2026-10-04",
       "last_date": "2027-02-28",
-      "count": 8
+      "count": 7
     },
     {
       "id": 47557682677329,
@@ -2768,81 +2725,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53790488506507,
-      "title": "Challenge Success Annual Conference",
-      "url": "https://events.stanford.edu/event/challenge-success-annual-conference",
-      "experience": "inperson",
-      "location": "Angela Nomellini & Ken Olivier building (ANKO), 485 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53790574958116/huge/bcbbbd126f3568fbdad142676fc7f862c653d24c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-27",
-          "start": "2026-09-27T08:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-27"
-      ]
-    },
-    {
-      "id": 53809122587438,
-      "title": "Morton Feldman Centenary: music and musings on time and timelessness",
-      "url": "https://events.stanford.edu/event/morton-feldman-centenary-music-and-musings-on-time-and-timelessness",
-      "experience": "inperson",
-      "location": "Anderson Collection, Anderson Collection Galleries, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53809149353151/huge/b204b8f94ca29c3d998275869b786763e25a3ca2.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-27",
-          "start": "2026-09-27T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-27"
-      ]
-    },
-    {
-      "id": 53428556578558,
-      "title": "Stanford My Heart Counts Cycling Ride",
-      "url": "https://events.stanford.edu/event/stanford-my-heart-counts-cycling-ride",
-      "experience": "inperson",
-      "location": "600 E Meadow Dr, Palo Alto, CA 94303",
-      "types": [
-        "Fitness/Recreational Sport"
-      ],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53428563503309/huge/73a4f99d87d381577840bed1a31c0903f97eb0bf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-27",
-          "start": "2026-09-27T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-27"
-      ]
-    },
     {
       "id": 53947982552067,
       "title": "Biology Seminar Series - Alex Pollen \"Perturbational Genomics of Human Brain Evolution\"",
