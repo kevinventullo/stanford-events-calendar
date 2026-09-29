@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:38:19+00:00",
+  "generated_at": "2026-09-29T18:30:14+00:00",
   "window": {
     "start": "2026-09-29",
     "end": "2027-03-28"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 287
+    "dated": 290
   },
   "ongoing": [
     {
@@ -3872,6 +3872,58 @@
       ]
     },
     {
+      "id": 54108251511021,
+      "title": "Climate Horizons | Ben Santer: Fingerprinting with Fingerprinting with Atmospheric Temperature",
+      "url": "https://events.stanford.edu/event/climate-horizons-ben-santer-fingerprinting-with-fingerprinting-with-atmospheric-temperature",
+      "experience": "inperson",
+      "location": "Press Building, 108, 425 Santa Teresa Street",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54108257754692/huge/663af2fd5a1850dc723b160091196911713ce25b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
+      "id": 54098519141202,
+      "title": "Earth & Planetary Sciences Seminar - Dr. Marjorie A. Chan  \"Red Rocks from Earth to Mars: Stories of science, crime, art\"",
+      "url": "https://events.stanford.edu/event/earth-planetary-sciences-seminar-dr-marjorie-a-chan-red-rocks-from-earth-to-mars-stories-of-science-crime-art",
+      "experience": "inperson",
+      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54098601229870/huge/6a74fedf49a8866cfb9e901e39c3638774ace76b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
       "id": 53605515226527,
       "title": "Enemies in Agreement: Political Volatility and the Design of Arms Control",
       "url": "https://events.stanford.edu/event/enemies-in-agreement-political-volatility-and-the-design-of-arms-control-jane-vaynman",
@@ -3923,7 +3975,7 @@
     },
     {
       "id": 54075679384949,
-      "title": "History of Art and Student Organizing  with Dr. Omowale Satterwhite",
+      "title": "History of Art and Student Organizing with Dr. Omowale Satterwhite",
       "url": "https://events.stanford.edu/event/history-of-art-and-student-organizing-with-dr-omowale-satterwhite",
       "experience": "inperson",
       "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
@@ -3938,7 +3990,7 @@
       "instances": [
         {
           "date": "2026-10-06",
-          "start": "2026-10-06T13:30:00-07:00",
+          "start": "2026-10-06T14:15:00-07:00",
           "all_day": false
         }
       ],
@@ -5031,6 +5083,34 @@
         {
           "date": "2026-10-14",
           "start": "2026-10-14T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
+      "id": 54108049908804,
+      "title": "Mary Bryson | Cancer’s Dirty Margins: A Minoritized Scholar’s Pathography",
+      "url": "https://events.stanford.edu/event/mary-bryson-cancers-dirty-margins-a-minoritized-scholars-pathography",
+      "experience": "inperson",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Workshop"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54108071901997/huge/37403edfdf469dfc6ecf6f97d066c1dc3829ff62.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T17:30:00-07:00",
           "all_day": false
         }
       ],
