@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T20:02:31+00:00",
+  "generated_at": "2026-09-29T06:38:19+00:00",
   "window": {
-    "start": "2026-09-28",
-    "end": "2027-03-27"
+    "start": "2026-09-29",
+    "end": "2027-03-28"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 286
+    "dated": 287
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-28",
         "2026-09-29",
         "2026-09-30",
         "2026-10-01",
@@ -152,7 +151,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-09-28",
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
@@ -273,7 +271,8 @@
         "2027-03-21",
         "2027-03-22",
         "2027-03-23",
-        "2027-03-26"
+        "2027-03-26",
+        "2027-03-27"
       ]
     },
     {
@@ -293,7 +292,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-09-28",
         "2026-10-01",
         "2026-10-02",
         "2026-10-03",
@@ -373,7 +371,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-09-28",
         "2026-10-01",
         "2026-10-02",
         "2026-10-03",
@@ -575,7 +572,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-28",
         "2026-10-02",
         "2026-10-05",
         "2026-10-09",
@@ -618,7 +614,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-28",
         "2026-09-29",
         "2026-09-30",
         "2026-10-01",
@@ -710,7 +705,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-28",
         "2026-09-29",
         "2026-09-30",
         "2026-10-01",
@@ -1818,6 +1812,11 @@
           "date": "2027-03-26",
           "start": "2027-03-26T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-27",
+          "start": "2027-03-27T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1865,13 +1864,14 @@
         "2027-03-13",
         "2027-03-19",
         "2027-03-20",
-        "2027-03-26"
+        "2027-03-26",
+        "2027-03-27"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-02",
-      "last_date": "2027-03-26",
-      "count": 45
+      "last_date": "2027-03-27",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -2118,6 +2118,11 @@
           "date": "2027-03-21",
           "start": "2027-03-21T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-27",
+          "start": "2027-03-27T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2166,13 +2171,14 @@
         "2027-03-13",
         "2027-03-14",
         "2027-03-20",
-        "2027-03-21"
+        "2027-03-21",
+        "2027-03-27"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-03",
-      "last_date": "2027-03-21",
-      "count": 46
+      "last_date": "2027-03-27",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2419,6 +2425,11 @@
           "date": "2027-03-21",
           "start": "2027-03-21T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-27",
+          "start": "2027-03-27T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2467,13 +2478,14 @@
         "2027-03-13",
         "2027-03-14",
         "2027-03-20",
-        "2027-03-21"
+        "2027-03-21",
+        "2027-03-27"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-03",
-      "last_date": "2027-03-21",
-      "count": 46
+      "last_date": "2027-03-27",
+      "count": 47
     },
     {
       "id": 53889137015268,
@@ -2725,83 +2737,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53947982552067,
-      "title": "Biology Seminar Series - Alex Pollen \"Perturbational Genomics of Human Brain Evolution\"",
-      "url": "https://events.stanford.edu/event/biology-seminar-series-alex-pollen-perturbational-genomics-of-human-brain-evolution",
-      "experience": "inperson",
-      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53947984539164/huge/434c1ec6f4a70376bc026df8ad1e5d544743a676.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-28",
-          "start": "2026-09-28T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-28"
-      ]
-    },
-    {
-      "id": 54038866673904,
-      "title": "Inside China’s Secret Prisons: An Undercover Exposé and its Lasting Legacy",
-      "url": "https://events.stanford.edu/event/inside-chinas-secret-prisons-an-undercover-expose-and-its-lasting-legacy",
-      "experience": "hybrid",
-      "location": "George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54038881140312/huge/44f45db953a46579413a510bb3888c04b25c52df.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-28",
-          "start": "2026-09-28T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-28"
-      ]
-    },
-    {
-      "id": 53552124726869,
-      "title": "Stanford Energy Seminar | AI for Climate Solutions: GRAIL | Shanthakumar Bannirchelvam, SUN New Energy Capital",
-      "url": "https://events.stanford.edu/event/stanford-energy-seminar-09282026",
-      "experience": "hybrid",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53604126698952/huge/3b36c863306841871b8537101588961373cb13b1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-28",
-          "start": "2026-09-28T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-28"
-      ]
-    },
     {
       "id": 54074369039227,
       "title": "ADIKORO: Women and Music in Ghana featuring Pamela Owusu-Brenyah",
@@ -4786,6 +4721,31 @@
       ]
     },
     {
+      "id": 54100806959750,
+      "title": "Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work",
+      "url": "https://events.stanford.edu/event/neil-thompson-forecasting-ais-impact-on-human-expertise-and-the-future-of-work",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54100810620138/huge/809696e902294d024876b67c2e17f3c252e1146a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-12",
+          "start": "2026-10-12T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    {
       "id": 53939832065433,
       "title": "Reclaiming Liberal Education in America",
       "url": "https://events.stanford.edu/event/reclaiming-liberal-education-in-america",
@@ -4877,6 +4837,29 @@
         {
           "date": "2026-10-13",
           "start": "2026-10-13T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
+      "id": 54100900488605,
+      "title": "LBRE: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/lbre-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "560 Fremont, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54100904972596/huge/dbba6d462c70ac6a586777f063334d84f1c7a3fa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -7350,6 +7333,33 @@
       ]
     },
     {
+      "id": 54054961139336,
+      "title": "What Do We Owe Each Other in the Age of AI?",
+      "url": "https://events.stanford.edu/event/what-do-we-owe-each-other-in-the-age-of-ai",
+      "experience": "inperson",
+      "location": "Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54101206208715/huge/89170d75eaac7fd034352d0b0f4b8d7e254e7c7a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
       "id": 54002115861484,
       "title": "First Fridays Collab Lab",
       "url": "https://events.stanford.edu/event/collab-lab-nov6",
@@ -8212,6 +8222,32 @@
           "date": "2026-11-17",
           "start": "2026-11-17T00:00:00-08:00",
           "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54031120591943,
+      "title": "Another Look presents Tobias Wolff's \"Old School\"",
+      "url": "https://events.stanford.edu/event/another-look-presents-tobias-wolffs-old-school",
+      "experience": "hybrid",
+      "location": "Stanford Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Meeting"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54031134331305/huge/eee65ca2100ccd9015888df05638561d3051b7ad.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T19:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
