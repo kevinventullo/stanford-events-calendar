@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T18:30:14+00:00",
+  "generated_at": "2026-09-30T06:21:03+00:00",
   "window": {
-    "start": "2026-09-29",
-    "end": "2027-03-28"
+    "start": "2026-09-30",
+    "end": "2027-03-29"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 290
+    "dated": 286
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-29",
         "2026-09-30",
         "2026-10-01",
         "2026-10-02",
@@ -272,7 +271,8 @@
         "2027-03-22",
         "2027-03-23",
         "2027-03-26",
-        "2027-03-27"
+        "2027-03-27",
+        "2027-03-28"
       ]
     },
     {
@@ -614,7 +614,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-29",
         "2026-09-30",
         "2026-10-01",
         "2026-10-02",
@@ -705,7 +704,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-29",
         "2026-09-30",
         "2026-10-01",
         "2026-10-02",
@@ -832,7 +830,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-09-29",
         "2026-09-30",
         "2026-10-01",
         "2026-10-02",
@@ -926,7 +923,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-09-29",
         "2026-09-30",
         "2026-10-01",
         "2026-10-02",
@@ -2123,6 +2119,11 @@
           "date": "2027-03-27",
           "start": "2027-03-27T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-28",
+          "start": "2027-03-28T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2172,13 +2173,14 @@
         "2027-03-14",
         "2027-03-20",
         "2027-03-21",
-        "2027-03-27"
+        "2027-03-27",
+        "2027-03-28"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-03",
-      "last_date": "2027-03-27",
-      "count": 47
+      "last_date": "2027-03-28",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2430,6 +2432,11 @@
           "date": "2027-03-27",
           "start": "2027-03-27T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-03-28",
+          "start": "2027-03-28T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2479,13 +2486,14 @@
         "2027-03-14",
         "2027-03-20",
         "2027-03-21",
-        "2027-03-27"
+        "2027-03-27",
+        "2027-03-28"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-03",
-      "last_date": "2027-03-27",
-      "count": 47
+      "last_date": "2027-03-28",
+      "count": 48
     },
     {
       "id": 53889137015268,
@@ -2737,233 +2745,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54074369039227,
-      "title": "ADIKORO: Women and Music in Ghana featuring Pamela Owusu-Brenyah",
-      "url": "https://events.stanford.edu/event/adikoro-women-and-music-in-ghana-featuring-pamela-owusu-brenyah",
-      "experience": "inperson",
-      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Film/Screening",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54074586556638/huge/e0c604cae14a9946179f07f65bb0aca0ddc3773e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 53974904585335,
-      "title": "Applied Physics/Physics Colloquium: Benjamin Safdi - \" The Search for Axion Dark Matter\"",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-benjamin-safdi-the-search-for-axion-dark-matter",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53974914746632/huge/3d252a8701e73f71de0df7e33543a64df9b35491.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 53932464840896,
-      "title": "Cotton and State Power in China: The First Hundred Years",
-      "url": "https://events.stanford.edu/event/cotton-and-state-power-in-china-the-first-hundred-years",
-      "experience": "inperson",
-      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53932565425506/huge/ad1f1d50fa404ea3c026f1c5313c1a41c288191a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 53972415478414,
-      "title": "Earth & Planetary Sciences Seminar - Josh Goodwin, PG, CEG - “Geologist-in-Training (GIT): Pathway to the California Professional Geologist License.”",
-      "url": "https://events.stanford.edu/event/earth-planetary-science-seminar-josh-goodwin-pg-ceg-geologist-in-training-git-pathway-to-the-california-professional-geologist-license-169",
-      "experience": "inperson",
-      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53972582150952/huge/835a9c999eee68c9b020aeced2225ac0e62d1483.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 54067690568753,
-      "title": "Explore Energy Seminar | Stanford's Top-Flight Energy Complex",
-      "url": "https://events.stanford.edu/event/explore-energy-seminar-stanfords-top-flight-energy-complex",
-      "experience": "inperson",
-      "location": "Central Energy Facility, 506 Oak Road",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54073848689647/huge/9e26b5f23e3a85060829bf53d6af30df0ad8a669.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 53746665215880,
-      "title": "Georgian Cinema Now: Blackbird Blackbird Blackberry (2023)",
-      "url": "https://events.stanford.edu/event/georgian-cinema-now-blackbird-blackbird-blackberry-2023",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53746667652619/huge/43d56e4bca91c0336689faae94c9e7599fc7a56d.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 53746608322759,
-      "title": "Georgian Cinema Now: Temo Re (2025)",
-      "url": "https://events.stanford.edu/event/georgian-cinema-now-temo-re-2025",
-      "experience": "inperson",
-      "location": "McMurtry Building, 115, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53746612608713/huge/74c599215fc4321b8179efc7fadc2b876bcc5a2a.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T15:45:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 54062506978725,
-      "title": "Learning the right lessons from COVID to do better next time: How to evaluate non-pharmaceutical interventions",
-      "url": "https://events.stanford.edu/event/learning-the-right-lessons-from-covid-to-do-better-next-time-how-to-evaluate-non-pharmaceutical-interventions",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, 120, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T13:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
-    {
-      "id": 54012405544607,
-      "title": "Pediatric Grand Rounds (CME): Marijuana Smoke and Children",
-      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-beyond-bias-dreaming-designing-and-doing-justice-in-pediatric-medical-education",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Medicine",
-        "Science",
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54012405511837/huge/5ce7e94fe5bdc9e173f255d98b916d14f81f847e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-29",
-          "start": "2026-09-29T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-29"
-      ]
-    },
     {
       "id": 54003782267247,
       "title": "Adam Nash @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
@@ -3477,11 +3258,17 @@
           "date": "2026-10-09",
           "start": "2026-10-09T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
         "2026-10-02",
-        "2026-10-09"
+        "2026-10-09",
+        "2026-10-23"
       ]
     },
     {
@@ -3617,7 +3404,7 @@
     },
     {
       "id": 53870657085179,
-      "title": "Stanford Award for the Advancement of the Common Good, Honoring Jacqueline Novogratz, MBA'91",
+      "title": "Stanford Award for the Advancement of the Common Good, Honoring Jacqueline Novogratz, MBA ’91",
       "url": "https://events.stanford.edu/event/novogratz-award-2026",
       "experience": "inperson",
       "location": "Graduate School of Business, Oberndorf Event Center, 655 Knight Way Stanford, CA 94305 USA",
@@ -4075,6 +3862,31 @@
       ]
     },
     {
+      "id": 54109828886328,
+      "title": "Sustainable Systems Seminar Lunch Series -  ElectriPedia: Mapping Electrification Progress at Scale via LLM-Enabled Building Permit Mining",
+      "url": "https://events.stanford.edu/event/ElectriPedia",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 382, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54109880594271/huge/f0623b6b54d73d7f66a0b90b840ccb426ef7b4df.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
       "id": 53994679393617,
       "title": "Building 360 Open House",
       "url": "https://events.stanford.edu/event/building-360-open-house-9896",
@@ -4512,6 +4324,31 @@
       ]
     },
     {
+      "id": 54110354651591,
+      "title": "SLAC Public Lecture | Blazing the path to a fusion future",
+      "url": "https://events.stanford.edu/event/slac-public-lecture-blazing-the-path-to-a-fusion-future",
+      "experience": "hybrid",
+      "location": "SLAC National Accelerator Laboratory, Kavli Auditorium, 2575 Sand Hill Rd, Menlo Park, CA 94025",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54110361265934/huge/cce1218af91ef6ca13dee9d67ca1a2a48936d8d4.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-08",
+          "start": "2026-10-08T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    {
       "id": 48049229753780,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5362",
@@ -4606,6 +4443,33 @@
         {
           "date": "2026-10-09",
           "start": "2026-10-09T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    {
+      "id": 54108592082986,
+      "title": "Low Frequency Trio: New Works by Stanford Graduate Composers",
+      "url": "https://events.stanford.edu/event/low-frequency-trio-grad-composers",
+      "experience": "inperson",
+      "location": "The Knoll, CCRMA Stage, 660 Lomita Court, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54108613509977/huge/26ffcf95cdb517afabd38669cc372de4f3d10065.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T19:30:00-07:00",
           "all_day": false
         }
       ],
@@ -4993,6 +4857,31 @@
         {
           "date": "2026-10-13",
           "start": "2026-10-13T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
+      "id": 54109578748450,
+      "title": "What Young People's Technology Use Tells Us",
+      "url": "https://events.stanford.edu/event/what-young-peoples-technology-use-tells-us",
+      "experience": "hybrid",
+      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54109853250469/huge/2206b2a9fb8a45acfbfb5ef2b02e4d8415c4d833.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -7882,6 +7771,33 @@
         {
           "date": "2026-11-12",
           "start": "2026-11-12T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
+      "id": 54112511033941,
+      "title": "Making Letters: Typography Across Hand, Screen, and Loom",
+      "url": "https://events.stanford.edu/event/making-letters-typography-across-hand-screen-and-loom",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54112523970978/huge/0e1b25c81caa8f9fb1c8c7d8405df735133834f5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T16:30:00-08:00",
           "all_day": false
         }
       ],
