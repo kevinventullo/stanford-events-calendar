@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:21:03+00:00",
+  "generated_at": "2026-09-30T18:19:38+00:00",
   "window": {
     "start": "2026-09-30",
     "end": "2027-03-29"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 286
+    "dated": 293
   },
   "ongoing": [
     {
@@ -3478,6 +3478,33 @@
       ]
     },
     {
+      "id": 54116867547734,
+      "title": "Undergraduate Composers Reading Concert",
+      "url": "https://events.stanford.edu/event/undergrad-composers-concert-fall26-1",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-03",
+          "start": "2026-10-03T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-03"
+      ]
+    },
+    {
       "id": 53613895365023,
       "title": "American Association of Plastic Surgeons Meeting (AAPS) Abstract Deadline",
       "url": "https://events.stanford.edu/event/american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline",
@@ -3497,6 +3524,31 @@
           "date": "2026-10-05",
           "start": "2026-10-05T00:00:00-07:00",
           "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    {
+      "id": 54116967988832,
+      "title": "ESE Seminar - Arun Majumdar | Dean, Stanford Doerr School of Sustainability",
+      "url": "https://events.stanford.edu/event/ese-seminar-arun-majumdar-dean-stanford-doerr-school-of-sustainability",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54116974581364/huge/80c27e3d43597fd6596fa1c6b52701668c2d04dc.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-05",
+          "start": "2026-10-05T12:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -4521,6 +4573,31 @@
       ],
       "dates": [
         "2026-10-09"
+      ]
+    },
+    {
+      "id": 54117160310070,
+      "title": "Charlie and the Tropicales",
+      "url": "https://events.stanford.edu/event/charlie-and-the-tropicales",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54117174992384/huge/3a251841cac1a5443bcbb1b26126139dca96f6b1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-10",
+          "start": "2026-10-10T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-10"
       ]
     },
     {
@@ -6134,6 +6211,33 @@
       ]
     },
     {
+      "id": 54116799493104,
+      "title": "Noon Concert: Piano Students of Ory Shihor",
+      "url": "https://events.stanford.edu/event/noon-shihor-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54116799433711/huge/450992cd3034349e161c022e43498375b625847c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    {
       "id": 53632376002784,
       "title": "Stanford Football vs NC State | Heroes Appreciation",
       "url": "https://events.stanford.edu/event/stanford-football-vs-nc-state-heroes-appreciation",
@@ -6992,7 +7096,7 @@
     },
     {
       "id": 54074581179929,
-      "title": "5th Annual Research Symposium",
+      "title": "Stanford Medicine Children's Health Center for IBD and Celiac Disease's 5th Annual Research Symposium",
       "url": "https://events.stanford.edu/event/5th-annual-research-symposium-",
       "experience": "inperson",
       "location": "Li Ka Shing Center, 2nd Floor, 291 Campus Drive, Stanford, CA 94305",
@@ -9028,6 +9132,33 @@
       ]
     },
     {
+      "id": 54116887695537,
+      "title": "Undergraduate Composers Reading Concert",
+      "url": "https://events.stanford.edu/event/undergrad-composers-concert-fall26-2",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-05"
+      ]
+    },
+    {
       "id": 53889458133359,
       "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
       "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
@@ -9638,6 +9769,33 @@
       ]
     },
     {
+      "id": 54116824460428,
+      "title": "Noon Concert: Flute Students of Alexandra Hawley",
+      "url": "https://events.stanford.edu/event/noon-hawley-win27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54116824431755/huge/82afaa256aecf37a6b9d17cea770ab75ea611fe3.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-05",
+          "start": "2027-02-05T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-05"
+      ]
+    },
+    {
       "id": 53756108004851,
       "title": "Curator Led Talk | surfacing",
       "url": "https://events.stanford.edu/event/curator-led-talk-surfacing-feb",
@@ -9792,6 +9950,33 @@
       ],
       "dates": [
         "2027-02-11"
+      ]
+    },
+    {
+      "id": 54116808150359,
+      "title": "Noon Concert: Piano Students of Ory Shihor",
+      "url": "https://events.stanford.edu/event/noon-shihor-win26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54116808119638/huge/a8a758b59e3e6b686624a6b19bd00c40938d2dc1.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-12",
+          "start": "2027-02-12T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-12"
       ]
     },
     {
