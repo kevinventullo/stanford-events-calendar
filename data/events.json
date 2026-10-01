@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T18:19:38+00:00",
+  "generated_at": "2026-10-01T06:55:29+00:00",
   "window": {
-    "start": "2026-09-30",
-    "end": "2027-03-29"
+    "start": "2026-10-01",
+    "end": "2027-03-30"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 293
+    "dated": 292
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-09-30",
         "2026-10-01",
         "2026-10-02",
         "2026-10-03",
@@ -272,7 +271,8 @@
         "2027-03-23",
         "2027-03-26",
         "2027-03-27",
-        "2027-03-28"
+        "2027-03-28",
+        "2027-03-29"
       ]
     },
     {
@@ -490,7 +490,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-09-30",
         "2026-10-01",
         "2026-10-02",
         "2026-10-07",
@@ -614,7 +613,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-09-30",
         "2026-10-01",
         "2026-10-02",
         "2026-10-04",
@@ -704,7 +702,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-09-30",
         "2026-10-01",
         "2026-10-02",
         "2026-10-03",
@@ -830,7 +827,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-09-30",
         "2026-10-01",
         "2026-10-02",
         "2026-10-03",
@@ -923,7 +919,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-09-30",
         "2026-10-01",
         "2026-10-02",
         "2026-10-05",
@@ -2669,11 +2664,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-09-30",
-          "start": "2026-09-30T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-07",
           "start": "2026-10-07T09:00:00-07:00",
           "all_day": false
@@ -2725,7 +2715,6 @@
         }
       ],
       "dates": [
-        "2026-09-30",
         "2026-10-07",
         "2026-10-14",
         "2026-10-21",
@@ -2739,190 +2728,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-09-30",
+      "next_date": "2026-10-07",
       "last_date": "2026-12-16",
-      "count": 11
+      "count": 10
     }
   ],
   "events": [
-    {
-      "id": 54003782267247,
-      "title": "Adam Nash @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/adam-nash-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003839670926/huge/03c1f3d3187f7baa8132af9d15292d4ffd077034.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
-    {
-      "id": 53612851682415,
-      "title": "Chasing Freedom: Coming of Age at the End of Empire - Dr. Simukai Chigudu",
-      "url": "https://events.stanford.edu/event/chasing-freedom-coming-og-age-at-the-end-of-empire-dr-simukai-chicgudu",
-      "experience": "inperson",
-      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53612921792924/huge/7768d8b30980d05d4779d42dfd4dafefd9262adc.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
-    {
-      "id": 53871349979577,
-      "title": "Conversations on Korean Modern and Contemporary Art",
-      "url": "https://events.stanford.edu/event/conversations-on-korean-modern-and-contemporary-art",
-      "experience": "inperson",
-      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53977606535251/huge/200865fcc3872bffc8368347d0ab91386cb45484.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
-    {
-      "id": 54064720634503,
-      "title": "HAI Orientation",
-      "url": "https://events.stanford.edu/event/hai-orientation",
-      "experience": "inperson",
-      "location": "Gates Computer Science Building, Backyard, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54064729755107/huge/03b5a2a90b1a85bfa4202db2701e68c0f97c374a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
-    {
-      "id": 53870497268780,
-      "title": "Seminar with Daniel Zhang, Caroline Meinhardt, Jiajun Wu, and Russell Wald",
-      "url": "https://events.stanford.edu/event/hai-orientation-and-seminar-with-daniel-zhang-caroline-meinhardt-jiajun-wu-and-russell-wald",
-      "experience": "inperson",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53870502352628/huge/1d5633f7c228328b61e501369d34073b70faa4b3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
-    {
-      "id": 53939315812490,
-      "title": "Sensing Nankeen: Skilled Perception as an Alternative to Centralized Production",
-      "url": "https://events.stanford.edu/event/sensing-nankeen-skilled-perception-as-an-alternative-to-centralized-production",
-      "experience": "hybrid",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53939320885756/huge/0ce7e25fe8654b5d6f04c6432883f25d5e02a2a4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
-    {
-      "id": 54003270966250,
-      "title": "SRWC Wellness Fair: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/srwc-wellness-fair-campus-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "Cardinal Hall, Dining Pavilion, 505 Broadway, Redwood City, CA, 505 Broadway, Redwood City, CA 94063",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003314453075/huge/87bbe339b7d5c61b7ecffb2c27b7cae104fb1528.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-09-30",
-          "start": "2026-09-30T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-09-30"
-      ]
-    },
     {
       "id": 54003404786768,
       "title": "800 Welch: Flu & COVID-19 Vaccination Clinic",
@@ -3792,7 +3603,7 @@
       "title": "Explore Energy Seminar | Energy Science & Engineering in the Stanford Doerr School of Sustainability",
       "url": "https://events.stanford.edu/event/explore-energy-seminar-energy-in-the-stanford-doerr-school-of-sustainability",
       "experience": "inperson",
-      "location": "Elliot Program Center, 589 Governor's Avenue",
+      "location": "Elliott Program Center, 589 Governor's Ave",
       "types": [
         "Class/Seminar"
       ],
@@ -5085,6 +4896,32 @@
       ]
     },
     {
+      "id": 54118401146911,
+      "title": "Medical Humanities: Cancer’s Dirty Margins: A Minoritized Scholar’s Pathography",
+      "url": "https://events.stanford.edu/event/medical-humanities-cancers-dirty-margins-a-minoritized-scholars-pathography",
+      "experience": "inperson",
+      "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54118402538066/huge/c3d8860a4a462e71a8686728cb5293f3c0a6518c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
       "id": 54010325570517,
       "title": "Moustafa Bayoumi | “I can’t imagine living next to a wall”: Palestine and the Tohono O’odham Nation",
       "url": "https://events.stanford.edu/event/moustafa-bayoumi-i-cant-imagine-living-next-to-a-wall-palestine-and-the-tohono-oodham-nation",
@@ -5164,6 +5001,31 @@
       ]
     },
     {
+      "id": 54118221957130,
+      "title": "Environmental Humanties Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
+      "url": "https://events.stanford.edu/event/environmental-humanties-project-hydrofeminism-in-a-time-of-endings-care-for-the-stranded",
+      "experience": "inperson",
+      "location": "Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54118223625747/huge/25ae1fd03149e312f54ae2e61f9191b9e4dd9eeb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
       "id": 52940965451403,
       "title": "Lunchtime Curator Talk | Solid Pictures",
       "url": "https://events.stanford.edu/event/lunchtime-curator-talk-solid-pictures",
@@ -5181,6 +5043,32 @@
         {
           "date": "2026-10-15",
           "start": "2026-10-15T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
+      "id": 54118571524713,
+      "title": "Philosophy and Literature: Eyal Peretz - The Work of Art: From Sacrifice to Democracy",
+      "url": "https://events.stanford.edu/event/philosophy-and-literature-eyal-peretz-the-work-of-art-from-sacrifice-to-democracy",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39114082029561/huge/6e4de4f03e72b26229c1cab6a2c6459f6428ed59.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T18:15:00-07:00",
           "all_day": false
         }
       ],
@@ -5577,6 +5465,31 @@
       "dates": [
         "2026-10-19",
         "2026-10-20"
+      ]
+    },
+    {
+      "id": 54118665007567,
+      "title": "Italian Lecture Series: Ambrogio Camozzi Pistoja - De-poeticize to Re-poeticize: Generative Poetics, Geomancy, and the Future of Dante's Comedy",
+      "url": "https://events.stanford.edu/event/italian-lecture-series-ambrogio-camozzi-pistoja-de-poeticize-to-re-poeticize-generative-poetics-geomancy-and-the-future-of-dantes-comedy",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/41624083985019/huge/7857acb575e7fd0f15cbae633beca532916d0645.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
       ]
     },
     {
@@ -6623,6 +6536,31 @@
         {
           "date": "2026-10-27",
           "start": "2026-10-27T15:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
+      "id": 54116494114663,
+      "title": "Australia's new social media legislation: the world is watching",
+      "url": "https://events.stanford.edu/event/australias-new-social-media-legislation-the-world-is-watching",
+      "experience": "hybrid",
+      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54118160614562/huge/23afef4933ffb52343e719c8a2adf62d1f62a206.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -8368,6 +8306,31 @@
       ],
       "photo": "https://localist-images.azureedge.net/photos/53428023399339/huge/b7b48cacb5ba732539971ad28f48f6ff4015edd6.jpg",
       "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54118168357981,
+      "title": "The Dangers of Focusing on the Danger of Digital Media Use",
+      "url": "https://events.stanford.edu/event/the-dangers-of-focusing-on-the-danger-of-digital-media-use-1377",
+      "experience": "hybrid",
+      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
+      "free": false,
       "instances": [
         {
           "date": "2026-11-17",
