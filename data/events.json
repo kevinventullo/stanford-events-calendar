@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:55:29+00:00",
+  "generated_at": "2026-10-01T18:44:05+00:00",
   "window": {
     "start": "2026-10-01",
     "end": "2027-03-30"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 10,
-    "dated": 292
+    "dated": 294
   },
   "ongoing": [
     {
@@ -5922,7 +5922,7 @@
     },
     {
       "id": 54039149213452,
-      "title": "Stegner Fellow Reading",
+      "title": "Stegner Fellow Reading with David Gorin and Jiachen Wang",
       "url": "https://events.stanford.edu/event/stegner-fellow-reading",
       "experience": "inperson",
       "location": "Building 460, Margaret Jacks Hall, Terrace Room (426), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
@@ -5931,7 +5931,7 @@
         "Arts/Media",
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54125170175762/huge/7b1baeb767703bcf032d642b081a1e349138af71.jpg",
       "free": false,
       "instances": [
         {
@@ -7030,6 +7030,34 @@
       ],
       "dates": [
         "2026-11-02"
+      ]
+    },
+    {
+      "id": 54125978092384,
+      "title": "Book Talk — We Shall Outlast Them: Putin's Global Campaign to Defeat the West",
+      "url": "https://events.stanford.edu/event/book-talk-we-shall-outlast-them-putins-global-campaign-to-defeat-the-west",
+      "experience": "hybrid",
+      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54126008137195/huge/d9ad9237ce2ff20b52a37d11749f55c4a9b18f20.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
       ]
     },
     {
@@ -8466,6 +8494,31 @@
         {
           "date": "2026-11-18",
           "start": "2026-11-18T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
+      "id": 54124995975177,
+      "title": "The Greek and Arabic Reception of Ptolemy's Almagest between the Seventh and the Ninth Centuries",
+      "url": "https://events.stanford.edu/event/maria-mavroudi-the-greek-and-arabic-reception-of-ptolemys-almagest",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54125008480019/huge/cac6257cebd9277b26363cc36efa239381841db5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T12:00:00-08:00",
           "all_day": false
         }
       ],
