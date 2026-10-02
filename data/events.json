@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T18:44:05+00:00",
+  "generated_at": "2026-10-02T06:46:27+00:00",
   "window": {
-    "start": "2026-10-01",
-    "end": "2027-03-30"
+    "start": "2026-10-02",
+    "end": "2027-03-31"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
-    "recurring": 10,
-    "dated": 294
+    "ongoing": 13,
+    "recurring": 11,
+    "dated": 291
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
@@ -292,7 +291,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
@@ -371,7 +369,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
@@ -490,7 +487,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-07",
         "2026-10-08",
@@ -613,7 +609,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-04",
         "2026-10-05",
@@ -702,7 +697,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
@@ -827,7 +821,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
@@ -919,7 +912,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-05",
         "2026-10-06",
@@ -961,6 +953,42 @@
         "2026-12-02",
         "2026-12-03",
         "2026-12-04"
+      ]
+    },
+    {
+      "id": 54126932427481,
+      "title": "New FusionGO app",
+      "url": "https://events.stanford.edu/event/new-fusiongo-app",
+      "experience": "inperson",
+      "location": "",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54126935516813/huge/9e2829f6d457aa115d43c5a396c02f597a370ec9.jpg",
+      "free": false,
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-28",
+      "dates": [
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
       ]
     },
     {
@@ -1092,11 +1120,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-01",
-          "start": "2026-10-01T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-08",
           "start": "2026-10-08T10:00:00-07:00",
           "all_day": false
@@ -1118,7 +1141,6 @@
         }
       ],
       "dates": [
-        "2026-10-01",
         "2026-10-08",
         "2026-10-15",
         "2026-10-22",
@@ -1126,9 +1148,9 @@
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-10-01",
+      "next_date": "2026-10-08",
       "last_date": "2026-10-29",
-      "count": 5
+      "count": 4
     },
     {
       "id": 50967994153103,
@@ -1213,6 +1235,43 @@
       "next_date": "2026-10-09",
       "last_date": "2027-03-26",
       "count": 10
+    },
+    {
+      "id": 43703730447104,
+      "title": "Festival of Lessons & Carols",
+      "url": "https://events.stanford.edu/event/lessons_carols",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Music",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/41378356083182/huge/14f261da5be8b8cab2dcd589cb255f7c73f41e04.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T19:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04",
+        "2026-12-05"
+      ],
+      "pattern": "Fri, Sat",
+      "time": "7:30 PM",
+      "next_date": "2026-12-04",
+      "last_date": "2026-12-05",
+      "count": 2
     },
     {
       "id": 53818764048938,
@@ -2506,16 +2565,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-04",
-          "start": "2026-10-04T11:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T11:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-15",
           "start": "2026-11-15T11:00:00-08:00",
           "all_day": false
@@ -2542,8 +2591,6 @@
         }
       ],
       "dates": [
-        "2026-10-04",
-        "2026-10-18",
         "2026-11-15",
         "2026-11-29",
         "2027-01-10",
@@ -2552,9 +2599,9 @@
       ],
       "pattern": "Sundays",
       "time": "11 AM",
-      "next_date": "2026-10-04",
+      "next_date": "2026-11-15",
       "last_date": "2027-02-28",
-      "count": 7
+      "count": 5
     },
     {
       "id": 47557682677329,
@@ -2734,354 +2781,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54003404786768,
-      "title": "800 Welch: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/800-welch-rd-campus-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "800 Welch Rd, 800 Welch Rd, Palo Alto, CA 94304",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003407536037/huge/0ea5635f02fbe06922c6ee4b6b7e8f4b1f0dccc7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 54063804301112,
-      "title": "Enviromental Humanities Project: Inaugural Meeting",
-      "url": "https://events.stanford.edu/event/enviromental-humanities-project-eh-grad-certificate-info-session",
-      "experience": "inperson",
-      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54063850923628/huge/e3de901b01508ca515d189cb29aa955ffdf5b249.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 53745649825975,
-      "title": "Green Parrots: A Memoir of Survival in Iran's Evin Prison",
-      "url": "https://events.stanford.edu/event/green-parrots-a-memoir-of-survival-in-irans-evin-prison",
-      "experience": "inperson",
-      "location": "In person at Stanford",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53753687980921/huge/31e7814f065edc427a3be21198fc6b6b2351aca4.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 53993529715091,
-      "title": "Invited Presentation, Building with Mushrooms at the Extremes: Design of Mycelium Biocomposite Construction Materials for Arctic Environments with Dr. Philippe Amstislavski",
-      "url": "https://events.stanford.edu/event/invited-presentation-building-with-mushrooms-at-the-extremes-design-of-mycelium-biocomposite-construction-materials-for-arctic-environments",
-      "experience": "inperson",
-      "location": "Hasso Plattner Institute of Design (d.school), Atrium, 416 Escondido Mall #550, Stanford, CA, 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53993677797814/huge/e2a0b36573285c8919329ddf525c5a7ae0da4cb8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 54064324667679,
-      "title": "Justene Hill Edwards | Slavery, Freedom, and the Complicated Logics of American Capitalism",
-      "url": "https://events.stanford.edu/event/justene-hill-edwards-slavery-freedom-and-the-complicated-logics-of-american-capitalism",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54064339423219/huge/bba41ae7b02ab7f06f9f5cdc618ea418fd577f69.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T12:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 53922486596596,
-      "title": "LATE FAME: Screening and conversation with director Kent Jones and Professor Alexander Nemerov",
-      "url": "https://events.stanford.edu/event/late-fame-screening-and-conversation-with-director-kent-jones-and-professor-alexander-nemerov",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53922498515777/huge/36474c9f301c47a3e7ab047783fac591ef81b733.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 53685756293663,
-      "title": "Lunchtime Curator Talk | JANE!",
-      "url": "https://events.stanford.edu/event/copy-of-full-lunchtime-curator-talk-jane",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53685756248605/huge/de20e620c52b46941519c9edaef1edb4b63dcf1c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 54003957524583,
-      "title": "Moving Up the Chain, Into the Water: Critical Resources in India for Advanced Computing",
-      "url": "https://events.stanford.edu/event/copy-of-series-overview-challenges-and-solutions-for-critical-materials-in-energy-and-electronics",
-      "experience": "hybrid",
-      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54012407201801/huge/5360160024ff9f7c7e00920f2d744ad37e639316.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 53850797472538,
-      "title": "Recent Advances in the Treatment of Intracranial Hemorrhage: Multidisciplinary Cerebrovascular CME",
-      "url": "https://events.stanford.edu/event/recent-advances-in-the-treatment-of-intracranial-hemorrhage-multidisciplinary-cerebrovascular-cme",
-      "experience": "inperson",
-      "location": "Sheraton Palo Alto Hotel, 625 El Camino Real, Palo Alto, CA 94301",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53850800930681/huge/8ff39240b485b3245ccad7e74a2c7040a37e1b28.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 53800058118106,
-      "title": "Sober State: Origins of Alcohol Prohibition in India| Book Talk with Darinee Alagirisamy",
-      "url": "https://events.stanford.edu/event/sober-state-origins-of-alcohol-prohibition-in-india-book-talk-with-darinee-alagirisamy",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53800247543139/huge/8082d8af5d720aa76e870de8472f6b6a9677ad37.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 53074254797631,
-      "title": "Trust and Safety Research Conference",
-      "url": "https://events.stanford.edu/event/trust-and-safety-research-conference-448",
-      "experience": "inperson",
-      "location": "Alumni Center, 326 Galvez Street, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Humanities",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53074467833161/huge/f81679a77e007120ac02c52941b5c3f708c1608b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T00:00:00-07:00",
-          "all_day": true
-        },
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-10-01",
-        "2026-10-02"
-      ]
-    },
-    {
-      "id": 53870307151880,
-      "title": "Wild & Bright: Designing for Belonging | Artist Talk with Yiying Lu, in Conversation with Thomas S. Mullaney",
-      "url": "https://events.stanford.edu/event/wild-bright-designing-for-belonging-artist-talk-with-yiying-lu-in-conversation-with-thomas-s-mullaney",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53870321165198/huge/83a6a726e19e34099247a65f26355044cda11576.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-01",
-          "start": "2026-10-01T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-02",
-        "2026-10-09",
-        "2026-10-23"
-      ]
-    },
     {
       "id": 53932526909284,
       "title": "Empirical Methods in the Age of AI",
@@ -3289,6 +2988,33 @@
       ]
     },
     {
+      "id": 53074254797631,
+      "title": "Trust and Safety Research Conference",
+      "url": "https://events.stanford.edu/event/trust-and-safety-research-conference-448",
+      "experience": "inperson",
+      "location": "Alumni Center, 326 Galvez Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Humanities",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53074467833161/huge/f81679a77e007120ac02c52941b5c3f708c1608b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-02",
+          "start": "2026-10-02T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    {
       "id": 54116867547734,
       "title": "Undergraduate Composers Reading Concert",
       "url": "https://events.stanford.edu/event/undergrad-composers-concert-fall26-1",
@@ -3313,6 +3039,31 @@
       ],
       "dates": [
         "2026-10-03"
+      ]
+    },
+    {
+      "id": 54127675503638,
+      "title": "University Public Worship Fr. Bartholomew Hutcherson, OP Preaching",
+      "url": "https://events.stanford.edu/event/university-public-worship-fr-bartholomew-hutcherson-op-preaching",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-04",
+          "start": "2026-10-04T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-04"
       ]
     },
     {
@@ -3706,7 +3457,7 @@
       "title": "SU Wellness Fair: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/su-wellness-fair-campus-flu-covid-19-vaccination-clinic",
       "experience": "inperson",
-      "location": "Arrillaga Outdoor Education & Recreation Center, 285 Santa Teresa St, Stanford, CA 94305",
+      "location": "Koret Plaza / ACSR, 341 Galvez St Stanford, CA",
       "types": [],
       "subjects": [
         "Health/Wellness"
@@ -4289,6 +4040,35 @@
       ]
     },
     {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-09",
+          "start": "2026-10-09T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-09",
+        "2026-10-23"
+      ]
+    },
+    {
       "id": 54099150082268,
       "title": "Geophysics PhD Defense, Josh Rines: \"Greenland supraglacial lake drainage events: modeling and observations\"",
       "url": "https://events.stanford.edu/event/geophysics-phd-defense-josh-rines-greenland-supraglacial-lake-drainage-events-modeling-and-observations",
@@ -4404,6 +4184,31 @@
         {
           "date": "2026-10-10",
           "start": "2026-10-10T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-10"
+      ]
+    },
+    {
+      "id": 54127638969248,
+      "title": "StanfordNext Application: Coffee & Conversation",
+      "url": "https://events.stanford.edu/event/stanfordnext-coffee-conversation",
+      "experience": "inperson",
+      "location": "Tresidder Union, 459 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54127664841471/huge/4d00851f91d33207e10fa4a8363aa02335e8831a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-10",
+          "start": "2026-10-10T10:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4574,7 +4379,7 @@
     },
     {
       "id": 53552376625397,
-      "title": "Stanford Energy Seminar | Nick Franchot, GoodFinch",
+      "title": "Stanford Energy Seminar | The Renewables Reckoning: Bankruptcies, Buyouts, and America's Energy Supply | Nick Franchot, GoodFinch",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-10122026",
       "experience": "hybrid",
       "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
@@ -4586,7 +4391,7 @@
         "Engineering/Technology",
         "Business"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53604166777973/huge/24f5abeeecda849d170b9a723da5546ce4d835bd.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54128786938145/huge/0e5e118515bcc6160aa5bdbb86c81ce25d1e3609.jpg",
       "free": false,
       "instances": [
         {
@@ -4672,6 +4477,36 @@
       ]
     },
     {
+      "id": 54126212352521,
+      "title": "Pediatric Grand Rounds (CME): Optimizing Health Care for Children with Disabilities",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-brain-in-a-dish-cure-in-a-pipeline-organoid-based-drug-discovery-for-neuropsychiatric-diseases",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness",
+        "Engineering/Technology",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54126212309511/huge/5d1f23ec26ddc6e2e32a16aa6e65d5e71d7dd4d1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 53879764192027,
       "title": "Special, Unique, and Rare: MONSTERS",
       "url": "https://events.stanford.edu/event/special-unique-and-rare-monsters",
@@ -4688,7 +4523,7 @@
         "Engineering/Technology",
         "Social Justice/Human Rights"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53879797141584/huge/ce2e13f1dd08385c89adc5858dc57be4182a9e25.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54128540610914/huge/3013c2ffcab6f1f0dbdf2a19ae4b0399c86c3bbe.jpg",
       "free": false,
       "instances": [
         {
@@ -5002,7 +4837,7 @@
     },
     {
       "id": 54118221957130,
-      "title": "Environmental Humanties Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
+      "title": "Environmental Humanities Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
       "url": "https://events.stanford.edu/event/environmental-humanties-project-hydrofeminism-in-a-time-of-endings-care-for-the-stranded",
       "experience": "inperson",
       "location": "Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
@@ -5331,6 +5166,31 @@
       "dates": [
         "2026-10-18",
         "2026-11-22"
+      ]
+    },
+    {
+      "id": 54127724113593,
+      "title": "Reunion Weekend: University Public Worship: An Alumni Memorial Service",
+      "url": "https://events.stanford.edu/event/reunion-weekend-university-public-worship-an-alumni-memorial-service-5726",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-18",
+          "start": "2026-10-18T11:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-18"
       ]
     },
     {
@@ -6050,6 +5910,33 @@
       ]
     },
     {
+      "id": 54056461980785,
+      "title": "Master of Liberal Arts Information Session",
+      "url": "https://events.stanford.edu/event/master-of-liberal-arts-information-session-stanford-events-calendar",
+      "experience": "inperson",
+      "location": "Stanford University",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54056524462733/huge/baf2f52ca067286c73ba28653994c07126f5cc05.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
       "id": 53764263973882,
       "title": "The Human Factor: Work as Science in Modern China",
       "url": "https://events.stanford.edu/event/the-human-factor-work-as-science-in-modern-china",
@@ -6661,6 +6548,36 @@
         {
           "date": "2026-10-28",
           "start": "2026-10-28T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
+      "id": 54126220445816,
+      "title": "Film Screening - American Solitaire",
+      "url": "https://events.stanford.edu/event/film-screening-american-solitaire",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, 130, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Health/Wellness",
+        "Humanities",
+        "Diversity/Identity",
+        "Medicine",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54128416290869/huge/1fb062b8195f062850099cd531129e1df0060c6e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T18:00:00-07:00",
           "all_day": false
         }
       ],
@@ -8503,17 +8420,18 @@
     },
     {
       "id": 54124995975177,
-      "title": "The Greek and Arabic Reception of Ptolemy's Almagest between the Seventh and the Ninth Centuries",
-      "url": "https://events.stanford.edu/event/maria-mavroudi-the-greek-and-arabic-reception-of-ptolemys-almagest",
+      "title": "The Greek and Arabic Reception of Ptolemy's Almagest between the 7th and 9th Centuries | Maria Mavroudi",
+      "url": "https://events.stanford.edu/event/ptolemys-almagest",
       "experience": "inperson",
       "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
       ],
       "subjects": [
-        "Humanities"
+        "Humanities",
+        "Science"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54125008480019/huge/cac6257cebd9277b26363cc36efa239381841db5.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54128702308890/huge/5b950a0300760f33773c022a2aa4f7809b9d0b9b.jpg",
       "free": false,
       "instances": [
         {
@@ -9395,6 +9313,31 @@
       ]
     },
     {
+      "id": 50605313017898,
+      "title": "Dr. Robert Huw Morgan: Holiday Organ Concert",
+      "url": "https://events.stanford.edu/event/dr-rhm-holiday-organ-concert",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50605319059972/huge/72edf1482bd832062545b55d3cbeaf05b8792542.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-13",
+          "start": "2026-12-13T13:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-13"
+      ]
+    },
+    {
       "id": 54065946629855,
       "title": "Biology Seminar Series - Andrew Ward \"Structure first approaches to vaccine design and antibody discovery\"",
       "url": "https://events.stanford.edu/event/biology-seminar-series-andrew-ward-structure-first-approaches-to-vaccine-design-and-antibody-discovery",
@@ -9675,6 +9618,32 @@
       ],
       "dates": [
         "2027-01-29"
+      ]
+    },
+    {
+      "id": 54072728872236,
+      "title": "Artist Salon: North African Traditions, New Music Creating a Concerto for Oud and Baroque Orchestra",
+      "url": "https://events.stanford.edu/event/artist-salon-north-african-traditions-new-music-creating-a-concerto-for-oud-and-baroque-orchestra",
+      "experience": "inperson",
+      "location": "Building 80, 102, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54128009148639/huge/913f6324768163d600a64396b3c47c32453b4b06.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-02",
+          "start": "2027-02-02T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-02"
       ]
     },
     {
