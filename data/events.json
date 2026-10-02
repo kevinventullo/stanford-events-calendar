@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:46:27+00:00",
+  "generated_at": "2026-10-02T18:15:45+00:00",
   "window": {
     "start": "2026-10-02",
     "end": "2027-03-31"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 11,
-    "dated": 291
+    "dated": 293
   },
   "ongoing": [
     {
@@ -4613,6 +4613,33 @@
       ]
     },
     {
+      "id": 54134630587523,
+      "title": "Will and Attention: Meghan O'Gieblyn in conversation with Professor Laura Wittman",
+      "url": "https://events.stanford.edu/event/will-and-attention-meghan-ogieblyn-in-conversation-with-professor-laura-wittman",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54134635043499/huge/c2e3dc49dc6862093e217a2ede254fc8cb0f96f6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 54055996878895,
       "title": "(GSB) Graduate School of Business: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/gsb-graduate-school-of-business-flu-covid-19-vaccination-clinic",
@@ -4930,6 +4957,32 @@
         {
           "date": "2026-10-15",
           "start": "2026-10-15T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
+      "id": 54134468570215,
+      "title": "The “Other Europe” Through the Archives",
+      "url": "https://events.stanford.edu/event/the-other-europe-through-the-archives",
+      "experience": "inperson",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Education",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54134528981323/huge/02ba4b612a3a1aaa00d4cd15949c7a7bb5eecb95.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T12:00:00-07:00",
           "all_day": false
         }
       ],
