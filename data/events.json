@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T18:15:45+00:00",
+  "generated_at": "2026-10-03T06:06:01+00:00",
   "window": {
-    "start": "2026-10-02",
-    "end": "2027-03-31"
+    "start": "2026-10-03",
+    "end": "2027-04-01"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 13,
-    "recurring": 11,
-    "dated": 293
+    "recurring": 13,
+    "dated": 294
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-04",
         "2026-10-05",
@@ -148,7 +147,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-04",
         "2026-10-05",
@@ -291,7 +289,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-04",
         "2026-10-05",
@@ -369,7 +366,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-04",
         "2026-10-05",
@@ -487,7 +483,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-02",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -567,7 +562,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-02",
         "2026-10-05",
         "2026-10-09",
         "2026-10-12",
@@ -609,7 +603,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-02",
         "2026-10-04",
         "2026-10-05",
         "2026-10-06",
@@ -697,7 +690,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-04",
         "2026-10-05",
@@ -821,7 +813,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-04",
         "2026-10-05",
@@ -912,7 +903,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-02",
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
@@ -970,7 +960,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-02",
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
@@ -1003,12 +992,11 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54064380551427/huge/f4fdd43a0461f5c9e201f57e92e937d533a54f7e.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54135725982579/huge/15b0bd973f2ab401888285d1939b3fee6497ea54.jpg",
       "free": false,
-      "first_date": "2026-10-06",
+      "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -1103,6 +1091,175 @@
     }
   ],
   "recurring": [
+    {
+      "id": 53755560975894,
+      "title": "[Cancelled] Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-03",
+          "start": "2026-10-03T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-04",
+          "start": "2026-10-04T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "3 PM",
+      "next_date": "2026-10-03",
+      "last_date": "2026-10-04",
+      "count": 2
+    },
+    {
+      "id": 54135592918030,
+      "title": "BCAS Weekly Meditation",
+      "url": "https://events.stanford.edu/event/bcas-weekly-meditation",
+      "experience": "inperson",
+      "location": "Old Union, CIRCLE Sanctuary, 3rd floor, 520 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-05",
+          "start": "2026-10-05T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-12",
+          "start": "2026-10-12T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T19:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-30",
+          "start": "2026-11-30T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-07",
+          "start": "2026-12-07T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-09",
+          "start": "2026-12-09T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-05",
+        "2026-10-07",
+        "2026-10-12",
+        "2026-10-14",
+        "2026-10-19",
+        "2026-10-21",
+        "2026-10-26",
+        "2026-10-28",
+        "2026-11-02",
+        "2026-11-04",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-16",
+        "2026-11-18",
+        "2026-11-30",
+        "2026-12-02",
+        "2026-12-07",
+        "2026-12-09"
+      ],
+      "pattern": "Mon, Wed",
+      "time": "7 PM",
+      "next_date": "2026-10-05",
+      "last_date": "2026-12-09",
+      "count": 18
+    },
     {
       "id": 53629749361008,
       "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
@@ -1288,11 +1445,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53818823543672/huge/08fb138cdc2527c77f963e09fac6886eb26e58b3.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-03",
           "start": "2026-10-03T14:00:00-07:00",
@@ -1500,7 +1652,6 @@
         }
       ],
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-04",
         "2026-10-09",
@@ -1545,9 +1696,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-02",
+      "next_date": "2026-10-03",
       "last_date": "2027-01-03",
-      "count": 42
+      "count": 41
     },
     {
       "id": 53969632558021,
@@ -1638,11 +1789,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-03",
           "start": "2026-10-03T11:30:00-07:00",
@@ -1870,7 +2016,6 @@
         }
       ],
       "dates": [
-        "2026-10-02",
         "2026-10-03",
         "2026-10-09",
         "2026-10-10",
@@ -1919,9 +2064,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-10-02",
+      "next_date": "2026-10-03",
       "last_date": "2027-03-27",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2253,16 +2398,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-03",
-          "start": "2026-10-03T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-04",
-          "start": "2026-10-04T15:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-10",
           "start": "2026-10-10T15:00:00-07:00",
           "all_day": false
@@ -2494,8 +2629,6 @@
         }
       ],
       "dates": [
-        "2026-10-03",
-        "2026-10-04",
         "2026-10-10",
         "2026-10-11",
         "2026-10-17",
@@ -2545,9 +2678,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-03",
+      "next_date": "2026-10-10",
       "last_date": "2027-03-28",
-      "count": 48
+      "count": 46
     },
     {
       "id": 53889137015268,
@@ -2799,219 +2932,39 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-02",
-          "start": "2026-10-02T08:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-03",
           "start": "2026-10-03T08:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-10-02",
         "2026-10-03"
       ]
     },
     {
-      "id": 50731549488587,
-      "title": "First Fridays at IDA (Social)",
-      "url": "https://events.stanford.edu/event/first-fridays-at-ida-social",
-      "experience": "inperson",
-      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Theater/Dance",
-        "Humanities",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/50731589838305/huge/66f5a6605e0c3218e8608fd25e12fa02c44d4a76.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T17:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-06",
-          "start": "2026-11-06T17:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-04",
-          "start": "2026-12-04T17:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-05",
-          "start": "2027-02-05T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-02",
-        "2026-11-06",
-        "2026-12-04",
-        "2027-02-05"
-      ]
-    },
-    {
-      "id": 54002030507290,
-      "title": "First Fridays Collab Lab",
-      "url": "https://events.stanford.edu/event/collab-lab-oct2",
-      "experience": "inperson",
-      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance",
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54002114363038/huge/fb42b73e3e2419f4b9e725ce031847d10cff6ad3.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T11:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "id": 51934618089632,
-      "title": "Info session for Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-info-session-for-knight-hennessy-scholars-633",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "id": 54135678914439,
+      "title": "Meditation and Speaker Panel with Dzogchen Ponlop Rinpoche",
+      "url": "https://events.stanford.edu/event/meditation-dharma-talk-and-the-human-compass-panel-with-dzogchen-ponlop-rinpoche",
+      "experience": "hybrid",
+      "location": "Old Union and Memorial Church, Morning: CIRCLE Sanctuary, Old Union; afternoon: Memorial Church",
       "types": [
         "Lecture/Presentation/Talk",
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/51934621636776/huge/b370686bc64cfd1d60d5d8afbdfcc3e9e0a396ce.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "id": 53870657085179,
-      "title": "Stanford Award for the Advancement of the Common Good, Honoring Jacqueline Novogratz, MBA ’91",
-      "url": "https://events.stanford.edu/event/novogratz-award-2026",
-      "experience": "inperson",
-      "location": "Graduate School of Business, Oberndorf Event Center, 655 Knight Way Stanford, CA 94305 USA",
-      "types": [
-        "Other"
+        "Religious/Spiritual"
       ],
       "subjects": [
-        "Public Service/Government"
+        "Religion/Spirituality"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53870683923067/huge/2592ffbd0d8a7d8a8055e5195c27b64d954dd15b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T17:45:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "id": 52744940669386,
-      "title": "Stanford Bronchopulmonary Dysplasia (BPD) Research Symposium",
-      "url": "https://events.stanford.edu/event/stanford-bronchopulmonary-dysplasia-bpd-research-symposium",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center for Learning and Knowledge, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52766126573236/huge/fcbd08735e6aa508d226e751a68fc76c357a907c.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54135699817171/huge/4f1176ea555a9dbe21e6db7d50ecfe2258ac694c.jpg",
       "free": true,
       "instances": [
         {
-          "date": "2026-10-02",
-          "start": "2026-10-02T08:00:00-07:00",
+          "date": "2026-10-03",
+          "start": "2026-10-03T09:45:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "id": 54048769031258,
-      "title": "Stanford Medicine Orchestra with violinist Stella Chen.",
-      "url": "https://events.stanford.edu/event/stanford-medicine-orchestra-with-violinist-stella-chen",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54048812658538/huge/a48d8dec0461df773f6a753351051d46f901bd7b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "id": 53074254797631,
-      "title": "Trust and Safety Research Conference",
-      "url": "https://events.stanford.edu/event/trust-and-safety-research-conference-448",
-      "experience": "inperson",
-      "location": "Alumni Center, 326 Galvez Street, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Humanities",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53074467833161/huge/f81679a77e007120ac02c52941b5c3f708c1608b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-02",
-          "start": "2026-10-02T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-10-02"
+        "2026-10-03"
       ]
     },
     {
@@ -3392,6 +3345,29 @@
         {
           "date": "2026-10-06",
           "start": "2026-10-06T14:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    {
+      "id": 54137201114992,
+      "title": "ME310 Paper Bike Challenge 2026",
+      "url": "https://events.stanford.edu/event/me310-paper-bike-challenge-2026",
+      "experience": "inperson",
+      "location": "Terman Fountain, 380 Panama Mall, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54137371332856/huge/4a0f4feaf5bffa33d27b8338f18e7734ef5b247a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-06",
+          "start": "2026-10-06T15:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4613,6 +4589,41 @@
       ]
     },
     {
+      "id": 54137696929604,
+      "title": "Why amina wadud Should Be as Famous as Malcolm X: The Life and Work of a Great American Feminist and Muslim Scholar-Activist | Carla Power",
+      "url": "https://events.stanford.edu/event/amina-wadud",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Arts/Media",
+        "Diversity/Identity",
+        "Religion/Spirituality",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54137776903558/huge/c1b7ea9247df1317d480225ba3bfda37c40b2588.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T17:30:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13",
+        "2026-11-18"
+      ]
+    },
+    {
       "id": 54134630587523,
       "title": "Will and Attention: Meghan O'Gieblyn in conversation with Professor Laura Wittman",
       "url": "https://events.stanford.edu/event/will-and-attention-meghan-ogieblyn-in-conversation-with-professor-laura-wittman",
@@ -5051,6 +5062,32 @@
       ]
     },
     {
+      "id": 54135881458631,
+      "title": "Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
+      "url": "https://events.stanford.edu/event/leadership-in-crisis-lessons-from-armed-conflict-and-devastating-disasters",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54135885334538/huge/0045cee278cc721beb9fe5a67762fb443670f144.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
       "id": 51958293297549,
       "title": "Physics Alumni Reunion Homecoming",
       "url": "https://events.stanford.edu/event/physics-alumni-reunion-homecoming",
@@ -5406,6 +5443,32 @@
       ]
     },
     {
+      "id": 54138556327672,
+      "title": "OCD Awareness Event",
+      "url": "https://events.stanford.edu/event/ocd-awareness-event-4220",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Rd, Stanford",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54138747220782/huge/b0dc07926de6a8d3754ffef7c9cdd8f6681c4e3e.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
       "id": 53286190140712,
       "title": "October Museum Minis: Storytime at the Anderson",
       "url": "https://events.stanford.edu/event/october-museum-minis-storytime-at-the-anderson",
@@ -5703,6 +5766,37 @@
       ],
       "dates": [
         "2026-10-20"
+      ]
+    },
+    {
+      "id": 54135838925820,
+      "title": "Book Talk: When Federal Climate Policy Works Benefits, Business, and Politics",
+      "url": "https://events.stanford.edu/event/book-talk-when-federal-climate-policy-works-benefits-business-and-politics",
+      "experience": "inperson",
+      "location": "Building 200, History Corner, Room 305, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business",
+        "Education",
+        "Environment/Sustainability",
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
       ]
     },
     {
@@ -6182,6 +6276,33 @@
       ]
     },
     {
+      "id": 54136092619201,
+      "title": "Trash or Treat and the Invasion of Exotic Weeds!",
+      "url": "https://events.stanford.edu/event/trash-or-treat",
+      "experience": "inperson",
+      "location": "Lagunita BBQ Pit, Lomita Drive, Stanford CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Science",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54136108447802/huge/0cfcb07f9ffd55f74aab86e274062b91119c580b.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-24"
+      ]
+    },
+    {
       "id": 53145040228521,
       "title": "CBD 2026: (In-person) iPause Guided Practice with Rev. Dereca Blackmon - Mantra as Medicine: How Spiritual Spoken Word Heals Our Busy Minds",
       "url": "https://events.stanford.edu/event/cbd-2026-in-person-ipause-with-dereca-blackmon-mantra-as-medicine",
@@ -6261,7 +6382,7 @@
       "subjects": [
         "Education"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53993178124786/huge/7f4ba3b2722d58a79bb902e280c709515830bc3c.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54136327204586/huge/ab0411e9447185360ebf6b28ec1564c29cf6e669.jpg",
       "free": false,
       "instances": [
         {
@@ -7366,6 +7487,46 @@
       ],
       "dates": [
         "2026-11-05"
+      ]
+    },
+    {
+      "id": 50731549488587,
+      "title": "First Fridays at IDA (Social)",
+      "url": "https://events.stanford.edu/event/first-fridays-at-ida-social",
+      "experience": "inperson",
+      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Theater/Dance",
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/50731589838305/huge/66f5a6605e0c3218e8608fd25e12fa02c44d4a76.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T17:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T17:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-05",
+          "start": "2027-02-05T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-12-04",
+        "2027-02-05"
       ]
     },
     {
