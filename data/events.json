@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T17:20:25+00:00",
+  "generated_at": "2026-10-05T06:36:34+00:00",
   "window": {
-    "start": "2026-10-04",
-    "end": "2027-04-02"
+    "start": "2026-10-05",
+    "end": "2027-04-03"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 13,
-    "recurring": 13,
-    "dated": 291
+    "recurring": 12,
+    "dated": 292
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
@@ -146,7 +145,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-09",
         "2026-10-10",
@@ -268,7 +266,8 @@
         "2027-03-27",
         "2027-03-28",
         "2027-03-29",
-        "2027-04-01"
+        "2027-04-01",
+        "2027-04-02"
       ]
     },
     {
@@ -288,7 +287,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-08",
         "2026-10-09",
@@ -364,7 +362,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-08",
         "2026-10-09",
@@ -600,7 +597,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
@@ -687,7 +683,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
@@ -809,7 +804,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
@@ -1086,37 +1080,6 @@
     }
   ],
   "recurring": [
-    {
-      "id": 53755560975894,
-      "title": "[Cancelled] Public Tour | A Closer Look",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-04",
-          "start": "2026-10-04T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-04"
-      ],
-      "pattern": "Sundays",
-      "time": "3 PM",
-      "next_date": "2026-10-04",
-      "last_date": "2026-10-04",
-      "count": 1
-    },
     {
       "id": 54135592918030,
       "title": "BCAS Weekly Meditation",
@@ -1435,11 +1398,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-04",
-          "start": "2026-10-04T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-09",
           "start": "2026-10-09T14:00:00-07:00",
           "all_day": false
@@ -1636,7 +1594,6 @@
         }
       ],
       "dates": [
-        "2026-10-04",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -1679,9 +1636,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-04",
+      "next_date": "2026-10-09",
       "last_date": "2027-01-03",
-      "count": 40
+      "count": 39
     },
     {
       "id": 53969632558021,
@@ -1991,6 +1948,11 @@
           "date": "2027-03-27",
           "start": "2027-03-27T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-02",
+          "start": "2027-04-02T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2037,13 +1999,14 @@
         "2027-03-19",
         "2027-03-20",
         "2027-03-26",
-        "2027-03-27"
+        "2027-03-27",
+        "2027-04-02"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-09",
-      "last_date": "2027-03-27",
-      "count": 44
+      "last_date": "2027-04-02",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2061,11 +2024,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-04",
-          "start": "2026-10-04T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-10",
           "start": "2026-10-10T13:00:00-07:00",
@@ -2298,7 +2256,6 @@
         }
       ],
       "dates": [
-        "2026-10-04",
         "2026-10-10",
         "2026-10-11",
         "2026-10-17",
@@ -2348,9 +2305,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-10-04",
+      "next_date": "2026-10-10",
       "last_date": "2027-03-28",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2879,31 +2836,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54127675503638,
-      "title": "University Public Worship Fr. Bartholomew Hutcherson, OP Preaching",
-      "url": "https://events.stanford.edu/event/university-public-worship-fr-bartholomew-hutcherson-op-preaching",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-04",
-          "start": "2026-10-04T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-04"
-      ]
-    },
     {
       "id": 53613895365023,
       "title": "American Association of Plastic Surgeons Meeting (AAPS) Abstract Deadline",
@@ -9980,6 +9912,31 @@
       ]
     },
     {
+      "id": 54156645703708,
+      "title": "2027 Global and Planetary Health Research Convening",
+      "url": "https://events.stanford.edu/event/2027-global-and-planetary-health-research-convening",
+      "experience": "inperson",
+      "location": "Arrillaga Alumni Center",
+      "types": [],
+      "subjects": [
+        "Health/Wellness",
+        "Environment/Sustainability",
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54156693976755/huge/fd5e66e6c3fae62ad9a9dfa592c06b334c8c6a9c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-11",
+          "start": "2027-02-11T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-11"
+      ]
+    },
+    {
       "id": 53552281604708,
       "title": "5th Annual Dr. Earl Ramsey Claiborne Lecture",
       "url": "https://events.stanford.edu/event/5th-annual-dr-earl-ramsey-claiborne-lecture",
@@ -10552,6 +10509,33 @@
       ],
       "dates": [
         "2027-03-25"
+      ]
+    },
+    {
+      "id": 54001125084287,
+      "title": "Noon Concert: Voice Students of Nova Jiménez",
+      "url": "https://events.stanford.edu/event/noon-jimenez-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001125058684/huge/fd49a00d44a90cd53a30e7e091c6a33c2619bd12.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-04-02",
+          "start": "2027-04-02T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-02"
       ]
     }
   ]
