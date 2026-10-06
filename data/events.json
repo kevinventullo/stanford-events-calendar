@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:15:21+00:00",
+  "generated_at": "2026-10-06T18:50:00+00:00",
   "window": {
     "start": "2026-10-06",
     "end": "2027-04-04"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 292
+    "dated": 301
   },
   "ongoing": [
     {
@@ -4167,6 +4167,31 @@
       ]
     },
     {
+      "id": 54169442429822,
+      "title": "Explore Energy Seminar | Tribal Sovereignty and Clean Energy with Native Roots Network",
+      "url": "https://events.stanford.edu/event/explore-energy-seminar-tribal-sovereignty-and-clean-energy-with-native-roots-network",
+      "experience": "inperson",
+      "location": "Muwekma-Tah-Ruk, Front Lawn, 543 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54169446202173/huge/2931bc0b5d364d7aa54783b0fafca0758ccf4dba.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 54100900488605,
       "title": "LBRE: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/lbre-flu-covid-19-vaccination-clinic",
@@ -4732,6 +4757,29 @@
       ]
     },
     {
+      "id": 54169435816449,
+      "title": "Stanford Veterans Homecoming Happy Hour!",
+      "url": "https://events.stanford.edu/event/stanford-veterans-homecoming-happy-hour",
+      "experience": "inperson",
+      "location": "MacArthur Park Restaurant, 27 University Ave, Palo Alto, CA 94301",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54169442971050/huge/b05b6aa2353fc7033b6f2e78ffe903b9bb4a830d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
       "id": 54134468570215,
       "title": "The “Other Europe” Through the Archives",
       "url": "https://events.stanford.edu/event/the-other-europe-through-the-archives",
@@ -4952,6 +5000,33 @@
         {
           "date": "2026-10-17",
           "start": "2026-10-17T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-17"
+      ]
+    },
+    {
+      "id": 54170268753251,
+      "title": "Sophomore Recital: Tyler Chew, piano",
+      "url": "https://events.stanford.edu/event/sophomore-recital-tyler-chew",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T19:30:00-07:00",
           "all_day": false
         }
       ],
@@ -5940,6 +6015,33 @@
       ]
     },
     {
+      "id": 54170286222529,
+      "title": "Faculty Recital: Livia Sohn, violin, & Bernadene Blaha, piano",
+      "url": "https://events.stanford.edu/event/faculty-recital-livia-sohn-bernadene-blaha",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54170350380292/huge/bbb3cd2ccc98d1df90d7a28845b98b5d19169ce5.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    {
       "id": 54116799493104,
       "title": "Noon Concert: Piano Students of Ory Shihor",
       "url": "https://events.stanford.edu/event/noon-shihor-fall26",
@@ -5959,6 +6061,29 @@
         {
           "date": "2026-10-23",
           "start": "2026-10-23T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    {
+      "id": 54169485323117,
+      "title": "OMAC Heroes Appreciation Tailgate (Stanford vs. NC State)",
+      "url": "https://events.stanford.edu/event/omac-heroes-appreciation-tailgate-stanford-vs-nc-state",
+      "experience": "inperson",
+      "location": "Ueland Field, Ueland Field, El Camino real & Sam McDonald Rd",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54169487581268/huge/c2e1dd515ad2793be3f29f1be22ed3ae8664ec8c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T15:00:00-07:00",
           "all_day": false
         }
       ],
@@ -7598,6 +7723,27 @@
       ]
     },
     {
+      "id": 54169501224167,
+      "title": "OMAC, City of Palo Alto & American Legion Veterans Day Celebration",
+      "url": "https://events.stanford.edu/event/omac-city-of-palo-alto-american-legion-veterans-day-celebration",
+      "experience": "inperson",
+      "location": "MacArthur Park Restaurant, 27 University Ave, Palo Alto, CA 94301",
+      "types": [],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54169503165987/huge/5709d565c5dc4971738bd38e10dfaf7d2435127f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    {
       "id": 53552403342725,
       "title": "Stanford Energy Seminar | More Value per Tonne: Rethinking How We Use Rock | Tiziana Vanorio, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11092026",
@@ -9190,6 +9336,33 @@
       ]
     },
     {
+      "id": 54170215690628,
+      "title": "Stanford Flute Ensemble – 2026 Fall Concert",
+      "url": "https://events.stanford.edu/event/flute-ensemble-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54170215643519/huge/506189eb6511473cfc9701fbac64f1760fcab4c9.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-06"
+      ]
+    },
+    {
       "id": 53889458133359,
       "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
       "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
@@ -9252,6 +9425,33 @@
       ]
     },
     {
+      "id": 54170196709968,
+      "title": "Chamber Music Showcase 1",
+      "url": "https://events.stanford.edu/event/chamber-showcase-1-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54170196653646/huge/abf7f523265f5f67cfbcc7aa9c5d2e5975e9bfd3.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-07",
+          "start": "2026-12-07T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-07"
+      ]
+    },
+    {
       "id": 53949146024224,
       "title": "2026 Fall MFA Documentary Film Screening",
       "url": "https://events.stanford.edu/event/2026-fall-mfa-documentary-film-screening",
@@ -9304,6 +9504,33 @@
       ],
       "dates": [
         "2026-12-08"
+      ]
+    },
+    {
+      "id": 54170196903059,
+      "title": "Chamber Music Showcase 2",
+      "url": "https://events.stanford.edu/event/chamber-showcase-2-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54170196870289/huge/61722246bb266c24f6aedb0f4dfecfd702a93581.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-09",
+          "start": "2026-12-09T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-09"
       ]
     },
     {
