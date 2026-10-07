@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T18:50:00+00:00",
+  "generated_at": "2026-10-07T06:54:48+00:00",
   "window": {
-    "start": "2026-10-06",
-    "end": "2027-04-04"
+    "start": "2026-10-07",
+    "end": "2027-04-05"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 301
+    "dated": 305
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -266,7 +265,8 @@
         "2027-03-29",
         "2027-04-01",
         "2027-04-02",
-        "2027-04-03"
+        "2027-04-03",
+        "2027-04-04"
       ]
     },
     {
@@ -593,7 +593,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -678,7 +677,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -798,7 +796,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -885,7 +882,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -941,7 +937,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -977,7 +972,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-06",
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
@@ -2295,6 +2289,11 @@
           "date": "2027-04-03",
           "start": "2027-04-03T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-04",
+          "start": "2027-04-04T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2344,13 +2343,14 @@
         "2027-03-21",
         "2027-03-27",
         "2027-03-28",
-        "2027-04-03"
+        "2027-04-03",
+        "2027-04-04"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-10",
-      "last_date": "2027-04-03",
-      "count": 47
+      "last_date": "2027-04-04",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2602,6 +2602,11 @@
           "date": "2027-04-03",
           "start": "2027-04-03T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-04",
+          "start": "2027-04-04T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2651,13 +2656,14 @@
         "2027-03-21",
         "2027-03-27",
         "2027-03-28",
-        "2027-04-03"
+        "2027-04-03",
+        "2027-04-04"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-10",
-      "last_date": "2027-04-03",
-      "count": 47
+      "last_date": "2027-04-04",
+      "count": 48
     },
     {
       "id": 53889137015268,
@@ -2885,309 +2891,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54036343928909,
-      "title": "Applied Physics/Physics Colloquium: Robert Huang - \"High-rate qLDPC processors\"",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-robert-huang-high-rate-qldpc-processors",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54036351076511/huge/8cfecb024a824c5b7d5b16a01bc3850a860cbdb6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 53746050079540,
-      "title": "Celebrating Human and Planetary Health | How is the Stanford community building a healthier future for people and the planet?",
-      "url": "https://events.stanford.edu/event/celebrating-human-and-planetary-health-how-is-the-stanford-community-building-a-healthier-future-for-people-and-the-planet",
-      "experience": "inperson",
-      "location": "Mackenzie Room, Jen-Hsun Huang Engineering Center Room 300, 475 Via Ortega 3rd Floor, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Education",
-        "Environment/Sustainability",
-        "Medicine",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53746933204926/huge/bb3cd8e128c621754305e17440ec86d9690fed19.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54108251511021,
-      "title": "Climate Horizons | Ben Santer: Fingerprinting with Fingerprinting with Atmospheric Temperature",
-      "url": "https://events.stanford.edu/event/climate-horizons-ben-santer-fingerprinting-with-fingerprinting-with-atmospheric-temperature",
-      "experience": "inperson",
-      "location": "Press Building, 108, 425 Santa Teresa Street",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54108257754692/huge/663af2fd5a1850dc723b160091196911713ce25b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54098519141202,
-      "title": "Earth & Planetary Sciences Seminar - Dr. Marjorie A. Chan  \"Red Rocks from Earth to Mars: Stories of science, crime, art\"",
-      "url": "https://events.stanford.edu/event/earth-planetary-sciences-seminar-dr-marjorie-a-chan-red-rocks-from-earth-to-mars-stories-of-science-crime-art",
-      "experience": "inperson",
-      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54098601229870/huge/6a74fedf49a8866cfb9e901e39c3638774ace76b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 53605515226527,
-      "title": "Enemies in Agreement: Political Volatility and the Design of Arms Control",
-      "url": "https://events.stanford.edu/event/enemies-in-agreement-political-volatility-and-the-design-of-arms-control-jane-vaynman",
-      "experience": "hybrid",
-      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53605520944132/huge/d07d73951b146a94c4628938681c7287c07b1e1b.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54067704899002,
-      "title": "Explore Energy Seminar | Energy Science & Engineering in the Stanford Doerr School of Sustainability",
-      "url": "https://events.stanford.edu/event/explore-energy-seminar-energy-in-the-stanford-doerr-school-of-sustainability",
-      "experience": "inperson",
-      "location": "Roble Hall Theater, 374 Santa Teresa St",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54073883939733/huge/eab7f7ddae93479b0452d466c56c48b3a2bfc0a3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54075679384949,
-      "title": "History of Art and Student Organizing with Dr. Omowale Satterwhite",
-      "url": "https://events.stanford.edu/event/history-of-art-and-student-organizing-with-dr-omowale-satterwhite",
-      "experience": "inperson",
-      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54075684831274/huge/84ee91b4d5f486f1da67b1b74d1a36da729170dd.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T14:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54137201114992,
-      "title": "ME310 Paper Bike Challenge 2026",
-      "url": "https://events.stanford.edu/event/me310-paper-bike-challenge-2026",
-      "experience": "inperson",
-      "location": "Terman Fountain, 380 Panama Mall, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54137371332856/huge/4a0f4feaf5bffa33d27b8338f18e7734ef5b247a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 53923679627540,
-      "title": "Nerds of the Roundtable: The Distributed Space Age",
-      "url": "https://events.stanford.edu/event/nerds-of-the-roundtable-the-distributed-space-age",
-      "experience": "inperson",
-      "location": "George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53798539274019/huge/7f3628571b0303cb7f4cef680f87bf8b43c51690.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54055372554908,
-      "title": "Pediatric Grand Rounds (CME): Brain in a Dish, Cure in a Pipeline: Organoid-Based Drug Discovery for Neuropsychiatric Diseases",
-      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-marijuana-smoke-and-children",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Medicine",
-        "Science",
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54055372504729/huge/e5b200b74db8c1f29664ccba04ab1aa6f05f30ec.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54012302942844,
-      "title": "SU Wellness Fair: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/su-wellness-fair-campus-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "Koret Plaza / ACSR, 341 Galvez St Stanford, CA",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54012307528923/huge/ec157f80abdc4af440faeed1bd9a2fa2e65e9e68.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T10:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "id": 54109828886328,
-      "title": "Sustainable Systems Seminar Lunch Series -  ElectriPedia: Mapping Electrification Progress at Scale via LLM-Enabled Building Permit Mining",
-      "url": "https://events.stanford.edu/event/ElectriPedia",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 382, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54109880594271/huge/f0623b6b54d73d7f66a0b90b840ccb426ef7b4df.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-06",
-          "start": "2026-10-06T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-06"
-      ]
-    },
     {
       "id": 54162482949046,
       "title": "A Thyme to Gather at The Farm: A Herbalism Workshop",
@@ -4043,6 +3746,31 @@
       ]
     },
     {
+      "id": 54171323569878,
+      "title": "ESE Seminar - Yuzhang Li: \"Battery Intelligence from the Inside Out\"",
+      "url": "https://events.stanford.edu/event/ese-seminar-yuzhang-li-battery-intelligence-from-the-inside-out",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171325597581/huge/eea50cb56335345f57cc84dc3ed32f7e5a3257a0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-12",
+          "start": "2026-10-12T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    {
       "id": 54100806959750,
       "title": "Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work",
       "url": "https://events.stanford.edu/event/neil-thompson-forecasting-ais-impact-on-human-expertise-and-the-future-of-work",
@@ -4430,6 +4158,32 @@
       ]
     },
     {
+      "id": 54171631248555,
+      "title": "2026 USIBC West Coast Summit",
+      "url": "https://events.stanford.edu/event/2026-usibc-west-coast-summit",
+      "experience": "inperson",
+      "location": "Hoover Institution, Shultz Auditorium, 426 Galvez Mall, Stanford CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171921375929/huge/3193b0c423771b85c06aa4286e96e354a45660ea.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
       "id": 53727281212449,
       "title": "Center for African Studies Welcome Reception",
       "url": "https://events.stanford.edu/event/cas-welcome-reception",
@@ -4780,6 +4534,29 @@
       ]
     },
     {
+      "id": 54171585676605,
+      "title": "The \"Other Europe\" through the Archives",
+      "url": "https://events.stanford.edu/event/the-other-europe-through-the-archives-5898",
+      "experience": "inperson",
+      "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54171590291575/huge/fae7721d801713424681034f75a7fe2cc40d43b4.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-15",
+          "start": "2026-10-15T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    {
       "id": 54134468570215,
       "title": "The “Other Europe” Through the Archives",
       "url": "https://events.stanford.edu/event/the-other-europe-through-the-archives",
@@ -4824,40 +4601,6 @@
         {
           "date": "2026-10-16",
           "start": "2026-10-16T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-16"
-      ]
-    },
-    {
-      "id": 52739250588724,
-      "title": "CBD 2026: Interbeing Meditation: Touching Our Source and Growing Our Connection with Kaira Jewel Lingo",
-      "url": "https://events.stanford.edu/event/cbd-2026-interbeing-meditation-with-kaira-jewel-lingo",
-      "experience": "hybrid",
-      "location": "Old Union, The CIRCLE Common Room, 3rd floor Old Union, 520 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52739250556979/huge/f1610bf0516d067ec6e21a0793a134be80f32f1d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-16",
-          "start": "2026-10-16T07:30:00-07:00",
           "all_day": false
         }
       ],
@@ -5008,6 +4751,34 @@
       ]
     },
     {
+      "id": 54171826021010,
+      "title": "Escher Quartet – Recital & Masterclass",
+      "url": "https://events.stanford.edu/event/escher-quartet-recital-masterclass",
+      "experience": "inperson",
+      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171871384495/huge/d27a6ffee1ab25a729e78d12984a3f167a800fe9.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-17",
+          "start": "2026-10-17T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-17"
+      ]
+    },
+    {
       "id": 54170268753251,
       "title": "Sophomore Recital: Tyler Chew, piano",
       "url": "https://events.stanford.edu/event/sophomore-recital-tyler-chew",
@@ -5055,38 +4826,6 @@
       ],
       "dates": [
         "2026-10-17"
-      ]
-    },
-    {
-      "id": 49845006960734,
-      "title": "Public Tour | Cantor Highlights in Spanish",
-      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-18",
-        "2026-11-22"
       ]
     },
     {
@@ -5595,6 +5334,29 @@
         {
           "date": "2026-10-20",
           "start": "2026-10-20T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 54171962479682,
+      "title": "The American Presidency: A 250 Year Perspective",
+      "url": "https://events.stanford.edu/event/the-american-presidency-a-250-year-perspective",
+      "experience": "inperson",
+      "location": "Hoover Institution - David & Joan Traitel Building - Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54172021631550/huge/f4835615165d3b68dcb808a4fe4a82ce12ab8ccd.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T15:00:00-07:00",
           "all_day": false
         }
       ],
@@ -6433,6 +6195,33 @@
       ]
     },
     {
+      "id": 54127785305853,
+      "title": "‘The Golden Age’ or ‘the Dark Time of the Plots’: Iraq and Syria in the 1950s | Matthieu Rey",
+      "url": "https://events.stanford.edu/event/the-golden-age-or-the-dark-time-of-the-plots",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171600536460/huge/487d5f11dde10a5bc14ddb6ba5b01e6deb369360.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    {
       "id": 53815614776001,
       "title": "2027 Global Health Fall Kickoff",
       "url": "https://events.stanford.edu/event/2027-global-health-fall-kickoff",
@@ -6705,12 +6494,38 @@
         "Medicine",
         "Public Service/Government"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54128416290869/huge/1fb062b8195f062850099cd531129e1df0060c6e.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54171779534245/huge/3261d0177b139332d609e55185a7817ba0c63dd6.jpg",
       "free": false,
       "instances": [
         {
           "date": "2026-10-28",
           "start": "2026-10-28T18:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
+      "id": 54172035146764,
+      "title": "French Speaking Worlds: Audrey Celestine - Negritude Experiments: Aimé Césaire and the Politics of Culture in Martinique (1970s)",
+      "url": "https://events.stanford.edu/event/french-speaking-worlds-audrey-celestine-negritude-experiments-aime-cesaire-and-the-politics-of-culture-in-martinique-1970s",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54172045036530/huge/06bd2883731bdddcbe1ce93b998386ae754a329b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T17:00:00-07:00",
           "all_day": false
         }
       ],
@@ -7028,6 +6843,29 @@
       ],
       "dates": [
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 54171731257729,
+      "title": "Ansell Scott's Retirement Ceremony",
+      "url": "https://events.stanford.edu/event/ansell-scotts-retirement-ceremony",
+      "experience": "inperson",
+      "location": "Meyer Green, 560 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54171735654774/huge/c73afaebe22f07201f54084b37e2c4412767138c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-31",
+          "start": "2026-10-31T10:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-31"
       ]
     },
     {
@@ -8169,6 +8007,33 @@
       ]
     },
     {
+      "id": 54170487070010,
+      "title": "Stanford Cello Choir",
+      "url": "https://events.stanford.edu/event/stanford-cello-choir-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54170505756710/huge/c5ccee5f8cd42610593a3a505ca1690a2a01ba4f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T14:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    {
       "id": 54003414394147,
       "title": "Stanford Chamber Chorale: Echoes",
       "url": "https://events.stanford.edu/event/chamber-chorale-fall26",
@@ -8223,6 +8088,33 @@
       ]
     },
     {
+      "id": 54170514239982,
+      "title": "The Variety 73 – Performance & Presence",
+      "url": "https://events.stanford.edu/event/variety-73-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54170514200043/huge/838d26295c6763e4179ac5bfb99e908b5a4007b1.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    {
       "id": 54029201020422,
       "title": "Tracing What Remains: Memory, Place, and Chinese American Histories",
       "url": "https://events.stanford.edu/event/tracing-what-remains-memory-place-and-chinese-american-histories",
@@ -8245,6 +8137,33 @@
       ],
       "dates": [
         "2026-11-14"
+      ]
+    },
+    {
+      "id": 54171026939491,
+      "title": "Faculty Recital: Clara Christian, piano",
+      "url": "https://events.stanford.edu/event/clara-christian-faculty-recital",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171062922731/huge/501f010ee680dceb44ac31996183f0f8c6f45999.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-15"
       ]
     },
     {
@@ -8294,6 +8213,33 @@
           "date": "2026-11-15",
           "start": "2026-11-15T00:00:00-08:00",
           "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-15"
+      ]
+    },
+    {
+      "id": 54170528742174,
+      "title": "The Voice Studio of Kathryne Jennings – Sing On!",
+      "url": "https://events.stanford.edu/event/jennings-voice-studio-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54170528711450/huge/0c44c85436e191339043bc033431586eb733f3df.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T14:30:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -8867,6 +8813,33 @@
       ]
     },
     {
+      "id": 54171071512409,
+      "title": "Stanford Baroque Soloists: Other Chaconnes",
+      "url": "https://events.stanford.edu/event/baroque-soloists-fall26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171071471447/huge/9e7dbc4327f399c589bcf833ad704504e73c30af.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    {
       "id": 54003450133619,
       "title": "Stanford Symphonic Chorus & Peninsula Symphony",
       "url": "https://events.stanford.edu/event/symphonic-chorus-peninsula-symphony-fall26-1",
@@ -8918,6 +8891,32 @@
       ],
       "dates": [
         "2026-11-21"
+      ]
+    },
+    {
+      "id": 49845006960734,
+      "title": "Public Tour | Cantor Highlights in Spanish",
+      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-22"
       ]
     },
     {
@@ -9024,6 +9023,33 @@
       ]
     },
     {
+      "id": 54171377911044,
+      "title": "Early Music Singers – Angels Singing: An Early Music Christmas",
+      "url": "https://events.stanford.edu/event/early-music-singers-fall26",
+      "experience": "hybrid",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171377856768/huge/87a29cbf07434ded48e8da142c7532e52407edeb.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
       "id": 54001209854743,
       "title": "Noon Concert: Piano Students of Kumaran Arul",
       "url": "https://events.stanford.edu/event/noon-arul-fall26",
@@ -9043,6 +9069,33 @@
         {
           "date": "2026-12-02",
           "start": "2026-12-02T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
+      "id": 54171355037758,
+      "title": "Stanford New Ensemble: Wind Power",
+      "url": "https://events.stanford.edu/event/stanford-new-ensemble-fall26",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171355013178/huge/2e6f7793631a12017b0f05c44161dc5e963de87e.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T19:30:00-08:00",
           "all_day": false
         }
       ],
@@ -9204,6 +9257,33 @@
       ]
     },
     {
+      "id": 54171570841933,
+      "title": "Festival of Lessons & Carols",
+      "url": "https://events.stanford.edu/event/lessons-and-carols-1-fall26",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual",
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171570810187/huge/7f3d59f60af1e2d9e6c70f77eae45f8eaa53b556.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04"
+      ]
+    },
+    {
       "id": 54001135875839,
       "title": "Noon Concert: Piano Students of Elizabeth Schumann",
       "url": "https://events.stanford.edu/event/noon-schumann-fall26",
@@ -9309,6 +9389,33 @@
       ]
     },
     {
+      "id": 54171614598274,
+      "title": "Festival of Lessons & Carols",
+      "url": "https://events.stanford.edu/event/lessons-and-carols-2-fall26",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual",
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54171614559360/huge/1cd0e5ebe2f9bd1663576a050b6d0f867160ebd0.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-05"
+      ]
+    },
+    {
       "id": 54116887695537,
       "title": "Undergraduate Composers Reading Concert",
       "url": "https://events.stanford.edu/event/undergrad-composers-concert-fall26-2",
@@ -9337,7 +9444,7 @@
     },
     {
       "id": 54170215690628,
-      "title": "Stanford Flute Ensemble – 2026 Fall Concert",
+      "title": "Stanford Flute Ensemble",
       "url": "https://events.stanford.edu/event/flute-ensemble-fall26",
       "experience": "inperson",
       "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
