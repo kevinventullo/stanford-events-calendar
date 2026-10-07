@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T06:54:48+00:00",
+  "generated_at": "2026-10-07T19:15:14+00:00",
   "window": {
     "start": "2026-10-07",
     "end": "2027-04-05"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 305
+    "dated": 310
   },
   "ongoing": [
     {
@@ -2892,31 +2892,6 @@
   ],
   "events": [
     {
-      "id": 54162482949046,
-      "title": "A Thyme to Gather at The Farm: A Herbalism Workshop",
-      "url": "https://events.stanford.edu/event/a-thyme-to-gather-at-the-farm-a-herbalism-workshop",
-      "experience": "inperson",
-      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T05:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
       "id": 53994679393617,
       "title": "Building 360 Open House",
       "url": "https://events.stanford.edu/event/building-360-open-house-9896",
@@ -3083,6 +3058,31 @@
         {
           "date": "2026-10-07",
           "start": "2026-10-07T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    {
+      "id": 54162482949046,
+      "title": "RESCHEDULED to 10/21: A Thyme to Gather at The Farm: A Herbalism Workshop",
+      "url": "https://events.stanford.edu/event/a-thyme-to-gather-at-the-farm-a-herbalism-workshop",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-07",
+          "start": "2026-10-07T05:15:00-07:00",
           "all_day": false
         }
       ],
@@ -5388,6 +5388,31 @@
       ]
     },
     {
+      "id": 54178302622575,
+      "title": "10/21: A Thyme to Gather at The Farm: A Herbalism Workshop",
+      "url": "https://events.stanford.edu/event/rescheduled-to-1021-a-thyme-to-gather-at-the-farm-a-herbalism-workshop",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, Huffington Barn: 555 Fremont Rd. Stanford Ca 94305 (not 175 Electioneer Rd), 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
       "id": 54135838925820,
       "title": "Book Talk: When Federal Climate Policy Works Benefits, Business, and Politics",
       "url": "https://events.stanford.edu/event/book-talk-when-federal-climate-policy-works-benefits-business-and-politics",
@@ -5703,6 +5728,33 @@
       ]
     },
     {
+      "id": 54179181594470,
+      "title": "Mine Less, Last Longer? Singapore Solutions for Critical Materials in Energy and Electronics",
+      "url": "https://events.stanford.edu/event/copy-of-series-overview-challenges-and-solutions-for-critical-materials-in-energy-and-electronics-3879",
+      "experience": "hybrid",
+      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54179357477078/huge/73e9f3fbdb57dff31352a24623acffcb23a4a24a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
       "id": 53764263973882,
       "title": "The Human Factor: Work as Science in Modern China",
       "url": "https://events.stanford.edu/event/the-human-factor-work-as-science-in-modern-china",
@@ -5774,6 +5826,36 @@
       ],
       "dates": [
         "2026-10-22"
+      ]
+    },
+    {
+      "id": 54178982975502,
+      "title": "Breathing Room: A regional summit on health, indoor air quality, and residential stoves.",
+      "url": "https://events.stanford.edu/event/breathing-room-a-regional-summit-on-health-indoor-air-quality-and-residential-stoves",
+      "experience": "inperson",
+      "location": "Stanford Redwood City Campus, 2855 Bay Rd, Redwood City, CA 94063",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Business",
+        "Environment/Sustainability",
+        "Law/Public Policy/Politics",
+        "Medicine",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54178998111935/huge/85db73c529c1e6738bea9a028135b7dd8727b1ca.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T08:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
       ]
     },
     {
@@ -7275,6 +7357,35 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 54177973515462,
+      "title": "The Queer Thing about Sin | Harry Tanner",
+      "url": "https://events.stanford.edu/event/the-queer-thing-about-sin-harry-tanner",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Religion/Spirituality",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54177983300970/huge/11bd7fdd81c6ef2cf638496e854653a341a04287.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T17:30:00-08:00",
           "all_day": false
         }
       ],
@@ -8992,6 +9103,29 @@
       ],
       "dates": [
         "2026-11-30"
+      ]
+    },
+    {
+      "id": 54178976598416,
+      "title": "Applied Physics/Physics Colloquium: Jo Dunkley - \"The Simons Observatory\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-jo-dunkley-the-simons-observatory",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54178986198698/huge/a1d9c70c48bf491de5ed4d5530abf341de82c7af.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
       ]
     },
     {
