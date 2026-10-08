@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T19:15:14+00:00",
+  "generated_at": "2026-10-08T07:03:18+00:00",
   "window": {
-    "start": "2026-10-07",
-    "end": "2027-04-05"
+    "start": "2026-10-08",
+    "end": "2027-04-06"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 310
+    "dated": 309
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-10",
@@ -266,7 +265,8 @@
         "2027-04-01",
         "2027-04-02",
         "2027-04-03",
-        "2027-04-04"
+        "2027-04-04",
+        "2027-04-05"
       ]
     },
     {
@@ -474,7 +474,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-14",
@@ -593,7 +592,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-11",
@@ -677,7 +675,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-10",
@@ -796,7 +793,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-10",
@@ -882,7 +878,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-12",
@@ -937,7 +932,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-12",
@@ -972,7 +966,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-10",
@@ -1017,7 +1010,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-12",
@@ -1127,11 +1119,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-07",
-          "start": "2026-10-07T19:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-12",
           "start": "2026-10-12T19:00:00-07:00",
           "all_day": false
@@ -1213,7 +1200,6 @@
         }
       ],
       "dates": [
-        "2026-10-07",
         "2026-10-12",
         "2026-10-14",
         "2026-10-19",
@@ -1233,9 +1219,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-10-07",
+      "next_date": "2026-10-12",
       "last_date": "2026-12-09",
-      "count": 17
+      "count": 16
     },
     {
       "id": 53629749361008,
@@ -2821,11 +2807,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-07",
-          "start": "2026-10-07T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-14",
           "start": "2026-10-14T09:00:00-07:00",
           "all_day": false
@@ -2872,7 +2853,6 @@
         }
       ],
       "dates": [
-        "2026-10-07",
         "2026-10-14",
         "2026-10-21",
         "2026-10-28",
@@ -2885,211 +2865,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-10-07",
+      "next_date": "2026-10-14",
       "last_date": "2026-12-16",
-      "count": 10
+      "count": 9
     }
   ],
   "events": [
-    {
-      "id": 53994679393617,
-      "title": "Building 360 Open House",
-      "url": "https://events.stanford.edu/event/building-360-open-house-9896",
-      "experience": "inperson",
-      "location": "Building 360, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53994695139110/huge/acbbe2e56624af0e4ee20982001ea2dfbc79427e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T11:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": 54012334885643,
-      "title": "Clark Center: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/clark-center-campus-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "Clark Center, 318 Campus Drive, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54012340048968/huge/fa3bf57a8ae73683d418e95a8182e720d9d16a4f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": 53971964567762,
-      "title": "Distinguished Lecture Series Lunch Talk | Two Modes of Sedentism on the Tibetan Plateau",
-      "url": "https://events.stanford.edu/event/distinguished-lecture-series-lunch-talk-two-modes-of-sedentism-on-the-tibetan-plateau",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53971982999062/huge/e7eb35bd7d3b0484dee52f7920ea73f3f9a13ce9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": 54003893812402,
-      "title": "Eric Ries @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/eric-ries-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003914262267/huge/ad30e2eaa17ab6305b9c4e16fead681c3f942d07.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": 54063367935133,
-      "title": "French Speaking Worlds: Lauren Clay - A Crisis of Representation: Chambers of Commerce, Empire, and the Politics of Grievance on the Eve of the French Revolution",
-      "url": "https://events.stanford.edu/event/french-speaking-worlds-lauren-clay-a-crisis-of-representation-chambers-of-commerce-empire-and-the-politics-of-grievance-on-the-eve-of-the-french-revolution",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54063395628942/huge/054c2266b24b6661d6cfd3a2a9d991752fea530e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": 53861040222429,
-      "title": "HAI Seminar with Tim de Silva",
-      "url": "https://events.stanford.edu/event/hai-seminar-with-tim-de-silva",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53861046414467/huge/95391bd212a3a7bb93ee549c8e3bc7bdbe34ca14.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": 54001322692353,
-      "title": "Noon Concert: Guitar Students of Charles Ferguson",
-      "url": "https://events.stanford.edu/event/noon-ferguson-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54001333362554/huge/46f0ab1ce55c766201e8adb6e0a37099f42c4556.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T12:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": 54162482949046,
-      "title": "RESCHEDULED to 10/21: A Thyme to Gather at The Farm: A Herbalism Workshop",
-      "url": "https://events.stanford.edu/event/a-thyme-to-gather-at-the-farm-a-herbalism-workshop",
-      "experience": "inperson",
-      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-07",
-          "start": "2026-10-07T05:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-07"
-      ]
-    },
     {
       "id": 54099809720194,
       "title": "A3C Graduate Community Boba Mixer",
@@ -4609,6 +4390,29 @@
       ]
     },
     {
+      "id": 54180685615263,
+      "title": "Design Alumni Meet Up At The d.school",
+      "url": "https://events.stanford.edu/event/design-alumni-meet-up-at-the-dschool",
+      "experience": "inperson",
+      "location": "Building 550, Peterson Laboratory, 416 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54180690114836/huge/85f9173294c7066fed0b3d9c52e70e3b7ba7f3dc.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
       "id": 54135881458631,
       "title": "Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
       "url": "https://events.stanford.edu/event/leadership-in-crisis-lessons-from-armed-conflict-and-devastating-disasters",
@@ -5286,6 +5090,35 @@
         {
           "date": "2026-10-20",
           "start": "2026-10-20T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 54179619437966,
+      "title": "Pediatric Grand Rounds (CME): Neonatology 4.0: Reimagining Newborn Brain Care in the Era of Digital Health",
+      "url": "https://events.stanford.edu/event/pediatric-grand-rounds-cme-neonatology-40-reimagining-newborn-brain-care-in-the-era-of-digital-health",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54179619384716/huge/8c48eeb25ba1e0d310e65af124a013cea00f3613.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T08:00:00-07:00",
           "all_day": false
         }
       ],
@@ -6454,6 +6287,35 @@
       ]
     },
     {
+      "id": 54179653534631,
+      "title": "Pediatric Grand Rounds (CME): When Governments Swipe Left: Australia’s Social Media Policy",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-neonatology-40-reimagining-newborn-brain-care-in-the-era-of-digital-health",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54179653510053/huge/a8c4c4050c032e83af2e50d323a24475fc502229.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T08:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 54075763488294,
       "title": "Power, Art, + Practice with Prof. Matthew Morrison, Usha Iyer",
       "url": "https://events.stanford.edu/event/power-art-practice-with-prof-matthew-morrisonusha-iyer",
@@ -6608,6 +6470,33 @@
         {
           "date": "2026-10-28",
           "start": "2026-10-28T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
+      "id": 54180542655353,
+      "title": "Level Up Your Halloween Costume",
+      "url": "https://events.stanford.edu/event/level-up-your-halloween-costume",
+      "experience": "inperson",
+      "location": "Jen-Hsun Huang Building (School of Engineering), 203, 475 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54180546739945/huge/3618cd44d1be26777120ab512559506768ec7c56.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T15:00:00-07:00",
           "all_day": false
         }
       ],
@@ -7421,6 +7310,35 @@
       ]
     },
     {
+      "id": 54170450698624,
+      "title": "Big Tech, Democracy, and Human Rights",
+      "url": "https://events.stanford.edu/event/big-tech-democracy-and-human-rights",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Business",
+        "Humanities",
+        "Diversity/Identity",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54181189023056/huge/902f626ece82b35c49ea27370082e698ba2e59eb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    {
       "id": 54162623262509,
       "title": "eWEAR Health Prize @ Stanford U.",
       "url": "https://events.stanford.edu/event/ewear-health-prize-stanford-u-2026",
@@ -8002,6 +7920,33 @@
         {
           "date": "2026-11-12",
           "start": "2026-11-12T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
+      "id": 54110219613216,
+      "title": "Unsettling the New AI Status Quo",
+      "url": "https://events.stanford.edu/event/unsettling-the-new-ai-status-quo",
+      "experience": "inperson",
+      "location": "Tresidder Union, Cypress Lounge, 2nd Floor, 459 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54179555002385/huge/d3c9211fae891c51a79a4814d982430f3d40be9c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T11:30:00-08:00",
           "all_day": false
         }
       ],
@@ -10079,6 +10024,33 @@
       ],
       "dates": [
         "2027-01-19"
+      ]
+    },
+    {
+      "id": 54181164266639,
+      "title": "Arts +AI in the Evolving Research University",
+      "url": "https://events.stanford.edu/event/arts-ai-in-the-evolving-research-university",
+      "experience": "inperson",
+      "location": "Jen-Hsun Huang Building (School of Engineering), Mackenzie Room (3rd floor), 475 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-22",
+          "start": "2027-01-22T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-22"
       ]
     },
     {
