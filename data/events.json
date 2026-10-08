@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:03:18+00:00",
+  "generated_at": "2026-10-08T19:11:47+00:00",
   "window": {
     "start": "2026-10-08",
     "end": "2027-04-06"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 309
+    "dated": 311
   },
   "ongoing": [
     {
@@ -1063,10 +1063,9 @@
       ],
       "photo": "https://localist-images.azureedge.net/photos/53816405171248/huge/3860ef1f64ed648cc36edd0fc99fdbc6ebda7793.jpg",
       "free": false,
-      "first_date": "2026-10-14",
+      "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-19",
@@ -4165,6 +4164,34 @@
       ]
     },
     {
+      "id": 54003886938232,
+      "title": "Ukraine: An Update from the Ground",
+      "url": "https://events.stanford.edu/event/ukraine-an-update-from-the-ground",
+      "experience": "hybrid",
+      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54101689265848/huge/5591fc3e64c17682acb87b31bee2b6b320df173e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
       "id": 54003923027648,
       "title": "Vineet Edupuganti @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
       "url": "https://events.stanford.edu/event/vineet-edupuganti-entrepreneurial-thought-leaders-speaker-series-etl",
@@ -6491,7 +6518,7 @@
         "Education",
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54180546739945/huge/3618cd44d1be26777120ab512559506768ec7c56.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54187603504472/huge/83886a733a3d97ef514037ac4514800c0139035a.jpg",
       "free": false,
       "instances": [
         {
@@ -7095,6 +7122,34 @@
       ]
     },
     {
+      "id": 54188086067314,
+      "title": "The Rise and Fall of Tunisian Democracy: Populism, Polarization, and the Perils of Power-Sharing",
+      "url": "https://events.stanford.edu/event/the-rise-and-fall-of-tunisian-democracy-populism-polarization-and-the-perils-of-power-sharing",
+      "experience": "hybrid",
+      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54188109354759/huge/3919c83480db55ea0f0c646f22612c01fd097512.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "id": 53871308386123,
       "title": "36th Annual Jonathan J. King Lecture: Dr. Bryant Lin & Dr. Shoshana Ungerleider",
       "url": "https://events.stanford.edu/event/36th-annual-jonathan-j-king-lecture",
@@ -7314,7 +7369,7 @@
       "title": "Big Tech, Democracy, and Human Rights",
       "url": "https://events.stanford.edu/event/big-tech-democracy-and-human-rights",
       "experience": "inperson",
-      "location": "",
+      "location": "Alumni Center, Fisher Conference Room ( Barnes/McDowell/Cranston), 326 Galvez Street, Stanford, CA 94305",
       "types": [
         "Conference/Symposium"
       ],
@@ -7330,8 +7385,8 @@
       "instances": [
         {
           "date": "2026-11-06",
-          "start": "2026-11-06T00:00:00-08:00",
-          "all_day": true
+          "start": "2026-11-06T09:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -8519,7 +8574,7 @@
       "subjects": [
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54188290329018/huge/0f9858befc21670de71b7dac2f2bd814f0fc63fa.jpg",
       "free": false,
       "instances": [
         {
