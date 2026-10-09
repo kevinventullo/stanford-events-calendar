@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T19:11:47+00:00",
+  "generated_at": "2026-10-09T07:11:52+00:00",
   "window": {
-    "start": "2026-10-08",
-    "end": "2027-04-06"
+    "start": "2026-10-09",
+    "end": "2027-04-07"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 311
+    "dated": 310
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -286,7 +285,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -360,7 +358,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -474,7 +471,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-14",
         "2026-10-15",
@@ -592,7 +588,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-11",
         "2026-10-12",
@@ -675,7 +670,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -793,7 +787,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -878,7 +871,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-12",
         "2026-10-13",
@@ -932,7 +924,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-12",
         "2026-10-13",
@@ -966,7 +957,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -1010,7 +1000,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-12",
         "2026-10-13",
@@ -1239,11 +1228,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-08",
-          "start": "2026-10-08T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-15",
           "start": "2026-10-15T10:00:00-07:00",
           "all_day": false
@@ -1260,16 +1244,15 @@
         }
       ],
       "dates": [
-        "2026-10-08",
         "2026-10-15",
         "2026-10-22",
         "2026-10-29"
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-10-08",
+      "next_date": "2026-10-15",
       "last_date": "2026-10-29",
-      "count": 4
+      "count": 3
     },
     {
       "id": 50967994153103,
@@ -2871,346 +2854,6 @@
   ],
   "events": [
     {
-      "id": 54099809720194,
-      "title": "A3C Graduate Community Boba Mixer",
-      "url": "https://events.stanford.edu/event/a3c-graduate-community-boba-mixer",
-      "experience": "inperson",
-      "location": "Asian American Activities Center, 524 Lasuen Mall, 1st Floor, 524 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54099817961903/huge/efd295c505183f8cbddb9dd3394423c7c3fec3a9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53870472969547,
-      "title": "Cursed Subjects and Other Sights: Qajar Prison Photography and the Sounds and Silences of Heresy in Nineteenth-Century Iranian Legal History",
-      "url": "https://events.stanford.edu/event/cursed-subjects-and-other-sights-qajar-prison-photography-and-the-sounds-and-silences-of-heresy-in-nineteenth-century-iranian-legal-history",
-      "experience": "inperson",
-      "location": "In person at Stanford",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53870508115048/huge/dadd72d4bef60fc6dd3fea57f270a58f137f2d1b.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53972017186836,
-      "title": "Distinguished Lecture | The third East-West Road in the Old World: Early crop and livestock dispersal across the Tibetan Plateau",
-      "url": "https://events.stanford.edu/event/distinguished-lecture-the-third-east-west-road-in-the-old-world-early-crop-and-livestock-dispersal-across-the-tibetan-plateau",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53972023900545/huge/b35295a0bfa9211b17869ceeaeda40aa127e8f64.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 54055140049070,
-      "title": "Film Screening: Alaav (2024)",
-      "url": "https://events.stanford.edu/event/film-screening-alaav-2024",
-      "experience": "inperson",
-      "location": "Oshman Hall, 355 Roth Way",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54055522234011/huge/304276be577a35d6bc31f2f8f7da3b4ba9c92e87.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53746350240960,
-      "title": "Film Screening: Everyone Is Lying to You for Money",
-      "url": "https://events.stanford.edu/event/film-screening-everyone-is-lying-to-you-for-money",
-      "experience": "inperson",
-      "location": "GSB Knight - Arbuckle / Cemex, CEMEX, 641 Knight Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53746354748529/huge/d6641673bec5fa1c186339b9d9ee8bdbc4884598.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T18:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53481197165495,
-      "title": "Forms & Frequencies | Temporary Body by Jerron Herman",
-      "url": "https://events.stanford.edu/event/forms-frequencies-temporary-body-by-jerron-herman",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Cantor Auditorium and Lobby, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Theater/Dance",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53481228634698/huge/4b85cfde540cdae8cf7c4ad704cce3180490543c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53923354197721,
-      "title": "Improving All Lives Through Science: The Case for Fundamental Research, Public Policy, and Advocacy",
-      "url": "https://events.stanford.edu/event/improving-all-lives-through-science-the-case-for-fundamental-research-public-policy-and-advocacy",
-      "experience": "inperson",
-      "location": "Sapp Center for Science Teaching and Learning, STLC 114 - Sapp Lecture Hall, 376 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53923417852772/huge/1cf94ae1ad9dac4546fbe8ae7ca54b6f192053d5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53878651047316,
-      "title": "Opening Reception and Dance Performance for Korean Indigenous Futures: The Art of Kim Bong-Jun",
-      "url": "https://events.stanford.edu/event/opening-reception-and-dance-performance-for-korean-indigenous-futures",
-      "experience": "inperson",
-      "location": "Lathrop Library, East Asia Library Courtyard & Library Gallery, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53878655386235/huge/4334963dc5a751dd30078dbb2ec54aa40904417a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53889534770473,
-      "title": "Science for Everyone: Tactile Braille Periodic Table of Elements at Stanford",
-      "url": "https://events.stanford.edu/event/science-for-everyone-tactile-braille-periodic-table-of-elements-at-stanford",
-      "experience": "inperson",
-      "location": "Sapp Center for Science Teaching and Learning, Sapp Auditorium, 376 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53889547512679/huge/95a21e040bf7a08d3299750ed8292618d6a28c1c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 53862604643420,
-      "title": "Shih-shan Susan Huang: \"Buddhist Book Roads: The Dynamic Spread of Buddhist Print Culture in China and Beyond\"",
-      "url": "https://events.stanford.edu/event/shih-shan-susan-huang-buddhist-book-roads-the-dynamic-spread-of-buddhist-print-culture-in-china-and-beyond",
-      "experience": "inperson",
-      "location": "Lathrop Library, 338, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Arts/Media",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53862633577310/huge/aa6da47294466cc2639b0c3b98a288146d41a4cb.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 54110354651591,
-      "title": "SLAC Public Lecture | Blazing the path to a fusion future",
-      "url": "https://events.stanford.edu/event/slac-public-lecture-blazing-the-path-to-a-fusion-future",
-      "experience": "hybrid",
-      "location": "SLAC National Accelerator Laboratory, Kavli Auditorium, 2575 Sand Hill Rd, Menlo Park, CA 94025",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54110361265934/huge/cce1218af91ef6ca13dee9d67ca1a2a48936d8d4.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 48049229753780,
-      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-5362",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/48049236225509/huge/6754a0c161a3eb7ed2e490cc5ab5a0689a44cd23.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "id": 54036684763937,
-      "title": "What is the Islamic Archive? Methods Revisited",
-      "url": "https://events.stanford.edu/event/what-is-the-islamic-archive-methods-revisited",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54036692000614/huge/d4958cdd2015daa49a552634e6c8f53b8b2d4bfe.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-08",
-          "start": "2026-10-08T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-08"
-      ]
-    },
-    {
       "id": 53790043944392,
       "title": "Best Friend or Cyber Mother? A Confucian Reflection on AI Companionship",
       "url": "https://events.stanford.edu/event/best-friend-or-cyber-mother-a-confucian-reflection-on-ai-companionship",
@@ -3233,35 +2876,6 @@
       ],
       "dates": [
         "2026-10-09"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-09",
-        "2026-10-23"
       ]
     },
     {
@@ -3652,6 +3266,29 @@
       ]
     },
     {
+      "id": 54188414477522,
+      "title": "Applied Physics/Physics Colloquium: Kent Irwin & Ian Fisher (State of the Departments)",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-kent-irwin-ian-fisher-state-of-the-departments",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54188417389271/huge/225e496835c5c69d07ccffd4f35846ec0b8e315e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T15:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 53975636548068,
       "title": "Emma Shaw Crane, \"The Periphery Within: War, Labor, and the Camp in the Florida Suburbs,\" in conversation with Abigail Kahn (CCSRE Graduate Dissertation Fellow)",
       "url": "https://events.stanford.edu/event/emma-shaw-crane-the-periphery-within-war-labor-and-the-camp-in-the-florida-suburbs",
@@ -3835,7 +3472,7 @@
     },
     {
       "id": 54109578748450,
-      "title": "What Young People's Technology Use Tells Us",
+      "title": "What Young People’s Technology Use Tells Us",
       "url": "https://events.stanford.edu/event/what-young-peoples-technology-use-tells-us",
       "experience": "hybrid",
       "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
@@ -3889,7 +3526,7 @@
     },
     {
       "id": 54134630587523,
-      "title": "Will and Attention: Meghan O'Gieblyn in conversation with Professor Laura Wittman",
+      "title": "Will and Attention: Meghan O’Gieblyn in conversation with Professor Laura Wittman",
       "url": "https://events.stanford.edu/event/will-and-attention-meghan-ogieblyn-in-conversation-with-professor-laura-wittman",
       "experience": "inperson",
       "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
@@ -3998,6 +3635,33 @@
         {
           "date": "2026-10-14",
           "start": "2026-10-14T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    {
+      "id": 54190474785308,
+      "title": "Coffee & Maíz: Building Community with Stanford's El Centro Chicano y Latino",
+      "url": "https://events.stanford.edu/event/coffee-maiz-building-community-with-stanfords-el-centro-chicano-y-latino",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Patio, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54190481250225/huge/c2909d7d0fa6319bfb64bc48812f80440e7fb18b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-14",
+          "start": "2026-10-14T10:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4218,7 +3882,7 @@
     },
     {
       "id": 54118221957130,
-      "title": "Environmental Humanities Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
+      "title": "Environmental Humanties Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
       "url": "https://events.stanford.edu/event/environmental-humanties-project-hydrofeminism-in-a-time-of-endings-care-for-the-stranded",
       "experience": "inperson",
       "location": "Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
@@ -4999,6 +4663,34 @@
       ]
     },
     {
+      "id": 54170341687572,
+      "title": "Syria Today: Where Was It? Where Is It Right Now? And Where Is It Heading? | Yassin Al-Haj Saleh",
+      "url": "https://events.stanford.edu/event/yassin-al-haj-saleh-syria-today",
+      "experience": "inperson",
+      "location": "Stanford Humanities Center, Levinthal Hall, Stanford Humanities Center 424 Santa Teresa Street Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54189657238307/huge/280d13f491afc5043519009bdfedb1be037cd4ad.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
       "id": 53941977012598,
       "title": "2026 Shorenstein Journalism Award: Shibani Mahtani on Democratic Backsliding in Southeast Asia",
       "url": "https://events.stanford.edu/event/2026-shorenstein-journalism-award-shibani-mahtani-on-attacks-against-the-free-press-and-democratic-backsliding-in-southeast-asia",
@@ -5091,6 +4783,32 @@
         {
           "date": "2026-10-20",
           "start": "2026-10-20T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 54188292796379,
+      "title": "Between You and the Facts",
+      "url": "https://events.stanford.edu/event/between-you-and-the-facts",
+      "experience": "hybrid",
+      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -5226,7 +4944,7 @@
     },
     {
       "id": 53887340620089,
-      "title": "Wendy Salkin, \"Speaking for Others\"",
+      "title": "Wendy Salkin, \"Speaking for Others,\" in conversation with Daniela Tolchinsky",
       "url": "https://events.stanford.edu/event/wendy-salkin-speaking-for-others",
       "experience": "inperson",
       "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
@@ -5719,6 +5437,35 @@
       ]
     },
     {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23",
+        "2026-10-30"
+      ]
+    },
+    {
       "id": 54170286222529,
       "title": "Faculty Recital: Livia Sohn, violin, & Bernadene Blaha, piano",
       "url": "https://events.stanford.edu/event/faculty-recital-livia-sohn-bernadene-blaha",
@@ -5738,6 +5485,31 @@
         {
           "date": "2026-10-23",
           "start": "2026-10-23T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    {
+      "id": 54189895622059,
+      "title": "HALEH LIZA GAFORI presents RUMI: GOLD & WATER | A night of music and poetry",
+      "url": "https://events.stanford.edu/event/gold-water-26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54190744590718/huge/8b09ecf8115b2e4415b6ea043bb5693e19bc9d7d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T19:00:00-07:00",
           "all_day": false
         }
       ],
@@ -6368,6 +6140,31 @@
       ]
     },
     {
+      "id": 54189762555811,
+      "title": "Public Lecture: Gravitational Wave Detection",
+      "url": "https://events.stanford.edu/event/public-lecture-gravitational-wave-detection",
+      "experience": "hybrid",
+      "location": "Sapp Center for Science Teaching and Learning, 111, 376 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54189786781393/huge/7a168736246599195f8a858bcd6ed1a2e3732851.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 53800398914002,
       "title": "The Illicit Finance Hydra: Crypto, Sanctions Evasion, and the New Financial Battlefield",
       "url": "https://events.stanford.edu/event/the-illicit-finance-hydra-crypto-sanctions-evasion-and-the-new-financial-battlefield",
@@ -6915,6 +6712,60 @@
       ]
     },
     {
+      "id": 54189631195693,
+      "title": "Book Talk: Chrystia Freeland — Unreliable Boyfriend: An Insider's View of Dealing with a Chaotic Superpower, Plutocrats, and Other Complicated People",
+      "url": "https://events.stanford.edu/event/book-talk-chrystia-freeland-unreliable-boyfriend-an-insiders-view-of-dealing-with-a-chaotic-superpower-plutocrats-and-other-complicated-people",
+      "experience": "hybrid",
+      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54189650548703/huge/6b75ee793836e644ada2b534ee809f71da281e3d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    {
+      "id": 54189731967396,
+      "title": "Japan and the Middle East in a Changing Geopolitical Landscape",
+      "url": "https://events.stanford.edu/event/japan-and-the-middle-east-in-a-changing-geopolitical-landscape",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54189736361060/huge/ab3d2c735d8d4d862183b0448d41b246c4b79159.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    {
       "id": 53552399038673,
       "title": "Stanford Energy Seminar | The US Energy Transition: What is the Same; What Has Changed; and What Could Be | Philip Deutch, NGP Energy Technology Partners",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11022026",
@@ -7150,6 +7001,34 @@
       ]
     },
     {
+      "id": 54188899937974,
+      "title": "Work, Exile, and Home: Honoring Milorad Drachkovitch & ReOpening the Polich Room",
+      "url": "https://events.stanford.edu/event/work-exile-and-home-honoring-milorad-drachkovitch-reopening-the-polich-room",
+      "experience": "inperson",
+      "location": "Hoover Tower, T108, 550 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Working at Stanford"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54188906388841/huge/33ac9a0fc922b09c7c14dddc784adde85a85709d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "id": 53871308386123,
       "title": "36th Annual Jonathan J. King Lecture: Dr. Bryant Lin & Dr. Shoshana Ungerleider",
       "url": "https://events.stanford.edu/event/36th-annual-jonathan-j-king-lecture",
@@ -7276,6 +7155,33 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 54180690948196,
+      "title": "The Body as Monument",
+      "url": "https://events.stanford.edu/event/the-body-as-monument",
+      "experience": "inperson",
+      "location": "El Centro Chicano, Jaime Miranda Lounge, 514 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Diversity/Identity",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54180697423606/huge/e6545912d4191ce8e0f0f15c0cdd65fbdc877e37.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T11:30:00-08:00",
           "all_day": false
         }
       ],
@@ -10373,6 +10279,31 @@
       ]
     },
     {
+      "id": 54189236962119,
+      "title": "The Steven Coutre Review of the 68th Annual American Society of Hematology Meeting",
+      "url": "https://events.stanford.edu/event/the-steven-coutre-review-of-the-68th-annual-american-society-of-hematology-meeting",
+      "experience": "inperson",
+      "location": "Ritz-Carlton, Half Moon Bay, CA, 1 Miramontes Point Rd, Half Moon Bay, CA",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54189252514387/huge/e3accbe5438f74700550c8e86f96cdd6aaa0762b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-06",
+          "start": "2027-02-06T08:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-06"
+      ]
+    },
+    {
       "id": 53756108004851,
       "title": "Curator Led Talk | surfacing",
       "url": "https://events.stanford.edu/event/curator-led-talk-surfacing-feb",
@@ -10390,6 +10321,30 @@
         {
           "date": "2027-02-08",
           "start": "2027-02-08T13:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-08"
+      ]
+    },
+    {
+      "id": 54189230414637,
+      "title": "Museum as Muse - Poetry at the Anderson Collection",
+      "url": "https://events.stanford.edu/event/museum-as-muse-poetry-at-the-anderson-collection-3242",
+      "experience": "inperson",
+      "location": "Anderson Collection, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Exhibition",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54189237326001/huge/d68c18def6f42cececcf26bce52f6c49c9a69df6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-08",
+          "start": "2027-02-08T16:30:00-08:00",
           "all_day": false
         }
       ],
