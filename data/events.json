@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:11:52+00:00",
+  "generated_at": "2026-10-09T18:41:59+00:00",
   "window": {
     "start": "2026-10-09",
     "end": "2027-04-07"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 310
+    "dated": 313
   },
   "ongoing": [
     {
@@ -3312,31 +3312,6 @@
       ]
     },
     {
-      "id": 54169442429822,
-      "title": "Explore Energy Seminar | Tribal Sovereignty and Clean Energy with Native Roots Network",
-      "url": "https://events.stanford.edu/event/explore-energy-seminar-tribal-sovereignty-and-clean-energy-with-native-roots-network",
-      "experience": "inperson",
-      "location": "Muwekma-Tah-Ruk, Front Lawn, 543 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54169446202173/huge/2931bc0b5d364d7aa54783b0fafca0758ccf4dba.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
       "id": 54100900488605,
       "title": "LBRE: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/lbre-flu-covid-19-vaccination-clinic",
@@ -4438,7 +4413,7 @@
         "Diversity/Identity",
         "Social Justice/Human Rights"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53851922753202/huge/f71b5fede80838f01b83b3dc54f24bd671572fb2.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53851922753202/huge/bd7e98fc7baec09ea8a09bceecc2a7fb40300fcf.jpg",
       "free": false,
       "instances": [
         {
@@ -5174,6 +5149,33 @@
       ]
     },
     {
+      "id": 54195940968153,
+      "title": "The Social Life of Islam: Exploring Intellectual Exchange and Community Well-Being in West Africa",
+      "url": "https://events.stanford.edu/event/the-social-life-of-islam",
+      "experience": "inperson",
+      "location": "The Nitery, Markaz Resource Center, 514 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54195946587907/huge/a47ca7dccab08cc9d0400c5c162588e8dd4d9e96.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
       "id": 53012995941585,
       "title": "9th Annual Stanford Maternal and Child Health Research Institute Symposium",
       "url": "https://events.stanford.edu/event/9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
@@ -5560,6 +5562,31 @@
         {
           "date": "2026-10-23",
           "start": "2026-10-23T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    {
+      "id": 54196018681993,
+      "title": "Race and Gender in the Global Hispanophone: Lecture with Prof. Regina Pieck",
+      "url": "https://events.stanford.edu/event/race-and-gender-in-the-global-hispanophone-5195",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54196020102585/huge/47f8f30d21de4a9d3c7b11fc980bf1576b8f3f2c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T10:30:00-07:00",
           "all_day": false
         }
       ],
@@ -6151,7 +6178,7 @@
       "subjects": [
         "Science"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54189786781393/huge/7a168736246599195f8a858bcd6ed1a2e3732851.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54196843848006/huge/6172cce88b5de1daab69e852db068d6f6adac969.jpg",
       "free": true,
       "instances": [
         {
@@ -7230,7 +7257,7 @@
         "Religion/Spirituality",
         "Social Justice/Human Rights"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54177983300970/huge/11bd7fdd81c6ef2cf638496e854653a341a04287.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54196839602545/huge/eff8d59500c1e38a1ec9f3ebfcafa6af848ae621.jpg",
       "free": false,
       "instances": [
         {
@@ -8339,6 +8366,31 @@
       ]
     },
     {
+      "id": 54196035364530,
+      "title": "Race and Gender in the Global Hispanophone: Heidi Tinsman (University of California, Irvine)",
+      "url": "https://events.stanford.edu/event/race-and-gender-in-the-global-hispanophone-7911",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Room 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54196035923879/huge/df97ef84542a983f784bc121efb2ff9dc4a7a0be.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 53552413163789,
       "title": "Stanford Energy Seminar | Jonathan Fan, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11162026",
@@ -8436,6 +8488,34 @@
         {
           "date": "2026-11-17",
           "start": "2026-11-17T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54187926399673,
+      "title": "Estonia at the Front Line: Security, Resilience, and Technology: A Discussion with PM of Estonia Kristen Michal",
+      "url": "https://events.stanford.edu/event/prime-minister-estonia-2026",
+      "experience": "inperson",
+      "location": "Hohbach Hall, Room 122, 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54188039227107/huge/7ce833555a7046e65258c607f9c12607d48b8556.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T12:00:00-08:00",
           "all_day": false
         }
       ],
