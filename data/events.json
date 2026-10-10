@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T18:41:59+00:00",
+  "generated_at": "2026-10-10T06:44:47+00:00",
   "window": {
-    "start": "2026-10-09",
-    "end": "2027-04-07"
+    "start": "2026-10-10",
+    "end": "2027-04-08"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 313
+    "dated": 312
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
@@ -141,7 +140,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
@@ -285,7 +283,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
@@ -358,7 +355,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
@@ -471,7 +467,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-09",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -548,7 +543,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-09",
         "2026-10-12",
         "2026-10-16",
         "2026-10-19",
@@ -588,7 +582,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-09",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
@@ -670,7 +663,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
@@ -787,7 +779,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
@@ -871,7 +862,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-09",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -924,7 +914,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-09",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -957,7 +946,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
@@ -1000,7 +988,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-09",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -1270,11 +1257,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-09",
-          "start": "2026-10-09T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-23",
           "start": "2026-10-23T12:00:00-07:00",
           "all_day": false
@@ -1321,7 +1303,6 @@
         }
       ],
       "dates": [
-        "2026-10-09",
         "2026-10-23",
         "2026-11-13",
         "2026-12-11",
@@ -1334,9 +1315,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-10-09",
+      "next_date": "2026-10-23",
       "last_date": "2027-03-26",
-      "count": 10
+      "count": 9
     },
     {
       "id": 43703730447104,
@@ -1390,11 +1371,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53818823543672/huge/08fb138cdc2527c77f963e09fac6886eb26e58b3.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-10",
           "start": "2026-10-10T14:00:00-07:00",
@@ -1587,7 +1563,6 @@
         }
       ],
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-16",
@@ -1629,9 +1604,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-09",
+      "next_date": "2026-10-10",
       "last_date": "2027-01-03",
-      "count": 39
+      "count": 38
     },
     {
       "id": 53969632558021,
@@ -1687,6 +1662,11 @@
           "date": "2027-03-10",
           "start": "2027-03-10T12:15:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-07",
+          "start": "2027-04-07T12:15:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1697,13 +1677,14 @@
         "2027-01-27",
         "2027-02-03",
         "2027-02-24",
-        "2027-03-10"
+        "2027-03-10",
+        "2027-04-07"
       ],
       "pattern": "Wednesdays",
       "time": "12:15 PM",
       "next_date": "2026-11-11",
-      "last_date": "2027-03-10",
-      "count": 8
+      "last_date": "2027-04-07",
+      "count": 9
     },
     {
       "id": 53694822395653,
@@ -1722,11 +1703,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-10",
           "start": "2026-10-10T11:30:00-07:00",
@@ -1954,7 +1930,6 @@
         }
       ],
       "dates": [
-        "2026-10-09",
         "2026-10-10",
         "2026-10-16",
         "2026-10-17",
@@ -2003,9 +1978,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-10-09",
+      "next_date": "2026-10-10",
       "last_date": "2027-04-03",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2854,129 +2829,6 @@
   ],
   "events": [
     {
-      "id": 53790043944392,
-      "title": "Best Friend or Cyber Mother? A Confucian Reflection on AI Companionship",
-      "url": "https://events.stanford.edu/event/best-friend-or-cyber-mother-a-confucian-reflection-on-ai-companionship",
-      "experience": "inperson",
-      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53790047424756/huge/e63b1810a10377dfac16dd93d2e5b0ee787b983a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-09"
-      ]
-    },
-    {
-      "id": 54099150082268,
-      "title": "Geophysics PhD Defense, Josh Rines: \"Greenland supraglacial lake drainage events: modeling and observations\"",
-      "url": "https://events.stanford.edu/event/geophysics-phd-defense-josh-rines-greenland-supraglacial-lake-drainage-events-modeling-and-observations",
-      "experience": "hybrid",
-      "location": "Lathrop Library, 299, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54099179997197/huge/ebe2b3f1b92d9fe35a51fecc2f0adac320f2b702.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-09"
-      ]
-    },
-    {
-      "id": 54108592082986,
-      "title": "Low Frequency Trio: New Works by Stanford Graduate Composers",
-      "url": "https://events.stanford.edu/event/low-frequency-trio-grad-composers",
-      "experience": "inperson",
-      "location": "The Knoll, CCRMA Stage, 660 Lomita Court, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54108613509977/huge/26ffcf95cdb517afabd38669cc372de4f3d10065.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-09"
-      ]
-    },
-    {
-      "id": 54012373863502,
-      "title": "White Plaza (Vaden Flourishing on the Farm): Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/white-plaza-vaden-flourishing-on-the-farm-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "White Plaza, White Memorial Plaza, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54012381851069/huge/c1decff0687a03a8495cff44f74617439fba6a38.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-09"
-      ]
-    },
-    {
-      "id": 54014346273372,
-      "title": "White Plaza: Vaden Flourishing on the Farm: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/white-plaza-vaden-flourishing-on-the-farm-flu-covid-19-vaccination-clinic-4590",
-      "experience": "inperson",
-      "location": "White Plaza, White Memorial Plaza, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54014352129783/huge/69813371f83b89ec334059f712090b42e02b3516.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-09",
-          "start": "2026-10-09T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-09"
-      ]
-    },
-    {
       "id": 54117160310070,
       "title": "Charlie and the Tropicales",
       "url": "https://events.stanford.edu/event/charlie-and-the-tropicales",
@@ -3137,6 +2989,32 @@
       "dates": [
         "2026-10-11",
         "2027-01-25"
+      ]
+    },
+    {
+      "id": 54135881458631,
+      "title": "(CANCELLED) Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
+      "url": "https://events.stanford.edu/event/leadership-in-crisis-lessons-from-armed-conflict-and-devastating-disasters",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54135885334538/huge/0045cee278cc721beb9fe5a67762fb443670f144.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-12",
+          "start": "2026-10-12T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-12"
       ]
     },
     {
@@ -4056,6 +3934,29 @@
       ]
     },
     {
+      "id": 54198658850084,
+      "title": "CCSRE Homecoming Reunion Mixer",
+      "url": "https://events.stanford.edu/event/ccsre-homecoming-reunion-mixer",
+      "experience": "inperson",
+      "location": "Building 360, Geology Courtyard (located between Building 360 and Building 320), Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54198660803390/huge/5a4613ac197ed1a3282c9867044946e3c9ebff0a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
       "id": 54180685615263,
       "title": "Design Alumni Meet Up At The d.school",
       "url": "https://events.stanford.edu/event/design-alumni-meet-up-at-the-dschool",
@@ -4071,32 +3972,6 @@
         {
           "date": "2026-10-16",
           "start": "2026-10-16T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-16"
-      ]
-    },
-    {
-      "id": 54135881458631,
-      "title": "Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
-      "url": "https://events.stanford.edu/event/leadership-in-crisis-lessons-from-armed-conflict-and-devastating-disasters",
-      "experience": "inperson",
-      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "International Affairs",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54135885334538/huge/0045cee278cc721beb9fe5a67762fb443670f144.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-16",
-          "start": "2026-10-16T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -5409,6 +5284,31 @@
       ]
     },
     {
+      "id": 54197974614953,
+      "title": "Big Swap: Game Day Edition",
+      "url": "https://events.stanford.edu/event/big-swap-game-day-edition",
+      "experience": "inperson",
+      "location": "White Plaza, White Memorial Plaza, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54197984254074/huge/2cf8b075bcfe2bc7ac748be25bfa0a4e43ef0a4f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    {
       "id": 54178982975502,
       "title": "Breathing Room: A regional summit on health, indoor air quality, and residential stoves.",
       "url": "https://events.stanford.edu/event/breathing-room-a-regional-summit-on-health-indoor-air-quality-and-residential-stoves",
@@ -6406,6 +6306,33 @@
       ]
     },
     {
+      "id": 54198537508048,
+      "title": "Physics, Politics, and Pakistan",
+      "url": "https://events.stanford.edu/event/physics-politics-and-pakistan",
+      "experience": "inperson",
+      "location": "Black Community Services Center, 418 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54198569654236/huge/3c341fbdfc25fbf209d10f59118cd26d511d17ec.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
       "id": 53995708802403,
       "title": "The Future of Decision-Making Conference",
       "url": "https://events.stanford.edu/event/the-future-of-decision-making-conference",
@@ -7257,7 +7184,7 @@
         "Religion/Spirituality",
         "Social Justice/Human Rights"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54196839602545/huge/eff8d59500c1e38a1ec9f3ebfcafa6af848ae621.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54198635776243/huge/db29d3ddc2092ab975bfff00c3cb628a7fd8a024.jpg",
       "free": false,
       "instances": [
         {
@@ -8497,7 +8424,7 @@
     },
     {
       "id": 54187926399673,
-      "title": "Estonia at the Front Line: Security, Resilience, and Technology: A Discussion with PM of Estonia Kristen Michal",
+      "title": "Estonia at the Front Line: Security, Resilience, and Technology: A Discussion with the Prime Minister of Estonia Kristen Michal",
       "url": "https://events.stanford.edu/event/prime-minister-estonia-2026",
       "experience": "inperson",
       "location": "Hohbach Hall, Room 122, 557 Escondido Mall, Stanford, CA 94305",
@@ -10798,7 +10725,7 @@
       "instances": [
         {
           "date": "2027-02-26",
-          "start": "2027-02-26T15:00:00-08:00",
+          "start": "2027-02-26T16:00:00-08:00",
           "all_day": false
         }
       ],
@@ -11113,6 +11040,33 @@
       ],
       "dates": [
         "2027-04-02"
+      ]
+    },
+    {
+      "id": 54001339721528,
+      "title": "Noon Concert: Guitar Students of Charles Ferguson",
+      "url": "https://events.stanford.edu/event/noon-ferguson-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001339704118/huge/0de46cc90ccb0c47f252b23156f6058f6f8faaad.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-04-07",
+          "start": "2027-04-07T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-07"
       ]
     }
   ]
