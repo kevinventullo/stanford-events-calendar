@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T17:41:41+00:00",
+  "generated_at": "2026-10-11T06:52:07+00:00",
   "window": {
-    "start": "2026-10-10",
-    "end": "2027-04-08"
+    "start": "2026-10-11",
+    "end": "2027-04-09"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 312
+    "dated": 311
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
@@ -140,7 +139,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-15",
@@ -263,7 +261,8 @@
         "2027-04-02",
         "2027-04-03",
         "2027-04-04",
-        "2027-04-05"
+        "2027-04-05",
+        "2027-04-08"
       ]
     },
     {
@@ -283,7 +282,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-15",
@@ -355,7 +353,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-15",
@@ -663,7 +660,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
@@ -779,7 +775,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
@@ -946,7 +941,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
@@ -1372,11 +1366,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-10",
-          "start": "2026-10-10T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-11",
           "start": "2026-10-11T14:00:00-07:00",
           "all_day": false
@@ -1563,7 +1552,6 @@
         }
       ],
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-16",
         "2026-10-17",
@@ -1604,9 +1592,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-10",
+      "next_date": "2026-10-11",
       "last_date": "2027-01-03",
-      "count": 38
+      "count": 37
     },
     {
       "id": 53969632558021,
@@ -1703,11 +1691,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-10",
-          "start": "2026-10-10T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-16",
           "start": "2026-10-16T11:30:00-07:00",
@@ -1930,7 +1913,6 @@
         }
       ],
       "dates": [
-        "2026-10-10",
         "2026-10-16",
         "2026-10-17",
         "2026-10-23",
@@ -1978,9 +1960,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-10-10",
+      "next_date": "2026-10-16",
       "last_date": "2027-04-03",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -1998,11 +1980,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-10",
-          "start": "2026-10-10T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-11",
           "start": "2026-10-11T13:00:00-07:00",
@@ -2240,7 +2217,6 @@
         }
       ],
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-17",
         "2026-10-18",
@@ -2291,9 +2267,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-10-10",
+      "next_date": "2026-10-11",
       "last_date": "2027-04-04",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2311,11 +2287,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-10",
-          "start": "2026-10-10T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-11",
           "start": "2026-10-11T15:00:00-07:00",
@@ -2553,7 +2524,6 @@
         }
       ],
       "dates": [
-        "2026-10-10",
         "2026-10-11",
         "2026-10-17",
         "2026-10-18",
@@ -2604,9 +2574,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-10",
+      "next_date": "2026-10-11",
       "last_date": "2027-04-04",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53889137015268,
@@ -2679,11 +2649,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-10",
-          "start": "2026-10-10T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-17",
           "start": "2026-10-17T09:30:00-07:00",
           "all_day": false
@@ -2730,7 +2695,6 @@
         }
       ],
       "dates": [
-        "2026-10-10",
         "2026-10-17",
         "2026-10-24",
         "2026-10-31",
@@ -2743,9 +2707,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-10-10",
+      "next_date": "2026-10-17",
       "last_date": "2026-12-12",
-      "count": 10
+      "count": 9
     },
     {
       "id": 51888083181057,
@@ -2828,56 +2792,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54117160310070,
-      "title": "Charlie and the Tropicales",
-      "url": "https://events.stanford.edu/event/charlie-and-the-tropicales",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54117174992384/huge/3a251841cac1a5443bcbb1b26126139dca96f6b1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-10",
-          "start": "2026-10-10T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-10"
-      ]
-    },
-    {
-      "id": 54127638969248,
-      "title": "StanfordNext Application: Coffee & Conversation",
-      "url": "https://events.stanford.edu/event/stanfordnext-coffee-conversation",
-      "experience": "inperson",
-      "location": "Tresidder Union, 459 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54127664841471/huge/4d00851f91d33207e10fa4a8363aa02335e8831a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-10",
-          "start": "2026-10-10T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-10"
-      ]
-    },
     {
       "id": 52827065017882,
       "title": "Kronos Quartet with Mahsa and Marjan Vahdat: Placeless",
@@ -10753,6 +10667,34 @@
         {
           "date": "2027-02-26",
           "start": "2027-02-26T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-26"
+      ]
+    },
+    {
+      "id": 54199804557263,
+      "title": "“Don’t Eat the Mermaid: Exploring the Legend of Yaobikuni”",
+      "url": "https://events.stanford.edu/event/dont-eat-the-mermaid-exploring-the-legend-of-yaobikuni",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium",
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54208916398625/huge/2bde96e36b0c6f72f7be03901100c220740dfd50.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-26",
+          "start": "2027-02-26T14:30:00-08:00",
           "all_day": false
         }
       ],
