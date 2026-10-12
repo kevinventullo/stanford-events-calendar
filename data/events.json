@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T17:56:34+00:00",
+  "generated_at": "2026-10-12T07:02:18+00:00",
   "window": {
-    "start": "2026-10-11",
-    "end": "2027-04-09"
+    "start": "2026-10-12",
+    "end": "2027-04-10"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 311
+    "dated": 309
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -139,7 +138,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-15",
         "2026-10-16",
@@ -262,7 +260,8 @@
         "2027-04-03",
         "2027-04-04",
         "2027-04-05",
-        "2027-04-08"
+        "2027-04-08",
+        "2027-04-09"
       ]
     },
     {
@@ -282,7 +281,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-15",
         "2026-10-16",
@@ -353,7 +351,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-15",
         "2026-10-16",
@@ -579,7 +576,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -660,7 +656,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -775,7 +770,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -941,7 +935,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-11",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
@@ -1294,6 +1287,11 @@
           "date": "2027-03-26",
           "start": "2027-03-26T12:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-09",
+          "start": "2027-04-09T12:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1305,13 +1303,14 @@
         "2027-02-12",
         "2027-02-26",
         "2027-03-12",
-        "2027-03-26"
+        "2027-03-26",
+        "2027-04-09"
       ],
       "pattern": "Fridays",
       "time": "12 PM",
       "next_date": "2026-10-23",
-      "last_date": "2027-03-26",
-      "count": 9
+      "last_date": "2027-04-09",
+      "count": 10
     },
     {
       "id": 43703730447104,
@@ -1365,11 +1364,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53818823543672/huge/08fb138cdc2527c77f963e09fac6886eb26e58b3.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-11",
-          "start": "2026-10-11T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-16",
           "start": "2026-10-16T14:00:00-07:00",
@@ -1552,7 +1546,6 @@
         }
       ],
       "dates": [
-        "2026-10-11",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -1592,9 +1585,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-11",
+      "next_date": "2026-10-16",
       "last_date": "2027-01-03",
-      "count": 37
+      "count": 36
     },
     {
       "id": 53969632558021,
@@ -1910,6 +1903,11 @@
           "date": "2027-04-03",
           "start": "2027-04-03T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-09",
+          "start": "2027-04-09T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1956,13 +1954,14 @@
         "2027-03-26",
         "2027-03-27",
         "2027-04-02",
-        "2027-04-03"
+        "2027-04-03",
+        "2027-04-09"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-16",
-      "last_date": "2027-04-03",
-      "count": 44
+      "last_date": "2027-04-09",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -1980,11 +1979,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-11",
-          "start": "2026-10-11T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-17",
           "start": "2026-10-17T13:00:00-07:00",
@@ -2217,7 +2211,6 @@
         }
       ],
       "dates": [
-        "2026-10-11",
         "2026-10-17",
         "2026-10-18",
         "2026-10-24",
@@ -2267,9 +2260,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-10-11",
+      "next_date": "2026-10-17",
       "last_date": "2027-04-04",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2287,11 +2280,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-11",
-          "start": "2026-10-11T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-17",
           "start": "2026-10-17T15:00:00-07:00",
@@ -2524,7 +2512,6 @@
         }
       ],
       "dates": [
-        "2026-10-11",
         "2026-10-17",
         "2026-10-18",
         "2026-10-24",
@@ -2574,9 +2561,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-11",
+      "next_date": "2026-10-17",
       "last_date": "2027-04-04",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53889137015268,
@@ -2792,119 +2779,6 @@
     }
   ],
   "events": [
-    {
-      "id": 52827065017882,
-      "title": "Kronos Quartet with Mahsa and Marjan Vahdat: Placeless",
-      "url": "https://events.stanford.edu/event/kronos-quartet-with-mahsa-and-marjan-vahdat-placeless",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52833765848318/huge/4f504c62ff5b9fbe859c1305c6f898c1961cfe05.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-11",
-          "start": "2026-10-11T14:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-11"
-      ]
-    },
-    {
-      "id": 54064831729453,
-      "title": "Plastic Surgery Research Council Meeting (PSRC) Abstract Deadline",
-      "url": "https://events.stanford.edu/event/copy-of-american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline-1834",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Conference/Symposium",
-        "Meeting"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54064883613590/huge/7cb2915a444274a1e449d4426ada8059c6382c49.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-11",
-          "start": "2026-10-11T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-10-11"
-      ]
-    },
-    {
-      "id": 53695161366348,
-      "title": "Public Tour | Cantor Highlights in Chinese",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-in-chinese-4381",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53695161315145/huge/a04d5a884b40c05e4ace455aa3bf15a839776d62.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-11",
-          "start": "2026-10-11T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-11",
-        "2026-11-15"
-      ]
-    },
-    {
-      "id": 53889295589079,
-      "title": "University Public Worship: Ecumenical Multifaith Service with Rabbi Ilana Goldhaber-Gordon Preaching",
-      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-rabbi-ilana-goldhaber-gordon-preaching",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53889305139573/huge/0122ecdf10bd049045a182fc6e9bc11017a3a079.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-11",
-          "start": "2026-10-11T11:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-25",
-          "start": "2027-01-25T11:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-11",
-        "2027-01-25"
-      ]
-    },
     {
       "id": 54135881458631,
       "title": "(CANCELLED) Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
@@ -6233,7 +6107,7 @@
         "International Affairs",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54198569654236/huge/3c341fbdfc25fbf209d10f59118cd26d511d17ec.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54218076227690/huge/3470c76a0ddd76a6508dc62aabab53c56ef51a83.jpg",
       "free": false,
       "instances": [
         {
@@ -8044,6 +7918,31 @@
         {
           "date": "2026-11-15",
           "start": "2026-11-15T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-15"
+      ]
+    },
+    {
+      "id": 53695161366348,
+      "title": "Public Tour | Cantor Highlights in Chinese",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-in-chinese-4381",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53695161315145/huge/a04d5a884b40c05e4ace455aa3bf15a839776d62.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T14:00:00-08:00",
           "all_day": false
         }
       ],
@@ -9933,6 +9832,31 @@
       ],
       "dates": [
         "2027-01-22"
+      ]
+    },
+    {
+      "id": 53889295589079,
+      "title": "University Public Worship: Ecumenical Multifaith Service with Rabbi Ilana Goldhaber-Gordon Preaching",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-rabbi-ilana-goldhaber-gordon-preaching",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889305139573/huge/0122ecdf10bd049045a182fc6e9bc11017a3a079.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-25",
+          "start": "2027-01-25T11:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-25"
       ]
     },
     {
