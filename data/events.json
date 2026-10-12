@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:02:18+00:00",
+  "generated_at": "2026-10-12T21:36:27+00:00",
   "window": {
     "start": "2026-10-12",
     "end": "2027-04-10"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 309
+    "dated": 314
   },
   "ongoing": [
     {
@@ -2955,6 +2955,31 @@
       ]
     },
     {
+      "id": 54223077126498,
+      "title": "Bruce Jennings -The Struggle for Agroecology in the Americas",
+      "url": "https://events.stanford.edu/event/bruce-jennings-the-struggle-for-agroecology-in-the-americas",
+      "experience": "inperson",
+      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54223092042664/huge/1dde7de8b9f46ffc2751df1bc5e1168f31a077e1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-13",
+          "start": "2026-10-13T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "id": 53975636548068,
       "title": "Emma Shaw Crane, \"The Periphery Within: War, Labor, and the Camp in the Florida Suburbs,\" in conversation with Abigail Kahn (CCSRE Graduate Dissertation Fellow)",
       "url": "https://events.stanford.edu/event/emma-shaw-crane-the-periphery-within-war-labor-and-the-camp-in-the-florida-suburbs",
@@ -3285,7 +3310,7 @@
     },
     {
       "id": 54190474785308,
-      "title": "Coffee & Maíz: Building Community with Stanford's El Centro Chicano y Latino",
+      "title": "Coffee & Maíz: Building Community with Stanford’s El Centro Chicano y Latino",
       "url": "https://events.stanford.edu/event/coffee-maiz-building-community-with-stanfords-el-centro-chicano-y-latino",
       "experience": "inperson",
       "location": "Mitchell Earth Sciences, Patio, 397 Panama Mall, Stanford, CA 94305",
@@ -4839,6 +4864,31 @@
       ]
     },
     {
+      "id": 54224391600147,
+      "title": "When the gloves come off: Cross-cutting methodologies and Indigenous Arctic heritage outside the museum",
+      "url": "https://events.stanford.edu/event/when-the-gloves-come-off-cross-cutting-methodologies-and-indigenous-arctic-heritage-outside-the-museum",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
       "id": 53012995941585,
       "title": "9th Annual Stanford Maternal and Child Health Research Institute Symposium",
       "url": "https://events.stanford.edu/event/9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
@@ -6121,6 +6171,31 @@
       ]
     },
     {
+      "id": 54224299769294,
+      "title": "SLAC on Tap: Night of the Dark Matter",
+      "url": "https://events.stanford.edu/event/slac-on-tap-night-of-the-dark-matter",
+      "experience": "inperson",
+      "location": "The Dutch Goose, 3567 Alameda de las Pulgas, Menlo Park, CA 94025",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54224462618952/huge/61e8acd68794d1bcb8b6146ceda2231306e0d9c1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
       "id": 53995708802403,
       "title": "The Future of Decision-Making Conference",
       "url": "https://events.stanford.edu/event/the-future-of-decision-making-conference",
@@ -6348,6 +6423,34 @@
         {
           "date": "2026-10-30",
           "start": "2026-10-30T07:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    {
+      "id": 54179372488831,
+      "title": "Film Screening of the 2026 Lithuanian submission for the Academy Awards – How to Divorce During the War",
+      "url": "https://events.stanford.edu/event/film-screening-how-to-divorce-during-the-war",
+      "experience": "inperson",
+      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Arts/Media",
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54196221546851/huge/8cb39bc658375bf1754739d394545ae1e7f3cb1d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T17:30:00-07:00",
           "all_day": false
         }
       ],
@@ -7293,27 +7396,6 @@
       ]
     },
     {
-      "id": 54169501224167,
-      "title": "OMAC, City of Palo Alto & American Legion Veterans Day Celebration",
-      "url": "https://events.stanford.edu/event/omac-city-of-palo-alto-american-legion-veterans-day-celebration",
-      "experience": "inperson",
-      "location": "MacArthur Park Restaurant, 27 University Ave, Palo Alto, CA 94301",
-      "types": [],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54169503165987/huge/5709d565c5dc4971738bd38e10dfaf7d2435127f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
       "id": 53552403342725,
       "title": "Stanford Energy Seminar | More Value per Tonne: Rethinking How We Use Rock | Tiziana Vanorio, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11092026",
@@ -7333,6 +7415,27 @@
         {
           "date": "2026-11-09",
           "start": "2026-11-09T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    {
+      "id": 54169501224167,
+      "title": "Stanford University, American Legion, City of Palo Alto Veterans Day Celebration",
+      "url": "https://events.stanford.edu/event/stanford-university-palo-alto-veterans-day-celebration",
+      "experience": "inperson",
+      "location": "MacArthur Park Restaurant, 27 University Ave, Palo Alto, CA 94301",
+      "types": [],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54223522353462/huge/627ecb7bc11adbe155c06aa9ea47969cfbfe9e61.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T15:00:00-08:00",
           "all_day": false
         }
       ],
@@ -7403,6 +7506,31 @@
         "Law/Public Policy/Politics"
       ],
       "photo": "https://localist-images.azureedge.net/photos/54004141303312/huge/9f04aa7659774c9c33033ea417517bebc111a02c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": 54223182189805,
+      "title": "Relational Intelligence (RQ): Building Relational Futures in the Age of AI",
+      "url": "https://events.stanford.edu/event/relational-intelligence-rq-building-relational-futures-in-the-age-of-ai",
+      "experience": "hybrid",
+      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
       "free": false,
       "instances": [
         {
