@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T21:36:27+00:00",
+  "generated_at": "2026-10-13T07:26:30+00:00",
   "window": {
-    "start": "2026-10-12",
-    "end": "2027-04-10"
+    "start": "2026-10-13",
+    "end": "2027-04-11"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 314
+    "dated": 309
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -138,7 +137,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-12",
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
@@ -261,7 +259,8 @@
         "2027-04-04",
         "2027-04-05",
         "2027-04-08",
-        "2027-04-09"
+        "2027-04-09",
+        "2027-04-10"
       ]
     },
     {
@@ -281,7 +280,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-12",
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
@@ -351,7 +349,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-12",
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
@@ -537,7 +534,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-12",
         "2026-10-16",
         "2026-10-19",
         "2026-10-23",
@@ -576,7 +572,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -656,7 +651,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -770,7 +764,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -851,7 +844,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -903,7 +895,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -935,7 +926,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -975,7 +965,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -1081,11 +1070,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-12",
-          "start": "2026-10-12T19:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-14",
           "start": "2026-10-14T19:00:00-07:00",
           "all_day": false
@@ -1162,7 +1146,6 @@
         }
       ],
       "dates": [
-        "2026-10-12",
         "2026-10-14",
         "2026-10-19",
         "2026-10-21",
@@ -1181,9 +1164,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-10-12",
+      "next_date": "2026-10-14",
       "last_date": "2026-12-09",
-      "count": 16
+      "count": 15
     },
     {
       "id": 53629749361008,
@@ -1908,6 +1891,11 @@
           "date": "2027-04-09",
           "start": "2027-04-09T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-10",
+          "start": "2027-04-10T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1955,13 +1943,14 @@
         "2027-03-27",
         "2027-04-02",
         "2027-04-03",
-        "2027-04-09"
+        "2027-04-09",
+        "2027-04-10"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-16",
-      "last_date": "2027-04-09",
-      "count": 45
+      "last_date": "2027-04-10",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -2208,6 +2197,11 @@
           "date": "2027-04-04",
           "start": "2027-04-04T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-10",
+          "start": "2027-04-10T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2256,13 +2250,14 @@
         "2027-03-27",
         "2027-03-28",
         "2027-04-03",
-        "2027-04-04"
+        "2027-04-04",
+        "2027-04-10"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-17",
-      "last_date": "2027-04-04",
-      "count": 46
+      "last_date": "2027-04-10",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2509,6 +2504,11 @@
           "date": "2027-04-04",
           "start": "2027-04-04T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-10",
+          "start": "2027-04-10T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2557,13 +2557,14 @@
         "2027-03-27",
         "2027-03-28",
         "2027-04-03",
-        "2027-04-04"
+        "2027-04-04",
+        "2027-04-10"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-17",
-      "last_date": "2027-04-04",
-      "count": 46
+      "last_date": "2027-04-10",
+      "count": 47
     },
     {
       "id": 53889137015268,
@@ -2779,132 +2780,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54135881458631,
-      "title": "(CANCELLED) Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
-      "url": "https://events.stanford.edu/event/leadership-in-crisis-lessons-from-armed-conflict-and-devastating-disasters",
-      "experience": "inperson",
-      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "International Affairs",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54135885334538/huge/0045cee278cc721beb9fe5a67762fb443670f144.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-12",
-          "start": "2026-10-12T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-12"
-      ]
-    },
-    {
-      "id": 54171323569878,
-      "title": "ESE Seminar - Yuzhang Li: \"Battery Intelligence from the Inside Out\"",
-      "url": "https://events.stanford.edu/event/ese-seminar-yuzhang-li-battery-intelligence-from-the-inside-out",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54171325597581/huge/eea50cb56335345f57cc84dc3ed32f7e5a3257a0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-12",
-          "start": "2026-10-12T12:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-12"
-      ]
-    },
-    {
-      "id": 54100806959750,
-      "title": "Neil Thompson: Forecasting AI’s Impact on Human Expertise and the Future of Work",
-      "url": "https://events.stanford.edu/event/neil-thompson-forecasting-ais-impact-on-human-expertise-and-the-future-of-work",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54100810620138/huge/809696e902294d024876b67c2e17f3c252e1146a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-12",
-          "start": "2026-10-12T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-12"
-      ]
-    },
-    {
-      "id": 53939832065433,
-      "title": "Reclaiming Liberal Education in America",
-      "url": "https://events.stanford.edu/event/reclaiming-liberal-education-in-america",
-      "experience": "hybrid",
-      "location": "Hoover Institution - George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53939851522109/huge/863ce25f0832031db41421af0f82b5bad6d8cacb.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-12",
-          "start": "2026-10-12T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-12"
-      ]
-    },
-    {
-      "id": 53552376625397,
-      "title": "Stanford Energy Seminar | The Renewables Reckoning: Bankruptcies, Buyouts, and America's Energy Supply | Nick Franchot, GoodFinch",
-      "url": "https://events.stanford.edu/event/stanford-energy-seminar-10122026",
-      "experience": "hybrid",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54161286605921/huge/0bbb8a3ed4b04d55da0ad6762ccf41d495f513b1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-12",
-          "start": "2026-10-12T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-12"
-      ]
-    },
     {
       "id": 54064328074120,
       "title": "American Society of Colon and Rectal Surgeons Meeting (ASCRS) Abstract Deadline",
@@ -4735,6 +4610,31 @@
       ]
     },
     {
+      "id": 54224391600147,
+      "title": "Lunch Club Series | When the gloves come off: Cross-cutting methodologies and Indigenous Arctic heritage outside the museum",
+      "url": "https://events.stanford.edu/event/when-the-gloves-come-off-cross-cutting-methodologies-and-indigenous-arctic-heritage-outside-the-museum",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54224799552273/huge/8f9f68e970cbf7026c80d8ee2480533a0b0e7d0b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-21",
+          "start": "2026-10-21T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    {
       "id": 54003958063488,
       "title": "Michael Bernstein @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
       "url": "https://events.stanford.edu/event/michael-bernstein-entrepreneurial-thought-leaders-speaker-series-etl",
@@ -4856,31 +4756,6 @@
         {
           "date": "2026-10-21",
           "start": "2026-10-21T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54224391600147,
-      "title": "When the gloves come off: Cross-cutting methodologies and Indigenous Arctic heritage outside the museum",
-      "url": "https://events.stanford.edu/event/when-the-gloves-come-off-cross-cutting-methodologies-and-indigenous-arctic-heritage-outside-the-museum",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T12:00:00-07:00",
           "all_day": false
         }
       ],
