@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:26:30+00:00",
+  "generated_at": "2026-10-13T19:47:26+00:00",
   "window": {
     "start": "2026-10-13",
     "end": "2027-04-11"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 309
+    "dated": 318
   },
   "ongoing": [
     {
@@ -3668,6 +3668,32 @@
       ]
     },
     {
+      "id": 54232667183415,
+      "title": "Environmental Humanities Project: Field Trip \"Reimagining Our Waterways\" Climate and Art Symposium",
+      "url": "https://events.stanford.edu/event/environmental-humanities-project-field-trip-reimagining-our-waterways-climate-and-art-symposium",
+      "experience": "inperson",
+      "location": "San Jose Musuem of Art, 110 S Market Street, San José, CA 95113",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54232674105333/huge/7c16cc766c9b41ad6beeed4d8a501a96cd4791a2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
       "id": 51958293297549,
       "title": "Physics Alumni Reunion Homecoming",
       "url": "https://events.stanford.edu/event/physics-alumni-reunion-homecoming",
@@ -3930,6 +3956,32 @@
         {
           "date": "2026-10-19",
           "start": "2026-10-19T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
+      "id": 54232661142545,
+      "title": "Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software",
+      "url": "https://events.stanford.edu/event/carina-hong-ai-that-can-prove-it-from-mathematical-discovery-to-verified-software",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54232665245665/huge/86e825acc383a21c7a79151897857945b351fd6f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4305,7 +4357,7 @@
     },
     {
       "id": 53612685635155,
-      "title": "Bay Area Tech Economics Seminar",
+      "title": "Bay Area Tech Economics Seminar with Rehan Khan, Snowflake",
       "url": "https://events.stanford.edu/event/bay-area-tech-economics-seminar",
       "experience": "inperson",
       "location": "Stanford ChEM-H Building, E241 Rotunda, 290 Jane Stanford Way, Stanford, CA 94305",
@@ -6100,14 +6152,14 @@
       "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
       "url": "https://events.stanford.edu/event/Angels-Auditions",
       "experience": "inperson",
-      "location": "To Be Announced",
+      "location": "Roble Gym, 375 Santa Teresa Street, Stanford, CA 94305",
       "types": [
         "Other"
       ],
       "subjects": [
         "Theater/Dance"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/39122882589700/huge/a854057dad5fdeae267115dbb0cc3c49be14e0b3.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54231460855019/huge/9ab0d4e5986812be53a56be616dd4cbacb4fd9ae.jpg",
       "free": false,
       "instances": [
         {
@@ -6124,6 +6176,32 @@
       "dates": [
         "2026-10-29",
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 54232746101412,
+      "title": "Environmental Humanities Project: Public Lecture: “Ripple Effects: Making with Rivers in War and Peace” with Amanda M. Smith",
+      "url": "https://events.stanford.edu/event/environmental-humanities-project-public-lectureripple-effects-making-with-rivers-in-war-and-peace-with-amanda-m-smith",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54232747623801/huge/788265f16ddd5a5cc1dfa2bb016afb7f7a968dd6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
       ]
     },
     {
@@ -7501,6 +7579,33 @@
       ]
     },
     {
+      "id": 54231147388320,
+      "title": "Mighty Like A Moose – Stephen Prutsman & The Dolphins Quartet",
+      "url": "https://events.stanford.edu/event/mighty-like-a-moose-prutsman-dolphins",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54231209213698/huge/a08ad1753d72b5308e849ac0d1085d247a6c2fe8.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
       "id": 54004348721357,
       "title": "Artist Talk | Holographic Space, a talk by Charles Ray",
       "url": "https://events.stanford.edu/event/charles-ray",
@@ -7685,6 +7790,33 @@
       ],
       "dates": [
         "2026-11-12"
+      ]
+    },
+    {
+      "id": 54231094017870,
+      "title": "Emerging String Quartet Program – The Dolphins",
+      "url": "https://events.stanford.edu/event/esqp-dolphins-quartet",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54231141410124/huge/eec89ab2f2a640e4f3ab4a8187543347680486fd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13"
       ]
     },
     {
@@ -8367,6 +8499,31 @@
       ]
     },
     {
+      "id": 54232580243712,
+      "title": "ME218a Smart Product Design Fundamentals Project Presentations",
+      "url": "https://events.stanford.edu/event/me218a-smart-product-design-fundamentals-project-presentations-327",
+      "experience": "inperson",
+      "location": "Building 550, Peterson Laboratory, Grove, 416 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511035780218/huge/cbd7d557af73c735981b92f6dd062bc6600ad4fa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
       "id": 54001223928413,
       "title": "Noon Concert: Flute Students of Melody Holmes",
       "url": "https://events.stanford.edu/event/noon-holmes-fall26",
@@ -8835,6 +8992,33 @@
       ]
     },
     {
+      "id": 54231066835968,
+      "title": "Stanford Percussion Ensemble",
+      "url": "https://events.stanford.edu/event/stanford-percussion-ensemble-fall26",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54231066812414/huge/0a4462cd09ab5089f600715cb608f7e19b68ce18.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-30",
+          "start": "2026-11-30T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-30"
+      ]
+    },
+    {
       "id": 54178976598416,
       "title": "Applied Physics/Physics Colloquium: Jo Dunkley - \"The Simons Observatory\"",
       "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-jo-dunkley-the-simons-observatory",
@@ -9095,6 +9279,33 @@
       ]
     },
     {
+      "id": 54231039876849,
+      "title": "Ensemble OH?: Here I Love You",
+      "url": "https://events.stanford.edu/event/ensemble-oh-here-i-love-you",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04"
+      ]
+    },
+    {
       "id": 53948951033153,
       "title": "Fall 2026 Open Studios",
       "url": "https://events.stanford.edu/event/fall-2026-open-studios",
@@ -9303,6 +9514,33 @@
       ],
       "dates": [
         "2026-12-05"
+      ]
+    },
+    {
+      "id": 54231028295133,
+      "title": "Annual Azure Family Holiday Concert",
+      "url": "https://events.stanford.edu/event/azure-family-holiday-concert-2026",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54231028202969/huge/cd2537db01d962a2d2678fd53e077a52d3c12274.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T14:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-06"
       ]
     },
     {
