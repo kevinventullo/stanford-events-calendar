@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:54:47+00:00",
+  "generated_at": "2026-10-14T17:50:19+00:00",
   "window": {
     "start": "2026-10-14",
     "end": "2027-04-12"
@@ -3708,33 +3708,6 @@
       ]
     },
     {
-      "id": 53851911370204,
-      "title": "Darshan and the Savarna Sensorium",
-      "url": "https://events.stanford.edu/event/darshan-and-the-savarna-sensorium",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Diversity/Identity",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53851922753202/huge/bd7e98fc7baec09ea8a09bceecc2a7fb40300fcf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
       "id": 53853507644950,
       "title": "Hell No, Jim Crow! (I Don't Go for That): The Convergence of Art and Politics, An Intimate Evening With Dr. Samuel Waymon at DAAAS",
       "url": "https://events.stanford.edu/event/an-intimate-evening-with-dr-samuel-waymon",
@@ -3966,6 +3939,33 @@
         {
           "date": "2026-10-19",
           "start": "2026-10-19T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
+      "id": 53851911370204,
+      "title": "Touched by the Gods: Darshan and the Savarna Sensorium",
+      "url": "https://events.stanford.edu/event/darshan-and-the-savarna-sensorium",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Diversity/Identity",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53851922753202/huge/bd7e98fc7baec09ea8a09bceecc2a7fb40300fcf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T17:30:00-07:00",
           "all_day": false
         }
       ],
