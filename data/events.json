@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T19:47:26+00:00",
+  "generated_at": "2026-10-14T05:54:47+00:00",
   "window": {
-    "start": "2026-10-13",
-    "end": "2027-04-11"
+    "start": "2026-10-14",
+    "end": "2027-04-12"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 318
+    "dated": 308
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -260,7 +259,8 @@
         "2027-04-05",
         "2027-04-08",
         "2027-04-09",
-        "2027-04-10"
+        "2027-04-10",
+        "2027-04-11"
       ]
     },
     {
@@ -572,7 +572,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -651,7 +650,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -764,7 +762,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -844,7 +841,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -895,7 +891,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -926,7 +921,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -965,7 +959,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -2202,6 +2195,11 @@
           "date": "2027-04-10",
           "start": "2027-04-10T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-11",
+          "start": "2027-04-11T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2251,13 +2249,14 @@
         "2027-03-28",
         "2027-04-03",
         "2027-04-04",
-        "2027-04-10"
+        "2027-04-10",
+        "2027-04-11"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-17",
-      "last_date": "2027-04-10",
-      "count": 47
+      "last_date": "2027-04-11",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2509,6 +2508,11 @@
           "date": "2027-04-10",
           "start": "2027-04-10T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-11",
+          "start": "2027-04-11T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2558,13 +2562,14 @@
         "2027-03-28",
         "2027-04-03",
         "2027-04-04",
-        "2027-04-10"
+        "2027-04-10",
+        "2027-04-11"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-17",
-      "last_date": "2027-04-10",
-      "count": 47
+      "last_date": "2027-04-11",
+      "count": 48
     },
     {
       "id": 53889137015268,
@@ -2780,318 +2785,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54064328074120,
-      "title": "American Society of Colon and Rectal Surgeons Meeting (ASCRS) Abstract Deadline",
-      "url": "https://events.stanford.edu/event/copy-of-american-association-of-plastic-surgeons-meeting-aaps-abstract-deadline-1384",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Conference/Symposium",
-        "Meeting"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54064446828293/huge/99326461375de3f29cf53c96ca265dfa01f2e26b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54188414477522,
-      "title": "Applied Physics/Physics Colloquium: Kent Irwin & Ian Fisher (State of the Departments)",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-kent-irwin-ian-fisher-state-of-the-departments",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54188417389271/huge/225e496835c5c69d07ccffd4f35846ec0b8e315e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54223077126498,
-      "title": "Bruce Jennings -The Struggle for Agroecology in the Americas",
-      "url": "https://events.stanford.edu/event/bruce-jennings-the-struggle-for-agroecology-in-the-americas",
-      "experience": "inperson",
-      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54223092042664/huge/1dde7de8b9f46ffc2751df1bc5e1168f31a077e1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 53975636548068,
-      "title": "Emma Shaw Crane, \"The Periphery Within: War, Labor, and the Camp in the Florida Suburbs,\" in conversation with Abigail Kahn (CCSRE Graduate Dissertation Fellow)",
-      "url": "https://events.stanford.edu/event/emma-shaw-crane-the-periphery-within-war-labor-and-the-camp-in-the-florida-suburbs",
-      "experience": "inperson",
-      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53975639412470/huge/8ea53175fe9e2ec67c6f8b3da3297727f01516a7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54100900488605,
-      "title": "LBRE: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/lbre-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "560 Fremont, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54100904972596/huge/dbba6d462c70ac6a586777f063334d84f1c7a3fa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54126212352521,
-      "title": "Pediatric Grand Rounds (CME): Optimizing Health Care for Children with Disabilities",
-      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-brain-in-a-dish-cure-in-a-pipeline-organoid-based-drug-discovery-for-neuropsychiatric-diseases",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Medicine",
-        "Science",
-        "Health/Wellness",
-        "Engineering/Technology",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54126212309511/huge/5d1f23ec26ddc6e2e32a16aa6e65d5e71d7dd4d1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 53879764192027,
-      "title": "Special, Unique, and Rare: MONSTERS",
-      "url": "https://events.stanford.edu/event/special-unique-and-rare-monsters",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity",
-        "Education",
-        "Engineering/Technology",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54128540610914/huge/3013c2ffcab6f1f0dbdf2a19ae4b0399c86c3bbe.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54038249644275,
-      "title": "The Science of Nuclear Winter: What We Know and What We Don't Know about the Consequences of a Nuclear War | Drell Lecture 2026 with Brian Toon",
-      "url": "https://events.stanford.edu/event/the-science-of-nuclear-winter-what-we-know-and-what-we-dont-know-about-the-consequences-of-a-nuclear-war-drell-lecture-2026-with-brian-toon",
-      "experience": "hybrid",
-      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39077921220013/huge/50dd80dc46937e4a8180b3f5f8eb47ffd69e8537.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 53992893085823,
-      "title": "Two Routes to Scale: Innovation Clusters in Tokyo-Yokohama and the Greater Bay Area",
-      "url": "https://events.stanford.edu/event/two-routes-to-scale-innovation-clusters-in-tokyo-yokohama-and-the-greater-bay-area-5632",
-      "experience": "inperson",
-      "location": "Encina Hall, 3rd Floor, Okimoto Conference Room (E307), 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53993103591638/huge/95821455c6d1b8345b3bb45e63d7faba929f6762.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54109578748450,
-      "title": "What Young People’s Technology Use Tells Us",
-      "url": "https://events.stanford.edu/event/what-young-peoples-technology-use-tells-us",
-      "experience": "hybrid",
-      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54109853250469/huge/2206b2a9fb8a45acfbfb5ef2b02e4d8415c4d833.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54137696929604,
-      "title": "Why amina wadud Should Be as Famous as Malcolm X: The Life and Work of a Great American Feminist and Muslim Scholar-Activist | Carla Power",
-      "url": "https://events.stanford.edu/event/amina-wadud",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Arts/Media",
-        "Diversity/Identity",
-        "Religion/Spirituality",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54137776903558/huge/c1b7ea9247df1317d480225ba3bfda37c40b2588.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "id": 54134630587523,
-      "title": "Will and Attention: Meghan O’Gieblyn in conversation with Professor Laura Wittman",
-      "url": "https://events.stanford.edu/event/will-and-attention-meghan-ogieblyn-in-conversation-with-professor-laura-wittman",
-      "experience": "inperson",
-      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Humanities",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54134635043499/huge/c2e3dc49dc6862093e217a2ede254fc8cb0f96f6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-13",
-          "start": "2026-10-13T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-13"
-      ]
-    },
     {
       "id": 54055996878895,
       "title": "(GSB) Graduate School of Business: Flu & COVID-19 Vaccination Clinic",
@@ -6800,7 +6493,7 @@
     },
     {
       "id": 54188899937974,
-      "title": "Work, Exile, and Home: Honoring Milorad Drachkovitch & ReOpening the Polich Room",
+      "title": "Work, Exile, and Home: Honoring Milorad Drachkovitch & Reopening the Polich Library",
       "url": "https://events.stanford.edu/event/work-exile-and-home-honoring-milorad-drachkovitch-reopening-the-polich-room",
       "experience": "inperson",
       "location": "Hoover Tower, T108, 550 Jane Stanford Way, Stanford, CA 94305",
@@ -7546,6 +7239,33 @@
         {
           "date": "2026-11-11",
           "start": "2026-11-11T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": 54222647385710,
+      "title": "Center for Just Environmental Futures Inaugural Distinguished Lecture Series: Featuring - ‘Aulani Wilhelm, CEO of Nia Tero",
+      "url": "https://events.stanford.edu/event/center-for-just-environmental-futures-inaugural-distinguished-lecture-series-featuring-aulani-wilhelm-ceo-of-nia-tero",
+      "experience": "inperson",
+      "location": "The Press Building, 106, 425 Santa Teresa St.  Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54232494592361/huge/d67d0a159e5d55e68c193232a07a961c3915c9ef.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T16:30:00-08:00",
           "all_day": false
         }
       ],
@@ -9178,6 +8898,31 @@
       ]
     },
     {
+      "id": 54233222812404,
+      "title": "Comparative Literature: Dr. Lilach Nethanel (Bar-Ilan University)",
+      "url": "https://events.stanford.edu/event/comparative-literature-dr-lilach-nethanel-bar-ilan-university",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54233227381433/huge/e827e39847ead7739e38d55659d7098b54653f0e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
       "id": 54037437866562,
       "title": "Jana Hunter- The Child of Freedom: Temporal Sovereignty in Habsburg Bohemia",
       "url": "https://events.stanford.edu/event/the-child-of-freedom-temporal-sovereignty-in-habsburg-bohemia",
@@ -10094,10 +9839,16 @@
           "date": "2027-01-25",
           "start": "2027-01-25T11:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-11",
+          "start": "2027-04-11T11:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
-        "2027-01-25"
+        "2027-01-25",
+        "2027-04-11"
       ]
     },
     {
