@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T17:50:19+00:00",
+  "generated_at": "2026-10-15T05:38:11+00:00",
   "window": {
-    "start": "2026-10-14",
-    "end": "2027-04-12"
+    "start": "2026-10-15",
+    "end": "2027-04-13"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 308
+    "dated": 303
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
@@ -260,7 +259,8 @@
         "2027-04-08",
         "2027-04-09",
         "2027-04-10",
-        "2027-04-11"
+        "2027-04-11",
+        "2027-04-12"
       ]
     },
     {
@@ -458,7 +458,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-21",
@@ -572,7 +571,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-18",
@@ -650,7 +648,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
@@ -762,7 +759,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
@@ -841,7 +837,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-19",
@@ -891,7 +886,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-19",
@@ -921,7 +915,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
@@ -959,7 +952,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-14",
         "2026-10-15",
         "2026-10-16",
         "2026-10-19",
@@ -1063,11 +1055,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-14",
-          "start": "2026-10-14T19:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-19",
           "start": "2026-10-19T19:00:00-07:00",
           "all_day": false
@@ -1139,7 +1126,6 @@
         }
       ],
       "dates": [
-        "2026-10-14",
         "2026-10-19",
         "2026-10-21",
         "2026-10-26",
@@ -1157,9 +1143,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-10-14",
+      "next_date": "2026-10-19",
       "last_date": "2026-12-09",
-      "count": 15
+      "count": 14
     },
     {
       "id": 53629749361008,
@@ -2721,11 +2707,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-14",
-          "start": "2026-10-14T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-21",
           "start": "2026-10-21T09:00:00-07:00",
           "all_day": false
@@ -2767,7 +2748,6 @@
         }
       ],
       "dates": [
-        "2026-10-14",
         "2026-10-21",
         "2026-10-28",
         "2026-11-04",
@@ -2779,341 +2759,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-10-14",
+      "next_date": "2026-10-21",
       "last_date": "2026-12-16",
-      "count": 9
+      "count": 8
     }
   ],
   "events": [
-    {
-      "id": 54055996878895,
-      "title": "(GSB) Graduate School of Business: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/gsb-graduate-school-of-business-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "Graduate School of Business, McClelland Building, Collaborations Lab (M101), 655 Knight Way Stanford, CA 94305 USA",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54056002952019/huge/f02385c427da5342dd2337c2f0ff484abcdb05e6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54171631248555,
-      "title": "2026 USIBC West Coast Summit",
-      "url": "https://events.stanford.edu/event/2026-usibc-west-coast-summit",
-      "experience": "inperson",
-      "location": "Hoover Institution, Shultz Auditorium, 426 Galvez Mall, Stanford CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54171921375929/huge/3193b0c423771b85c06aa4286e96e354a45660ea.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T08:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 53727281212449,
-      "title": "Center for African Studies Welcome Reception",
-      "url": "https://events.stanford.edu/event/cas-welcome-reception",
-      "experience": "inperson",
-      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Theater/Dance",
-        "Health/Wellness",
-        "Music",
-        "Business",
-        "Career Development",
-        "Education",
-        "Engineering/Technology",
-        "Environment/Sustainability",
-        "Humanities",
-        "Diversity/Identity",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53727344667635/huge/30be83b82e5a7c790d8c63ada3ea2156ac269d4a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54190474785308,
-      "title": "Coffee & Maíz: Building Community with Stanford’s El Centro Chicano y Latino",
-      "url": "https://events.stanford.edu/event/coffee-maiz-building-community-with-stanfords-el-centro-chicano-y-latino",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Patio, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54190481250225/huge/c2909d7d0fa6319bfb64bc48812f80440e7fb18b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 53971797448204,
-      "title": "Lunch Club Series | Lessons Learned? Looting, Loss, and Landscape at Early Bronze Age sites in Jordan",
-      "url": "https://events.stanford.edu/event/lessons-learned-looting-loss-and-landscape-at-early-bronze-age-sites-in-jordan",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53971826260556/huge/fa53f966ec84b8e85d4ced7405809ea7c3487cf0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54108049908804,
-      "title": "Mary Bryson | Cancer’s Dirty Margins: A Minoritized Scholar’s Pathography",
-      "url": "https://events.stanford.edu/event/mary-bryson-cancers-dirty-margins-a-minoritized-scholars-pathography",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Workshop"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54108071901997/huge/37403edfdf469dfc6ecf6f97d066c1dc3829ff62.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54118401146911,
-      "title": "Medical Humanities: Cancer’s Dirty Margins: A Minoritized Scholar’s Pathography",
-      "url": "https://events.stanford.edu/event/medical-humanities-cancers-dirty-margins-a-minoritized-scholars-pathography",
-      "experience": "inperson",
-      "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54118402538066/huge/c3d8860a4a462e71a8686728cb5293f3c0a6518c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54163454395103,
-      "title": "Monsters: Bowes Library Pop-up, Oct. 14, 1-3pm",
-      "url": "https://events.stanford.edu/event/monsters-bowes-library-pop-up-oct-14-1-3pm",
-      "experience": "inperson",
-      "location": "McMurtry Building, Bowes Art & Architecture Library, 2nd fl. For building and elevator access, please call 650-725-3408., 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54163493329943/huge/189cf5a5875ff8c8876aa40bffd20e94ba50d5a1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54010325570517,
-      "title": "Moustafa Bayoumi | “I can’t imagine living next to a wall”: Palestine and the Tohono O’odham Nation",
-      "url": "https://events.stanford.edu/event/moustafa-bayoumi-i-cant-imagine-living-next-to-a-wall-palestine-and-the-tohono-oodham-nation",
-      "experience": "inperson",
-      "location": "Building 160, Wallenberg Hall, 433A (CESTA), 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54010349653607/huge/c1b3f24a3742071fdf6174d7d25af5b42fcae547.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 52685971359572,
-      "title": "The Rise and Future of the Korean Semiconductor Memory Industry: Perspectives and Insights from 1983 to 2026 and Beyond",
-      "url": "https://events.stanford.edu/event/the-rise-and-future-of-the-korean-semiconductor-memory-industry-perspectives-and-insights-from-1983-to-2026-and-beyond",
-      "experience": "inperson",
-      "location": "Encina Hall, 3rd Floor, Philippines Conference Room (C330), 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53941315400000/huge/527ec978c6583fdecb9447525a6b8ad930ca2d4f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54003886938232,
-      "title": "Ukraine: An Update from the Ground",
-      "url": "https://events.stanford.edu/event/ukraine-an-update-from-the-ground",
-      "experience": "hybrid",
-      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54101689265848/huge/5591fc3e64c17682acb87b31bee2b6b320df173e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "id": 54003923027648,
-      "title": "Vineet Edupuganti @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/vineet-edupuganti-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003951144229/huge/552eede1c0a2a876d45da790b53bd27927ad916e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-14",
-          "start": "2026-10-14T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-14"
-      ]
-    },
     {
       "id": 54118221957130,
       "title": "Environmental Humanties Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
@@ -3402,6 +3053,31 @@
         {
           "date": "2026-10-16",
           "start": "2026-10-16T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    {
+      "id": 54241744250357,
+      "title": "Reunion Homecoming Open House",
+      "url": "https://events.stanford.edu/event/copy-of-reunion-homecoming-fall-welcome",
+      "experience": "inperson",
+      "location": "Fire Truck House, 433 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54241783994177/huge/fe1427c14b7c98d5138b036120e61766d37160a4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-16",
+          "start": "2026-10-16T13:30:00-07:00",
           "all_day": false
         }
       ],
@@ -3708,6 +3384,31 @@
       ]
     },
     {
+      "id": 54241361470068,
+      "title": "ESE Seminar - Inês Azevedo",
+      "url": "https://events.stanford.edu/event/ese-seminar-ines-azevedo-what-is-the-stanford-woods-institute-for-the-environment-a-journey-into-the-worlds-most-pressing-environmental-problems",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54241366064070/huge/b1c71f281721b92ba9c0d49b062aaddc99bdbb23.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
       "id": 53853507644950,
       "title": "Hell No, Jim Crow! (I Don't Go for That): The Convergence of Art and Politics, An Intimate Evening With Dr. Samuel Waymon at DAAAS",
       "url": "https://events.stanford.edu/event/an-intimate-evening-with-dr-samuel-waymon",
@@ -3776,7 +3477,7 @@
       "subjects": [
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/41624083985019/huge/7857acb575e7fd0f15cbae633beca532916d0645.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54242417335209/huge/e392324c03484d9ae4e55e4d3f9d9bc9e937b11a.jpg",
       "free": false,
       "instances": [
         {
@@ -3833,6 +3534,29 @@
         {
           "date": "2026-10-19",
           "start": "2026-10-19T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    {
+      "id": 54241748316341,
+      "title": "PhD Dissertation Defense: Santiago Mille Fragoso",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-santiago-mille-fragoso",
+      "experience": "hybrid",
+      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54241751524093/huge/179bbc209bfe4122b4f804801fc75d7dff081a88.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-19",
+          "start": "2026-10-19T13:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4169,7 +3893,7 @@
       "instances": [
         {
           "date": "2026-10-20",
-          "start": "2026-10-20T10:00:00-07:00",
+          "start": "2026-10-20T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4929,7 +4653,7 @@
     },
     {
       "id": 54196018681993,
-      "title": "Race and Gender in the Global Hispanophone: Lecture with Prof. Regina Pieck",
+      "title": "Race and Gender in the Global Hispanophone: \"The Anthropocene and Mesoamerican Cosmologies\" with Professor Regina Pieck",
       "url": "https://events.stanford.edu/event/race-and-gender-in-the-global-hispanophone-5195",
       "experience": "inperson",
       "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
@@ -4939,7 +4663,7 @@
       "subjects": [
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54196020102585/huge/47f8f30d21de4a9d3c7b11fc980bf1576b8f3f2c.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54241488317448/huge/fac5c54c9cc36752148dd78b700f4c2c401149fe.jpg",
       "free": false,
       "instances": [
         {
@@ -5673,7 +5397,7 @@
         "Humanities",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54172045036530/huge/06bd2883731bdddcbe1ce93b998386ae754a329b.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54242390410545/huge/673350fc9bcb049d5cf4b1ea4a6c9469c7bccb2f.jpg",
       "free": false,
       "instances": [
         {
@@ -5777,7 +5501,7 @@
         "International Affairs",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54218076227690/huge/3470c76a0ddd76a6508dc62aabab53c56ef51a83.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54240988741063/huge/5b83d588be149f9365d577b28530efb2e6329988.jpg",
       "free": false,
       "instances": [
         {
@@ -5841,6 +5565,33 @@
       ]
     },
     {
+      "id": 54242401712952,
+      "title": "A Conversation with Matthew L. Jones, Princeton University, on his book How Data Happened and the development of AI,  with comments by Tom Mullaney, Stanford University",
+      "url": "https://events.stanford.edu/event/a-conversation-withmatthew-l-jones-princeton-university-on-his-bookhow-data-happenedand-the-development-of-ai-with-comments-by-tom-mullaney-stanford-university",
+      "experience": "inperson",
+      "location": "Building 200, History Corner, 303, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54242414903214/huge/a29600c00ffb82583df0e0467c1797cdd74fd0a8.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
       "id": 53763677186043,
       "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
       "url": "https://events.stanford.edu/event/Angels-Auditions",
@@ -5869,6 +5620,32 @@
       "dates": [
         "2026-10-29",
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 54242650519832,
+      "title": "Comics: More Than Words: Hanako Asakura - Manga as (or in?) Conversation",
+      "url": "https://events.stanford.edu/event/comics-more-than-words-hanako-asakura-manga-as-or-in-conversation",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 240, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54242669783760/huge/0f01a9c114ddaff6d2447d2982ba9c40b7af4ab3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
       ]
     },
     {
@@ -6354,6 +6131,34 @@
         {
           "date": "2026-11-04",
           "start": "2026-11-04T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
+      "id": 54241029025030,
+      "title": "DAAAS Movie Night: The Eyes of Ghana",
+      "url": "https://events.stanford.edu/event/daaas-movie-night-the-eyes-of-ghana",
+      "experience": "inperson",
+      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54242662544910/huge/1f2a56b891fef292ec063dec9510df657bdf0423.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T19:00:00-08:00",
           "all_day": false
         }
       ],
@@ -7107,6 +6912,34 @@
         {
           "date": "2026-11-10",
           "start": "2026-11-10T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": 54241742757329,
+      "title": "Filmmaker Kahlil Joseph, In Conversation",
+      "url": "https://events.stanford.edu/event/filmmaker-kahlil-joseph-in-conversation",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54241968620384/huge/1497b397f3a267a1a0ec50b6fef7be6ec8a284a0.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T17:30:00-08:00",
           "all_day": false
         }
       ],
