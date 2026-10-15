@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:38:11+00:00",
+  "generated_at": "2026-10-15T17:39:51+00:00",
   "window": {
     "start": "2026-10-15",
     "end": "2027-04-13"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 303
+    "dated": 304
   },
   "ongoing": [
     {
@@ -9337,6 +9337,36 @@
         {
           "date": "2026-12-09",
           "start": "2026-12-09T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-09"
+      ]
+    },
+    {
+      "id": 54249250966768,
+      "title": "Meet the Makers!",
+      "url": "https://events.stanford.edu/event/AY27AUT-meet-the-makers",
+      "experience": "inperson",
+      "location": "Building 550, Peterson Laboratory, Atrium, 416 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Health/Wellness",
+        "Education",
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54249311843310/huge/be26172b739ac5b20339e50153aca49ac628afc2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-09",
+          "start": "2026-12-09T20:00:00-08:00",
           "all_day": false
         }
       ],
