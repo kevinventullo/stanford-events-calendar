@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T17:39:51+00:00",
+  "generated_at": "2026-10-16T05:32:36+00:00",
   "window": {
-    "start": "2026-10-15",
-    "end": "2027-04-13"
+    "start": "2026-10-16",
+    "end": "2027-04-14"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 304
+    "dated": 303
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -135,7 +134,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -280,7 +278,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -349,7 +346,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -458,7 +454,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-21",
         "2026-10-22",
@@ -571,7 +566,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-18",
         "2026-10-19",
@@ -648,7 +642,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -759,7 +752,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -837,7 +829,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-19",
         "2026-10-20",
@@ -886,7 +877,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-19",
         "2026-10-20",
@@ -915,7 +905,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -952,7 +941,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-19",
         "2026-10-20",
@@ -1003,7 +991,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-19",
         "2026-10-20",
@@ -1164,11 +1151,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-15",
-          "start": "2026-10-15T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-22",
           "start": "2026-10-22T10:00:00-07:00",
           "all_day": false
@@ -1180,15 +1162,14 @@
         }
       ],
       "dates": [
-        "2026-10-15",
         "2026-10-22",
         "2026-10-29"
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-10-15",
+      "next_date": "2026-10-22",
       "last_date": "2026-10-29",
-      "count": 3
+      "count": 2
     },
     {
       "id": 50967994153103,
@@ -2766,180 +2747,6 @@
   ],
   "events": [
     {
-      "id": 54118221957130,
-      "title": "Environmental Humanties Project: Hydrofeminism in a Time of Endings: Care for the Stranded",
-      "url": "https://events.stanford.edu/event/environmental-humanties-project-hydrofeminism-in-a-time-of-endings-care-for-the-stranded",
-      "experience": "inperson",
-      "location": "Building 160, Wallenberg Hall, Room 433A, 450 Jane Stanford Way, Building 160, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54118223625747/huge/25ae1fd03149e312f54ae2e61f9191b9e4dd9eeb.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
-      "id": 52940965451403,
-      "title": "Lunchtime Curator Talk | Solid Pictures",
-      "url": "https://events.stanford.edu/event/lunchtime-curator-talk-solid-pictures",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Pigott Family Gallery (142), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52941042455879/huge/65b528d734dc4a8ad7763ea17a186d1368c7d9b6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
-      "id": 54118571524713,
-      "title": "Philosophy and Literature: Eyal Peretz - The Work of Art: From Sacrifice to Democracy",
-      "url": "https://events.stanford.edu/event/philosophy-and-literature-eyal-peretz-the-work-of-art-from-sacrifice-to-democracy",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54163014843031/huge/879697f81522f73d3895fe29aa3f3a83a76eb1fc.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T18:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
-      "id": 54099343520050,
-      "title": "Spreading the Spores: From the First Chef-in-Residence to the Next",
-      "url": "https://events.stanford.edu/event/spreading-the-spores",
-      "experience": "inperson",
-      "location": "O'Donohue Educational Farm, 175 Electioneer Rd, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54099390407536/huge/21377a7d037f5929b44595b87a81d586985c4242.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
-      "id": 54169435816449,
-      "title": "Stanford Veterans Homecoming Happy Hour!",
-      "url": "https://events.stanford.edu/event/stanford-veterans-homecoming-happy-hour",
-      "experience": "inperson",
-      "location": "MacArthur Park Restaurant, 27 University Ave, Palo Alto, CA 94301",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54169442971050/huge/b05b6aa2353fc7033b6f2e78ffe903b9bb4a830d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
-      "id": 54171585676605,
-      "title": "The \"Other Europe\" through the Archives",
-      "url": "https://events.stanford.edu/event/the-other-europe-through-the-archives-5898",
-      "experience": "inperson",
-      "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54171590291575/huge/fae7721d801713424681034f75a7fe2cc40d43b4.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
-      "id": 54134468570215,
-      "title": "The “Other Europe” Through the Archives",
-      "url": "https://events.stanford.edu/event/the-other-europe-through-the-archives",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Education",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54134528981323/huge/02ba4b612a3a1aaa00d4cd15949c7a7bb5eecb95.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-15",
-          "start": "2026-10-15T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-15"
-      ]
-    },
-    {
       "id": 53977055387868,
       "title": "After Liberalism? The Future of Hedging and the Chimerica Choice for Southeast Asia",
       "url": "https://events.stanford.edu/event/after-liberalism-the-future-of-hedging-and-the-chimerica-choice-for-southeast-asia",
@@ -3801,7 +3608,7 @@
       "id": 54188292796379,
       "title": "Between You and the Facts",
       "url": "https://events.stanford.edu/event/between-you-and-the-facts",
-      "experience": "hybrid",
+      "experience": "inperson",
       "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
@@ -3810,7 +3617,7 @@
         "Engineering/Technology",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54249955552451/huge/8219283e33e59c16a886a5af0775895c1c6ff116.jpg",
       "free": false,
       "instances": [
         {
@@ -4588,7 +4395,7 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54190744590718/huge/8b09ecf8115b2e4415b6ea043bb5693e19bc9d7d.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54252247585957/huge/6727dbb26480496044b227a497dfe4af047111c1.jpg",
       "free": false,
       "instances": [
         {
@@ -6061,6 +5868,31 @@
       ]
     },
     {
+      "id": 54250092427286,
+      "title": "Artist Talk with CFGNY: A Practice in Collaboration",
+      "url": "https://events.stanford.edu/event/artist-talk-with-cfgny-a-practice-in-collaboration",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54250161748831/huge/66ed35e4a32185b0fd811e5eb20e7abbb6a5ed1f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    {
       "id": 54125978092384,
       "title": "Book Talk — We Shall Outlast Them: Putin's Global Campaign to Defeat the West",
       "url": "https://events.stanford.edu/event/book-talk-we-shall-outlast-them-putins-global-campaign-to-defeat-the-west",
@@ -7267,6 +7099,32 @@
       ]
     },
     {
+      "id": 54251541114674,
+      "title": "MRC Public Lecture: Tadashi Tokieda",
+      "url": "https://events.stanford.edu/event/mrc-public-lecture-tadashi-tokieda",
+      "experience": "inperson",
+      "location": "GSB Knight - Arbuckle / Cemex, Cemex Auditorium, 641 Knight Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54251551223597/huge/a25fa76830ba09f249391e808aaa7f42f1bd0aa5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
       "id": 52825303977410,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-to-knight-hennessy-scholars",
@@ -7527,6 +7385,33 @@
         {
           "date": "2026-11-14",
           "start": "2026-11-14T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    {
+      "id": 54251566722097,
+      "title": "Sunshine - Bryant Lin in conversation with Latha Palaniappan",
+      "url": "https://events.stanford.edu/event/sunshine-bryant-lin-in-conversation-with-latha-palaniappan",
+      "experience": "inperson",
+      "location": "Hoover Pavilion, Suite 201, 211 Quarry Road, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Humanities",
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54251601737306/huge/5aba3f8877790f77601bf6b42ca3da5cd6aff697.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -7858,7 +7743,7 @@
         "Engineering/Technology",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53886830974403/huge/3dd2cebb738d7a9a91778d83f9ffb40224fdc792.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54250363222511/huge/4df320c34ed2d1d2c24b6faf929df47848578c6f.jpg",
       "free": true,
       "instances": [
         {
@@ -8002,6 +7887,34 @@
       ]
     },
     {
+      "id": 54251654378560,
+      "title": "Vocal Masterclass with Rachel Willis-Sørensen, soprano",
+      "url": "https://events.stanford.edu/event/vocal-masterclass-rachel-willis-sorensen",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54251680408001/huge/45d000369385c6000cf8034105fc066d5680c719.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
       "id": 54004168043919,
       "title": "Demi Guo @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
       "url": "https://events.stanford.edu/event/demi-guo-entrepreneurial-thought-leaders-speaker-series-etl",
@@ -8117,6 +8030,33 @@
         "Humanities"
       ],
       "photo": "https://localist-images.azureedge.net/photos/53808918153532/huge/570e5195926ee8f63776283a51f88a6e549f139e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
+      "id": 54251694317498,
+      "title": "Shenson Recital Series: Rachel Willis-Sørensen, soprano",
+      "url": "https://events.stanford.edu/event/shenson-recital-rachel-willis-sorensen",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54251728578742/huge/f3fd1ffc4340bf307033fb7d824045d7bf562c84.jpg",
       "free": false,
       "instances": [
         {
@@ -10788,6 +10728,36 @@
       ],
       "dates": [
         "2027-04-07"
+      ]
+    },
+    {
+      "id": 53879886949770,
+      "title": "Special, Unique, and Rare: DESIGN",
+      "url": "https://events.stanford.edu/event/special-unique-and-rare-design",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Education",
+        "Engineering/Technology",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879886910856/huge/abb923980ed82cc13f7d3d78d03353f828180a90.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-04-13",
+          "start": "2027-04-13T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-13"
       ]
     }
   ]
