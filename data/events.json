@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T16:11:00+00:00",
+  "generated_at": "2026-10-18T05:30:33+00:00",
   "window": {
-    "start": "2026-10-17",
-    "end": "2027-04-15"
+    "start": "2026-10-18",
+    "end": "2027-04-16"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 301
+    "dated": 296
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-20",
@@ -133,7 +132,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-22",
@@ -256,7 +254,8 @@
         "2027-04-09",
         "2027-04-10",
         "2027-04-11",
-        "2027-04-12"
+        "2027-04-12",
+        "2027-04-15"
       ]
     },
     {
@@ -276,7 +275,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-20",
@@ -343,7 +341,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-22",
@@ -635,7 +632,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-20",
@@ -744,7 +740,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-20",
@@ -894,7 +889,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-19",
         "2026-10-20",
@@ -1294,16 +1288,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-17",
-          "start": "2026-10-17T14:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-23",
           "start": "2026-10-23T14:00:00-07:00",
           "all_day": false
@@ -1470,8 +1454,6 @@
         }
       ],
       "dates": [
-        "2026-10-17",
-        "2026-10-18",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -1508,9 +1490,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-17",
+      "next_date": "2026-10-23",
       "last_date": "2027-01-03",
-      "count": 35
+      "count": 33
     },
     {
       "id": 53969632558021,
@@ -1607,11 +1589,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-23",
           "start": "2026-10-23T11:30:00-07:00",
@@ -1834,7 +1811,6 @@
         }
       ],
       "dates": [
-        "2026-10-17",
         "2026-10-23",
         "2026-10-24",
         "2026-10-30",
@@ -1882,9 +1858,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-10-17",
+      "next_date": "2026-10-23",
       "last_date": "2027-04-10",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -1902,11 +1878,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-18",
           "start": "2026-10-18T13:00:00-07:00",
@@ -2144,7 +2115,6 @@
         }
       ],
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-24",
         "2026-10-25",
@@ -2195,9 +2165,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-10-17",
+      "next_date": "2026-10-18",
       "last_date": "2027-04-11",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2215,11 +2185,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-18",
           "start": "2026-10-18T15:00:00-07:00",
@@ -2457,7 +2422,6 @@
         }
       ],
       "dates": [
-        "2026-10-17",
         "2026-10-18",
         "2026-10-24",
         "2026-10-25",
@@ -2508,9 +2472,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-17",
+      "next_date": "2026-10-18",
       "last_date": "2027-04-11",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53889137015268,
@@ -2583,11 +2547,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-17",
-          "start": "2026-10-17T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-24",
           "start": "2026-10-24T09:30:00-07:00",
           "all_day": false
@@ -2629,7 +2588,6 @@
         }
       ],
       "dates": [
-        "2026-10-17",
         "2026-10-24",
         "2026-10-31",
         "2026-11-07",
@@ -2641,9 +2599,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-10-17",
+      "next_date": "2026-10-24",
       "last_date": "2026-12-12",
-      "count": 9
+      "count": 8
     },
     {
       "id": 51888083181057,
@@ -2721,174 +2679,28 @@
   ],
   "events": [
     {
-      "id": 52304881786304,
-      "title": "CBD 2026: In-person Interactive Workshop, The Power of the Pause in the Era of AI at with Tia Rich, PhD at 10am",
-      "url": "https://events.stanford.edu/event/cbd-2026-in-person-interactive-workshop-the-power-of-the-pause-at-with-tia-rich-phd-at-10am",
+      "id": 54267395146774,
+      "title": "[Cancelled] Gallery Conversations | JANE!",
+      "url": "https://events.stanford.edu/event/copy-of-gallery-conversations-jane",
       "experience": "inperson",
-      "location": "Lathrop Library, 282, 518 Memorial Way, Stanford, CA 94305",
+      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
       "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52304881733055/huge/9808604d0132b47546ae815b6330fb7f2155bc56.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-17"
-      ]
-    },
-    {
-      "id": 52304882554603,
-      "title": "CBD 2026: In-person Interactive Workshop, The Power of the Pause in the Era of AI with Tia Rich, PhD at 8:30am",
-      "url": "https://events.stanford.edu/event/cbd-2026-in-person-interactive-workshop-the-power-of-the-pause-with-tia-rich-phd-at-830am",
-      "experience": "inperson",
-      "location": "Lathrop Library, 282, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52304882530026/huge/9b52081365dd6ce351de733417a63c1deb006847.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T08:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-17"
-      ]
-    },
-    {
-      "id": 53994364480741,
-      "title": "Chinaka Hodge's All Greg's Kids Come Home, a staged reading",
-      "url": "https://events.stanford.edu/event/chinaka-hodges-all-gregs-kids-come-home-a-staged-reading",
-      "experience": "inperson",
-      "location": "Bing Studio, 327 Lasuen Street, Stanford CA 94305",
-      "types": [
-        "Performance"
+        "Tour"
       ],
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53994368659011/huge/7e7fd57497673df4804a490279c68281a287532d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-17"
-      ]
-    },
-    {
-      "id": 54171826021010,
-      "title": "Escher Quartet – Recital & Masterclass",
-      "url": "https://events.stanford.edu/event/escher-quartet-recital-masterclass",
-      "experience": "inperson",
-      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54171871384495/huge/d27a6ffee1ab25a729e78d12984a3f167a800fe9.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54267395103765/huge/4d9b9172532e1743927759f5b0bbe13e6c94ade8.jpg",
       "free": true,
       "instances": [
         {
-          "date": "2026-10-17",
-          "start": "2026-10-17T11:00:00-07:00",
+          "date": "2026-10-18",
+          "start": "2026-10-18T14:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-10-17"
-      ]
-    },
-    {
-      "id": 54170268753251,
-      "title": "Sophomore Recital: Tyler Chew, piano",
-      "url": "https://events.stanford.edu/event/sophomore-recital-tyler-chew",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-17"
-      ]
-    },
-    {
-      "id": 53632331147575,
-      "title": "Stanford Football vs Elon | Reunion Homecoming",
-      "url": "https://events.stanford.edu/event/stanford-football-vs-elon-reunion-homecoming",
-      "experience": "inperson",
-      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53632336871089/huge/5c0a42f4847ec2c310336a44ee03e5c574795d33.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-17",
-          "start": "2026-10-17T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-17"
+        "2026-10-18"
       ]
     },
     {
