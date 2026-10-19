@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:48:12+00:00",
+  "generated_at": "2026-10-19T19:05:33+00:00",
   "window": {
     "start": "2026-10-19",
     "end": "2027-04-17"
@@ -21,7 +21,7 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 14,
+    "ongoing": 15,
     "recurring": 12,
     "dated": 294
   },
@@ -995,6 +995,37 @@
         "2026-12-02",
         "2026-12-03",
         "2026-12-04"
+      ]
+    },
+    {
+      "id": 54284616524272,
+      "title": "The Frontier Between Legendary Monsters and Verified Natural History",
+      "url": "https://events.stanford.edu/event/the-frontier-between-legendary-monsters-and-verified-natural-history",
+      "experience": "inperson",
+      "location": "Sapp Center for Science Teaching and Learning, 315, 376 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54284713502711/huge/2bfce2598d1821ba59f54c5bcfd52f2acf23b4d2.jpg",
+      "free": false,
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-30",
+      "dates": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
       ]
     }
   ],
@@ -3298,7 +3329,7 @@
         "International Affairs"
       ],
       "photo": "https://localist-images.azureedge.net/photos/53499310406084/huge/8d47d5345dbe21794ef30ce7ed4b05d76cc92c80.jpg",
-      "free": true,
+      "free": false,
       "instances": [
         {
           "date": "2026-10-20",
@@ -3689,31 +3720,6 @@
         {
           "date": "2026-10-22",
           "start": "2026-10-22T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 53056984639945,
-      "title": "Copy of 9th Annual Stanford Maternal and Child Health Research Institute Symposium",
-      "url": "https://events.stanford.edu/event/copy-of-9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53056984586695/huge/1a4acb1eaef4c08b3d1ee2daf4c7f0b170062c14.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T08:00:00-07:00",
           "all_day": false
         }
       ],
@@ -6204,6 +6210,29 @@
       ]
     },
     {
+      "id": 54284955023230,
+      "title": "SLE Salon: Orlando Reade Explores How Paradise Lost Has Influenced Political Struggles and Revolutionary Movements over the Past 400 Years",
+      "url": "https://events.stanford.edu/event/sle-salon-orlando-reade-explores-how-paradise-lost-has-influenced-political-struggles-and-revolutionary-movements-over-the-past-400-years",
+      "experience": "inperson",
+      "location": "Florence Moore Hall, SLE Main Lounge, 436 Mayfield Ave, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54284998768544/huge/b2519084b598d500ab403d0b681b140c503a197f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    {
       "id": 54003233902547,
       "title": "Stanford Philharmonia",
       "url": "https://events.stanford.edu/event/philharmonia-fall26",
@@ -6731,7 +6760,7 @@
       "title": "Making Letters: Typography Across Hand, Screen, and Loom",
       "url": "https://events.stanford.edu/event/making-letters-typography-across-hand-screen-and-loom",
       "experience": "inperson",
-      "location": "",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
       ],
