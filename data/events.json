@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T16:24:09+00:00",
+  "generated_at": "2026-10-19T05:48:12+00:00",
   "window": {
-    "start": "2026-10-18",
-    "end": "2027-04-16"
+    "start": "2026-10-19",
+    "end": "2027-04-17"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 296
+    "dated": 294
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -132,7 +131,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-22",
         "2026-10-23",
@@ -255,7 +253,8 @@
         "2027-04-10",
         "2027-04-11",
         "2027-04-12",
-        "2027-04-15"
+        "2027-04-15",
+        "2027-04-16"
       ]
     },
     {
@@ -275,7 +274,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -341,7 +339,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-22",
         "2026-10-23",
@@ -557,7 +554,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -632,7 +628,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -740,7 +735,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -889,7 +883,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -1808,6 +1801,11 @@
           "date": "2027-04-10",
           "start": "2027-04-10T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-16",
+          "start": "2027-04-16T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1854,13 +1852,14 @@
         "2027-04-02",
         "2027-04-03",
         "2027-04-09",
-        "2027-04-10"
+        "2027-04-10",
+        "2027-04-16"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-23",
-      "last_date": "2027-04-10",
-      "count": 44
+      "last_date": "2027-04-16",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -1878,11 +1877,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-24",
           "start": "2026-10-24T13:00:00-07:00",
@@ -2115,7 +2109,6 @@
         }
       ],
       "dates": [
-        "2026-10-18",
         "2026-10-24",
         "2026-10-25",
         "2026-10-31",
@@ -2165,9 +2158,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-10-18",
+      "next_date": "2026-10-24",
       "last_date": "2027-04-11",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2185,11 +2178,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-24",
           "start": "2026-10-24T15:00:00-07:00",
@@ -2422,7 +2410,6 @@
         }
       ],
       "dates": [
-        "2026-10-18",
         "2026-10-24",
         "2026-10-25",
         "2026-10-31",
@@ -2472,9 +2459,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-18",
+      "next_date": "2026-10-24",
       "last_date": "2027-04-11",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53889137015268,
@@ -2678,56 +2665,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54267395146774,
-      "title": "[Cancelled] Gallery Conversations | JANE!",
-      "url": "https://events.stanford.edu/event/copy-of-gallery-conversations-jane",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Stanford Family Room (122), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54267395103765/huge/4d9b9172532e1743927759f5b0bbe13e6c94ade8.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-18"
-      ]
-    },
-    {
-      "id": 54127724113593,
-      "title": "Reunion Weekend: University Public Worship: An Alumni Memorial Service",
-      "url": "https://events.stanford.edu/event/reunion-weekend-university-public-worship-an-alumni-memorial-service-5726",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511031074074/huge/1f9160e15238aa9662c3ba9d1fa8d74a51f8ca67.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-18",
-          "start": "2026-10-18T11:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-18"
-      ]
-    },
     {
       "id": 54160840543039,
       "title": "A People without a Landscape: Maghāriba, Andalusīs, and the Naming of the Morisco Diaspora in the Ottoman East",
