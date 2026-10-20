@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T19:05:33+00:00",
+  "generated_at": "2026-10-20T05:42:56+00:00",
   "window": {
-    "start": "2026-10-19",
-    "end": "2027-04-17"
+    "start": "2026-10-20",
+    "end": "2027-04-18"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 15,
     "recurring": 12,
-    "dated": 294
+    "dated": 279
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -131,7 +130,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-19",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -254,7 +252,8 @@
         "2027-04-11",
         "2027-04-12",
         "2027-04-15",
-        "2027-04-16"
+        "2027-04-16",
+        "2027-04-17"
       ]
     },
     {
@@ -274,7 +273,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -339,7 +337,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-19",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -517,7 +514,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-19",
         "2026-10-23",
         "2026-10-26",
         "2026-10-30",
@@ -554,7 +550,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -628,7 +623,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -735,7 +729,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -809,7 +802,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -856,7 +848,6 @@
       "first_date": "2026-10-01",
       "last_date": "2026-10-28",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -883,7 +874,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -916,7 +906,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -965,7 +954,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -1014,7 +1002,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -1045,11 +1032,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T19:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-21",
           "start": "2026-10-21T19:00:00-07:00",
@@ -1117,7 +1099,6 @@
         }
       ],
       "dates": [
-        "2026-10-19",
         "2026-10-21",
         "2026-10-26",
         "2026-10-28",
@@ -1134,9 +1115,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-10-19",
+      "next_date": "2026-10-21",
       "last_date": "2026-12-09",
-      "count": 14
+      "count": 13
     },
     {
       "id": 53629749361008,
@@ -1837,6 +1818,11 @@
           "date": "2027-04-16",
           "start": "2027-04-16T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-17",
+          "start": "2027-04-17T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1884,13 +1870,14 @@
         "2027-04-03",
         "2027-04-09",
         "2027-04-10",
-        "2027-04-16"
+        "2027-04-16",
+        "2027-04-17"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-23",
-      "last_date": "2027-04-16",
-      "count": 45
+      "last_date": "2027-04-17",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -2137,6 +2124,11 @@
           "date": "2027-04-11",
           "start": "2027-04-11T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-17",
+          "start": "2027-04-17T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2185,13 +2177,14 @@
         "2027-04-03",
         "2027-04-04",
         "2027-04-10",
-        "2027-04-11"
+        "2027-04-11",
+        "2027-04-17"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-24",
-      "last_date": "2027-04-11",
-      "count": 46
+      "last_date": "2027-04-17",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2438,6 +2431,11 @@
           "date": "2027-04-11",
           "start": "2027-04-11T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-17",
+          "start": "2027-04-17T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2486,13 +2484,14 @@
         "2027-04-03",
         "2027-04-04",
         "2027-04-10",
-        "2027-04-11"
+        "2027-04-11",
+        "2027-04-17"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-24",
-      "last_date": "2027-04-11",
-      "count": 46
+      "last_date": "2027-04-17",
+      "count": 47
     },
     {
       "id": 53889137015268,
@@ -2697,422 +2696,6 @@
   ],
   "events": [
     {
-      "id": 54160840543039,
-      "title": "A People without a Landscape: Maghāriba, Andalusīs, and the Naming of the Morisco Diaspora in the Ottoman East",
-      "url": "https://events.stanford.edu/event/a-people-without-a-landscape-maghariba-andalusis-and-the-naming-of-the-morisco-diaspora-in-the-ottoman-east",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Workshop"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54160845976108/huge/40eca0adc12e25e5af9d0cf99df890c1c09fbfc1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53947940289112,
-      "title": "Biology Seminar Series: Mercedes Paredes “The Dynamic Neonatal Brain: Postnatal Neurodevelopmental Processes and Implications in Disease \"",
-      "url": "https://events.stanford.edu/event/biology-seminar-series-mercedes-paredes-the-dynamic-neonatal-brain-postnatal-neurodevelopmental-processes-and-implications-in-disease",
-      "experience": "inperson",
-      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53947947727189/huge/458bed2e3eb333462ec3483228ddb719568a4172.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 54232661142545,
-      "title": "Carina Hong | AI That Can Prove It: From Mathematical Discovery to Verified Software",
-      "url": "https://events.stanford.edu/event/carina-hong-ai-that-can-prove-it-from-mathematical-discovery-to-verified-software",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54232665245665/huge/86e825acc383a21c7a79151897857945b351fd6f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53755889500809,
-      "title": "Curator Led Talk | surfacing",
-      "url": "https://events.stanford.edu/event/curator-led-talk-surfacing-oct",
-      "experience": "inperson",
-      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53755932674035/huge/acbe734e5bae86c71d9f977fcd9a016b3c7b0abb.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 54241361470068,
-      "title": "ESE Seminar - Inês Azevedo",
-      "url": "https://events.stanford.edu/event/ese-seminar-ines-azevedo-what-is-the-stanford-woods-institute-for-the-environment-a-journey-into-the-worlds-most-pressing-environmental-problems",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54241366064070/huge/b1c71f281721b92ba9c0d49b062aaddc99bdbb23.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T12:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53853507644950,
-      "title": "Hell No, Jim Crow! (I Don't Go for That): The Convergence of Art and Politics, An Intimate Evening With Dr. Samuel Waymon at DAAAS",
-      "url": "https://events.stanford.edu/event/an-intimate-evening-with-dr-samuel-waymon",
-      "experience": "inperson",
-      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Humanities",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53868563037233/huge/fee7217d74f4ba6223fab2d9dd78a97f4598d7fe.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53002164813794,
-      "title": "International Symposium on aß T-cell/CD19 B-cell Depleted Haploidentical HSCT",
-      "url": "https://events.stanford.edu/event/international-symposium-on-ass-t-cellcd19-b-cell-depleted-haploidentical-hsct",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center for Learning and Knowledge (LKSC), 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53002166620417/huge/843a852727d88927e62abd880926d5a66e2ab2a4.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T00:00:00-07:00",
-          "all_day": true
-        },
-        {
-          "date": "2026-10-20",
-          "start": "2026-10-20T00:00:00-07:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-10-19",
-        "2026-10-20"
-      ]
-    },
-    {
-      "id": 54118665007567,
-      "title": "Italian Lecture Series: Ambrogio Camozzi Pistoja - De-poeticize to Re-poeticize: Generative Poetics, Geomancy, and the Future of Dante's Comedy",
-      "url": "https://events.stanford.edu/event/italian-lecture-series-ambrogio-camozzi-pistoja-de-poeticize-to-re-poeticize-generative-poetics-geomancy-and-the-future-of-dantes-comedy",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54242417335209/huge/e392324c03484d9ae4e55e4d3f9d9bc9e937b11a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 54138556327672,
-      "title": "OCD Awareness Event",
-      "url": "https://events.stanford.edu/event/ocd-awareness-event-4220",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Rd, Stanford",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54138747220782/huge/b0dc07926de6a8d3754ffef7c9cdd8f6681c4e3e.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53286190140712,
-      "title": "October Museum Minis: Storytime at the Anderson",
-      "url": "https://events.stanford.edu/event/october-museum-minis-storytime-at-the-anderson",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53286193624278/huge/b38d0288a04d37947726d77267f0af73cd0d3499.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T11:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 54241748316341,
-      "title": "PhD Dissertation Defense: Santiago Mille Fragoso",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-santiago-mille-fragoso",
-      "experience": "hybrid",
-      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54241751524093/huge/179bbc209bfe4122b4f804801fc75d7dff081a88.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 54045789572264,
-      "title": "Shimizu Distinguished Lecture - Bob Pragada: \"From Disruption to Opportunity\"",
-      "url": "https://events.stanford.edu/event/shimizu-distinguished-lecture-bob-pragada",
-      "experience": "inperson",
-      "location": "Stanford ChEM-H Building, E241 - Gunn Rotunda, 290 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54045795096774/huge/d7eb11a2adba05bcdefbaa0c4d66d2c06337f8d3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53136469759971,
-      "title": "ST Lee Lecture featuring Former Congressman and Ambassador to Turkey Jeff Flake",
-      "url": "https://events.stanford.edu/event/st-lee-lecture-featuring-former-congressman-and-ambassador-to-turkey-jeff-flake",
-      "experience": "inperson",
-      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39077921220013/huge/50dd80dc46937e4a8180b3f5f8eb47ffd69e8537.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53552386783151,
-      "title": "Stanford Energy Seminar | Powering What’s Next: Real Estate’s Role in the Energy Transition | Susan Uthayakumar, Prologis",
-      "url": "https://events.stanford.edu/event/stanford-energy-seminar-10192026",
-      "experience": "hybrid",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53604113655567/huge/5c25fe068aa87e38871919084f3cebba617be8cc.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 54170341687572,
-      "title": "Syria Today: Where Was It? Where Is It Right Now? And Where Is It Heading? | Yassin Al-Haj Saleh",
-      "url": "https://events.stanford.edu/event/yassin-al-haj-saleh-syria-today",
-      "experience": "inperson",
-      "location": "Stanford Humanities Center, Levinthal Hall, Stanford Humanities Center 424 Santa Teresa Street Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs",
-        "Humanities",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54189657238307/huge/280d13f491afc5043519009bdfedb1be037cd4ad.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
-      "id": 53851911370204,
-      "title": "Touched by the Gods: Darshan and the Savarna Sensorium",
-      "url": "https://events.stanford.edu/event/darshan-and-the-savarna-sensorium",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Diversity/Identity",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53851922753202/huge/bd7e98fc7baec09ea8a09bceecc2a7fb40300fcf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-19",
-          "start": "2026-10-19T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-19"
-      ]
-    },
-    {
       "id": 53941977012598,
       "title": "2026 Shorenstein Journalism Award: Shibani Mahtani on Democratic Backsliding in Southeast Asia",
       "url": "https://events.stanford.edu/event/2026-shorenstein-journalism-award-shibani-mahtani-on-attacks-against-the-free-press-and-democratic-backsliding-in-southeast-asia",
@@ -3258,6 +2841,31 @@
           "date": "2026-10-20",
           "start": "2026-10-20T15:00:00-07:00",
           "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": 53002164813794,
+      "title": "International Symposium on aß T-cell/CD19 B-cell Depleted Haploidentical HSCT",
+      "url": "https://events.stanford.edu/event/international-symposium-on-ass-t-cellcd19-b-cell-depleted-haploidentical-hsct",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center for Learning and Knowledge (LKSC), 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53002166620417/huge/843a852727d88927e62abd880926d5a66e2ab2a4.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-20",
+          "start": "2026-10-20T00:00:00-07:00",
+          "all_day": true
         }
       ],
       "dates": [
