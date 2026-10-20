@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:42:56+00:00",
+  "generated_at": "2026-10-20T17:49:11+00:00",
   "window": {
     "start": "2026-10-20",
     "end": "2027-04-18"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 15,
     "recurring": 12,
-    "dated": 279
+    "dated": 280
   },
   "ongoing": [
     {
@@ -4068,7 +4068,7 @@
     },
     {
       "id": 53552394769358,
-      "title": "Stanford Energy Seminar | Richard Newell, C3 AI (former)",
+      "title": "Stanford Energy Seminar | AI, Energy, and Sustainability: From Innovation to Impact | Richard Newell, C3 AI (former)",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-10262026",
       "experience": "hybrid",
       "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
@@ -4263,6 +4263,32 @@
         {
           "date": "2026-10-27",
           "start": "2026-10-27T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
+      "id": 54293794877617,
+      "title": "Organizing in Solidarity at Stanford: Past & Present",
+      "url": "https://events.stanford.edu/event/organizing-in-solidarity-at-stanford-past-present",
+      "experience": "inperson",
+      "location": "Asian American Activities Center, Courtroom, 524 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Meeting"
+      ],
+      "subjects": [
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54293807060833/huge/6072cd8ecf9a335003b5a139625d3bbeef83d7bb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T18:00:00-07:00",
           "all_day": false
         }
       ],
@@ -5015,7 +5041,7 @@
       "subjects": [
         "Science"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54065337452768/huge/786b2a0992caf99bdaaa7f319a60cce71b575b39.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54293515404193/huge/c734d27dfe91f0b828e5d6a4488a33e07f3062c1.jpg",
       "free": false,
       "instances": [
         {
