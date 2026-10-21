@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:47:20+00:00",
+  "generated_at": "2026-10-21T17:57:28+00:00",
   "window": {
     "start": "2026-10-21",
     "end": "2027-04-19"
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 15,
+    "ongoing": 14,
     "recurring": 12,
-    "dated": 274
+    "dated": 277
   },
   "ongoing": [
     {
@@ -826,29 +826,6 @@
         "2026-12-02",
         "2026-12-03",
         "2026-12-04"
-      ]
-    },
-    {
-      "id": 54126932427481,
-      "title": "New FusionGO app",
-      "url": "https://events.stanford.edu/event/new-fusiongo-app",
-      "experience": "inperson",
-      "location": "",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54126935516813/huge/9e2829f6d457aa115d43c5a396c02f597a370ec9.jpg",
-      "free": false,
-      "first_date": "2026-10-01",
-      "last_date": "2026-10-28",
-      "dates": [
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28"
       ]
     },
     {
@@ -3353,6 +3330,33 @@
       ]
     },
     {
+      "id": 54301954323995,
+      "title": "Locating the Islamic Archive: Practicum at the Green Library",
+      "url": "https://events.stanford.edu/event/locating-the-islamic-archive-practicum-at-the-green-library",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Barchas Room, Special Collections, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54301964880546/huge/3ab937d6bfc81bba733557b44906372d2d0f5d02.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-23",
+          "start": "2026-10-23T13:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    {
       "id": 54169485323117,
       "title": "OMAC Heroes Appreciation Tailgate (Stanford vs. NC State)",
       "url": "https://events.stanford.edu/event/omac-heroes-appreciation-tailgate-stanford-vs-nc-state",
@@ -4675,6 +4679,31 @@
         {
           "date": "2026-10-30",
           "start": "2026-10-30T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    {
+      "id": 54298990217857,
+      "title": "Autumn Farm Festival - The O'Donohue Family Stanford Educational Farm",
+      "url": "https://events.stanford.edu/event/farm-autumn-festival-the-odonohue-family-stanford-educational-farm",
+      "experience": "inperson",
+      "location": "The O'Donohue Family Stanford Educational Farm, 555 Fremont Rd. Stanford, Ca 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54302028032431/huge/f99914a85b60e1f0650ef249f5fa565f6478fe6f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T14:00:00-07:00",
           "all_day": false
         }
       ],
@@ -8486,6 +8515,31 @@
         {
           "date": "2026-12-09",
           "start": "2026-12-09T20:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-09"
+      ]
+    },
+    {
+      "id": 54302138028142,
+      "title": "Print Revolutions: Chinese Impressions, 1630s–1960s, with Clarissa von Spee (Curator, Cleveland Museum of Art)",
+      "url": "https://events.stanford.edu/event/print-revolutions-chinese-impressions-1630s1960s-with-clarissa-von-spee-curator-cleveland-museum-of-art",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54302142253452/huge/6b55a4d57e853b817035a1315f5d29e31fb32271.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-09",
+          "start": "2026-12-09T17:30:00-08:00",
           "all_day": false
         }
       ],
