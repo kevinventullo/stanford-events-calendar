@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T17:57:28+00:00",
+  "generated_at": "2026-10-22T05:49:11+00:00",
   "window": {
-    "start": "2026-10-21",
-    "end": "2027-04-19"
+    "start": "2026-10-22",
+    "end": "2027-04-20"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 277
+    "dated": 267
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -253,7 +252,8 @@
         "2027-04-15",
         "2027-04-16",
         "2027-04-17",
-        "2027-04-18"
+        "2027-04-18",
+        "2027-04-19"
       ]
     },
     {
@@ -273,7 +273,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -440,7 +439,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-28",
@@ -549,7 +547,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-25",
@@ -621,7 +618,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -726,7 +722,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -798,7 +793,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-26",
@@ -845,7 +839,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -876,7 +869,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-26",
@@ -923,7 +915,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-26",
@@ -970,7 +961,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-21",
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
@@ -999,11 +989,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T19:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-26",
           "start": "2026-10-26T19:00:00-07:00",
@@ -1066,7 +1051,6 @@
         }
       ],
       "dates": [
-        "2026-10-21",
         "2026-10-26",
         "2026-10-28",
         "2026-11-02",
@@ -1082,9 +1066,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-10-21",
+      "next_date": "2026-10-26",
       "last_date": "2026-12-09",
-      "count": 13
+      "count": 12
     },
     {
       "id": 53629749361008,
@@ -2616,11 +2600,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-21",
-          "start": "2026-10-21T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-28",
           "start": "2026-10-28T09:00:00-07:00",
           "all_day": false
@@ -2657,7 +2636,6 @@
         }
       ],
       "dates": [
-        "2026-10-21",
         "2026-10-28",
         "2026-11-04",
         "2026-11-11",
@@ -2668,298 +2646,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-10-21",
+      "next_date": "2026-10-28",
       "last_date": "2026-12-16",
-      "count": 8
+      "count": 7
     }
   ],
   "events": [
-    {
-      "id": 54178302622575,
-      "title": "10/21: A Thyme to Gather at The Farm: A Herbalism Workshop",
-      "url": "https://events.stanford.edu/event/rescheduled-to-1021-a-thyme-to-gather-at-the-farm-a-herbalism-workshop",
-      "experience": "inperson",
-      "location": "O'Donohue Educational Farm, Huffington Barn: 555 Fremont Rd. Stanford Ca 94305 (not 175 Electioneer Rd), 175 Electioneer Rd, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54135838925820,
-      "title": "Book Talk: When Federal Climate Policy Works Benefits, Business, and Politics",
-      "url": "https://events.stanford.edu/event/book-talk-when-federal-climate-policy-works-benefits-business-and-politics",
-      "experience": "inperson",
-      "location": "Building 200, History Corner, Room 305, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "Education",
-        "Environment/Sustainability",
-        "Humanities",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 53879236295619,
-      "title": "Foxes and Lions: Renaissance City-States in the Age of Machiavelli",
-      "url": "https://events.stanford.edu/event/foxes-and-lions-renaissance-city-states-in-the-age-of-machiavelli",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, 122, 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53879241968607/huge/58f40b7fab48c83ddd5098c9b7fdfc902273b50b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54046356434340,
-      "title": "Hopkins Marine Station: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/hopkins-marine-station-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "Hopkins Marine Station, 120 Ocean View Blvd Pacific Grove, CA 93950",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54046360566369/huge/639df63377e3dd2770611901f2e1e3b31663694a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54224391600147,
-      "title": "Lunch Club Series | When the gloves come off: Cross-cutting methodologies and Indigenous Arctic heritage outside the museum",
-      "url": "https://events.stanford.edu/event/when-the-gloves-come-off-cross-cutting-methodologies-and-indigenous-arctic-heritage-outside-the-museum",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54224799552273/huge/8f9f68e970cbf7026c80d8ee2480533a0b0e7d0b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54294327664042,
-      "title": "Medical Humanities Workshop: The “Loss” Lab",
-      "url": "https://events.stanford.edu/event/medical-humanities-workshop-the-loss-lab",
-      "experience": "inperson",
-      "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Meeting"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54294329041366/huge/5d12478013d564da33b7bcc29230a00ee0394aac.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54003958063488,
-      "title": "Michael Bernstein @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/michael-bernstein-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003982172070/huge/c0ad5b8403febaece0588f976db2217a606dbd2f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54001283834458,
-      "title": "Noon Concert: Violin Students of Robin Sharp",
-      "url": "https://events.stanford.edu/event/noon-sharp-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511188301759/huge/46a5d7d58f1f7376b88a082d38d19cb4b4cff48c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T12:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 53427273212211,
-      "title": "Political Entry in Sierra Leone - Katherine Casey",
-      "url": "https://events.stanford.edu/event/candidate-entry-into-local-government",
-      "experience": "inperson",
-      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53427279654145/huge/b743abf1a74dd7ebeef395d54ad10252618e111d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54039149213452,
-      "title": "Stegner Fellow Reading with David Gorin and Jiachen Wang",
-      "url": "https://events.stanford.edu/event/stegner-fellow-reading",
-      "experience": "inperson",
-      "location": "Building 460, Margaret Jacks Hall, Terrace Room (426), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54125170175762/huge/7b1baeb767703bcf032d642b081a1e349138af71.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
-    {
-      "id": 54195940968153,
-      "title": "The Social Life of Islam: Exploring Intellectual Exchange and Community Well-Being in West Africa",
-      "url": "https://events.stanford.edu/event/the-social-life-of-islam",
-      "experience": "inperson",
-      "location": "The Nitery, Markaz Resource Center, 514 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54195946587907/huge/a47ca7dccab08cc9d0400c5c162588e8dd4d9e96.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-21",
-          "start": "2026-10-21T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-21"
-      ]
-    },
     {
       "id": 53012995941585,
       "title": "9th Annual Stanford Maternal and Child Health Research Institute Symposium",
@@ -3041,6 +2733,31 @@
       ]
     },
     {
+      "id": 52206222934826,
+      "title": "FULL—Tour Denning House, home to Knight-Hennessy Scholars",
+      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-8021",
+      "experience": "inperson",
+      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52206222867240/huge/65b52a585c2251fa0377410ae8e605bb418bb5a6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-22",
+          "start": "2026-10-22T16:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    {
       "id": 54056461980785,
       "title": "Master of Liberal Arts Information Session",
       "url": "https://events.stanford.edu/event/master-of-liberal-arts-information-session-stanford-events-calendar",
@@ -3110,31 +2827,6 @@
         {
           "date": "2026-10-22",
           "start": "2026-10-22T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 52206222934826,
-      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-8021",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52206222867240/huge/65b52a585c2251fa0377410ae8e605bb418bb5a6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T16:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3638,32 +3330,6 @@
       ],
       "dates": [
         "2026-10-25"
-      ]
-    },
-    {
-      "id": 54260720666992,
-      "title": "Artist Talk with Hiroyuki Murase",
-      "url": "https://events.stanford.edu/event/artist-talk-with-hiroyuki-murase",
-      "experience": "inperson",
-      "location": "Building 460, Margaret Jacks Hall, Terrace Room (4th floor), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54260724362447/huge/61025ca744dbec8a7147671f2dfa81b3085a71cf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T12:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
       ]
     },
     {
@@ -5306,6 +4972,33 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 54306281281907,
+      "title": "From Chasing Poachers to Catalyzing Systems Change: The Evolution of Sea Shepherd's Approach to Antarctic Conservation",
+      "url": "https://events.stanford.edu/event/from-chasing-poachers-to-catalyzing-systems-change",
+      "experience": "inperson",
+      "location": "Hopkins Marine Station, Izzie Abbott Boatworks Auditorium, 120 Ocean View Blvd Pacific Grove, CA 93950",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Law/Public Policy/Politics",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54306295789970/huge/66f485c50663898c9e8311051f00e1f9beabd615.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T18:00:00-08:00",
           "all_day": false
         }
       ],
@@ -10018,6 +9711,31 @@
       ],
       "dates": [
         "2027-04-14"
+      ]
+    },
+    {
+      "id": 53286315501779,
+      "title": "April Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/April-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286321921062/huge/4643f5338951d13c916c2dddcb77ab055f73897f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-04-19",
+          "start": "2027-04-19T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-19"
       ]
     }
   ]
