@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:49:11+00:00",
+  "generated_at": "2026-10-22T17:54:07+00:00",
   "window": {
     "start": "2026-10-22",
     "end": "2027-04-20"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 267
+    "dated": 275
   },
   "ongoing": [
     {
@@ -3383,6 +3383,29 @@
       ]
     },
     {
+      "id": 54310688843389,
+      "title": "EH&S:  Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic",
+      "experience": "inperson",
+      "location": "484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54310695512609/huge/e9bffb6988ad5c0867ab6cb72a265f446ca69804.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    {
       "id": 54295674034251,
       "title": "ESE Seminar - Nori Nakata: \"Reservoir Evolution and Stress Changes during Enhanced Geothermal System Development\"",
       "url": "https://events.stanford.edu/event/ese-seminar-nori-nakata-reservoir-evolution-and-stress-changes-during-enhanced-geothermal-system-development",
@@ -3644,6 +3667,29 @@
       ]
     },
     {
+      "id": 54310717422431,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-640",
+      "experience": "inperson",
+      "location": "484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54310732795690/huge/9a88cc8357ce42c1d75e1b345f17499b6a26e6c6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 53878443469394,
       "title": "Maisha Winn, \"Futuring Black Lives: Independent Black Institutions and the Literary Imagination,\" in conversation with Adam Banks",
       "url": "https://events.stanford.edu/event/maisha-winn-futuring-black-lives-independent-black-institutions-and-the-literary-imagination",
@@ -3845,6 +3891,29 @@
         {
           "date": "2026-10-28",
           "start": "2026-10-28T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
+      "id": 54310751903991,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-4818",
+      "experience": "inperson",
+      "location": "484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54310757416988/huge/640ca44ea216ab2d1379eea4543e5e0f9d66260e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4792,11 +4861,38 @@
       ]
     },
     {
+      "id": 54311459866569,
+      "title": "Stanford in Haus Cramer: A Berlin Microhistory - Book Launch and Reception",
+      "url": "https://events.stanford.edu/event/stanford-in-haus-cramer-a-berlin-microhistory-book-launch-and-reception",
+      "experience": "inperson",
+      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk",
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54311464788269/huge/cd076134564317f2350f8d727515f35d71eac7c8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "id": 53994605586593,
       "title": "Stegner Fellow Reading with Daniel Lurie and Katerina Ivanov Prado",
       "url": "https://events.stanford.edu/event/stegner-fellow-reading-with-daniel-lurie-and-katerina-ivanov-prado",
       "experience": "inperson",
-      "location": "Stanford ChEM-H Building, John A. and Cynthia Fry Gunn Rotunda, E241, 290 Jane Stanford Way, Stanford, CA 94305",
+      "location": "Building 460, Margaret Jacks Hall, Terrace Room (Room 426), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
       "types": [],
       "subjects": [
         "Arts/Media",
@@ -5517,6 +5613,56 @@
         {
           "date": "2026-11-09",
           "start": "2026-11-09T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    {
+      "id": 54307460146595,
+      "title": "Tim Bakken, Professor of Law, U.S. Military Academy, West Point on The Consequences of Silence When Academic Freedom and Expression are at Risk: Learning to Speak and Act According to Your Conscience",
+      "url": "https://events.stanford.edu/event/tim-bakken-professor-of-law-us-military-academy-west-point-the-consequences-of-silence-when-academic-freedom-and-expression-are-at-risk-learning-to-speak-and-act-according-to-your-conscience",
+      "experience": "hybrid",
+      "location": "Angela Nomellini & Ken Olivier building (ANKO), 109 The Learning Hall, 485 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54307465098265/huge/6da0b2a5b5bca645b42a2a93bdb9d928cd2a0ec3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T16:45:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    {
+      "id": 54307369440520,
+      "title": "Tim Bakken, Professor of Law, U.S. Military Academy, West Point on The Costs and Benefits of Speaking Up for Academic Freedom in Medical Schools: A Legal and Practical Perspective",
+      "url": "https://events.stanford.edu/event/tim-bakken-professor-of-law-us-military-academy-west-point-the-costs-and-benefits-of-speaking-up-for-academic-freedom-in-medical-schools-a-legal-and-practical-perspective",
+      "experience": "hybrid",
+      "location": "Munzer Auditorium, Munzer Auditorium , Beckman Center, 279 Campus Drive W, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54307404344426/huge/0545810c50b35eed0ef30545dbe926aea481b0dc.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -6480,6 +6626,33 @@
       ]
     },
     {
+      "id": 54311544927658,
+      "title": "Book Talk: Prof. Cécile Alduy in Conversation with Prof. Josh Landy",
+      "url": "https://events.stanford.edu/event/book-talk-prof-cecile-alduy-in-conversation-with-prof-josh-landy",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54311555097061/huge/32c9ad618434e84a92cd0c00126b88b523cb891b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 53755956103976,
       "title": "Curator Led Talk | surfacing",
       "url": "https://events.stanford.edu/event/curator-led-talk-surfacing-nov",
@@ -6992,6 +7165,33 @@
         {
           "date": "2026-11-18",
           "start": "2026-11-18T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
+      "id": 54311591575442,
+      "title": "Truisms, Fiction and Women Writing: A lunch workshop with author Marie Darrieussecq",
+      "url": "https://events.stanford.edu/event/truisms-fiction-and-women-writing-a-lunch-workshop-with-author-marie-darrieussecq",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Career Development",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54311598588508/huge/6204c5634b3756bbd793ce2f587170f7e966f2e8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T12:15:00-08:00",
           "all_day": false
         }
       ],
