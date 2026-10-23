@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T17:54:07+00:00",
+  "generated_at": "2026-10-23T05:50:05+00:00",
   "window": {
-    "start": "2026-10-22",
-    "end": "2027-04-20"
+    "start": "2026-10-23",
+    "end": "2027-04-21"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 275
+    "dated": 277
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -128,7 +127,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -273,7 +271,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -335,7 +332,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -439,7 +435,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-28",
         "2026-10-29",
@@ -547,7 +542,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-25",
         "2026-10-26",
@@ -618,7 +612,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -722,7 +715,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -793,7 +785,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-26",
         "2026-10-27",
@@ -839,7 +830,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -869,7 +859,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-26",
         "2026-10-27",
@@ -915,7 +904,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-26",
         "2026-10-27",
@@ -961,7 +949,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-22",
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
@@ -1087,25 +1074,19 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-22",
-          "start": "2026-10-22T10:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-29",
           "start": "2026-10-29T10:00:00-07:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-10-22",
         "2026-10-29"
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-10-22",
+      "next_date": "2026-10-29",
       "last_date": "2026-10-29",
-      "count": 2
+      "count": 1
     },
     {
       "id": 50967994153103,
@@ -2653,239 +2634,6 @@
   ],
   "events": [
     {
-      "id": 53012995941585,
-      "title": "9th Annual Stanford Maternal and Child Health Research Institute Symposium",
-      "url": "https://events.stanford.edu/event/9th-annual-stanford-maternal-and-child-health-research-institute-symposium",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Berg Hall, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53013044721369/huge/0d744c925f61afc80f68a3ebfb1656a14ce1524d.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 54010978869329,
-      "title": "ABOUT A HERO (2024): Agent Cinema, Panel Discussion",
-      "url": "https://events.stanford.edu/event/about-a-hero-2024-film-screening-panel-discussion",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54010984445201/huge/b17738c3c37f7f4b381418b9fab4c976203b10f7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 53870073813821,
-      "title": "Book Event with Kimberley Johnson and Pedro Regalado: \"Dark Concrete: Black Power Urbanism and the American Metropolis\"",
-      "url": "https://events.stanford.edu/event/dark-concrete-black-power-urbansim-and-the-american-metropolis",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, 122, 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Humanities",
-        "Diversity/Identity",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53870081998937/huge/ebb2c144dd897f7b0386d757081288b12da0caa6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 52206222934826,
-      "title": "FULL—Tour Denning House, home to Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-tour-denning-house-home-to-knight-hennessy-scholars-8021",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52206222867240/huge/65b52a585c2251fa0377410ae8e605bb418bb5a6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 54056461980785,
-      "title": "Master of Liberal Arts Information Session",
-      "url": "https://events.stanford.edu/event/master-of-liberal-arts-information-session-stanford-events-calendar",
-      "experience": "inperson",
-      "location": "Stanford University",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54056524462733/huge/baf2f52ca067286c73ba28653994c07126f5cc05.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 54179181594470,
-      "title": "Mine Less, Last Longer? Singapore Solutions for Critical Materials in Energy and Electronics",
-      "url": "https://events.stanford.edu/event/copy-of-series-overview-challenges-and-solutions-for-critical-materials-in-energy-and-electronics-3879",
-      "experience": "hybrid",
-      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54258209867009/huge/f7f86935563b92df1b476ddea5942401c21f8ff8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 53764263973882,
-      "title": "The Human Factor: Work as Science in Modern China",
-      "url": "https://events.stanford.edu/event/the-human-factor-work-as-science-in-modern-china",
-      "experience": "inperson",
-      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53764267965751/huge/384247d516aa7ad8ac8979ae12a3a149a7874474.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 53745818123158,
-      "title": "Universal Human Psychology, \"Bani Adam,\" and Our Omnicultural Future",
-      "url": "https://events.stanford.edu/event/bani-adam-universal-human-psychology-and-our-omnicultural-future",
-      "experience": "inperson",
-      "location": "In person at Stanford",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53745828444695/huge/c3110a8309be82c311a3986a819eddb13d26cddd.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
-      "id": 54258132495624,
-      "title": "Unsettling Pedagogy",
-      "url": "https://events.stanford.edu/event/unsettling-pedagogy",
-      "experience": "inperson",
-      "location": "Asian American Activities Center, A3C Couchroom, 524 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54258154181165/huge/cb865713c0c03760a46020b1f817801523a68c4d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-22",
-          "start": "2026-10-22T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-22"
-      ]
-    },
-    {
       "id": 54197974614953,
       "title": "Big Swap: Game Day Edition",
       "url": "https://events.stanford.edu/event/big-swap-game-day-edition",
@@ -2938,35 +2686,6 @@
       ],
       "dates": [
         "2026-10-23"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23",
-        "2026-10-30"
       ]
     },
     {
@@ -3333,6 +3052,32 @@
       ]
     },
     {
+      "id": 54260720666992,
+      "title": "Artist Talk with Hiroyuki Murase",
+      "url": "https://events.stanford.edu/event/artist-talk-with-hiroyuki-murase",
+      "experience": "inperson",
+      "location": "Building 460, Margaret Jacks Hall, Terrace Room (4th floor), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54260724362447/huge/61025ca744dbec8a7147671f2dfa81b3085a71cf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-26",
+          "start": "2026-10-26T12:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    {
       "id": 53985907944513,
       "title": "Being Muslim on Campus",
       "url": "https://events.stanford.edu/event/being-muslim-on-campus",
@@ -3643,7 +3388,7 @@
     },
     {
       "id": 54116494114663,
-      "title": "Australia's new social media legislation: the world is watching",
+      "title": "Australia’s new social media legislation: the world is watching",
       "url": "https://events.stanford.edu/event/australias-new-social-media-legislation-the-world-is-watching",
       "experience": "hybrid",
       "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
@@ -3810,6 +3555,31 @@
         {
           "date": "2026-10-27",
           "start": "2026-10-27T19:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
+      "id": 54312364421706,
+      "title": "Sustainable Systems Seminar Lunch Series -  From Reliability to Resilience: Risk-Informed Asset Management for the Energy Transition",
+      "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-series-lina-Tjernberg",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 105, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54313001037337/huge/608bc7e06aca98c30296a1f20035db425824bb66.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4029,7 +3799,7 @@
     },
     {
       "id": 54294407659346,
-      "title": "Medical Humanites: Lost and Found",
+      "title": "Medical Humanities: Lost and Found",
       "url": "https://events.stanford.edu/event/medical-humanites-lost-and-found",
       "experience": "inperson",
       "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
@@ -4217,10 +3987,10 @@
     },
     {
       "id": 54242650519832,
-      "title": "Comics: More Than Words: Hanako Asakura - Manga as (or in?) Conversation",
+      "title": "Comics: More Than Words: Hanako Asakura - Manga as (or in?) Conversation:  History, Fandom, and the Classroom",
       "url": "https://events.stanford.edu/event/comics-more-than-words-hanako-asakura-manga-as-or-in-conversation",
       "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 240, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
       ],
@@ -4234,6 +4004,29 @@
         {
           "date": "2026-10-29",
           "start": "2026-10-29T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
+      "id": 54312299357741,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-9215",
+      "experience": "inperson",
+      "location": "484 Oak Road, 484 Oak Road, Stanford, Ca 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54312303044683/huge/1ef04769880bd8a1db2c8f964045a9fdceb50f1a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T09:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4447,6 +4240,58 @@
       ]
     },
     {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30",
+        "2026-11-06"
+      ]
+    },
+    {
+      "id": 54312264467558,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-182",
+      "experience": "inperson",
+      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54312268898884/huge/da13d8edc2bd06274349eb1d5af18fff767e7618.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    {
       "id": 53543265910564,
       "title": "Electrophysiology in the West 2026",
       "url": "https://events.stanford.edu/event/electrophysiology-in-the-west-2026",
@@ -4598,6 +4443,29 @@
       ]
     },
     {
+      "id": 54312281533658,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-2772",
+      "experience": "inperson",
+      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54312285480484/huge/c5fa5e6cde94824af890b2f6d4864d0040e19573.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    {
       "id": 54189731967396,
       "title": "Japan and the Middle East in a Changing Geopolitical Landscape",
       "url": "https://events.stanford.edu/event/japan-and-the-middle-east-in-a-changing-geopolitical-landscape",
@@ -4705,6 +4573,29 @@
       ]
     },
     {
+      "id": 54312312881558,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-1512",
+      "experience": "inperson",
+      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54312317585172/huge/6798318b9a8c8666eceae02b533c90c842d89803.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    {
       "id": 54074581179929,
       "title": "Stanford Medicine Children's Health Center for IBD and Celiac Disease's 5th Annual Research Symposium",
       "url": "https://events.stanford.edu/event/5th-annual-research-symposium-",
@@ -4722,6 +4613,31 @@
         {
           "date": "2026-11-03",
           "start": "2026-11-03T08:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    {
+      "id": 54313480085870,
+      "title": "Superintelligence or Super Stupidity? Designing AI Systems for Human Flourishing",
+      "url": "https://events.stanford.edu/event/superintelligence-or-super-stupidity-designing-ai-systems-for-human-flourishing",
+      "experience": "hybrid",
+      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -4801,6 +4717,29 @@
         {
           "date": "2026-11-04",
           "start": "2026-11-04T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
+      "id": 54312329340375,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-7831",
+      "experience": "inperson",
+      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54312332321196/huge/4168121630de1ebd0735e1025cb00969b1ee2e8d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T09:00:00-08:00",
           "all_day": false
         }
       ],
@@ -4996,6 +4935,32 @@
       ]
     },
     {
+      "id": 54314002009402,
+      "title": "Chasing Poachers to Catalyzing Systems Change: The Evolution of Sea Shepard",
+      "url": "https://events.stanford.edu/event/chasing-poachers-to-catalyzing-systems-change-the-evolution-of-sea-shepard",
+      "experience": "inperson",
+      "location": "Hopkins Marine Station, Boatworks Lecture Hall, 120 Ocean View Blvd Pacific Grove, CA 93950",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54314018420222/huge/0ccf86c01433cb94aaf92e48f365dc12c232f65c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
       "id": 53691925115268,
       "title": "Documentary Objectives: Filming Africa from Colonialism to Independence - Rachel Gabara",
       "url": "https://events.stanford.edu/event/documentary-objectives-filming-africa-from-colonialism-to-independence-rachel-gabara",
@@ -5016,6 +4981,29 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 54312343131304,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-4052",
+      "experience": "inperson",
+      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54312345576202/huge/a71492fdddb1124956c131dfbcb5ff91215c2ef9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T09:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5280,6 +5268,29 @@
         "Social Justice/Human Rights"
       ],
       "photo": "https://localist-images.azureedge.net/photos/54181189023056/huge/902f626ece82b35c49ea27370082e698ba2e59eb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    {
+      "id": 54312356463955,
+      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
+      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-131",
+      "experience": "inperson",
+      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54312359417165/huge/18deb1434be57b67fe3937e6bd7798aa8e44f447.jpg",
       "free": false,
       "instances": [
         {
