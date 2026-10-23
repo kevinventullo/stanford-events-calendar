@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:50:05+00:00",
+  "generated_at": "2026-10-23T17:47:39+00:00",
   "window": {
     "start": "2026-10-23",
     "end": "2027-04-21"
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 14,
-    "recurring": 12,
-    "dated": 277
+    "recurring": 13,
+    "dated": 278
   },
   "ongoing": [
     {
@@ -961,6 +961,37 @@
     }
   ],
   "recurring": [
+    {
+      "id": 53755560975894,
+      "title": "[Cancelled] Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-24",
+          "start": "2026-10-24T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-24"
+      ],
+      "pattern": "Saturdays",
+      "time": "3 PM",
+      "next_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "count": 1
+    },
     {
       "id": 54135592918030,
       "title": "BCAS Weekly Meditation",
@@ -2141,11 +2172,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-24",
-          "start": "2026-10-24T15:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-25",
           "start": "2026-10-25T15:00:00-07:00",
           "all_day": false
@@ -2382,7 +2408,6 @@
         }
       ],
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-31",
         "2026-11-01",
@@ -2433,9 +2458,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-24",
+      "next_date": "2026-10-25",
       "last_date": "2027-04-18",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53889137015268,
@@ -5894,33 +5919,6 @@
       ]
     },
     {
-      "id": 54222647385710,
-      "title": "Center for Just Environmental Futures Inaugural Distinguished Lecture Series: Featuring - ‘Aulani Wilhelm, CEO of Nia Tero",
-      "url": "https://events.stanford.edu/event/center-for-just-environmental-futures-inaugural-distinguished-lecture-series-featuring-aulani-wilhelm-ceo-of-nia-tero",
-      "experience": "inperson",
-      "location": "The Press Building, 106, 425 Santa Teresa St.  Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54232494592361/huge/d67d0a159e5d55e68c193232a07a961c3915c9ef.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
       "id": 54004107756594,
       "title": "Lauren Kolodny @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
       "url": "https://events.stanford.edu/event/lauren-kolodny-entrepreneurial-thought-leaders-speaker-series-etl",
@@ -5991,6 +5989,33 @@
         {
           "date": "2026-11-11",
           "start": "2026-11-11T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": 54222647385710,
+      "title": "When We Bridge: Indigenous Peoples’ Guardianship, Knowledge, and Global Impact",
+      "url": "https://events.stanford.edu/event/center-for-just-environmental-futures-inaugural-distinguished-lecture-series-featuring-aulani-wilhelm-ceo-of-nia-tero",
+      "experience": "inperson",
+      "location": "The Press Building, 106, 425 Santa Teresa St.  Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54232494592361/huge/d67d0a159e5d55e68c193232a07a961c3915c9ef.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T16:30:00-08:00",
           "all_day": false
         }
       ],
@@ -6889,6 +6914,32 @@
         {
           "date": "2026-11-17",
           "start": "2026-11-17T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54313569621114,
+      "title": "Shoot for the Stars: A community-based approach to Sunflower Star Recovery",
+      "url": "https://events.stanford.edu/event/shoot-for-the-stars",
+      "experience": "hybrid",
+      "location": "Hopkins Marine Station, Izzie Abbott Boatworks Auditorium, 120 Ocean View Blvd Pacific Grove, CA 93950",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54313592946393/huge/62e8215d77a1cdcdd1c5518d0e48b86729b68e2f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T18:00:00-08:00",
           "all_day": false
         }
       ],
