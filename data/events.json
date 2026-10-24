@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T17:47:39+00:00",
+  "generated_at": "2026-10-24T05:27:49+00:00",
   "window": {
-    "start": "2026-10-23",
-    "end": "2027-04-21"
+    "start": "2026-10-24",
+    "end": "2027-04-22"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 13,
-    "dated": 278
+    "dated": 272
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -127,7 +126,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -271,7 +269,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -332,7 +329,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -435,7 +431,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-23",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -506,7 +501,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-23",
         "2026-10-26",
         "2026-10-30",
         "2026-11-02",
@@ -542,7 +536,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-23",
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
@@ -612,7 +605,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -715,7 +707,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -785,7 +776,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-23",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -830,7 +820,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -859,7 +848,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-23",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -904,7 +892,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-23",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -949,7 +936,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
@@ -1135,11 +1121,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-23",
-          "start": "2026-10-23T12:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-13",
           "start": "2026-11-13T12:00:00-08:00",
           "all_day": false
@@ -1186,7 +1167,6 @@
         }
       ],
       "dates": [
-        "2026-10-23",
         "2026-11-13",
         "2026-12-11",
         "2027-01-08",
@@ -1199,9 +1179,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-10-23",
+      "next_date": "2026-11-13",
       "last_date": "2027-04-09",
-      "count": 10
+      "count": 9
     },
     {
       "id": 43703730447104,
@@ -1255,11 +1235,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53818823543672/huge/08fb138cdc2527c77f963e09fac6886eb26e58b3.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-24",
           "start": "2026-10-24T14:00:00-07:00",
@@ -1422,7 +1397,6 @@
         }
       ],
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-25",
         "2026-10-30",
@@ -1458,9 +1432,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-23",
+      "next_date": "2026-10-24",
       "last_date": "2027-01-03",
-      "count": 33
+      "count": 32
     },
     {
       "id": 53969632558021,
@@ -1521,6 +1495,11 @@
           "date": "2027-04-07",
           "start": "2027-04-07T12:15:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-21",
+          "start": "2027-04-21T12:15:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1532,13 +1511,14 @@
         "2027-02-03",
         "2027-02-24",
         "2027-03-10",
-        "2027-04-07"
+        "2027-04-07",
+        "2027-04-21"
       ],
       "pattern": "Wednesdays",
       "time": "12:15 PM",
       "next_date": "2026-11-11",
-      "last_date": "2027-04-07",
-      "count": 9
+      "last_date": "2027-04-21",
+      "count": 10
     },
     {
       "id": 53694822395653,
@@ -1557,11 +1537,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-24",
           "start": "2026-10-24T11:30:00-07:00",
@@ -1789,7 +1764,6 @@
         }
       ],
       "dates": [
-        "2026-10-23",
         "2026-10-24",
         "2026-10-30",
         "2026-10-31",
@@ -1838,9 +1812,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-10-23",
+      "next_date": "2026-10-24",
       "last_date": "2027-04-17",
-      "count": 46
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2478,8 +2452,18 @@
       "free": false,
       "instances": [
         {
+          "date": "2026-11-01",
+          "start": "2026-11-01T11:00:00-08:00",
+          "all_day": false
+        },
+        {
           "date": "2026-11-15",
           "start": "2026-11-15T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T11:00:00-08:00",
           "all_day": false
         },
         {
@@ -2504,7 +2488,9 @@
         }
       ],
       "dates": [
+        "2026-11-01",
         "2026-11-15",
+        "2026-11-22",
         "2026-11-29",
         "2027-01-10",
         "2027-01-31",
@@ -2512,9 +2498,9 @@
       ],
       "pattern": "Sundays",
       "time": "11 AM",
-      "next_date": "2026-11-15",
+      "next_date": "2026-11-01",
       "last_date": "2027-02-28",
-      "count": 5
+      "count": 7
     },
     {
       "id": 47557682677329,
@@ -2658,261 +2644,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54197974614953,
-      "title": "Big Swap: Game Day Edition",
-      "url": "https://events.stanford.edu/event/big-swap-game-day-edition",
-      "experience": "inperson",
-      "location": "White Plaza, White Memorial Plaza, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54197984254074/huge/2cf8b075bcfe2bc7ac748be25bfa0a4e43ef0a4f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54178982975502,
-      "title": "Breathing Room: A regional summit on health, indoor air quality, and residential stoves.",
-      "url": "https://events.stanford.edu/event/breathing-room-a-regional-summit-on-health-indoor-air-quality-and-residential-stoves",
-      "experience": "inperson",
-      "location": "Stanford Redwood City Campus, 2855 Bay Rd, Redwood City, CA 94063",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Business",
-        "Environment/Sustainability",
-        "Law/Public Policy/Politics",
-        "Medicine",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54178998111935/huge/85db73c529c1e6738bea9a028135b7dd8727b1ca.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T08:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54170286222529,
-      "title": "Faculty Recital: Livia Sohn, violin, & Bernadene Blaha, piano",
-      "url": "https://events.stanford.edu/event/faculty-recital-livia-sohn-bernadene-blaha",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54170350380292/huge/bbb3cd2ccc98d1df90d7a28845b98b5d19169ce5.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54189895622059,
-      "title": "HALEH LIZA GAFORI presents RUMI: GOLD & WATER | A night of music and poetry",
-      "url": "https://events.stanford.edu/event/gold-water-26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54252247585957/huge/6727dbb26480496044b227a497dfe4af047111c1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54301954323995,
-      "title": "Locating the Islamic Archive: Practicum at the Green Library",
-      "url": "https://events.stanford.edu/event/locating-the-islamic-archive-practicum-at-the-green-library",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, Barchas Room, Special Collections, 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54301964880546/huge/3ab937d6bfc81bba733557b44906372d2d0f5d02.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T13:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54169485323117,
-      "title": "OMAC Heroes Appreciation Tailgate (Stanford vs. NC State)",
-      "url": "https://events.stanford.edu/event/omac-heroes-appreciation-tailgate-stanford-vs-nc-state",
-      "experience": "inperson",
-      "location": "Ueland Field, Ueland Field, El Camino real & Sam McDonald Rd",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54169487581268/huge/c2e1dd515ad2793be3f29f1be22ed3ae8664ec8c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54196018681993,
-      "title": "Race and Gender in the Global Hispanophone: \"The Anthropocene and Mesoamerican Cosmologies\" with Professor Regina Pieck",
-      "url": "https://events.stanford.edu/event/race-and-gender-in-the-global-hispanophone-5195",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54241488317448/huge/fac5c54c9cc36752148dd78b700f4c2c401149fe.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T10:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54162072231092,
-      "title": "SLE Salon: Haleh Gafori, an American poet of Persian descent, will recite and discuss her translations of a vibrant selection of poems by the great Persian mystic Rumi",
-      "url": "https://events.stanford.edu/event/sle-salon-haleh-gafori-an-american-poet-of-persian-descent-will-recite-and-discuss-her-translations-of-a-vibrant-selection-of-poems-by-the-great-persian-mystic-rumi",
-      "experience": "inperson",
-      "location": "Florence Moore Hall, SLE Main Lounge, 436 Mayfield Ave, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54162112603708/huge/3d735e56acc42ea42c9c747f29203bb909aaec3c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T12:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 53632376002784,
-      "title": "Stanford Football vs NC State | Heroes Appreciation",
-      "url": "https://events.stanford.edu/event/stanford-football-vs-nc-state-heroes-appreciation",
-      "experience": "inperson",
-      "location": "Stanford Stadium, 625 Nelson Rd, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53632381690170/huge/998854a73cae79d42e2636826003d32458946466.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
-    {
-      "id": 54258696856023,
-      "title": "The Fate of Earth",
-      "url": "https://events.stanford.edu/event/the-fate-of-earth",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54258703832037/huge/b53c7c05be4ca9d65effdb48bfece73547586350.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-23",
-          "start": "2026-10-23T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-23"
-      ]
-    },
     {
       "id": 53405274133939,
       "title": "CBD 2026: Afternoon Jasper Ridge Biological Preserve ‘Ootchamin ‘Ooyakma, Contemplative Hikes in Nature",
@@ -4798,6 +4529,31 @@
       ]
     },
     {
+      "id": 54321714795017,
+      "title": "Lunch Club Series | Navigating Heritage: Chinook Art and Public History Along the Columbia River",
+      "url": "https://events.stanford.edu/event/lunch-club-series-3721",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54321725217850/huge/3df1c76cf591546ed497c1ab3cee2b69b0785080.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "id": 54001150943800,
       "title": "Noon Concert: Piano Students of Laura Dahl",
       "url": "https://events.stanford.edu/event/noon-dahl-fall26",
@@ -4953,32 +4709,6 @@
           "date": "2026-11-05",
           "start": "2026-11-05T17:30:00-08:00",
           "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54314002009402,
-      "title": "Chasing Poachers to Catalyzing Systems Change: The Evolution of Sea Shepard",
-      "url": "https://events.stanford.edu/event/chasing-poachers-to-catalyzing-systems-change-the-evolution-of-sea-shepard",
-      "experience": "inperson",
-      "location": "Hopkins Marine Station, Boatworks Lecture Hall, 120 Ocean View Blvd Pacific Grove, CA 93950",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54314018420222/huge/0ccf86c01433cb94aaf92e48f365dc12c232f65c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T00:00:00-08:00",
-          "all_day": true
         }
       ],
       "dates": [
@@ -8870,6 +8600,36 @@
       ]
     },
     {
+      "id": 54323002574193,
+      "title": "Privileged Minorities: A History of Wealth Concentration in South Africa - Mesrob Vartavarian",
+      "url": "https://events.stanford.edu/event/privileged-minorities-a-history-of-wealth-concentration-in-south-africa-mesrob-vartavarian",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Business",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54323043695551/huge/77d760e926ec3e884711ab824b1e050218d3169e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-27",
+          "start": "2027-01-27T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-27"
+      ]
+    },
+    {
       "id": 53994705838159,
       "title": "Stegner Fellow Reading with Cheyenne Fletcher and Yi Jiang",
       "url": "https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-daniel-lurie-and-katerina-ivanov-prado",
@@ -9528,6 +9288,31 @@
       ]
     },
     {
+      "id": 54322067187876,
+      "title": "Distinguished Lecture Series|",
+      "url": "https://events.stanford.edu/event/distinguished-lecture-series",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54322077863788/huge/d1d185accfb63931c43bd9fa80d588abb19a3dbf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-25",
+          "start": "2027-02-25T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-25"
+      ]
+    },
+    {
       "id": 54047423815956,
       "title": "\"Sound and Images of the Invisible World in Japan\"",
       "url": "https://events.stanford.edu/event/sound-and-images-of-the-invisible-world-in-japan",
@@ -9998,6 +9783,59 @@
       ],
       "dates": [
         "2027-04-19"
+      ]
+    },
+    {
+      "id": 54001277016459,
+      "title": "Noon Concert: Violin Students of Debra Fong",
+      "url": "https://events.stanford.edu/event/noon-fong-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511188301759/huge/46a5d7d58f1f7376b88a082d38d19cb4b4cff48c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-04-21",
+          "start": "2027-04-21T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-21"
+      ]
+    },
+    {
+      "id": 53853586794689,
+      "title": "Reading with Jenny Tinghui Zhang, the Stein Visiting Writer",
+      "url": "https://events.stanford.edu/event/reading-with-jenny-tinghui-zhang-the-stein-visiting-writer",
+      "experience": "inperson",
+      "location": "Bechtel Conference Center, Main Hall",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53853624710271/huge/446762189bcace0af6ab9c5b010063f2aed97903.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-04-21",
+          "start": "2027-04-21T20:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-21"
       ]
     }
   ]
