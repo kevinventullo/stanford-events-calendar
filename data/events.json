@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T16:28:53+00:00",
+  "generated_at": "2026-10-25T05:47:19+00:00",
   "window": {
-    "start": "2026-10-24",
-    "end": "2027-04-22"
+    "start": "2026-10-25",
+    "end": "2027-04-23"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 14,
-    "recurring": 13,
-    "dated": 272
+    "recurring": 12,
+    "dated": 269
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
@@ -126,7 +125,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-29",
@@ -249,7 +247,8 @@
         "2027-04-16",
         "2027-04-17",
         "2027-04-18",
-        "2027-04-19"
+        "2027-04-19",
+        "2027-04-22"
       ]
     },
     {
@@ -269,7 +268,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-29",
@@ -329,7 +327,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-29",
@@ -605,7 +602,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
@@ -707,7 +703,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
@@ -820,7 +815,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
@@ -936,7 +930,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
@@ -947,37 +940,6 @@
     }
   ],
   "recurring": [
-    {
-      "id": 53755560975894,
-      "title": "[Cancelled] Public Tour | A Closer Look",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-24",
-          "start": "2026-10-24T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-24"
-      ],
-      "pattern": "Saturdays",
-      "time": "3 PM",
-      "next_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "count": 1
-    },
     {
       "id": 54135592918030,
       "title": "BCAS Weekly Meditation",
@@ -1236,11 +1198,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-24",
-          "start": "2026-10-24T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-25",
           "start": "2026-10-25T14:00:00-07:00",
           "all_day": false
@@ -1397,7 +1354,6 @@
         }
       ],
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-30",
         "2026-10-31",
@@ -1432,9 +1388,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-24",
+      "next_date": "2026-10-25",
       "last_date": "2027-01-03",
-      "count": 32
+      "count": 31
     },
     {
       "id": 53969632558021,
@@ -1537,11 +1493,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-24",
-          "start": "2026-10-24T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-30",
           "start": "2026-10-30T11:30:00-07:00",
@@ -1764,7 +1715,6 @@
         }
       ],
       "dates": [
-        "2026-10-24",
         "2026-10-30",
         "2026-10-31",
         "2026-11-06",
@@ -1812,9 +1762,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-10-24",
+      "next_date": "2026-10-30",
       "last_date": "2027-04-17",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -1832,11 +1782,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-24",
-          "start": "2026-10-24T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-25",
           "start": "2026-10-25T13:00:00-07:00",
@@ -2074,7 +2019,6 @@
         }
       ],
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-31",
         "2026-11-01",
@@ -2125,9 +2069,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-10-24",
+      "next_date": "2026-10-25",
       "last_date": "2027-04-18",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2519,11 +2463,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-10-24",
-          "start": "2026-10-24T09:30:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-31",
           "start": "2026-10-31T09:30:00-07:00",
           "all_day": false
@@ -2560,7 +2499,6 @@
         }
       ],
       "dates": [
-        "2026-10-24",
         "2026-10-31",
         "2026-11-07",
         "2026-11-14",
@@ -2571,9 +2509,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-10-24",
+      "next_date": "2026-10-31",
       "last_date": "2026-12-12",
-      "count": 8
+      "count": 7
     },
     {
       "id": 51888083181057,
@@ -2644,101 +2582,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53405274133939,
-      "title": "CBD 2026: Afternoon Jasper Ridge Biological Preserve ‘Ootchamin ‘Ooyakma, Contemplative Hikes in Nature",
-      "url": "https://events.stanford.edu/event/copy-of-cbd-2026-jasper-ridge-biological-preserve-ootchamin-ooyakma-contemplative-hikes-in-nature",
-      "experience": "inperson",
-      "location": "140 Searsville Road, 140 Searsville Road Stanford CA",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53405274107314/huge/c8487e9eb7cb05cd4fa8524f6d3c643e65cfc2f3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-24",
-          "start": "2026-10-24T12:20:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-24"
-      ]
-    },
-    {
-      "id": 53405561373091,
-      "title": "CBD 2026: Morning Jasper Ridge Biological Preserve ‘Ootchamin ‘Ooyakma, Contemplative Hikes in Nature",
-      "url": "https://events.stanford.edu/event/copy-of-cbd-2026-afternoon-jasper-ridge-biological-preserve-ootchamin-ooyakma-contemplative-hikes-in-nature",
-      "experience": "inperson",
-      "location": "140 Searsville Road, 140 Searsville Road Stanford CA",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53405561349538/huge/d7ba1f3039ffb7933a254e79d068c07666be6db9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-24",
-          "start": "2026-10-24T09:20:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-24"
-      ]
-    },
-    {
-      "id": 54136092619201,
-      "title": "Trash or Treat and the Invasion of Exotic Weeds!",
-      "url": "https://events.stanford.edu/event/trash-or-treat",
-      "experience": "inperson",
-      "location": "Lagunita BBQ Pit, Lomita Drive, Stanford CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Science",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54136108447802/huge/0cfcb07f9ffd55f74aab86e274062b91119c580b.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-24",
-          "start": "2026-10-24T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-24"
-      ]
-    },
     {
       "id": 53145040228521,
       "title": "CBD 2026: (In-person) iPause Guided Practice with Rev. Dereca Blackmon - Mantra as Medicine: How Spiritual Spoken Word Heals Our Busy Minds",
