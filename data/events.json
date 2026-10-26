@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T17:00:43+00:00",
+  "generated_at": "2026-10-26T05:49:49+00:00",
   "window": {
-    "start": "2026-10-25",
-    "end": "2027-04-23"
+    "start": "2026-10-26",
+    "end": "2027-04-24"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 269
+    "dated": 267
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -125,7 +124,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-29",
         "2026-10-30",
@@ -248,7 +246,8 @@
         "2027-04-17",
         "2027-04-18",
         "2027-04-19",
-        "2027-04-22"
+        "2027-04-22",
+        "2027-04-23"
       ]
     },
     {
@@ -268,7 +267,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-29",
         "2026-10-30",
@@ -327,7 +325,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-29",
         "2026-10-30",
@@ -533,7 +530,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -602,7 +598,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -703,7 +698,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -815,7 +809,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -930,7 +923,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -1126,6 +1118,11 @@
           "date": "2027-04-09",
           "start": "2027-04-09T12:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-23",
+          "start": "2027-04-23T12:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1137,13 +1134,14 @@
         "2027-02-26",
         "2027-03-12",
         "2027-03-26",
-        "2027-04-09"
+        "2027-04-09",
+        "2027-04-23"
       ],
       "pattern": "Fridays",
       "time": "12 PM",
       "next_date": "2026-11-13",
-      "last_date": "2027-04-09",
-      "count": 9
+      "last_date": "2027-04-23",
+      "count": 10
     },
     {
       "id": 43703730447104,
@@ -1197,11 +1195,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53818823543672/huge/08fb138cdc2527c77f963e09fac6886eb26e58b3.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-25",
-          "start": "2026-10-25T14:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-30",
           "start": "2026-10-30T14:00:00-07:00",
@@ -1354,7 +1347,6 @@
         }
       ],
       "dates": [
-        "2026-10-25",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
@@ -1388,9 +1380,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-25",
+      "next_date": "2026-10-30",
       "last_date": "2027-01-03",
-      "count": 31
+      "count": 30
     },
     {
       "id": 53969632558021,
@@ -1712,6 +1704,11 @@
           "date": "2027-04-17",
           "start": "2027-04-17T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-23",
+          "start": "2027-04-23T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1758,13 +1755,14 @@
         "2027-04-09",
         "2027-04-10",
         "2027-04-16",
-        "2027-04-17"
+        "2027-04-17",
+        "2027-04-23"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-30",
-      "last_date": "2027-04-17",
-      "count": 44
+      "last_date": "2027-04-23",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -1782,11 +1780,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-25",
-          "start": "2026-10-25T13:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-31",
           "start": "2026-10-31T13:00:00-07:00",
@@ -2019,7 +2012,6 @@
         }
       ],
       "dates": [
-        "2026-10-25",
         "2026-10-31",
         "2026-11-01",
         "2026-11-07",
@@ -2069,9 +2061,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-10-25",
+      "next_date": "2026-10-31",
       "last_date": "2027-04-18",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2089,11 +2081,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-25",
-          "start": "2026-10-25T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-31",
           "start": "2026-10-31T15:00:00-07:00",
@@ -2326,7 +2313,6 @@
         }
       ],
       "dates": [
-        "2026-10-25",
         "2026-10-31",
         "2026-11-01",
         "2026-11-07",
@@ -2376,9 +2362,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-25",
+      "next_date": "2026-10-31",
       "last_date": "2027-04-18",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53889137015268,
@@ -2582,74 +2568,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53145040228521,
-      "title": "CBD 2026: (In-person) iPause Guided Practice with Rev. Dereca Blackmon - Mantra as Medicine: How Spiritual Spoken Word Heals Our Busy Minds",
-      "url": "https://events.stanford.edu/event/cbd-2026-in-person-ipause-with-dereca-blackmon-mantra-as-medicine",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53145040192680/huge/8f1a84dfab95305124ffa5a7d55698adbd4d387a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-25",
-          "start": "2026-10-25T12:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-25"
-      ]
-    },
-    {
-      "id": 53145020272372,
-      "title": "CBD 2026: (In-person) University Public Worship with Rev. Dereca Blackmon - Divine Love as a Source of Power",
-      "url": "https://events.stanford.edu/event/cbd-2026-in-person-university-public-worship-with-rev-dereca-blackmon-divine-love-as-a-source-of-power",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine",
-        "Religion/Spirituality",
-        "Science",
-        "Career Development",
-        "Education",
-        "Environment/Sustainability",
-        "Social Justice/Human Rights",
-        "Public Service/Government",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53145039511772/huge/a7f97935cdc5aa5063c71f15e1f5d34993983946.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-25",
-          "start": "2026-10-25T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-25"
-      ]
-    },
     {
       "id": 54260720666992,
       "title": "Artist Talk with Hiroyuki Murase",
@@ -2870,7 +2788,7 @@
         "International Affairs",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54171600536460/huge/487d5f11dde10a5bc14ddb6ba5b01e6deb369360.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54171600536460/huge/9e495ad10e87c02af7cb5cfa467b7ca768464185.jpg",
       "free": false,
       "instances": [
         {
