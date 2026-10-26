@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:49:49+00:00",
+  "generated_at": "2026-10-26T19:05:31+00:00",
   "window": {
     "start": "2026-10-26",
     "end": "2027-04-24"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 267
+    "dated": 270
   },
   "ongoing": [
     {
@@ -2841,7 +2841,7 @@
         "International Affairs"
       ],
       "photo": "https://localist-images.azureedge.net/photos/53507950833369/huge/1b2512130a666f1510358ea93ba9d900589ee52f.jpg",
-      "free": true,
+      "free": false,
       "instances": [
         {
           "date": "2026-10-27",
@@ -3307,6 +3307,31 @@
         {
           "date": "2026-10-28",
           "start": "2026-10-28T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    {
+      "id": 54346479665388,
+      "title": "Lunch Club Series | From the Field",
+      "url": "https://events.stanford.edu/event/lunch-club-series-from-the-field",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54346501660683/huge/5b24dc69833fe9369775476b6f42ebe2db8a89ab.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-28",
+          "start": "2026-10-28T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -4149,7 +4174,7 @@
       "subjects": [
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54346299334135/huge/eebb5a439385243a2f84cdda4c2e3e5598754973.jpg",
       "free": false,
       "instances": [
         {
@@ -5339,7 +5364,7 @@
       "subjects": [
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/42915527847895/huge/506171ad12a1e4f1a2f1103f6a662fe934455692.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54346305355093/huge/54d97ba5f2525e2e5bbb3c43ad1627e203cd18a6.jpg",
       "free": false,
       "instances": [
         {
@@ -7426,6 +7451,29 @@
       ]
     },
     {
+      "id": 54346059508376,
+      "title": "SLE Salon: Yuri Herrera discusses his book The Transmigration of Bodies",
+      "url": "https://events.stanford.edu/event/sle-salon-yuri-herrera-discusses-his-book-the-transmigration-of-bodies",
+      "experience": "inperson",
+      "location": "Florence Moore Hall, SLE Main Lounge, 436 Mayfield Ave, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54346101494579/huge/1a0488d6b59e8fc51fa4f35472679862fa2c51ff.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T12:15:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
       "id": 53976376154062,
       "title": "When a “Salami Slice” Becomes a Maritime Blockade: China’s Maritime Disruptions in the Indo-Pacific and Consequences for Human Populations",
       "url": "https://events.stanford.edu/event/when-a-salami-slice-becomes-a-maritime-blockade-chinas-maritime-disruptions-in-the-indo-pacific-and-consequences-for-human-populations",
@@ -8441,6 +8489,32 @@
       ]
     },
     {
+      "id": 54346327742108,
+      "title": "Claudia Hart: Techno-ethics and the Sociology of Simulation",
+      "url": "https://events.stanford.edu/event/claudia-hart-techno-ethics-and-the-sociology-of-simulation",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54346334690335/huge/a2f621535feb0f5a9e0f2e52164fe76512f33bc0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-28",
+          "start": "2027-01-28T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-28"
+      ]
+    },
+    {
       "id": 54001116853432,
       "title": "Noon Concert: Voice Students of Nova Jiménez",
       "url": "https://events.stanford.edu/event/noon-jimenez-win27",
@@ -9050,7 +9124,7 @@
     },
     {
       "id": 54322067187876,
-      "title": "Distinguished Lecture Series|",
+      "title": "Distinguished Lecture Series| From Disentanglement to Re-Entanglement: Integrating the Living Archaeological Record",
       "url": "https://events.stanford.edu/event/distinguished-lecture-series",
       "experience": "hybrid",
       "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
