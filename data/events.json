@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:02:34+00:00",
+  "generated_at": "2026-10-27T18:36:17+00:00",
   "window": {
     "start": "2026-10-27",
     "end": "2027-04-25"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 266
+    "dated": 267
   },
   "ongoing": [
     {
@@ -3523,7 +3523,7 @@
     },
     {
       "id": 54298990217857,
-      "title": "Autumn Farm Festival - The O'Donohue Family Stanford Educational Farm",
+      "title": "Autumn Farm Festival - The O’Donohue Family Stanford Educational Farm",
       "url": "https://events.stanford.edu/event/farm-autumn-festival-the-odonohue-family-stanford-educational-farm",
       "experience": "inperson",
       "location": "The O'Donohue Family Stanford Educational Farm, 555 Fremont Rd. Stanford, Ca 94305",
@@ -3838,7 +3838,7 @@
         "Engineering/Technology",
         "Business"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53604108555045/huge/9b904b9260864bd969c79004ab70c8466d27500e.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/53604108555045/huge/08f31d235e27d59c57db52380554e7a3e8daea51.jpg",
       "free": false,
       "instances": [
         {
@@ -5516,6 +5516,34 @@
       ]
     },
     {
+      "id": 54355505255315,
+      "title": "Social Learning and Technological Change: American Agricultural Fairs | History of Capitalism Research Workshop",
+      "url": "https://events.stanford.edu/event/social-learning-and-technological-change-american-agricultural-fairs-history-of-capitalism-research-workshop",
+      "experience": "inperson",
+      "location": "Building 200, History Corner, Room 307, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54355537367738/huge/4619dac0991ec911efe162148159bdaae109fca2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
       "id": 52825303977410,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-to-knight-hennessy-scholars",
@@ -6346,7 +6374,7 @@
       "subjects": [
         "Music"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54348736715886/huge/ec3b0ea23fc3c8f5c130eaf34f7a5d2109895502.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54355525995445/huge/721cdd9354224f5912d2245afa72f10e5d940539.jpg",
       "free": false,
       "instances": [
         {
