@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T19:05:31+00:00",
+  "generated_at": "2026-10-27T06:02:34+00:00",
   "window": {
-    "start": "2026-10-26",
-    "end": "2027-04-24"
+    "start": "2026-10-27",
+    "end": "2027-04-25"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 12,
-    "dated": 270
+    "dated": 266
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -124,7 +123,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-26",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31",
@@ -247,7 +245,8 @@
         "2027-04-18",
         "2027-04-19",
         "2027-04-22",
-        "2027-04-23"
+        "2027-04-23",
+        "2027-04-24"
       ]
     },
     {
@@ -267,7 +266,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-26",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31",
@@ -325,7 +323,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-26",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31",
@@ -495,7 +492,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-26",
         "2026-10-30",
         "2026-11-02",
         "2026-11-06",
@@ -530,7 +526,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -598,7 +593,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -698,7 +692,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -765,7 +758,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -809,7 +801,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -835,7 +826,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -879,7 +869,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -923,7 +912,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -947,11 +935,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T19:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-28",
           "start": "2026-10-28T19:00:00-07:00",
@@ -1009,7 +992,6 @@
         }
       ],
       "dates": [
-        "2026-10-26",
         "2026-10-28",
         "2026-11-02",
         "2026-11-04",
@@ -1024,9 +1006,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-10-26",
+      "next_date": "2026-10-28",
       "last_date": "2026-12-09",
-      "count": 12
+      "count": 11
     },
     {
       "id": 53629749361008,
@@ -1709,6 +1691,11 @@
           "date": "2027-04-23",
           "start": "2027-04-23T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-24",
+          "start": "2027-04-24T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1756,13 +1743,14 @@
         "2027-04-10",
         "2027-04-16",
         "2027-04-17",
-        "2027-04-23"
+        "2027-04-23",
+        "2027-04-24"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-10-30",
-      "last_date": "2027-04-23",
-      "count": 45
+      "last_date": "2027-04-24",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -2009,6 +1997,11 @@
           "date": "2027-04-18",
           "start": "2027-04-18T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-24",
+          "start": "2027-04-24T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2057,13 +2050,14 @@
         "2027-04-10",
         "2027-04-11",
         "2027-04-17",
-        "2027-04-18"
+        "2027-04-18",
+        "2027-04-24"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-31",
-      "last_date": "2027-04-18",
-      "count": 46
+      "last_date": "2027-04-24",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2310,6 +2304,11 @@
           "date": "2027-04-18",
           "start": "2027-04-18T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-24",
+          "start": "2027-04-24T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2358,13 +2357,14 @@
         "2027-04-10",
         "2027-04-11",
         "2027-04-17",
-        "2027-04-18"
+        "2027-04-18",
+        "2027-04-24"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-31",
-      "last_date": "2027-04-18",
-      "count": 46
+      "last_date": "2027-04-24",
+      "count": 47
     },
     {
       "id": 53889137015268,
@@ -2569,239 +2569,6 @@
   ],
   "events": [
     {
-      "id": 54260720666992,
-      "title": "Artist Talk with Hiroyuki Murase",
-      "url": "https://events.stanford.edu/event/artist-talk-with-hiroyuki-murase",
-      "experience": "inperson",
-      "location": "Building 460, Margaret Jacks Hall, Terrace Room (4th floor), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54260724362447/huge/61025ca744dbec8a7147671f2dfa81b3085a71cf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T12:15:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 53985907944513,
-      "title": "Being Muslim on Campus",
-      "url": "https://events.stanford.edu/event/being-muslim-on-campus",
-      "experience": "inperson",
-      "location": "Raikes Building, Stanford Graduate School of Education (GSE), Longview Meeting Room",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54136327204586/huge/ab0411e9447185360ebf6b28ec1564c29cf6e669.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 53975524031896,
-      "title": "Biology Seminar Series - Orion Weiner \"From Swarms to Flocks: Discovering and Rewriting the Rules of Collective Cell Migration\"",
-      "url": "https://events.stanford.edu/event/biology-seminar-series-orion-weiner-from-swarms-to-flocks-discovering-and-rewriting-the-rules-of-collective-cell-migration",
-      "experience": "inperson",
-      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53975526096152/huge/57e0bf10b1d75c258c28f63ceca74827211bf5a2.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 54310688843389,
-      "title": "EH&S:  Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic",
-      "experience": "inperson",
-      "location": "484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54310695512609/huge/e9bffb6988ad5c0867ab6cb72a265f446ca69804.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 54295674034251,
-      "title": "ESE Seminar - Nori Nakata: \"Reservoir Evolution and Stress Changes during Enhanced Geothermal System Development\"",
-      "url": "https://events.stanford.edu/event/ese-seminar-nori-nakata-reservoir-evolution-and-stress-changes-during-enhanced-geothermal-system-development",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54295717208542/huge/c27ebf38e4cdf70c783fcca2840fb2a9d9ac9fb0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T12:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 54046886454860,
-      "title": "Revolutionizing Privacy and AI with Meredith Whittaker",
-      "url": "https://events.stanford.edu/event/revolutionizing-privacy-and-ai-with-meredith-whittaker",
-      "experience": "inperson",
-      "location": "Simonyi Conference Center, CoDa, 389 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54046886369867/huge/74676605ded01d038dba3c58dbfa5be367038f0c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 54001990173451,
-      "title": "Ron Alexander Memorial Lectures in Musicology – Joy H. Calico, UCLA",
-      "url": "https://events.stanford.edu/event/alexander-lectures-joy-calico",
-      "experience": "inperson",
-      "location": "Braun Music Center, Room 103, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54002009081556/huge/013c127b25a4ef4f6bd10044b7015ec16ebfc6fd.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 53552394769358,
-      "title": "Stanford Energy Seminar | AI, Energy, and Sustainability: From Innovation to Impact | Richard Newell, C3 AI (former)",
-      "url": "https://events.stanford.edu/event/stanford-energy-seminar-10262026",
-      "experience": "hybrid",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53604111284048/huge/ec252ea304b6ed91444b56e3b7694cf2cfd39745.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
-      "id": 54127785305853,
-      "title": "‘The Golden Age’ or ‘the Dark Time of the Plots’: Iraq and Syria in the 1950s | Matthieu Rey",
-      "url": "https://events.stanford.edu/event/the-golden-age-or-the-dark-time-of-the-plots",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54171600536460/huge/9e495ad10e87c02af7cb5cfa467b7ca768464185.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-26",
-          "start": "2026-10-26T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-26"
-      ]
-    },
-    {
       "id": 53815614776001,
       "title": "2027 Global Health Fall Kickoff",
       "url": "https://events.stanford.edu/event/2027-global-health-fall-kickoff",
@@ -2952,6 +2719,29 @@
       ]
     },
     {
+      "id": 53868991970104,
+      "title": "Game Nights @ Green: Nyctophobia (2018)",
+      "url": "https://events.stanford.edu/event/game-nights-nyctophobia",
+      "experience": "inperson",
+      "location": "Hohbach Hall, Green Library, 118",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-27",
+          "start": "2026-10-27T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    {
       "id": 53878443469394,
       "title": "Maisha Winn, \"Futuring Black Lives: Independent Black Institutions and the Literary Imagination,\" in conversation with Adam Banks",
       "url": "https://events.stanford.edu/event/maisha-winn-futuring-black-lives-independent-black-institutions-and-the-literary-imagination",
@@ -3084,7 +2874,7 @@
       "title": "Sustainable Systems Seminar Lunch Series -  From Reliability to Resilience: Risk-Informed Asset Management for the Energy Transition",
       "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-series-lina-Tjernberg",
       "experience": "inperson",
-      "location": "Y2E2 Building, 105, 473 Via Ortega, Stanford, CA 94305",
+      "location": "Press Building, 106, 425 Santa Teresa St, Stanford, CA 94305",
       "types": [
         "Class/Seminar"
       ],
@@ -3705,31 +3495,6 @@
       ]
     },
     {
-      "id": 53481317822232,
-      "title": "Worse than War: The Global Costs of Violence",
-      "url": "https://events.stanford.edu/event/worse-than-war-the-global-costs-of-violence",
-      "experience": "hybrid",
-      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53490419418205/huge/ef42b4d041ebf989d6b791d28df7bc3dc65545af.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
       "id": 54003212411520,
       "title": "2026 Halloween Concert",
       "url": "https://events.stanford.edu/event/2026-halloween-concert",
@@ -3977,6 +3742,31 @@
         {
           "date": "2026-11-02",
           "start": "2026-11-02T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    {
+      "id": 54347902228949,
+      "title": "Day of the Dead Celebrations | Intimate Conversation w/ Rubí Tsanda Huerta",
+      "url": "https://events.stanford.edu/event/day-of-the-dead-celebrations-day-1",
+      "experience": "inperson",
+      "location": "Fire Truck House, 433 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54347919214349/huge/daf569ec664e23305b0cc13db26cf32dc30596c5.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T14:00:00-08:00",
           "all_day": false
         }
       ],
@@ -4494,6 +4284,31 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 54347981524777,
+      "title": "Day of the Dead Celebrations | Lecture by Rubí Tsanda Huerta",
+      "url": "https://events.stanford.edu/event/day-of-the-dead-celebrations-day-3",
+      "experience": "inperson",
+      "location": "Native American Cultural Center, Clubhouse, 524 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54347995944692/huge/c41eaef50495b5a401a1a4045fe199aa6b44c5a8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T17:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5378,6 +5193,33 @@
       ]
     },
     {
+      "id": 54348710964216,
+      "title": "Science, Statecraft, and National Resilience: Rethinking Governance in the Philippines",
+      "url": "https://events.stanford.edu/event/science-statecraft-and-national-resilience-rethinking-governance-in-the-philippines",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 3rd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "International Affairs",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54348720260596/huge/7409e614b7377f2a4e576be52459f0416de1cb45.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
       "id": 53879814094096,
       "title": "Special, Unique, and Rare: CITIES",
       "url": "https://events.stanford.edu/event/special-unique-and-rare-cities",
@@ -6178,6 +6020,35 @@
       ]
     },
     {
+      "id": 54349334759666,
+      "title": "Book Talk - Fear of Queer Taiwan: Anti-LGBTQ Movements between Taiwan and the U.S. Religious Right",
+      "url": "https://events.stanford.edu/event/book-talk-fear-of-queer-taiwan-anti-lgbtq-movements-between-taiwan-and-the-us-religious-right",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 3rd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Diversity/Identity",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Religion/Spirituality",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54349361813955/huge/fc48a907002a13387dd297afdfa4287946b3b681.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 54311544927658,
       "title": "Book Talk: Prof. Cécile Alduy in Conversation with Prof. Josh Landy",
       "url": "https://events.stanford.edu/event/book-talk-prof-cecile-alduy-in-conversation-with-prof-josh-landy",
@@ -6456,6 +6327,31 @@
         {
           "date": "2026-11-17",
           "start": "2026-11-17T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54348724662747,
+      "title": "Sound, Voice, Strings: Compositions for Traditional East Asian Instruments",
+      "url": "https://events.stanford.edu/event/sound-voice-strings-compositions-for-traditional-east-asian-instruments",
+      "experience": "inperson",
+      "location": "The Knoll, Center for Computer Research in Music and Acoustics (CCRMA) Stage, 660 Lomita Court, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54348736715886/huge/ec3b0ea23fc3c8f5c130eaf34f7a5d2109895502.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T19:30:00-08:00",
           "all_day": false
         }
       ],
