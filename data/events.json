@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:41:45+00:00",
+  "generated_at": "2026-10-28T18:43:20+00:00",
   "window": {
     "start": "2026-10-28",
     "end": "2027-04-26"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 14,
-    "dated": 256
+    "dated": 260
   },
   "ongoing": [
     {
@@ -3685,7 +3685,7 @@
     },
     {
       "id": 54189631195693,
-      "title": "Book Talk: Chrystia Freeland — Unreliable Boyfriend: An Insider's View of Dealing with a Chaotic Superpower, Plutocrats, and Other Complicated People",
+      "title": "Book Talk: Chrystia Freeland — Unreliable Boyfriend: An Insider’s View of Dealing with a Chaotic Superpower, Plutocrats, and Other Complicated People",
       "url": "https://events.stanford.edu/event/book-talk-chrystia-freeland-unreliable-boyfriend-an-insiders-view-of-dealing-with-a-chaotic-superpower-plutocrats-and-other-complicated-people",
       "experience": "hybrid",
       "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
@@ -3908,6 +3908,33 @@
         {
           "date": "2026-11-03",
           "start": "2026-11-03T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    {
+      "id": 54364719810566,
+      "title": "Earth & Planetary Sciences Seminar - Prof. Benjamin Gill \"Exploring the potential links between ocean oxygenation and the evolution of early Paleozoic marine ecosystems\"",
+      "url": "https://events.stanford.edu/event/earth-planetary-sciences-seminar-prof-ben-gill-exploring-the-potential-links-between-ocean-oxygenation-and-the-evolution-of-early-paleozoic-marine-ecosystems",
+      "experience": "inperson",
+      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54364764868667/huge/ebe753443fadddb4c0fba46dee33eaa8c1311de9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -4323,6 +4350,35 @@
         {
           "date": "2026-11-05",
           "start": "2026-11-05T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    {
+      "id": 54364328703901,
+      "title": "Critical Carceral Studies | Special Collections & Coffee",
+      "url": "https://events.stanford.edu/event/critical-carceral-studies-special-collections-coffee",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Stanford Special Collections, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition",
+        "Workshop"
+      ],
+      "subjects": [
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54364358816660/huge/27c6f592fa374382ecf98b890e869c3ae06708b7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-05",
+          "start": "2026-11-05T13:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5575,6 +5631,33 @@
         {
           "date": "2026-11-12",
           "start": "2026-11-12T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
+      "id": 54364839338499,
+      "title": "Stanford Baroque Recital",
+      "url": "https://events.stanford.edu/event/stanford-baroque-recital",
+      "experience": "inperson",
+      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54364839128576/huge/88fcbf0a3e734e200fca830eb84dc8bac712f008.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -9473,6 +9556,49 @@
       ],
       "dates": [
         "2027-04-02"
+      ]
+    },
+    {
+      "id": 54363607984396,
+      "title": "5th Annual Updates in Gastroenterology & Hepatology",
+      "url": "https://events.stanford.edu/event/5th-annual-updates-in-gastroenterology-hepatology",
+      "experience": "inperson",
+      "location": "The Fairmont Sonoma Mission Inn, 100 Boyes Blvd, Sonoma, CA 95476",
+      "types": [
+        "Conference/Symposium"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54363609237435/huge/c02d8d3be7033fb97138dc935981fbf0c42783d0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-04-07",
+          "start": "2027-04-07T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2027-04-08",
+          "start": "2027-04-08T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2027-04-09",
+          "start": "2027-04-09T00:00:00-07:00",
+          "all_day": true
+        },
+        {
+          "date": "2027-04-10",
+          "start": "2027-04-10T00:00:00-07:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2027-04-07",
+        "2027-04-08",
+        "2027-04-09",
+        "2027-04-10"
       ]
     },
     {
