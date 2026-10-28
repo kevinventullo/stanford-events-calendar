@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T18:36:17+00:00",
+  "generated_at": "2026-10-28T06:41:45+00:00",
   "window": {
-    "start": "2026-10-27",
-    "end": "2027-04-25"
+    "start": "2026-10-28",
+    "end": "2027-04-26"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 14,
-    "recurring": 12,
-    "dated": 267
+    "recurring": 14,
+    "dated": 256
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -246,7 +245,8 @@
         "2027-04-19",
         "2027-04-22",
         "2027-04-23",
-        "2027-04-24"
+        "2027-04-24",
+        "2027-04-25"
       ]
     },
     {
@@ -526,7 +526,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -593,7 +592,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -692,7 +690,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -758,7 +755,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -801,7 +797,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -826,7 +821,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -869,7 +863,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -912,7 +905,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30"
@@ -2002,6 +1994,11 @@
           "date": "2027-04-24",
           "start": "2027-04-24T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-25",
+          "start": "2027-04-25T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2051,13 +2048,14 @@
         "2027-04-11",
         "2027-04-17",
         "2027-04-18",
-        "2027-04-24"
+        "2027-04-24",
+        "2027-04-25"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-10-31",
-      "last_date": "2027-04-24",
-      "count": 47
+      "last_date": "2027-04-25",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2309,6 +2307,11 @@
           "date": "2027-04-24",
           "start": "2027-04-24T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-25",
+          "start": "2027-04-25T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2358,13 +2361,162 @@
         "2027-04-11",
         "2027-04-17",
         "2027-04-18",
-        "2027-04-24"
+        "2027-04-24",
+        "2027-04-25"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-10-31",
-      "last_date": "2027-04-24",
-      "count": 47
+      "last_date": "2027-04-25",
+      "count": 48
+    },
+    {
+      "id": 54356095805619,
+      "title": "Stanford Memorial Church Docent Tour",
+      "url": "https://events.stanford.edu/event/stanford-memorial-church-docent-tour-4159",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54356623311395/huge/e838e77a36567efe4339772676f5d57a9710302a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-11",
+          "start": "2026-12-11T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-18",
+          "start": "2026-12-18T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-08",
+          "start": "2027-01-08T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-15",
+          "start": "2027-01-15T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-22",
+          "start": "2027-01-22T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-29",
+          "start": "2027-01-29T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-05",
+          "start": "2027-02-05T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-12",
+          "start": "2027-02-12T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-19",
+          "start": "2027-02-19T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-26",
+          "start": "2027-02-26T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-05",
+          "start": "2027-03-05T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-12",
+          "start": "2027-03-12T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-19",
+          "start": "2027-03-19T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-02",
+          "start": "2027-04-02T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-09",
+          "start": "2027-04-09T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-16",
+          "start": "2027-04-16T11:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-23",
+          "start": "2027-04-23T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-12-04",
+        "2026-12-11",
+        "2026-12-18",
+        "2027-01-08",
+        "2027-01-15",
+        "2027-01-22",
+        "2027-01-29",
+        "2027-02-05",
+        "2027-02-12",
+        "2027-02-19",
+        "2027-02-26",
+        "2027-03-05",
+        "2027-03-12",
+        "2027-03-19",
+        "2027-04-02",
+        "2027-04-09",
+        "2027-04-16",
+        "2027-04-23"
+      ],
+      "pattern": "Fridays",
+      "time": "11 AM",
+      "next_date": "2026-11-06",
+      "last_date": "2027-04-23",
+      "count": 21
     },
     {
       "id": 53889137015268,
@@ -2415,6 +2567,11 @@
           "date": "2027-02-28",
           "start": "2027-02-28T11:00:00-08:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-25",
+          "start": "2027-04-25T11:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2424,13 +2581,14 @@
         "2026-11-29",
         "2027-01-10",
         "2027-01-31",
-        "2027-02-28"
+        "2027-02-28",
+        "2027-04-25"
       ],
       "pattern": "Sundays",
       "time": "11 AM",
       "next_date": "2026-11-01",
-      "last_date": "2027-02-28",
-      "count": 7
+      "last_date": "2027-04-25",
+      "count": 8
     },
     {
       "id": 47557682677329,
@@ -2565,391 +2723,167 @@
       "next_date": "2026-10-28",
       "last_date": "2026-12-16",
       "count": 7
+    },
+    {
+      "id": 54356689351868,
+      "title": "Walk the Labyrinth at MemChu",
+      "url": "https://events.stanford.edu/event/walk-the-labyrinth-at-memchu",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54356737631040/huge/3812711bf075d58222e4c218a047a05aede5167c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-25",
+          "start": "2026-11-25T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-09",
+          "start": "2026-12-09T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-16",
+          "start": "2026-12-16T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-06",
+          "start": "2027-01-06T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-13",
+          "start": "2027-01-13T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-20",
+          "start": "2027-01-20T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-27",
+          "start": "2027-01-27T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-03",
+          "start": "2027-02-03T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-10",
+          "start": "2027-02-10T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-17",
+          "start": "2027-02-17T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-24",
+          "start": "2027-02-24T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-03",
+          "start": "2027-03-03T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-10",
+          "start": "2027-03-10T09:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-17",
+          "start": "2027-03-17T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-24",
+          "start": "2027-03-24T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-31",
+          "start": "2027-03-31T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-07",
+          "start": "2027-04-07T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-14",
+          "start": "2027-04-14T09:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-21",
+          "start": "2027-04-21T09:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18",
+        "2026-11-25",
+        "2026-12-02",
+        "2026-12-09",
+        "2026-12-16",
+        "2027-01-06",
+        "2027-01-13",
+        "2027-01-20",
+        "2027-01-27",
+        "2027-02-03",
+        "2027-02-10",
+        "2027-02-17",
+        "2027-02-24",
+        "2027-03-03",
+        "2027-03-10",
+        "2027-03-17",
+        "2027-03-24",
+        "2027-03-31",
+        "2027-04-07",
+        "2027-04-14",
+        "2027-04-21"
+      ],
+      "pattern": "Wednesdays",
+      "time": "9 AM",
+      "next_date": "2026-11-04",
+      "last_date": "2027-04-21",
+      "count": 23
     }
   ],
   "events": [
-    {
-      "id": 53815614776001,
-      "title": "2027 Global Health Fall Kickoff",
-      "url": "https://events.stanford.edu/event/2027-global-health-fall-kickoff",
-      "experience": "inperson",
-      "location": "E.D. Stone - Alway Building, Alway Courtyward, 300 Pasteur Dr , Palo Alto, CA 94304",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Environment/Sustainability",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53815640382979/huge/d1f31b0ff5213afe7c584478e0e21f00de39ff9c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 53507917771114,
-      "title": "After Fission: Recognition and Contestation in the Atomic Age",
-      "url": "https://events.stanford.edu/event/after-fission-recognition-and-contestation-in-the-atomic-age",
-      "experience": "inperson",
-      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53507950833369/huge/1b2512130a666f1510358ea93ba9d900589ee52f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 53941494800329,
-      "title": "An Evening of Poetry with Fady Joudah",
-      "url": "https://events.stanford.edu/event/an-evening-of-poetry-with-fady-joudah",
-      "experience": "inperson",
-      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53949212623007/huge/505debd8aed3056d577624c7bf06a3dea7ba5db4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 53851092552210,
-      "title": "Applied Physics/Physics Colloquium: Matthew P.A. Fisher - \"Emergence of Hydrodynamics from Open Quantum Dynamics\"",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-matthew-pa-fisher-emergence-of-hydrodynamics-from-open-quantum-dynamics",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53851093906495/huge/86e9f86507754a8fe4270994af1a50d27c0c9c3b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T15:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54116494114663,
-      "title": "Australia’s new social media legislation: the world is watching",
-      "url": "https://events.stanford.edu/event/australias-new-social-media-legislation-the-world-is-watching",
-      "experience": "hybrid",
-      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54118160614562/huge/23afef4933ffb52343e719c8a2adf62d1f62a206.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54310717422431,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-640",
-      "experience": "inperson",
-      "location": "484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54310732795690/huge/9a88cc8357ce42c1d75e1b345f17499b6a26e6c6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 53868991970104,
-      "title": "Game Nights @ Green: Nyctophobia (2018)",
-      "url": "https://events.stanford.edu/event/game-nights-nyctophobia",
-      "experience": "inperson",
-      "location": "Hohbach Hall, Green Library, 118",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 53878443469394,
-      "title": "Maisha Winn, \"Futuring Black Lives: Independent Black Institutions and the Literary Imagination,\" in conversation with Adam Banks",
-      "url": "https://events.stanford.edu/event/maisha-winn-futuring-black-lives-independent-black-institutions-and-the-literary-imagination",
-      "experience": "inperson",
-      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53878484500957/huge/30760e9cc0178fabdb6edc78a3e97c497c351ec0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54293794877617,
-      "title": "Organizing in Solidarity at Stanford: Past & Present",
-      "url": "https://events.stanford.edu/event/organizing-in-solidarity-at-stanford-past-present",
-      "experience": "inperson",
-      "location": "Asian American Activities Center, Courtroom, 524 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Meeting"
-      ],
-      "subjects": [
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54293807060833/huge/6072cd8ecf9a335003b5a139625d3bbeef83d7bb.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54179653534631,
-      "title": "Pediatric Grand Rounds (CME): When Governments Swipe Left: Australia’s Social Media Policy",
-      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-neonatology-40-reimagining-newborn-brain-care-in-the-era-of-digital-health",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Medicine",
-        "Science",
-        "Health/Wellness",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54179653510053/huge/a8c4c4050c032e83af2e50d323a24475fc502229.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T08:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54075763488294,
-      "title": "Power, Art, + Practice with Prof. Matthew Morrison, Usha Iyer",
-      "url": "https://events.stanford.edu/event/power-art-practice-with-prof-matthew-morrisonusha-iyer",
-      "experience": "inperson",
-      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511180561564/huge/6c8086a1bec359c4c123fd421480414907486882.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T13:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54189762555811,
-      "title": "Public Lecture: Gravitational Wave Detection",
-      "url": "https://events.stanford.edu/event/public-lecture-gravitational-wave-detection",
-      "experience": "hybrid",
-      "location": "Sapp Center for Science Teaching and Learning, 111, 376 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54196843848006/huge/6172cce88b5de1daab69e852db068d6f6adac969.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T19:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54312364421706,
-      "title": "Sustainable Systems Seminar Lunch Series -  From Reliability to Resilience: Risk-Informed Asset Management for the Energy Transition",
-      "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-series-lina-Tjernberg",
-      "experience": "inperson",
-      "location": "Press Building, 106, 425 Santa Teresa St, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54313001037337/huge/608bc7e06aca98c30296a1f20035db425824bb66.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 53800398914002,
-      "title": "The Illicit Finance Hydra: Crypto, Sanctions Evasion, and the New Financial Battlefield",
-      "url": "https://events.stanford.edu/event/the-illicit-finance-hydra-crypto-sanctions-evasion-and-the-new-financial-battlefield",
-      "experience": "inperson",
-      "location": "Hohbach Hall, Presentation Palace, 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53977693622909/huge/beaf62ef60b18878336cadff57314fdc3be9b52b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
-    {
-      "id": 54162708779688,
-      "title": "The Unbroken Sky: Film Screening and Fireside Chat with Francisco Jiménez",
-      "url": "https://events.stanford.edu/event/the-unbroken-sky",
-      "experience": "inperson",
-      "location": "El Centro Chicano, 514 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education",
-        "Humanities",
-        "Diversity/Identity",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54162730101394/huge/d3000e22c48f458949bde2a658343c814e82a2ce.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-27",
-          "start": "2026-10-27T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-27"
-      ]
-    },
     {
       "id": 54003988046060,
       "title": "Carina Hong @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
@@ -3393,6 +3327,33 @@
       ]
     },
     {
+      "id": 54357825527101,
+      "title": "Face Time with Jaclyn Zhou",
+      "url": "https://events.stanford.edu/event/face-time-with-jaclyn-zhou",
+      "experience": "inperson",
+      "location": "Asian American Activities Center, Couchroom, 524 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54357832768827/huge/bb50b2d9a28690483d165117248b6dd57069b67c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T12:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
       "id": 54001907477231,
       "title": "From Yahweh to Jupiter: Orthodox Muscovy Deals with the Classical World",
       "url": "https://events.stanford.edu/event/from-yahweh-to-jupiter-orthodox-muscovy-deals-with-the-classical-world",
@@ -3798,6 +3759,31 @@
       ]
     },
     {
+      "id": 54357712150615,
+      "title": "ESE Seminar - Eva Schill: \"Potential for Lithium and Other Critical Mineral Extraction from Geothermal Waters and Brines in the US\"",
+      "url": "https://events.stanford.edu/event/ese-seminar-eva-schill-potential-for-lithium-and-other-critical-mineral-extraction-from-geothermal-waters-and-brines-in-the-us",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54357903989305/huge/213b9cdfb48364bebeb0dead085671220a91a052.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    {
       "id": 54189731967396,
       "title": "Japan and the Middle East in a Changing Geopolitical Landscape",
       "url": "https://events.stanford.edu/event/japan-and-the-middle-east-in-a-changing-geopolitical-landscape",
@@ -3897,6 +3883,31 @@
         {
           "date": "2026-11-03",
           "start": "2026-11-03T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    {
+      "id": 54356260704057,
+      "title": "Creating What's Possible: A Panel Discussion with First-Generation Students in STEM",
+      "url": "https://events.stanford.edu/event/creating-whats-possible-a-panel-discussion-with-first-generation-students-in-stem",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54356264168799/huge/dd2f994204113d64d7a0391ccca3b4510483c8ee.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T16:00:00-08:00",
           "all_day": false
         }
       ],
@@ -4105,6 +4116,34 @@
       ]
     },
     {
+      "id": 54357681189392,
+      "title": "Leading by Unwritten Rules: Rural Educators in Myanmar’s Crisis",
+      "url": "https://events.stanford.edu/event/leading-by-unwritten-rules-rural-educators-in-myanmars-crisis",
+      "experience": "inperson",
+      "location": "Encina Hall, Philippines Conference Room, 3rd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54357702594465/huge/5f59639ce75662a2d3c6c2695201841d6ba22285.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-04",
+          "start": "2026-11-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "id": 54321714795017,
       "title": "Lunch Club Series | Navigating Heritage: Chinook Art and Public History Along the Columbia River",
       "url": "https://events.stanford.edu/event/lunch-club-series-3721",
@@ -4131,8 +4170,8 @@
     },
     {
       "id": 54001150943800,
-      "title": "Noon Concert: Piano Students of Laura Dahl",
-      "url": "https://events.stanford.edu/event/noon-dahl-fall26",
+      "title": "Noon Concert: Piano Students of Laura Dahl & Ory Shihor",
+      "url": "https://events.stanford.edu/event/noon-dahl-shihor-fall26",
       "experience": "inperson",
       "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
       "types": [
@@ -4303,7 +4342,7 @@
       "subjects": [
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54347995944692/huge/c41eaef50495b5a401a1a4045fe199aa6b44c5a8.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54347995944692/huge/cb0467438961d7a20430f6802773c987ddbc6be6.jpg",
       "free": false,
       "instances": [
         {
@@ -5615,6 +5654,32 @@
         {
           "date": "2026-11-12",
           "start": "2026-11-12T18:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
+      "id": 54356846743738,
+      "title": "World Diabetes Day Wellness Fair",
+      "url": "https://events.stanford.edu/event/world-diabetes-day-wellness-fair",
+      "experience": "inperson",
+      "location": "Bass Promenade South and Spieker Plaza, 300 Pasteur Drive, Palo Alto, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39089527664200/huge/7f15171538518d2c70f8e6c334b2e85829ea7a16.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T10:00:00-08:00",
           "all_day": false
         }
       ],
@@ -7337,31 +7402,6 @@
         "Arts/Media"
       ],
       "photo": "https://localist-images.azureedge.net/photos/53801258722002/huge/cbfdac731cdb7cc31c09998b0a64f74d077e15d9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-12-03",
-          "start": "2026-12-03T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-12-03"
-      ]
-    },
-    {
-      "id": 53869952396056,
-      "title": "Lunchtime Curator Talk | California Current: Art and Histories from the Bay Area",
-      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area-7503",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53869952293654/huge/0c2697af5169556cfff243e3d56671ce3b00c1f7.jpg",
       "free": false,
       "instances": [
         {
