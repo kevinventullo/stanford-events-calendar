@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T18:43:20+00:00",
+  "generated_at": "2026-10-29T06:49:07+00:00",
   "window": {
-    "start": "2026-10-28",
-    "end": "2027-04-26"
+    "start": "2026-10-29",
+    "end": "2027-04-27"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 14,
-    "dated": 260
+    "dated": 254
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31",
@@ -246,7 +245,8 @@
         "2027-04-22",
         "2027-04-23",
         "2027-04-24",
-        "2027-04-25"
+        "2027-04-25",
+        "2027-04-26"
       ]
     },
     {
@@ -422,7 +422,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-11-04",
@@ -526,7 +525,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-11-01",
@@ -592,7 +590,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31",
@@ -690,7 +687,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31",
@@ -755,7 +751,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-11-02",
@@ -797,7 +792,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31",
@@ -821,7 +815,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-11-02",
@@ -863,7 +856,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-11-02",
@@ -905,7 +897,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30"
       ]
@@ -927,11 +918,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T19:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-02",
           "start": "2026-11-02T19:00:00-08:00",
@@ -984,7 +970,6 @@
         }
       ],
       "dates": [
-        "2026-10-28",
         "2026-11-02",
         "2026-11-04",
         "2026-11-09",
@@ -998,9 +983,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-10-28",
+      "next_date": "2026-11-02",
       "last_date": "2026-12-09",
-      "count": 11
+      "count": 10
     },
     {
       "id": 53629749361008,
@@ -2674,11 +2659,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-28",
-          "start": "2026-10-28T09:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-04",
           "start": "2026-11-04T09:00:00-08:00",
           "all_day": false
@@ -2710,7 +2690,6 @@
         }
       ],
       "dates": [
-        "2026-10-28",
         "2026-11-04",
         "2026-11-11",
         "2026-11-18",
@@ -2720,9 +2699,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-10-28",
+      "next_date": "2026-11-04",
       "last_date": "2026-12-16",
-      "count": 7
+      "count": 6
     },
     {
       "id": 54356689351868,
@@ -2885,315 +2864,6 @@
   ],
   "events": [
     {
-      "id": 54003988046060,
-      "title": "Carina Hong @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/carina-hong-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54004012554424/huge/af2f5028bf169b119855c1fc3acd215843e26be7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54310751903991,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-4818",
-      "experience": "inperson",
-      "location": "484 Oak Road, Stanford, CA 94305, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54310757416988/huge/640ca44ea216ab2d1379eea4543e5e0f9d66260e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54126220445816,
-      "title": "Film Screening - American Solitaire",
-      "url": "https://events.stanford.edu/event/film-screening-american-solitaire",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, 130, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Health/Wellness",
-        "Humanities",
-        "Diversity/Identity",
-        "Medicine",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54171779534245/huge/3261d0177b139332d609e55185a7817ba0c63dd6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T18:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54172035146764,
-      "title": "French Speaking Worlds: Audrey Celestine - Negritude Experiments: Aimé Césaire and the Politics of Culture in Martinique (1970s)",
-      "url": "https://events.stanford.edu/event/french-speaking-worlds-audrey-celestine-negritude-experiments-aime-cesaire-and-the-politics-of-culture-in-martinique-1970s",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54242390410545/huge/673350fc9bcb049d5cf4b1ea4a6c9469c7bccb2f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54180542655353,
-      "title": "Level Up Your Halloween Costume",
-      "url": "https://events.stanford.edu/event/level-up-your-halloween-costume",
-      "experience": "inperson",
-      "location": "Jen-Hsun Huang Building (School of Engineering), 203, 475 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54187603504472/huge/83886a733a3d97ef514037ac4514800c0139035a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 53985621685446,
-      "title": "Liu Lecture: Llisa Demetrios",
-      "url": "https://events.stanford.edu/event/liu-lecture-llisa-demetrios",
-      "experience": "inperson",
-      "location": "Building 550, Peterson Laboratory, Atrium, 416 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54064164514064/huge/4d5575d3f4f4ba40db9737cb9da50cd965d677f3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54346479665388,
-      "title": "Lunch Club Series | From the Field",
-      "url": "https://events.stanford.edu/event/lunch-club-series-from-the-field",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54346501660683/huge/5b24dc69833fe9369775476b6f42ebe2db8a89ab.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54294407659346,
-      "title": "Medical Humanities: Lost and Found",
-      "url": "https://events.stanford.edu/event/medical-humanites-lost-and-found",
-      "experience": "inperson",
-      "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54294411709325/huge/7f6b206e59fae0a83232906da801549787b50a45.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54001183269070,
-      "title": "Noon Concert: Cello Students of Christopher Costanza",
-      "url": "https://events.stanford.edu/event/noon-costanza-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54001183235277/huge/067694c7fca6615398f1d5b011237a807b1e218d.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T12:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54198537508048,
-      "title": "Physics, Politics, and Pakistan",
-      "url": "https://events.stanford.edu/event/physics-politics-and-pakistan",
-      "experience": "inperson",
-      "location": "Black Community Services Center, 418 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54240988741063/huge/5b83d588be149f9365d577b28530efb2e6329988.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T16:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 54224299769294,
-      "title": "SLAC on Tap: Night of the Dark Matter",
-      "url": "https://events.stanford.edu/event/slac-on-tap-night-of-the-dark-matter",
-      "experience": "inperson",
-      "location": "The Dutch Goose, 3567 Alameda de las Pulgas, Menlo Park, CA 94025",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54224462618952/huge/61e8acd68794d1bcb8b6146ceda2231306e0d9c1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": 53995708802403,
-      "title": "The Future of Decision-Making Conference",
-      "url": "https://events.stanford.edu/event/the-future-of-decision-making-conference",
-      "experience": "hybrid",
-      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53995708748130/huge/b7d3c7178a42ec806ac4a9b71699170b3cd3f8de.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-28",
-          "start": "2026-10-28T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
       "id": 54242401712952,
       "title": "A Conversation with Matthew L. Jones, Princeton University, on his book How Data Happened and the development of AI,  with comments by Tom Mullaney, Stanford University",
       "url": "https://events.stanford.edu/event/a-conversation-withmatthew-l-jones-princeton-university-on-his-bookhow-data-happenedand-the-development-of-ai-with-comments-by-tom-mullaney-stanford-university",
@@ -3213,6 +2883,33 @@
         {
           "date": "2026-10-29",
           "start": "2026-10-29T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
+      "id": 54365396559765,
+      "title": "Activist Tour",
+      "url": "https://events.stanford.edu/event/activist-tour",
+      "experience": "inperson",
+      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Education",
+        "Diversity/Identity",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54365405124343/huge/c4c5a596051365a26f707b93393400bc102da2f0.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T13:30:00-07:00",
           "all_day": false
         }
       ],
@@ -3249,6 +2946,36 @@
       "dates": [
         "2026-10-29",
         "2026-10-30"
+      ]
+    },
+    {
+      "id": 54366010708467,
+      "title": "CBPA Artist Circle | With Benjamin Lundberg Torres Sanchéz",
+      "url": "https://events.stanford.edu/event/cbpa-artist-cricle-WK6",
+      "experience": "inperson",
+      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Meeting",
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Theater/Dance",
+        "Education",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54366019301477/huge/daec68fd112d19263594d561896fb438d89e9741.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T16:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
       ]
     },
     {
@@ -3712,7 +3439,7 @@
     },
     {
       "id": 54347902228949,
-      "title": "Day of the Dead Celebrations | Intimate Conversation w/ Rubí Tsanda Huerta",
+      "title": "Day of the Dead Celebrations | Intimate Conversation with Rubí Tsanda Huerta",
       "url": "https://events.stanford.edu/event/day-of-the-dead-celebrations-day-1",
       "experience": "inperson",
       "location": "Fire Truck House, 433 Santa Teresa Street, Stanford, CA 94305",
@@ -3803,6 +3530,32 @@
         {
           "date": "2026-11-02",
           "start": "2026-11-02T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    {
+      "id": 54367522224344,
+      "title": "Palestine Cinema Days @ McMurtry & Harmony House (Day 1)",
+      "url": "https://events.stanford.edu/event/palestine-cinema-days-1",
+      "experience": "inperson",
+      "location": "McMurtry Building, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54367541942533/huge/257e0b70fa9bf20c65d1c477a30bbe827698c3c5.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T17:00:00-08:00",
           "all_day": false
         }
       ],
@@ -3966,6 +3719,32 @@
       ]
     },
     {
+      "id": 54367522494845,
+      "title": "Palestine Cinema Days @ McMurtry & Harmony House (Day 2)",
+      "url": "https://events.stanford.edu/event/palestine-cinema-days-2",
+      "experience": "inperson",
+      "location": "McMurtry Building, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54367542187588/huge/81b29535760c6ef725bed09b16d84387a0517bfb.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T11:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    {
       "id": 54074581179929,
       "title": "Stanford Medicine Children's Health Center for IBD and Celiac Disease's 5th Annual Research Symposium",
       "url": "https://events.stanford.edu/event/5th-annual-research-symposium-",
@@ -4002,7 +3781,7 @@
       "subjects": [
         "Engineering/Technology"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54346299334135/huge/eebb5a439385243a2f84cdda4c2e3e5598754973.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54365291442649/huge/fe4834e92776972dfdf440020858611d74ac0803.jpg",
       "free": false,
       "instances": [
         {
@@ -5204,7 +4983,7 @@
       "instances": [
         {
           "date": "2026-11-10",
-          "start": "2026-11-10T17:30:00-08:00",
+          "start": "2026-11-10T19:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5503,33 +5282,6 @@
       ]
     },
     {
-      "id": 53880673382098,
-      "title": "Drop-In Samizdat* Workshop (*DIY Unofficial, Unsanctioned, Limited Edition Publication)",
-      "url": "https://events.stanford.edu/event/samizdat-november-2026",
-      "experience": "inperson",
-      "location": "Hohbach Hall, lobby/interactive zone, 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53880705311763/huge/53a0436260c355474cca97c67bdbc79fd22af950.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
       "id": 53879093950767,
       "title": "How to Fix a Broken Hierarchy",
       "url": "https://events.stanford.edu/event/how-to-fix-a-broken-hierarchy",
@@ -5611,34 +5363,6 @@
       ]
     },
     {
-      "id": 54355505255315,
-      "title": "Social Learning and Technological Change: American Agricultural Fairs | History of Capitalism Research Workshop",
-      "url": "https://events.stanford.edu/event/social-learning-and-technological-change-american-agricultural-fairs-history-of-capitalism-research-workshop",
-      "experience": "inperson",
-      "location": "Building 200, History Corner, Room 307, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Environment/Sustainability",
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54355537367738/huge/4619dac0991ec911efe162148159bdaae109fca2.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
       "id": 54364839338499,
       "title": "Stanford Baroque Recital",
       "url": "https://events.stanford.edu/event/stanford-baroque-recital",
@@ -5658,6 +5382,29 @@
         {
           "date": "2026-11-12",
           "start": "2026-11-12T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    {
+      "id": 54366374878619,
+      "title": "The Idea that Made U.S.: Dialogues on Freedom: 25 Years After 9/11: The History of Surveillance, Technology, and Democracy",
+      "url": "https://events.stanford.edu/event/the-idea-that-made-us-dialogues-on-freedom-25-years-after-911-the-history-of-surveillance-technology-and-democracy",
+      "experience": "inperson",
+      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54366388768331/huge/f4e25f100bb8fa1aad7d6ee38c66a27f59e473b2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-12",
+          "start": "2026-11-12T16:30:00-08:00",
           "all_day": false
         }
       ],
@@ -6225,6 +5972,33 @@
       ]
     },
     {
+      "id": 54366133069848,
+      "title": "Book Talk: Nuremberg's Citizen Prosecutor",
+      "url": "https://events.stanford.edu/event/book-talk-nurembergs-citizen-prosecutor",
+      "experience": "inperson",
+      "location": "Encina Hall, 030 Garden Level, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54366622121171/huge/a20f222c39fba0ccf7ead38e1efe077c0c84c942.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 54311544927658,
       "title": "Book Talk: Prof. Cécile Alduy in Conversation with Prof. Josh Landy",
       "url": "https://events.stanford.edu/event/book-talk-prof-cecile-alduy-in-conversation-with-prof-josh-landy",
@@ -6606,6 +6380,33 @@
         {
           "date": "2026-11-18",
           "start": "2026-11-18T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
+      "id": 53880673382098,
+      "title": "Drop-In Samizdat* Workshop (*DIY Unofficial, Unsanctioned, Limited Edition Publication)",
+      "url": "https://events.stanford.edu/event/samizdat-november-2026",
+      "experience": "inperson",
+      "location": "Hohbach Hall, lobby/interactive zone, 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54365821320614/huge/d7785261ccf3f313b64f172a9cd63a80a8494256.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T15:00:00-08:00",
           "all_day": false
         }
       ],
@@ -8239,6 +8040,31 @@
       ],
       "dates": [
         "2026-12-14"
+      ]
+    },
+    {
+      "id": 54366513181385,
+      "title": "Lunchtime Curator Talk | Solid Pictures",
+      "url": "https://events.stanford.edu/event/copy-of-lunchtime-curator-talk-solid-pictures-9909",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Pigott Family Gallery (142), 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54366513160903/huge/079e839ecea21386cce11f072edab489d010517d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-07",
+          "start": "2027-01-07T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-07"
       ]
     },
     {
