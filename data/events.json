@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:49:07+00:00",
+  "generated_at": "2026-10-29T18:50:31+00:00",
   "window": {
     "start": "2026-10-29",
     "end": "2027-04-27"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 14,
-    "dated": 254
+    "dated": 255
   },
   "ongoing": [
     {
@@ -2949,6 +2949,31 @@
       ]
     },
     {
+      "id": 52144974566394,
+      "title": "CANCELED | Weintz Art Lecture Series: Elizabeth Dospěl Williams",
+      "url": "https://events.stanford.edu/event/weintz-art-lecture-series-elizabeth-dospel-williams-2203",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/52144978152876/huge/927bbde32ae492ca210df5694d418ecc48859a63.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-29",
+          "start": "2026-10-29T17:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    {
       "id": 54366010708467,
       "title": "CBPA Artist Circle | With Benjamin Lundberg Torres Sanchéz",
       "url": "https://events.stanford.edu/event/cbpa-artist-cricle-WK6",
@@ -3125,31 +3150,6 @@
         {
           "date": "2026-10-29",
           "start": "2026-10-29T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 52144974566394,
-      "title": "Weintz Art Lecture Series: Elizabeth Dospěl Williams",
-      "url": "https://events.stanford.edu/event/weintz-art-lecture-series-elizabeth-dospel-williams-2203",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52144978152876/huge/927bbde32ae492ca210df5694d418ecc48859a63.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T17:30:00-07:00",
           "all_day": false
         }
       ],
@@ -3617,7 +3617,7 @@
     },
     {
       "id": 54125978092384,
-      "title": "Book Talk — We Shall Outlast Them: Putin's Global Campaign to Defeat the West",
+      "title": "Book Talk — We Shall Outlast Them: Putin’s Global Campaign to Defeat the West",
       "url": "https://events.stanford.edu/event/book-talk-we-shall-outlast-them-putins-global-campaign-to-defeat-the-west",
       "experience": "hybrid",
       "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
@@ -5137,7 +5137,7 @@
         "International Affairs",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53853315634004/huge/6d841b27d47b4b0b7f0bc5dffe236fbf07444b8d.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54373694999024/huge/ccf5167b92705a13e43593d5bde9b0e0d7897403.jpg",
       "free": false,
       "instances": [
         {
@@ -6023,6 +6023,39 @@
       ],
       "dates": [
         "2026-11-16"
+      ]
+    },
+    {
+      "id": 54373336907021,
+      "title": "Branner Library Pop-up Map Exhibit - Fire in the West",
+      "url": "https://events.stanford.edu/event/branner-popup-exhibit-fire-in-the-west",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54373378351086/huge/4ac0f53e67a6c704b2b721a715c56841bbc9c9fa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T00:00:00-08:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-16",
+        "2026-11-20"
       ]
     },
     {
