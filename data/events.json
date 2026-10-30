@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29T18:50:31+00:00",
+  "generated_at": "2026-10-30T06:51:35+00:00",
   "window": {
-    "start": "2026-10-29",
-    "end": "2027-04-27"
+    "start": "2026-10-30",
+    "end": "2027-04-28"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 14,
-    "recurring": 14,
-    "dated": 255
+    "recurring": 13,
+    "dated": 247
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
@@ -121,7 +120,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
@@ -266,7 +264,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
@@ -323,7 +320,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
@@ -422,7 +418,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-11-04",
         "2026-11-05",
@@ -525,7 +520,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-11-01",
         "2026-11-02",
@@ -590,7 +584,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
@@ -687,7 +680,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
@@ -751,7 +743,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-11-02",
         "2026-11-03",
@@ -792,7 +783,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31",
         "2026-11-01"
@@ -815,7 +805,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-11-02",
         "2026-11-03",
@@ -856,7 +845,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-11-02",
         "2026-11-03",
@@ -897,7 +885,6 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-30",
       "dates": [
-        "2026-10-29",
         "2026-10-30"
       ]
     }
@@ -986,37 +973,6 @@
       "next_date": "2026-11-02",
       "last_date": "2026-12-09",
       "count": 10
-    },
-    {
-      "id": 53629749361008,
-      "title": "Build Your Own Bouquet: O’Donohue Family Stanford Educational Farm",
-      "url": "https://events.stanford.edu/event/copy-of-build-your-own-bouquet-odonohue-family-stanford-educational-farm-4191",
-      "experience": "inperson",
-      "location": "O'Donohue Educational Farm, Back Oak Deck, 175 Electioneer Rd, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53629749340526/huge/a0945ef0b4f1f904d77010f42ed735db804cfcfc.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T10:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ],
-      "pattern": "Thursdays",
-      "time": "10 AM",
-      "next_date": "2026-10-29",
-      "last_date": "2026-10-29",
-      "count": 1
     },
     {
       "id": 50967994153103,
@@ -2864,325 +2820,6 @@
   ],
   "events": [
     {
-      "id": 54242401712952,
-      "title": "A Conversation with Matthew L. Jones, Princeton University, on his book How Data Happened and the development of AI,  with comments by Tom Mullaney, Stanford University",
-      "url": "https://events.stanford.edu/event/a-conversation-withmatthew-l-jones-princeton-university-on-his-bookhow-data-happenedand-the-development-of-ai-with-comments-by-tom-mullaney-stanford-university",
-      "experience": "inperson",
-      "location": "Building 200, History Corner, 303, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54242414903214/huge/a29600c00ffb82583df0e0467c1797cdd74fd0a8.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 54365396559765,
-      "title": "Activist Tour",
-      "url": "https://events.stanford.edu/event/activist-tour",
-      "experience": "inperson",
-      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Education",
-        "Diversity/Identity",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54365405124343/huge/c4c5a596051365a26f707b93393400bc102da2f0.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T13:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 53763677186043,
-      "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
-      "url": "https://events.stanford.edu/event/Angels-Auditions",
-      "experience": "inperson",
-      "location": "Roble Gym, 375 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Theater/Dance"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54231460855019/huge/9ab0d4e5986812be53a56be616dd4cbacb4fd9ae.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T18:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29",
-        "2026-10-30"
-      ]
-    },
-    {
-      "id": 52144974566394,
-      "title": "CANCELED | Weintz Art Lecture Series: Elizabeth Dospěl Williams",
-      "url": "https://events.stanford.edu/event/weintz-art-lecture-series-elizabeth-dospel-williams-2203",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52144978152876/huge/927bbde32ae492ca210df5694d418ecc48859a63.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 54366010708467,
-      "title": "CBPA Artist Circle | With Benjamin Lundberg Torres Sanchéz",
-      "url": "https://events.stanford.edu/event/cbpa-artist-cricle-WK6",
-      "experience": "inperson",
-      "location": "Harmony House, 561 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Meeting",
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Theater/Dance",
-        "Education",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54366019301477/huge/daec68fd112d19263594d561896fb438d89e9741.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T16:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 54242650519832,
-      "title": "Comics: More Than Words: Hanako Asakura - Manga as (or in?) Conversation:  History, Fandom, and the Classroom",
-      "url": "https://events.stanford.edu/event/comics-more-than-words-hanako-asakura-manga-as-or-in-conversation",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54242669783760/huge/0f01a9c114ddaff6d2447d2982ba9c40b7af4ab3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 54312299357741,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-9215",
-      "experience": "inperson",
-      "location": "484 Oak Road, 484 Oak Road, Stanford, Ca 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54312303044683/huge/1ef04769880bd8a1db2c8f964045a9fdceb50f1a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 54232746101412,
-      "title": "Environmental Humanities Project: Public Lecture: “Ripple Effects: Making with Rivers in War and Peace” with Amanda M. Smith",
-      "url": "https://events.stanford.edu/event/environmental-humanities-project-public-lectureripple-effects-making-with-rivers-in-war-and-peace-with-amanda-m-smith",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54232747623801/huge/788265f16ddd5a5cc1dfa2bb016afb7f7a968dd6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T17:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 54357825527101,
-      "title": "Face Time with Jaclyn Zhou",
-      "url": "https://events.stanford.edu/event/face-time-with-jaclyn-zhou",
-      "experience": "inperson",
-      "location": "Asian American Activities Center, Couchroom, 524 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54357832768827/huge/bb50b2d9a28690483d165117248b6dd57069b67c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 54001907477231,
-      "title": "From Yahweh to Jupiter: Orthodox Muscovy Deals with the Classical World",
-      "url": "https://events.stanford.edu/event/from-yahweh-to-jupiter-orthodox-muscovy-deals-with-the-classical-world",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54296573331789/huge/6e8efcf8b68626348208b89808c73899a29f5f7b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 53941595325725,
-      "title": "Korea’s Nuclear Odyssey Beyond Borders: From KEDO to the Age of AI",
-      "url": "https://events.stanford.edu/event/koreas-nuclear-odyssey-beyond-borders-from-kedo-to-the-age-of-ai",
-      "experience": "inperson",
-      "location": "Encina Hall, 3RD Floor, Philippines Conference Room (C330), 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53941786556300/huge/09b71c051ebb95356a069dc312ef57c4e6492753.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "id": 53745897362219,
-      "title": "Witness to Iran’s Paradigm Shift: From Flight PS752 to Woman, Life, Freedom and Beyond",
-      "url": "https://events.stanford.edu/event/witness-to-irans-paradigm-shift-from-flight-ps752-to-woman-life-freedom-and-beyond",
-      "experience": "inperson",
-      "location": "In person at Stanford",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53930753807752/huge/06f0518671b1deeb79b229fecb01c19e2c75ee50.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-29",
-          "start": "2026-10-29T18:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
       "id": 54003212411520,
       "title": "2026 Halloween Concert",
       "url": "https://events.stanford.edu/event/2026-halloween-concert",
@@ -3202,6 +2839,31 @@
         {
           "date": "2026-10-30",
           "start": "2026-10-30T19:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    {
+      "id": 53763677186043,
+      "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
+      "url": "https://events.stanford.edu/event/Angels-Auditions",
+      "experience": "inperson",
+      "location": "Roble Gym, 375 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Theater/Dance"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54231460855019/huge/9ab0d4e5986812be53a56be616dd4cbacb4fd9ae.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-10-30",
+          "start": "2026-10-30T12:00:00-07:00",
           "all_day": false
         }
       ],
@@ -3232,35 +2894,6 @@
       ],
       "dates": [
         "2026-10-30"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-06",
-          "start": "2026-11-06T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-30",
-        "2026-11-06"
       ]
     },
     {
@@ -3511,6 +3144,34 @@
       ]
     },
     {
+      "id": 54365356884735,
+      "title": "From Uprising to the Ballot Box: Women's Political Participation in Bangladesh | Moogdho Mahzab",
+      "url": "https://events.stanford.edu/event/from-uprising-to-the-ballot-box",
+      "experience": "inperson",
+      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Law/Public Policy/Politics",
+        "Diversity/Identity",
+        "International Affairs",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54376779068992/huge/ae76ad01e32bc1c3b374bcb3e0e5377ac844020c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-02",
+          "start": "2026-11-02T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    {
       "id": 54189731967396,
       "title": "Japan and the Middle East in a Changing Geopolitical Landscape",
       "url": "https://events.stanford.edu/event/japan-and-the-middle-east-in-a-changing-geopolitical-landscape",
@@ -3588,6 +3249,29 @@
       ],
       "dates": [
         "2026-11-02"
+      ]
+    },
+    {
+      "id": 54373952074964,
+      "title": "Applied Physics/Physics Colloquium: Alexander Maloney - \" Wormholes and the Conformal Bootstrap\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-alexander-maloney-wormholes-and-the-conformal-bootstrap",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54373958960817/huge/7b2e1eea8fed3a998351e6a3078615fffda26f12.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
       ]
     },
     {
@@ -4511,6 +4195,35 @@
       ]
     },
     {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06",
+        "2026-11-13"
+      ]
+    },
+    {
       "id": 54312356463955,
       "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
       "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-131",
@@ -4733,7 +4446,7 @@
     },
     {
       "id": 53889377253207,
-      "title": "University Public Worship: Ecumenical Multifaith Service with Chaplain Kenneth Nacario Lee (Kula Pradipa Das).",
+      "title": "University Public Worship: Ecumenical Multifaith Service with Chaplain Kulapradīpa Dasa (Kenneth Nacario Lee).",
       "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-chaplain-kenneth-nacario-lee-kula-pradipa-das",
       "experience": "inperson",
       "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
@@ -5985,7 +5698,7 @@
         "International Affairs",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54366622121171/huge/a20f222c39fba0ccf7ead38e1efe077c0c84c942.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54375389467739/huge/c08ecdee50cc9842f456d241bf909fb3460633c6.jpg",
       "free": false,
       "instances": [
         {
@@ -9620,6 +9333,31 @@
       ],
       "dates": [
         "2027-04-21"
+      ]
+    },
+    {
+      "id": 53552340531135,
+      "title": "7th Annual Marvin A. Karasek Lecture in Dermatology",
+      "url": "https://events.stanford.edu/event/7th-annual-marvin-a-karasek-lecture-in-dermatology",
+      "experience": "inperson",
+      "location": "Cardinal Hall, 104/105, 505 Broadway, Redwood City, CA 94063",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511115283366/huge/6d6bc82ade3c3ddf95a7c263fb47c8043b80f357.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-04-27",
+          "start": "2027-04-27T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-27"
       ]
     }
   ]
