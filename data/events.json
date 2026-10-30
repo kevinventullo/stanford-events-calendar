@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:51:35+00:00",
+  "generated_at": "2026-10-30T18:28:12+00:00",
   "window": {
     "start": "2026-10-30",
     "end": "2027-04-28"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 13,
-    "dated": 247
+    "dated": 248
   },
   "ongoing": [
     {
@@ -6986,6 +6986,33 @@
         {
           "date": "2026-12-03",
           "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
+      "id": 54365069773601,
+      "title": "Forms & Frequencies | Xina Xurner with Tzotzona",
+      "url": "https://events.stanford.edu/event/forms-frequencies-xina-xurner-with-tzotzona",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, Auditorium, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Theater/Dance",
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54365084065790/huge/46c6ad63099d77524f22630c1f50eabd7acbe018.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T18:00:00-08:00",
           "all_day": false
         }
       ],
