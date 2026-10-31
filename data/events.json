@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T18:28:12+00:00",
+  "generated_at": "2026-10-31T06:42:06+00:00",
   "window": {
-    "start": "2026-10-30",
-    "end": "2027-04-28"
+    "start": "2026-10-31",
+    "end": "2027-04-29"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 14,
-    "recurring": 13,
-    "dated": 248
+    "ongoing": 13,
+    "recurring": 14,
+    "dated": 244
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01",
         "2026-11-02",
@@ -120,7 +119,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01",
         "2026-11-02",
@@ -264,7 +262,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01",
         "2026-11-02",
@@ -320,7 +317,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01",
         "2026-11-02",
@@ -418,7 +414,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-10-30",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -486,7 +481,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-30",
         "2026-11-02",
         "2026-11-06",
         "2026-11-09",
@@ -520,7 +514,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-10-30",
         "2026-11-01",
         "2026-11-02",
         "2026-11-03",
@@ -584,7 +577,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01",
         "2026-11-02",
@@ -680,7 +672,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01",
         "2026-11-02",
@@ -743,7 +734,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-30",
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
@@ -783,7 +773,6 @@
       "first_date": "2026-10-05",
       "last_date": "2026-11-01",
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01"
       ]
@@ -805,7 +794,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-30",
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
@@ -845,7 +833,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-10-30",
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
@@ -867,29 +854,46 @@
         "2026-12-03",
         "2026-12-04"
       ]
-    },
-    {
-      "id": 54284616524272,
-      "title": "The Frontier Between Legendary Monsters and Verified Natural History",
-      "url": "https://events.stanford.edu/event/the-frontier-between-legendary-monsters-and-verified-natural-history",
-      "experience": "inperson",
-      "location": "Sapp Center for Science Teaching and Learning, 315, 376 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54284713502711/huge/2bfce2598d1821ba59f54c5bcfd52f2acf23b4d2.jpg",
-      "free": false,
-      "first_date": "2026-10-19",
-      "last_date": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ]
     }
   ],
   "recurring": [
+    {
+      "id": 53755560975894,
+      "title": "[Cancelled] Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-10-31",
+          "start": "2026-10-31T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-01",
+          "start": "2026-11-01T13:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "3 PM",
+      "next_date": "2026-10-31",
+      "last_date": "2026-11-01",
+      "count": 2
+    },
     {
       "id": 54135592918030,
       "title": "BCAS Weekly Meditation",
@@ -1111,11 +1115,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-10-30",
-          "start": "2026-10-30T14:00:00-07:00",
-          "all_day": false
-        },
-        {
           "date": "2026-10-31",
           "start": "2026-10-31T14:00:00-07:00",
           "all_day": false
@@ -1262,7 +1261,6 @@
         }
       ],
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-01",
         "2026-11-06",
@@ -1295,9 +1293,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-10-30",
+      "next_date": "2026-10-31",
       "last_date": "2027-01-03",
-      "count": 30
+      "count": 29
     },
     {
       "id": 53969632558021,
@@ -1400,11 +1398,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T11:30:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-10-31",
           "start": "2026-10-31T11:30:00-07:00",
@@ -1632,7 +1625,6 @@
         }
       ],
       "dates": [
-        "2026-10-30",
         "2026-10-31",
         "2026-11-06",
         "2026-11-07",
@@ -1681,322 +1673,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-10-30",
-      "last_date": "2027-04-24",
-      "count": 46
-    },
-    {
-      "id": 53737430719656,
-      "title": "Public Tour | A Closer Look",
-      "url": "https://events.stanford.edu/event/public-tour-a-closer-look",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-31",
-          "start": "2026-10-31T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-01",
-          "start": "2026-11-01T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-07",
-          "start": "2026-11-07T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-08",
-          "start": "2026-11-08T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-14",
-          "start": "2026-11-14T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-21",
-          "start": "2026-11-21T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-28",
-          "start": "2026-11-28T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-29",
-          "start": "2026-11-29T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-05",
-          "start": "2026-12-05T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-06",
-          "start": "2026-12-06T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-12",
-          "start": "2026-12-12T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-13",
-          "start": "2026-12-13T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-19",
-          "start": "2026-12-19T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-20",
-          "start": "2026-12-20T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-09",
-          "start": "2027-01-09T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-10",
-          "start": "2027-01-10T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-16",
-          "start": "2027-01-16T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-17",
-          "start": "2027-01-17T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-23",
-          "start": "2027-01-23T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-24",
-          "start": "2027-01-24T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-30",
-          "start": "2027-01-30T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-31",
-          "start": "2027-01-31T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-06",
-          "start": "2027-02-06T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-07",
-          "start": "2027-02-07T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-13",
-          "start": "2027-02-13T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-14",
-          "start": "2027-02-14T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-20",
-          "start": "2027-02-20T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-21",
-          "start": "2027-02-21T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-27",
-          "start": "2027-02-27T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-28",
-          "start": "2027-02-28T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-06",
-          "start": "2027-03-06T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-07",
-          "start": "2027-03-07T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-13",
-          "start": "2027-03-13T13:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-14",
-          "start": "2027-03-14T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-20",
-          "start": "2027-03-20T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-21",
-          "start": "2027-03-21T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-27",
-          "start": "2027-03-27T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-28",
-          "start": "2027-03-28T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-03",
-          "start": "2027-04-03T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-04",
-          "start": "2027-04-04T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-10",
-          "start": "2027-04-10T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-11",
-          "start": "2027-04-11T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-17",
-          "start": "2027-04-17T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-18",
-          "start": "2027-04-18T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-24",
-          "start": "2027-04-24T13:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-25",
-          "start": "2027-04-25T13:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-31",
-        "2026-11-01",
-        "2026-11-07",
-        "2026-11-08",
-        "2026-11-14",
-        "2026-11-15",
-        "2026-11-21",
-        "2026-11-22",
-        "2026-11-28",
-        "2026-11-29",
-        "2026-12-05",
-        "2026-12-06",
-        "2026-12-12",
-        "2026-12-13",
-        "2026-12-19",
-        "2026-12-20",
-        "2027-01-09",
-        "2027-01-10",
-        "2027-01-16",
-        "2027-01-17",
-        "2027-01-23",
-        "2027-01-24",
-        "2027-01-30",
-        "2027-01-31",
-        "2027-02-06",
-        "2027-02-07",
-        "2027-02-13",
-        "2027-02-14",
-        "2027-02-20",
-        "2027-02-21",
-        "2027-02-27",
-        "2027-02-28",
-        "2027-03-06",
-        "2027-03-07",
-        "2027-03-13",
-        "2027-03-14",
-        "2027-03-20",
-        "2027-03-21",
-        "2027-03-27",
-        "2027-03-28",
-        "2027-04-03",
-        "2027-04-04",
-        "2027-04-10",
-        "2027-04-11",
-        "2027-04-17",
-        "2027-04-18",
-        "2027-04-24",
-        "2027-04-25"
-      ],
-      "pattern": "Sat, Sun",
-      "time": "1 PM",
       "next_date": "2026-10-31",
-      "last_date": "2027-04-25",
-      "count": 48
+      "last_date": "2027-04-24",
+      "count": 45
     },
     {
       "id": 53737452675144,
@@ -2014,11 +1693,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-10-31",
-          "start": "2026-10-31T15:00:00-07:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-01",
           "start": "2026-11-01T15:00:00-08:00",
@@ -2256,7 +1930,6 @@
         }
       ],
       "dates": [
-        "2026-10-31",
         "2026-11-01",
         "2026-11-07",
         "2026-11-08",
@@ -2307,9 +1980,310 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-10-31",
+      "next_date": "2026-11-01",
       "last_date": "2027-04-25",
-      "count": 48
+      "count": 47
+    },
+    {
+      "id": 53737430719656,
+      "title": "Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/public-tour-a-closer-look",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-07",
+          "start": "2026-11-07T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-08",
+          "start": "2026-11-08T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-21",
+          "start": "2026-11-21T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-29",
+          "start": "2026-11-29T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-12",
+          "start": "2026-12-12T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-13",
+          "start": "2026-12-13T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-19",
+          "start": "2026-12-19T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-20",
+          "start": "2026-12-20T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-09",
+          "start": "2027-01-09T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-10",
+          "start": "2027-01-10T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-16",
+          "start": "2027-01-16T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-17",
+          "start": "2027-01-17T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-23",
+          "start": "2027-01-23T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-24",
+          "start": "2027-01-24T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-30",
+          "start": "2027-01-30T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-31",
+          "start": "2027-01-31T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-06",
+          "start": "2027-02-06T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-07",
+          "start": "2027-02-07T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-13",
+          "start": "2027-02-13T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-14",
+          "start": "2027-02-14T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-20",
+          "start": "2027-02-20T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-21",
+          "start": "2027-02-21T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-27",
+          "start": "2027-02-27T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-28",
+          "start": "2027-02-28T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-06",
+          "start": "2027-03-06T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-07",
+          "start": "2027-03-07T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-13",
+          "start": "2027-03-13T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-14",
+          "start": "2027-03-14T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-20",
+          "start": "2027-03-20T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-21",
+          "start": "2027-03-21T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-27",
+          "start": "2027-03-27T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-28",
+          "start": "2027-03-28T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-03",
+          "start": "2027-04-03T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-04",
+          "start": "2027-04-04T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-10",
+          "start": "2027-04-10T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-11",
+          "start": "2027-04-11T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-17",
+          "start": "2027-04-17T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-18",
+          "start": "2027-04-18T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-24",
+          "start": "2027-04-24T13:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-25",
+          "start": "2027-04-25T13:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-19",
+        "2026-12-20",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-30",
+        "2027-01-31",
+        "2027-02-06",
+        "2027-02-07",
+        "2027-02-13",
+        "2027-02-14",
+        "2027-02-20",
+        "2027-02-21",
+        "2027-02-27",
+        "2027-02-28",
+        "2027-03-06",
+        "2027-03-07",
+        "2027-03-13",
+        "2027-03-14",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-27",
+        "2027-03-28",
+        "2027-04-03",
+        "2027-04-04",
+        "2027-04-10",
+        "2027-04-11",
+        "2027-04-17",
+        "2027-04-18",
+        "2027-04-24",
+        "2027-04-25"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "1 PM",
+      "next_date": "2026-11-07",
+      "last_date": "2027-04-25",
+      "count": 46
     },
     {
       "id": 54356095805619,
@@ -2784,6 +2758,11 @@
           "date": "2027-04-21",
           "start": "2027-04-21T09:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-28",
+          "start": "2027-04-28T09:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2809,169 +2788,17 @@
         "2027-03-31",
         "2027-04-07",
         "2027-04-14",
-        "2027-04-21"
+        "2027-04-21",
+        "2027-04-28"
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
       "next_date": "2026-11-04",
-      "last_date": "2027-04-21",
-      "count": 23
+      "last_date": "2027-04-28",
+      "count": 24
     }
   ],
   "events": [
-    {
-      "id": 54003212411520,
-      "title": "2026 Halloween Concert",
-      "url": "https://events.stanford.edu/event/2026-halloween-concert",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003212361339/huge/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T19:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-30"
-      ]
-    },
-    {
-      "id": 53763677186043,
-      "title": "AUDITIONS | \"Angels in America Part One: Millennium Approaches\"",
-      "url": "https://events.stanford.edu/event/Angels-Auditions",
-      "experience": "inperson",
-      "location": "Roble Gym, 375 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Theater/Dance"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54231460855019/huge/9ab0d4e5986812be53a56be616dd4cbacb4fd9ae.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T12:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-30"
-      ]
-    },
-    {
-      "id": 54298990217857,
-      "title": "Autumn Farm Festival - The O’Donohue Family Stanford Educational Farm",
-      "url": "https://events.stanford.edu/event/farm-autumn-festival-the-odonohue-family-stanford-educational-farm",
-      "experience": "inperson",
-      "location": "The O'Donohue Family Stanford Educational Farm, 555 Fremont Rd. Stanford, Ca 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54302028032431/huge/f99914a85b60e1f0650ef249f5fa565f6478fe6f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T14:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-30"
-      ]
-    },
-    {
-      "id": 54312264467558,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-182",
-      "experience": "inperson",
-      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54312268898884/huge/da13d8edc2bd06274349eb1d5af18fff767e7618.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T09:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-30"
-      ]
-    },
-    {
-      "id": 53543265910564,
-      "title": "Electrophysiology in the West 2026",
-      "url": "https://events.stanford.edu/event/electrophysiology-in-the-west-2026",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center for Learning and Knowledge, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53543268047531/huge/7d917ec45eddad4b05242725cd9b1f4965692f86.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T07:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-30"
-      ]
-    },
-    {
-      "id": 54179372488831,
-      "title": "Film Screening of the 2026 Lithuanian submission for the Academy Awards – How to Divorce During the War",
-      "url": "https://events.stanford.edu/event/film-screening-how-to-divorce-during-the-war",
-      "experience": "inperson",
-      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs",
-        "Arts/Media",
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54196221546851/huge/8cb39bc658375bf1754739d394545ae1e7f3cb1d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-10-30",
-          "start": "2026-10-30T17:30:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-10-30"
-      ]
-    },
     {
       "id": 54171731257729,
       "title": "Ansell Scott's Retirement Ceremony",
@@ -3471,6 +3298,33 @@
         {
           "date": "2026-11-03",
           "start": "2026-11-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    {
+      "id": 54383500169589,
+      "title": "Wellness Series: Elections Processing Space",
+      "url": "https://events.stanford.edu/event/wellness-series-elections-processing-space",
+      "experience": "inperson",
+      "location": "Asian American Activities Center, Courtroom, 524 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Support Space"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54383506653871/huge/d8f2f4358796c8df3a8509b2360dc3e302ab6f21.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-03",
+          "start": "2026-11-03T13:30:00-08:00",
           "all_day": false
         }
       ],
@@ -5833,7 +5687,7 @@
       "subjects": [
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54196035923879/huge/df97ef84542a983f784bc121efb2ff9dc4a7a0be.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54383441995919/huge/5cca215201e74f23016385f42c53c78bd7c64f89.jpg",
       "free": false,
       "instances": [
         {
@@ -6541,6 +6395,33 @@
         {
           "date": "2026-11-19",
           "start": "2026-11-19T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
+      "id": 54384217701917,
+      "title": "The Transition Minerals Rush in DRC (Congo) and Indonesia: What Can We Do?",
+      "url": "https://events.stanford.edu/event/the-transition-minerals-rush-in-drc-congo-and-indonesia-what-can-we-do",
+      "experience": "inperson",
+      "location": "Encina Hall, 030 Garden Level, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "International Affairs",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54384221486025/huge/a67f9f4ce76c33e7aeb77a43cd848071c035e965.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T16:00:00-08:00",
           "all_day": false
         }
       ],
