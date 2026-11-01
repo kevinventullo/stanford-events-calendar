@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:11:28+00:00",
+  "generated_at": "2026-11-01T18:17:51+00:00",
   "window": {
     "start": "2026-11-01",
     "end": "2027-04-30"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 14,
-    "dated": 244
+    "dated": 245
   },
   "ongoing": [
     {
@@ -5799,6 +5799,34 @@
           "date": "2026-11-17",
           "start": "2026-11-17T12:00:00-08:00",
           "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54400058337176,
+      "title": "Malês:  Film Screening and Conversation",
+      "url": "https://events.stanford.edu/event/males-film-screening-and-conversation",
+      "experience": "inperson",
+      "location": "Bolivar House, Conference Room, 582 Alvarado Row, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Humanities",
+        "Diversity/Identity",
+        "Religion/Spirituality",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54400261313026/huge/2787c4966d2902397b393ff06e2fa9bb6ae98cc9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T00:00:00-08:00",
+          "all_day": true
         }
       ],
       "dates": [
