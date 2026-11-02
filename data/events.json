@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T18:17:51+00:00",
+  "generated_at": "2026-11-02T07:19:22+00:00",
   "window": {
-    "start": "2026-11-01",
-    "end": "2027-04-30"
+    "start": "2026-11-02",
+    "end": "2027-05-01"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
-    "recurring": 14,
-    "dated": 245
+    "ongoing": 12,
+    "recurring": 13,
+    "dated": 246
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-01",
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
@@ -118,7 +117,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-01",
         "2026-11-02",
         "2026-11-05",
         "2026-11-06",
@@ -241,7 +239,8 @@
         "2027-04-24",
         "2027-04-25",
         "2027-04-26",
-        "2027-04-29"
+        "2027-04-29",
+        "2027-04-30"
       ]
     },
     {
@@ -261,7 +260,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-01",
         "2026-11-02",
         "2026-11-05",
         "2026-11-06",
@@ -315,7 +313,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-01",
         "2026-11-02",
         "2026-11-05",
         "2026-11-06",
@@ -511,7 +508,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-01",
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
@@ -574,7 +570,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-01",
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
@@ -668,7 +663,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-01",
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
@@ -752,26 +746,6 @@
       ]
     },
     {
-      "id": 54161879664326,
-      "title": "Book spells",
-      "url": "https://events.stanford.edu/event/book-spells",
-      "experience": "inperson",
-      "location": "Education (Cubberley Bldg), 101, 485 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54161893342683/huge/1342fc8d3f57f2270a19b3331cf0ebdb9b30bc70.jpg",
-      "free": false,
-      "first_date": "2026-10-05",
-      "last_date": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ]
-    },
-    {
       "id": 53560271099404,
       "title": "Touch Me Not: 12th Annual Undergraduate Juried Exhibition",
       "url": "https://events.stanford.edu/event/touch-me-not-12th-annual-undergraduate-juried-exhibition",
@@ -851,37 +825,6 @@
     }
   ],
   "recurring": [
-    {
-      "id": 53755560975894,
-      "title": "[Cancelled] Public Tour | A Closer Look",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-4961",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53755560942101/huge/8964adef1fe1426248d9dfad9cc6bc322d495d03.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-01",
-          "start": "2026-11-01T13:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-01"
-      ],
-      "pattern": "Sundays",
-      "time": "1 PM",
-      "next_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "count": 1
-    },
     {
       "id": 54135592918030,
       "title": "BCAS Weekly Meditation",
@@ -1103,11 +1046,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-01",
-          "start": "2026-11-01T14:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-06",
           "start": "2026-11-06T14:00:00-08:00",
           "all_day": false
@@ -1244,7 +1182,6 @@
         }
       ],
       "dates": [
-        "2026-11-01",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -1275,9 +1212,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-01",
+      "next_date": "2026-11-06",
       "last_date": "2027-01-03",
-      "count": 28
+      "count": 27
     },
     {
       "id": 53969632558021,
@@ -1599,6 +1536,11 @@
           "date": "2027-04-24",
           "start": "2027-04-24T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-30",
+          "start": "2027-04-30T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1645,320 +1587,14 @@
         "2027-04-16",
         "2027-04-17",
         "2027-04-23",
-        "2027-04-24"
+        "2027-04-24",
+        "2027-04-30"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-06",
-      "last_date": "2027-04-24",
-      "count": 44
-    },
-    {
-      "id": 53737452675144,
-      "title": "Public Tour | A Closer Look",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-01",
-          "start": "2026-11-01T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-07",
-          "start": "2026-11-07T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-08",
-          "start": "2026-11-08T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-14",
-          "start": "2026-11-14T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-21",
-          "start": "2026-11-21T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-28",
-          "start": "2026-11-28T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-29",
-          "start": "2026-11-29T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-05",
-          "start": "2026-12-05T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-06",
-          "start": "2026-12-06T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-12",
-          "start": "2026-12-12T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-13",
-          "start": "2026-12-13T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-19",
-          "start": "2026-12-19T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-20",
-          "start": "2026-12-20T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-09",
-          "start": "2027-01-09T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-10",
-          "start": "2027-01-10T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-16",
-          "start": "2027-01-16T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-17",
-          "start": "2027-01-17T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-23",
-          "start": "2027-01-23T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-24",
-          "start": "2027-01-24T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-30",
-          "start": "2027-01-30T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-01-31",
-          "start": "2027-01-31T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-06",
-          "start": "2027-02-06T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-07",
-          "start": "2027-02-07T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-13",
-          "start": "2027-02-13T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-14",
-          "start": "2027-02-14T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-20",
-          "start": "2027-02-20T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-21",
-          "start": "2027-02-21T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-27",
-          "start": "2027-02-27T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-02-28",
-          "start": "2027-02-28T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-06",
-          "start": "2027-03-06T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-07",
-          "start": "2027-03-07T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-13",
-          "start": "2027-03-13T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-14",
-          "start": "2027-03-14T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-20",
-          "start": "2027-03-20T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-21",
-          "start": "2027-03-21T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-27",
-          "start": "2027-03-27T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-28",
-          "start": "2027-03-28T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-03",
-          "start": "2027-04-03T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-04",
-          "start": "2027-04-04T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-10",
-          "start": "2027-04-10T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-11",
-          "start": "2027-04-11T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-17",
-          "start": "2027-04-17T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-18",
-          "start": "2027-04-18T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-24",
-          "start": "2027-04-24T15:00:00-07:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-25",
-          "start": "2027-04-25T15:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-01",
-        "2026-11-07",
-        "2026-11-08",
-        "2026-11-14",
-        "2026-11-15",
-        "2026-11-21",
-        "2026-11-22",
-        "2026-11-28",
-        "2026-11-29",
-        "2026-12-05",
-        "2026-12-06",
-        "2026-12-12",
-        "2026-12-13",
-        "2026-12-19",
-        "2026-12-20",
-        "2027-01-09",
-        "2027-01-10",
-        "2027-01-16",
-        "2027-01-17",
-        "2027-01-23",
-        "2027-01-24",
-        "2027-01-30",
-        "2027-01-31",
-        "2027-02-06",
-        "2027-02-07",
-        "2027-02-13",
-        "2027-02-14",
-        "2027-02-20",
-        "2027-02-21",
-        "2027-02-27",
-        "2027-02-28",
-        "2027-03-06",
-        "2027-03-07",
-        "2027-03-13",
-        "2027-03-14",
-        "2027-03-20",
-        "2027-03-21",
-        "2027-03-27",
-        "2027-03-28",
-        "2027-04-03",
-        "2027-04-04",
-        "2027-04-10",
-        "2027-04-11",
-        "2027-04-17",
-        "2027-04-18",
-        "2027-04-24",
-        "2027-04-25"
-      ],
-      "pattern": "Sat, Sun",
-      "time": "3 PM",
-      "next_date": "2026-11-01",
-      "last_date": "2027-04-25",
-      "count": 47
+      "last_date": "2027-04-30",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -2262,6 +1898,307 @@
       "count": 46
     },
     {
+      "id": 53737452675144,
+      "title": "Public Tour | A Closer Look",
+      "url": "https://events.stanford.edu/event/copy-of-public-tour-a-closer-look",
+      "experience": "inperson",
+      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-07",
+          "start": "2026-11-07T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-08",
+          "start": "2026-11-08T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-14",
+          "start": "2026-11-14T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-21",
+          "start": "2026-11-21T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-11-29",
+          "start": "2026-11-29T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-12",
+          "start": "2026-12-12T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-13",
+          "start": "2026-12-13T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-19",
+          "start": "2026-12-19T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-20",
+          "start": "2026-12-20T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-09",
+          "start": "2027-01-09T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-10",
+          "start": "2027-01-10T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-16",
+          "start": "2027-01-16T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-17",
+          "start": "2027-01-17T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-23",
+          "start": "2027-01-23T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-24",
+          "start": "2027-01-24T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-30",
+          "start": "2027-01-30T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-31",
+          "start": "2027-01-31T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-06",
+          "start": "2027-02-06T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-07",
+          "start": "2027-02-07T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-13",
+          "start": "2027-02-13T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-14",
+          "start": "2027-02-14T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-20",
+          "start": "2027-02-20T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-21",
+          "start": "2027-02-21T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-27",
+          "start": "2027-02-27T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-02-28",
+          "start": "2027-02-28T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-06",
+          "start": "2027-03-06T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-07",
+          "start": "2027-03-07T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-13",
+          "start": "2027-03-13T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-14",
+          "start": "2027-03-14T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-20",
+          "start": "2027-03-20T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-21",
+          "start": "2027-03-21T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-27",
+          "start": "2027-03-27T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-28",
+          "start": "2027-03-28T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-03",
+          "start": "2027-04-03T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-04",
+          "start": "2027-04-04T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-10",
+          "start": "2027-04-10T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-11",
+          "start": "2027-04-11T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-17",
+          "start": "2027-04-17T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-18",
+          "start": "2027-04-18T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-24",
+          "start": "2027-04-24T15:00:00-07:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-04-25",
+          "start": "2027-04-25T15:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-19",
+        "2026-12-20",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-30",
+        "2027-01-31",
+        "2027-02-06",
+        "2027-02-07",
+        "2027-02-13",
+        "2027-02-14",
+        "2027-02-20",
+        "2027-02-21",
+        "2027-02-27",
+        "2027-02-28",
+        "2027-03-06",
+        "2027-03-07",
+        "2027-03-13",
+        "2027-03-14",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-27",
+        "2027-03-28",
+        "2027-04-03",
+        "2027-04-04",
+        "2027-04-10",
+        "2027-04-11",
+        "2027-04-17",
+        "2027-04-18",
+        "2027-04-24",
+        "2027-04-25"
+      ],
+      "pattern": "Sat, Sun",
+      "time": "3 PM",
+      "next_date": "2026-11-07",
+      "last_date": "2027-04-25",
+      "count": 46
+    },
+    {
       "id": 54356095805619,
       "title": "Stanford Memorial Church Docent Tour",
       "url": "https://events.stanford.edu/event/stanford-memorial-church-docent-tour-4159",
@@ -2378,6 +2315,11 @@
           "date": "2027-04-23",
           "start": "2027-04-23T11:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-04-30",
+          "start": "2027-04-30T11:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2401,13 +2343,14 @@
         "2027-04-02",
         "2027-04-09",
         "2027-04-16",
-        "2027-04-23"
+        "2027-04-23",
+        "2027-04-30"
       ],
       "pattern": "Fridays",
       "time": "11 AM",
       "next_date": "2026-11-06",
-      "last_date": "2027-04-23",
-      "count": 21
+      "last_date": "2027-04-30",
+      "count": 22
     },
     {
       "id": 53889137015268,
@@ -2424,11 +2367,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53889243240200/huge/6978b1f3f2186611cb3917c3245448d2e672bae1.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-01",
-          "start": "2026-11-01T11:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-15",
           "start": "2026-11-15T11:00:00-08:00",
@@ -2466,7 +2404,6 @@
         }
       ],
       "dates": [
-        "2026-11-01",
         "2026-11-15",
         "2026-11-22",
         "2026-11-29",
@@ -2477,9 +2414,9 @@
       ],
       "pattern": "Sundays",
       "time": "11 AM",
-      "next_date": "2026-11-01",
+      "next_date": "2026-11-15",
       "last_date": "2027-04-25",
-      "count": 8
+      "count": 7
     },
     {
       "id": 47557682677329,
@@ -5820,13 +5757,13 @@
         "Religion/Spirituality",
         "Social Justice/Human Rights"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54400261313026/huge/2787c4966d2902397b393ff06e2fa9bb6ae98cc9.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54400334644448/huge/520f132aad168dc952d9726c8ec0e0634e9e6990.jpg",
       "free": false,
       "instances": [
         {
           "date": "2026-11-17",
-          "start": "2026-11-17T00:00:00-08:00",
-          "all_day": true
+          "start": "2026-11-17T16:45:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -9266,6 +9203,33 @@
       ],
       "dates": [
         "2027-04-29"
+      ]
+    },
+    {
+      "id": 54116812456937,
+      "title": "Noon Concert: Piano Students of Ory Shihor",
+      "url": "https://events.stanford.edu/event/noon-shihor-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54116812427240/huge/7004e28819492953196565b3991e7359d176d4f7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-04-30",
+          "start": "2027-04-30T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-30"
       ]
     }
   ]
