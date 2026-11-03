@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:39:09+00:00",
+  "generated_at": "2026-11-03T19:59:55+00:00",
   "window": {
     "start": "2026-11-03",
     "end": "2027-05-02"
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 12,
+    "ongoing": 13,
     "recurring": 13,
-    "dated": 245
+    "dated": 246
   },
   "ongoing": [
     {
@@ -451,6 +451,92 @@
         "2027-03-03",
         "2027-03-04",
         "2027-03-05"
+      ]
+    },
+    {
+      "id": 54417960016807,
+      "title": "Patty Chang: surfacing",
+      "url": "https://events.stanford.edu/event/patty-chang-surfacing",
+      "experience": "inperson",
+      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54417996676653/huge/78818f76f4911a60a00cc0e38b34c5c15bf42e87.jpg",
+      "free": false,
+      "first_date": "2026-09-17",
+      "last_date": "2027-02-08",
+      "dates": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-14",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-24",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2026-12-31",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-11",
+        "2027-01-14",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-18",
+        "2027-01-21",
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-25",
+        "2027-01-28",
+        "2027-01-29",
+        "2027-01-30",
+        "2027-01-31",
+        "2027-02-01",
+        "2027-02-04",
+        "2027-02-05",
+        "2027-02-06",
+        "2027-02-07",
+        "2027-02-08"
       ]
     },
     {
@@ -4054,6 +4140,31 @@
         {
           "date": "2026-11-09",
           "start": "2026-11-09T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    {
+      "id": 54417723060833,
+      "title": "HAI & AI Governance Lab | A Conversation with Jacob Coxon & Rob Reich",
+      "url": "https://events.stanford.edu/event/hai-ai-governance-lab-a-conversation-with-jacob-coxon-rob-reich",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54417756324395/huge/f1bd458f9aba0c4cd6138f5135e38ad31815f937.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T16:30:00-08:00",
           "all_day": false
         }
       ],
