@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T22:12:59+00:00",
+  "generated_at": "2026-11-03T07:39:09+00:00",
   "window": {
-    "start": "2026-11-02",
-    "end": "2027-05-01"
+    "start": "2026-11-03",
+    "end": "2027-05-02"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 12,
     "recurring": 13,
-    "dated": 250
+    "dated": 245
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-02",
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
@@ -117,7 +116,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-02",
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
@@ -240,7 +238,8 @@
         "2027-04-25",
         "2027-04-26",
         "2027-04-29",
-        "2027-04-30"
+        "2027-04-30",
+        "2027-05-01"
       ]
     },
     {
@@ -260,7 +259,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-02",
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
@@ -313,7 +311,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-02",
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
@@ -475,7 +472,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-02",
         "2026-11-06",
         "2026-11-09",
         "2026-11-13",
@@ -508,7 +504,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-02",
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
@@ -570,7 +565,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-02",
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
@@ -663,7 +657,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-02",
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
@@ -723,7 +716,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-02",
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
@@ -762,7 +754,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-02",
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
@@ -801,7 +792,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-02",
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
@@ -840,11 +830,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T19:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-04",
           "start": "2026-11-04T19:00:00-08:00",
@@ -892,7 +877,6 @@
         }
       ],
       "dates": [
-        "2026-11-02",
         "2026-11-04",
         "2026-11-09",
         "2026-11-11",
@@ -905,9 +889,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-11-02",
+      "next_date": "2026-11-04",
       "last_date": "2026-12-09",
-      "count": 10
+      "count": 9
     },
     {
       "id": 50967994153103,
@@ -1541,6 +1525,11 @@
           "date": "2027-04-30",
           "start": "2027-04-30T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-01",
+          "start": "2027-05-01T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1588,13 +1577,14 @@
         "2027-04-17",
         "2027-04-23",
         "2027-04-24",
-        "2027-04-30"
+        "2027-04-30",
+        "2027-05-01"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-06",
-      "last_date": "2027-04-30",
-      "count": 45
+      "last_date": "2027-05-01",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -1841,6 +1831,11 @@
           "date": "2027-04-25",
           "start": "2027-04-25T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-01",
+          "start": "2027-05-01T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1889,13 +1884,14 @@
         "2027-04-17",
         "2027-04-18",
         "2027-04-24",
-        "2027-04-25"
+        "2027-04-25",
+        "2027-05-01"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-07",
-      "last_date": "2027-04-25",
-      "count": 46
+      "last_date": "2027-05-01",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2142,6 +2138,11 @@
           "date": "2027-04-25",
           "start": "2027-04-25T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-01",
+          "start": "2027-05-01T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2190,13 +2191,14 @@
         "2027-04-17",
         "2027-04-18",
         "2027-04-24",
-        "2027-04-25"
+        "2027-04-25",
+        "2027-05-01"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-07",
-      "last_date": "2027-04-25",
-      "count": 46
+      "last_date": "2027-05-01",
+      "count": 47
     },
     {
       "id": 54356095805619,
@@ -2706,236 +2708,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54162326675902,
-      "title": "Are Jews an Ethnic Group?",
-      "url": "https://events.stanford.edu/event/are-jews-an-ethnic-group",
-      "experience": "inperson",
-      "location": "Angela Nomellini & Ken Olivier building (ANKO), 109, 485 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54162331207908/huge/5f921c60c66644145905777099df375ef1498b7e.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 54065335413227,
-      "title": "Biology Seminar Series - Jonathan Pritchard  \"Trait Causal Models: Combining GWAS, Genetic Perturbations, and Observational 'Omics to Study Human Biology.\"",
-      "url": "https://events.stanford.edu/event/biology-seminbar-series-jonathan-pritchard-trait-causal-models-combining-gwas-genetic-perturbations-and-observational-omics-to-study-human-biology",
-      "experience": "inperson",
-      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54293515404193/huge/c734d27dfe91f0b828e5d6a4488a33e07f3062c1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 54189631195693,
-      "title": "Book Talk: Chrystia Freeland — Unreliable Boyfriend: An Insider’s View of Dealing with a Chaotic Superpower, Plutocrats, and Other Complicated People",
-      "url": "https://events.stanford.edu/event/book-talk-chrystia-freeland-unreliable-boyfriend-an-insiders-view-of-dealing-with-a-chaotic-superpower-plutocrats-and-other-complicated-people",
-      "experience": "hybrid",
-      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54189650548703/huge/6b75ee793836e644ada2b534ee809f71da281e3d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 54347902228949,
-      "title": "Day of the Dead Celebrations | Intimate Conversation with Rubí Tsanda Huerta",
-      "url": "https://events.stanford.edu/event/day-of-the-dead-celebrations-day-1",
-      "experience": "inperson",
-      "location": "Fire Truck House, 433 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54347919214349/huge/daf569ec664e23305b0cc13db26cf32dc30596c5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 54312281533658,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-2772",
-      "experience": "inperson",
-      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54312285480484/huge/c5fa5e6cde94824af890b2f6d4864d0040e19573.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T09:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 54357712150615,
-      "title": "ESE Seminar - Eva Schill: \"Potential for Lithium and Other Critical Mineral Extraction from Geothermal Waters and Brines in the US\"",
-      "url": "https://events.stanford.edu/event/ese-seminar-eva-schill-potential-for-lithium-and-other-critical-mineral-extraction-from-geothermal-waters-and-brines-in-the-us",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54357903989305/huge/213b9cdfb48364bebeb0dead085671220a91a052.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 54365356884735,
-      "title": "From Uprising to the Ballot Box: Women's Political Participation in Bangladesh | Moogdho Mahzab",
-      "url": "https://events.stanford.edu/event/from-uprising-to-the-ballot-box",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Law/Public Policy/Politics",
-        "Diversity/Identity",
-        "International Affairs",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54376779068992/huge/ae76ad01e32bc1c3b374bcb3e0e5377ac844020c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 54189731967396,
-      "title": "Japan and the Middle East in a Changing Geopolitical Landscape",
-      "url": "https://events.stanford.edu/event/japan-and-the-middle-east-in-a-changing-geopolitical-landscape",
-      "experience": "inperson",
-      "location": "Encina Hall, Philippines Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54189736361060/huge/ab3d2c735d8d4d862183b0448d41b246c4b79159.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
-    {
-      "id": 53552399038673,
-      "title": "Stanford Energy Seminar | The US Energy Transition: What is the Same; What Has Changed; and What Could Be | Philip Deutch, NGP Energy Technology Partners",
-      "url": "https://events.stanford.edu/event/stanford-energy-seminar-11022026",
-      "experience": "hybrid",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53604108555045/huge/08f31d235e27d59c57db52380554e7a3e8daea51.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-02",
-          "start": "2026-11-02T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-02"
-      ]
-    },
     {
       "id": 54373952074964,
       "title": "Applied Physics/Physics Colloquium: Alexander Maloney - \" Wormholes and the Conformal Bootstrap\"",
@@ -4077,6 +3849,33 @@
       ]
     },
     {
+      "id": 54410766974397,
+      "title": "Lecture: Visiting Composer – Melody Eötvös",
+      "url": "https://events.stanford.edu/event/guest-lecture-eotvos",
+      "experience": "inperson",
+      "location": "Braun Music Center, Room 103, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54411014749727/huge/2babef58d4244d46c9c54ded1e2e0b887e1b94bb.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-06",
+          "start": "2026-11-06T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    {
       "id": 54001166590136,
       "title": "Noon Concert: Piano Students of Melinda Lee Masur",
       "url": "https://events.stanford.edu/event/noon-masur-fall26",
@@ -4297,7 +4096,7 @@
       "location": "MacArthur Park Restaurant, 27 University Ave, Palo Alto, CA 94301",
       "types": [],
       "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54223522353462/huge/627ecb7bc11adbe155c06aa9ea47969cfbfe9e61.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54411694671525/huge/e1efc2c223deaef4b28120ba96ceb3ea3ad2f3f0.jpg",
       "free": false,
       "instances": [
         {
@@ -5039,6 +4838,61 @@
         {
           "date": "2026-11-13",
           "start": "2026-11-13T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    {
+      "id": 54410805814016,
+      "title": "Lecture: Visiting Composer – Wang Lu",
+      "url": "https://events.stanford.edu/event/guest-lecture-lu",
+      "experience": "inperson",
+      "location": "Braun Music Center, Room 103, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54410817523995/huge/4a73478cd0c638eb98df41627fc84dfed14860a5.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    {
+      "id": 54411409615588,
+      "title": "Special Seminar and Fireside Chat: Understanding Work Using AI",
+      "url": "https://events.stanford.edu/event/special-seminar-and-fireside-chat-understanding-work-using-ai",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Other"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54411422722343/huge/f50040a48d90b2e61e66414adf502b2ed1a15f2a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T14:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5794,6 +5648,32 @@
       ]
     },
     {
+      "id": 54411448205344,
+      "title": "German Studies Lecture Series: Jutta Eming - How Do You Dance a Cabinet of Curiosities?",
+      "url": "https://events.stanford.edu/event/german-studies-lecture-series-jutta-eming-how-do-you-dance-a-cabinet-of-curiosities",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54411463225475/huge/c7acb062340cfe7b965d2cdcfe72df525fed2fe4.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
       "id": 53428011861681,
       "title": "How New is the New Nuclear Age?",
       "url": "https://events.stanford.edu/event/how-new-is-the-new-nuclear-age",
@@ -6198,7 +6078,7 @@
         "Humanities",
         "Science"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54128702308890/huge/5b950a0300760f33773c022a2aa4f7809b9d0b9b.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54412026020706/huge/701faf71d908ee02e9266ca7d4cb49563e31727f.jpg",
       "free": false,
       "instances": [
         {
