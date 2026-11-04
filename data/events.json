@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T19:59:55+00:00",
+  "generated_at": "2026-11-04T07:18:16+00:00",
   "window": {
-    "start": "2026-11-03",
-    "end": "2027-05-02"
+    "start": "2026-11-04",
+    "end": "2027-05-03"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 13,
-    "dated": 246
+    "dated": 240
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -239,7 +238,8 @@
         "2027-04-26",
         "2027-04-29",
         "2027-04-30",
-        "2027-05-01"
+        "2027-05-01",
+        "2027-05-02"
       ]
     },
     {
@@ -590,7 +590,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -651,7 +650,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -743,7 +741,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -802,7 +799,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -840,7 +836,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -878,7 +873,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -1922,6 +1916,11 @@
           "date": "2027-05-01",
           "start": "2027-05-01T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-02",
+          "start": "2027-05-02T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1971,13 +1970,14 @@
         "2027-04-18",
         "2027-04-24",
         "2027-04-25",
-        "2027-05-01"
+        "2027-05-01",
+        "2027-05-02"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-07",
-      "last_date": "2027-05-01",
-      "count": 47
+      "last_date": "2027-05-02",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2229,6 +2229,11 @@
           "date": "2027-05-01",
           "start": "2027-05-01T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-02",
+          "start": "2027-05-02T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2278,13 +2283,14 @@
         "2027-04-18",
         "2027-04-24",
         "2027-04-25",
-        "2027-05-01"
+        "2027-05-01",
+        "2027-05-02"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-07",
-      "last_date": "2027-05-01",
-      "count": 47
+      "last_date": "2027-05-02",
+      "count": 48
     },
     {
       "id": 54356095805619,
@@ -2794,259 +2800,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54373952074964,
-      "title": "Applied Physics/Physics Colloquium: Alexander Maloney - \" Wormholes and the Conformal Bootstrap\"",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-alexander-maloney-wormholes-and-the-conformal-bootstrap",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54373958960817/huge/7b2e1eea8fed3a998351e6a3078615fffda26f12.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T15:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54250092427286,
-      "title": "Artist Talk with CFGNY: A Practice in Collaboration",
-      "url": "https://events.stanford.edu/event/artist-talk-with-cfgny-a-practice-in-collaboration",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54250161748831/huge/66ed35e4a32185b0fd811e5eb20e7abbb6a5ed1f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54125978092384,
-      "title": "Book Talk — We Shall Outlast Them: Putin’s Global Campaign to Defeat the West",
-      "url": "https://events.stanford.edu/event/book-talk-we-shall-outlast-them-putins-global-campaign-to-defeat-the-west",
-      "experience": "hybrid",
-      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54126008137195/huge/d9ad9237ce2ff20b52a37d11749f55c4a9b18f20.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T15:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54356260704057,
-      "title": "Creating What's Possible: A Panel Discussion with First-Generation Students in STEM",
-      "url": "https://events.stanford.edu/event/creating-whats-possible-a-panel-discussion-with-first-generation-students-in-stem",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54356264168799/huge/dd2f994204113d64d7a0391ccca3b4510483c8ee.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54364719810566,
-      "title": "Earth & Planetary Sciences Seminar - Prof. Benjamin Gill \"Exploring the potential links between ocean oxygenation and the evolution of early Paleozoic marine ecosystems\"",
-      "url": "https://events.stanford.edu/event/earth-planetary-sciences-seminar-prof-ben-gill-exploring-the-potential-links-between-ocean-oxygenation-and-the-evolution-of-early-paleozoic-marine-ecosystems",
-      "experience": "inperson",
-      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54364764868667/huge/ebe753443fadddb4c0fba46dee33eaa8c1311de9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54312312881558,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-1512",
-      "experience": "inperson",
-      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54312317585172/huge/6798318b9a8c8666eceae02b533c90c842d89803.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T09:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54408506188643,
-      "title": "Geophysics PhD Defense, Danny May: \"Exploration Geophysics-Inspired Acquisition and Analysis for Ice-Penetrating Radar\"",
-      "url": "https://events.stanford.edu/event/geophysics-phd-defense-danny-may-exploration-geophysics-inspired-acquisition-and-analysis-for-ice-penetrating-radar-9665",
-      "experience": "hybrid",
-      "location": "Mitchell Earth Sciences, 350/372, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54408514918459/huge/3c6ae9c015749d9467f29a0cfece78e0e41aa55a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T09:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54074581179929,
-      "title": "Stanford Medicine Children's Health Center for IBD and Celiac Disease's 5th Annual Research Symposium",
-      "url": "https://events.stanford.edu/event/5th-annual-research-symposium-",
-      "experience": "inperson",
-      "location": "Li Ka Shing Center, 2nd Floor, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54075122343840/huge/2a9d30e063adf494916284a5190bd185304ad635.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T08:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54313480085870,
-      "title": "Superintelligence or Super Stupidity? Designing AI Systems for Human Flourishing",
-      "url": "https://events.stanford.edu/event/superintelligence-or-super-stupidity-designing-ai-systems-for-human-flourishing",
-      "experience": "hybrid",
-      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54365291442649/huge/fe4834e92776972dfdf440020858611d74ac0803.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
-    {
-      "id": 54383500169589,
-      "title": "Wellness Series: Elections Processing Space",
-      "url": "https://events.stanford.edu/event/wellness-series-elections-processing-space",
-      "experience": "inperson",
-      "location": "Asian American Activities Center, Courtroom, 524 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Support Space"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54383506653871/huge/d8f2f4358796c8df3a8509b2360dc3e302ab6f21.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-03",
-          "start": "2026-11-03T13:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-03"
-      ]
-    },
     {
       "id": 54004044824795,
       "title": "Celine Halioua @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
@@ -3948,7 +3701,7 @@
         "Music",
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54411014749727/huge/2babef58d4244d46c9c54ded1e2e0b887e1b94bb.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54411014749727/huge/05e298a38a29edee5242a05c029742da4d6ca292.jpg",
       "free": true,
       "instances": [
         {
@@ -4114,6 +3867,31 @@
         {
           "date": "2026-11-09",
           "start": "2026-11-09T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    {
+      "id": 54420388418679,
+      "title": "ESE Seminar - Bo Guo: \"Fate and Transport of PFAS in Unsaturated Porous Media across Scales:   Interfacial Partitioning, Thin Water Films, and Upscaling\"",
+      "url": "https://events.stanford.edu/event/ese-seminar-bo-guo-fate-and-transport-of-pfas-in-unsaturated-porous-media-across-scales-interfacial-partitioning-thin-water-films-and-upscaling",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54420391510196/huge/a65b0e04162b00c3e8ba57bc3a738a63375695fb.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-09",
+          "start": "2026-11-09T12:30:00-08:00",
           "all_day": false
         }
       ],
@@ -4363,7 +4141,7 @@
         "Humanities",
         "Diversity/Identity"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54241968620384/huge/1497b397f3a267a1a0ec50b6fef7be6ec8a284a0.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54418974102523/huge/64290ec25214400ed0b336035888ad39f020f75e.jpg",
       "free": true,
       "instances": [
         {
@@ -4580,6 +4358,31 @@
         {
           "date": "2026-11-11",
           "start": "2026-11-11T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": 54419379180408,
+      "title": "Lunch Club Series | Beneath Tiahuanacu’s Streets: Ceramic iconography and Ancient Heritage in an Aymara town",
+      "url": "https://events.stanford.edu/event/lunch-club-series-beneath-tiahuanacus-streets-ceramic-iconography-and-ancient-heritage-in-an-aymara-town",
+      "experience": "hybrid",
+      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54419390043996/huge/8d0a4add612195fb4fbf1f9b4a920261e43a8d42.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -4976,6 +4779,29 @@
         {
           "date": "2026-11-13",
           "start": "2026-11-13T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    {
+      "id": 54410800154180,
+      "title": "PhD Dissertation Defense: Danielle Klinger",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-danielle-klinger",
+      "experience": "inperson",
+      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "PhD Defense"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54419306452440/huge/ffa355814fef112e625bf6ff7e36fd8bfe95bdcf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T13:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5452,12 +5278,12 @@
         "International Affairs",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54375389467739/huge/c08ecdee50cc9842f456d241bf909fb3460633c6.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54420070800094/huge/277793ff2d0eb035812bb2803e0f44765a028c60.jpg",
       "free": false,
       "instances": [
         {
           "date": "2026-11-16",
-          "start": "2026-11-16T12:00:00-08:00",
+          "start": "2026-11-16T12:30:00-08:00",
           "all_day": false
         }
       ],
@@ -8647,6 +8473,33 @@
         {
           "date": "2027-02-24",
           "start": "2027-02-24T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-24"
+      ]
+    },
+    {
+      "id": 54419015355993,
+      "title": "The Defiant Girl and the Incomplete Gentleman - Tobias Warner",
+      "url": "https://events.stanford.edu/event/the-defiant-girl-and-the-incomplete-gentleman-tobias-warner",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54419167356964/huge/37a06a6da9cb65daa32db88d2abbbcf7834bb46d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-24",
+          "start": "2027-02-24T12:00:00-08:00",
           "all_day": false
         }
       ],
