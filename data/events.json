@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:18:16+00:00",
+  "generated_at": "2026-11-04T20:20:39+00:00",
   "window": {
     "start": "2026-11-04",
     "end": "2027-05-03"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 13,
-    "dated": 240
+    "dated": 244
   },
   "ongoing": [
     {
@@ -4076,6 +4076,29 @@
       ]
     },
     {
+      "id": 54426626598206,
+      "title": "Applied Physics/Physics Colloquium: Dmitry Abanin - \"Quantum advantage and computational complexity of many-body systems\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-dmitry-abanin-quantum-advantage-and-computational-complexity-of-many-body-systems",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54426650646938/huge/a4e34a0c2d9be86ef36c6f05df5609c7cda8f621.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
       "id": 53604059426372,
       "title": "Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defensive Innovation",
       "url": "https://events.stanford.edu/event/biosecurity-in-an-age-of-ai-frontier-safety-anticipatory-governance-and-defensive-innovation-jassi-pannu",
@@ -4170,6 +4193,35 @@
         {
           "date": "2026-11-10",
           "start": "2026-11-10T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": 54427358260173,
+      "title": "Pediatric Grand Rounds (CME): Beyond Blood: Transplant and Gene-Edited Cell Therapy for Neurodegenerative Disease in Children",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-when-governments-swipe-left-australias-social-media-policy",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54427358205899/huge/dcc629ce99c61f200235e7fa6cf8b3021a28eb64.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T08:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5561,7 +5613,7 @@
       "title": "Estonia at the Front Line: Security, Resilience, and Technology: A Discussion with the Prime Minister of Estonia Kristen Michal",
       "url": "https://events.stanford.edu/event/prime-minister-estonia-2026",
       "experience": "inperson",
-      "location": "Hohbach Hall, Room 122, 557 Escondido Mall, Stanford, CA 94305",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
       ],
@@ -6182,6 +6234,31 @@
       ]
     },
     {
+      "id": 54426607039058,
+      "title": "ILAC: De las fosas comunes al espacio publico: la memoria de la Guerra Civil y el Franquismo en Catalunya y España",
+      "url": "https://events.stanford.edu/event/ilac-de-las-fosas-comunes-al-espacio-publico-la-memoria-de-la-guerra-civil-y-el-franquismo-en-catalunya-y-espana",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511065033872/huge/b8e66247408b89e0fca97cea7be0e8a558ebd092.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
       "id": 54037411906317,
       "title": "Jannis Panagiotidis- Racism against East Europeans in Germany: History and Present",
       "url": "https://events.stanford.edu/event/racism-against-east-europeans-in-germany-history-and-present",
@@ -6698,6 +6775,34 @@
         {
           "date": "2026-12-03",
           "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
+      "id": 54179620187918,
+      "title": "Film Screening of the Latvian submission for the Academy Awards – Ulya",
+      "url": "https://events.stanford.edu/event/film-screening-of-ulya",
+      "experience": "inperson",
+      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs",
+        "Arts/Media",
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54426719056534/huge/11a35b6d4c9d59a76277dc6c47cae2be34d1c4ea.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T18:30:00-08:00",
           "all_day": false
         }
       ],
