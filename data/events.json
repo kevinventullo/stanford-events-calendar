@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T20:20:39+00:00",
+  "generated_at": "2026-11-05T07:45:39+00:00",
   "window": {
-    "start": "2026-11-04",
-    "end": "2027-05-03"
+    "start": "2026-11-05",
+    "end": "2027-05-04"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 13,
     "recurring": 13,
-    "dated": 244
+    "dated": 233
   },
   "ongoing": [
     {
@@ -45,7 +45,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
@@ -239,7 +238,8 @@
         "2027-04-29",
         "2027-04-30",
         "2027-05-01",
-        "2027-05-02"
+        "2027-05-02",
+        "2027-05-03"
       ]
     },
     {
@@ -405,7 +405,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-11",
@@ -590,7 +589,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-08",
@@ -650,7 +648,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
@@ -741,7 +738,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
@@ -799,7 +795,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
@@ -836,7 +831,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
@@ -873,7 +867,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-04",
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
@@ -910,11 +903,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T19:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-09",
           "start": "2026-11-09T19:00:00-08:00",
@@ -957,7 +945,6 @@
         }
       ],
       "dates": [
-        "2026-11-04",
         "2026-11-09",
         "2026-11-11",
         "2026-11-16",
@@ -969,9 +956,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-11-04",
+      "next_date": "2026-11-09",
       "last_date": "2026-12-09",
-      "count": 9
+      "count": 8
     },
     {
       "id": 50967994153103,
@@ -2590,11 +2577,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-04",
-          "start": "2026-11-04T09:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-11",
           "start": "2026-11-11T09:00:00-08:00",
           "all_day": false
@@ -2621,7 +2603,6 @@
         }
       ],
       "dates": [
-        "2026-11-04",
         "2026-11-11",
         "2026-11-18",
         "2026-12-02",
@@ -2630,9 +2611,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-11-04",
+      "next_date": "2026-11-11",
       "last_date": "2026-12-16",
-      "count": 6
+      "count": 5
     },
     {
       "id": 54356689351868,
@@ -2645,11 +2626,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54356737631040/huge/3812711bf075d58222e4c218a047a05aede5167c.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T09:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-11",
           "start": "2026-11-11T09:00:00-08:00",
@@ -2767,7 +2743,6 @@
         }
       ],
       "dates": [
-        "2026-11-04",
         "2026-11-11",
         "2026-11-18",
         "2026-11-25",
@@ -2794,326 +2769,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-11-04",
+      "next_date": "2026-11-11",
       "last_date": "2027-04-28",
-      "count": 24
+      "count": 23
     }
   ],
   "events": [
-    {
-      "id": 54004044824795,
-      "title": "Celine Halioua @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/celine-halioua-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54004099093765/huge/c62e244dfea66ba80b2b9fe04e1f437fcaf798be.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54241029025030,
-      "title": "DAAAS Movie Night: The Eyes of Ghana",
-      "url": "https://events.stanford.edu/event/daaas-movie-night-the-eyes-of-ghana",
-      "experience": "inperson",
-      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54242662544910/huge/1f2a56b891fef292ec063dec9510df657bdf0423.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T19:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 53746712053687,
-      "title": "Digital Mirrors of Materiality",
-      "url": "https://events.stanford.edu/event/digital-mirrors-of-materiality",
-      "experience": "inperson",
-      "location": "Anderson Collection, Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53746754257080/huge/7f9f5c9eebe92ce4b0e34d6c7a2a6b82e1d58e0f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54312329340375,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-7831",
-      "experience": "inperson",
-      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54312332321196/huge/4168121630de1ebd0735e1025cb00969b1ee2e8d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T09:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 53861067887185,
-      "title": "HAI Seminar with Marcos Santiago Rojas Pino & Thomas Caruso",
-      "url": "https://events.stanford.edu/event/hai-seminar-with-marcos-santiago-rojas-pino-thomas-caruso",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53861076430472/huge/ed7c17e4f774dd722660541444c9e9027070dc2c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54357681189392,
-      "title": "Leading by Unwritten Rules: Rural Educators in Myanmar’s Crisis",
-      "url": "https://events.stanford.edu/event/leading-by-unwritten-rules-rural-educators-in-myanmars-crisis",
-      "experience": "inperson",
-      "location": "Encina Hall, Philippines Conference Room, 3rd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54357702594465/huge/5f59639ce75662a2d3c6c2695201841d6ba22285.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54321714795017,
-      "title": "Lunch Club Series | Navigating Heritage: Chinook Art and Public History Along the Columbia River",
-      "url": "https://events.stanford.edu/event/lunch-club-series-3721",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54321725217850/huge/3df1c76cf591546ed497c1ab3cee2b69b0785080.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54001150943800,
-      "title": "Noon Concert: Piano Students of Laura Dahl & Ory Shihor",
-      "url": "https://events.stanford.edu/event/noon-dahl-shihor-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54001150906935/huge/4ad3e129fea88bf9fee758a43db953aa83eae669.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54311459866569,
-      "title": "Stanford in Haus Cramer: A Berlin Microhistory - Book Launch and Reception",
-      "url": "https://events.stanford.edu/event/stanford-in-haus-cramer-a-berlin-microhistory-book-launch-and-reception",
-      "experience": "inperson",
-      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54311464788269/huge/cd076134564317f2350f8d727515f35d71eac7c8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 53994605586593,
-      "title": "Stegner Fellow Reading with Daniel Lurie and Katerina Ivanov Prado",
-      "url": "https://events.stanford.edu/event/stegner-fellow-reading-with-daniel-lurie-and-katerina-ivanov-prado",
-      "experience": "inperson",
-      "location": "Building 460, Margaret Jacks Hall, Terrace Room (Room 426), 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53994921854778/huge/5386d347debcae676c2d6135a0659544f6e80078.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T18:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54188086067314,
-      "title": "The Rise and Fall of Tunisian Democracy: Populism, Polarization, and the Perils of Power-Sharing",
-      "url": "https://events.stanford.edu/event/the-rise-and-fall-of-tunisian-democracy-populism-polarization-and-the-perils-of-power-sharing",
-      "experience": "hybrid",
-      "location": "Encina Hall, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54188109354759/huge/3919c83480db55ea0f0c646f22612c01fd097512.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": 54188899937974,
-      "title": "Work, Exile, and Home: Honoring Milorad Drachkovitch & Reopening the Polich Library",
-      "url": "https://events.stanford.edu/event/work-exile-and-home-honoring-milorad-drachkovitch-reopening-the-polich-room",
-      "experience": "inperson",
-      "location": "Hoover Tower, T108, 550 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Working at Stanford"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54188906388841/huge/33ac9a0fc922b09c7c14dddc784adde85a85709d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-04",
-          "start": "2026-11-04T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-04"
-      ]
-    },
     {
       "id": 53871308386123,
       "title": "36th Annual Jonathan J. King Lecture: Dr. Bryant Lin & Dr. Shoshana Ungerleider",
@@ -4331,6 +3992,31 @@
         {
           "date": "2026-11-10",
           "start": "2026-11-10T14:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": 54428918282158,
+      "title": "Sustainable Systems Seminar Lunch Series -  Hierarchical Solving of High-Resolution Energy System Models",
+      "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-series-andreas-muhlbauer",
+      "experience": "inperson",
+      "location": "Press Building, 106, 425 Santa Teresa St, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54428932067832/huge/60d1020abe7b09d223409440744dd552f4a9c2ea.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T12:00:00-08:00",
           "all_day": false
         }
       ],
