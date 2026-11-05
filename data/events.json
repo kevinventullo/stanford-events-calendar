@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:45:39+00:00",
+  "generated_at": "2026-11-05T20:30:54+00:00",
   "window": {
     "start": "2026-11-05",
     "end": "2027-05-04"
@@ -21,11 +21,60 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 13,
+    "ongoing": 14,
     "recurring": 13,
-    "dated": 233
+    "dated": 237
   },
   "ongoing": [
+    {
+      "id": 51827589730708,
+      "title": "A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDER (MDD)",
+      "url": "https://events.stanford.edu/event/neurocrine",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/51827731132628/huge/beb89c9caa35c6e6186528e901dbf9ade4f7a104.jpg",
+      "free": false,
+      "first_date": "2026-01-14",
+      "last_date": "2026-12-04",
+      "dates": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04"
+      ]
+    },
     {
       "id": 53251159287291,
       "title": "Text Machines: Scarlet Thread of the Digital Order (1883-2026)",
@@ -4209,6 +4258,31 @@
       ]
     },
     {
+      "id": 54432265531280,
+      "title": "Yoga on the Farm",
+      "url": "https://events.stanford.edu/event/yoga-on-the-farm",
+      "experience": "inperson",
+      "location": "O'Donohue Family Stanford Educational Farm 555 Fremont Rd, 555 Fremont Rd. Stanford Ca 94305",
+      "types": [
+        "Fitness/Recreational Sport"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54432272742195/huge/ae989ab9db444cf5cf568a4e91c97b9d789ccbc6.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-11",
+          "start": "2026-11-11T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
       "id": 54004348721357,
       "title": "Artist Talk | Holographic Space, a talk by Charles Ray",
       "url": "https://events.stanford.edu/event/charles-ray",
@@ -4949,6 +5023,33 @@
       ]
     },
     {
+      "id": 54435822985780,
+      "title": "An Extreme Event: 🌿 Community-Led Social Innovation in Times of Crisis in Nepal",
+      "url": "https://events.stanford.edu/event/an-extreme-event-community-led-social-innovation-in-times-of-crisis-in-nepal",
+      "experience": "inperson",
+      "location": "Stanford Graduate School of Business, 643 Jane Stanford Way, Stanford, CA. 94305, McClelland - M101D (Co-Lab)",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business",
+        "Environment/Sustainability",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 53993186509703,
       "title": "Biology Seminar Series - Cecilia Leal \"Non-Lamellar Lipid Membranes as Regulators of Biological Function \"",
       "url": "https://events.stanford.edu/event/biology-seminar-series-cecilia-leal-non-lamellar-lipid-membranes-as-regulators-of-biological-function",
@@ -5132,6 +5233,34 @@
         {
           "date": "2026-11-16",
           "start": "2026-11-16T13:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
+      "id": 54435599094545,
+      "title": "Jillian Schwedler — Are the Streets Still Talking? Protests and Evolving Repression in the Middle East",
+      "url": "https://events.stanford.edu/event/jillian-schwedler-are-the-streets-still-talking-protests-and-evolving-repression-in-the-middle-east",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54435622779404/huge/757c120b35efcf874b3c35efb27fb0a67a8b948d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T16:00:00-08:00",
           "all_day": false
         }
       ],
@@ -6441,6 +6570,33 @@
       ],
       "dates": [
         "2026-12-02"
+      ]
+    },
+    {
+      "id": 54435335460209,
+      "title": "BOOK TALK | A Conversation about the Art of Edmonia Lewis",
+      "url": "https://events.stanford.edu/event/the-art-of-edmonia-lewis",
+      "experience": "inperson",
+      "location": "Roble Gym, Lounge, 375 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Theater/Dance",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54435472422251/huge/7b828a5f97da5a39d6ea9c9716428414f2ad9325.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
       ]
     },
     {
