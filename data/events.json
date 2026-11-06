@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:42:53+00:00",
+  "generated_at": "2026-11-06T19:52:56+00:00",
   "window": {
     "start": "2026-11-06",
     "end": "2027-05-05"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 13,
-    "dated": 225
+    "dated": 226
   },
   "ongoing": [
     {
@@ -5501,6 +5501,35 @@
         {
           "date": "2026-11-18",
           "start": "2026-11-18T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
+      "id": 54444392905605,
+      "title": "Three L.A.S.E.R. talks: Media Art, AI, The Self and Consciousness",
+      "url": "https://events.stanford.edu/event/three-laser-talks-media-art-ai-the-self-and-consciousness",
+      "experience": "hybrid",
+      "location": "The Hub at Stanford Research Park, 3215 Porter Dr., Palo Alto, CA 94304",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk",
+        "Meeting"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54444407872200/huge/6b5600375847c917d29f54be2b9a7c9cfb003ed8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T17:30:00-08:00",
           "all_day": false
         }
       ],
