@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T20:30:54+00:00",
+  "generated_at": "2026-11-06T07:42:53+00:00",
   "window": {
-    "start": "2026-11-05",
-    "end": "2027-05-04"
+    "start": "2026-11-06",
+    "end": "2027-05-05"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 13,
-    "dated": 237
+    "dated": 225
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -94,7 +93,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -163,7 +161,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -308,7 +305,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -360,7 +356,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -454,7 +449,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-11",
         "2026-11-12",
@@ -518,7 +512,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -638,7 +631,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-08",
         "2026-11-09",
@@ -697,7 +689,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -787,7 +778,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -844,7 +834,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-09",
         "2026-11-10",
@@ -880,7 +869,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-09",
         "2026-11-10",
@@ -916,7 +904,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-09",
         "2026-11-10",
@@ -2825,379 +2812,6 @@
   ],
   "events": [
     {
-      "id": 53871308386123,
-      "title": "36th Annual Jonathan J. King Lecture: Dr. Bryant Lin & Dr. Shoshana Ungerleider",
-      "url": "https://events.stanford.edu/event/36th-annual-jonathan-j-king-lecture",
-      "experience": "hybrid",
-      "location": "Cedar Room, Stanford Faculty Club, Cedar Room, Stanford Faculty Club, 439 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Humanities",
-        "Medicine",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53877661181393/huge/d3963f3367eb4adbaa5edf13065eac72d46465cf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54364328703901,
-      "title": "Critical Carceral Studies | Special Collections & Coffee",
-      "url": "https://events.stanford.edu/event/critical-carceral-studies-special-collections-coffee",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, Stanford Special Collections, 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition",
-        "Workshop"
-      ],
-      "subjects": [
-        "Humanities",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54364358816660/huge/27c6f592fa374382ecf98b890e869c3ae06708b7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T13:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54347981524777,
-      "title": "Day of the Dead Celebrations | Lecture by Rubí Tsanda Huerta",
-      "url": "https://events.stanford.edu/event/day-of-the-dead-celebrations-day-3",
-      "experience": "inperson",
-      "location": "Native American Cultural Center, Clubhouse, 524 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54347995944692/huge/cb0467438961d7a20430f6802773c987ddbc6be6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 53691925115268,
-      "title": "Documentary Objectives: Filming Africa from Colonialism to Independence - Rachel Gabara",
-      "url": "https://events.stanford.edu/event/documentary-objectives-filming-africa-from-colonialism-to-independence-rachel-gabara",
-      "experience": "inperson",
-      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53691961395481/huge/dc25c1c06b256103e8ec368130ab23a5169ef32f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54312343131304,
-      "title": "EH&S: Flu & COVID-19 Vaccination Clinic",
-      "url": "https://events.stanford.edu/event/ehs-flu-covid-19-vaccination-clinic-4052",
-      "experience": "inperson",
-      "location": "484 Oak Road, 484 Oak Road, Stanford, CA 94305",
-      "types": [],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54312345576202/huge/a71492fdddb1124956c131dfbcb5ff91215c2ef9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T09:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54032052037076,
-      "title": "Electric Contrasts Study Evening",
-      "url": "https://events.stanford.edu/event/electric-contrasts-study-evening",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54032061381358/huge/7d0ba7394bccf75e04bf84a26d12534e0b739f57.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54259976400895,
-      "title": "Energy, Materials, and Water Use in Semiconductor Manufacturing: Challenges and Opportunities for Supply Chain Resiliency",
-      "url": "https://events.stanford.edu/event/energy-materials-and-water-use-in-semiconductor-manufacturing-challenges-and-opportunities-for-supply-chain-resiliency",
-      "experience": "hybrid",
-      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54260041182972/huge/1fc1149d9d22eecfaa637057f5bd37dead475b0f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54306281281907,
-      "title": "From Chasing Poachers to Catalyzing Systems Change: The Evolution of Sea Shepherd's Approach to Antarctic Conservation",
-      "url": "https://events.stanford.edu/event/from-chasing-poachers-to-catalyzing-systems-change",
-      "experience": "inperson",
-      "location": "Hopkins Marine Station, Izzie Abbott Boatworks Auditorium, 120 Ocean View Blvd Pacific Grove, CA 93950",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Law/Public Policy/Politics",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54306295789970/huge/66f485c50663898c9e8311051f00e1f9beabd615.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 53801210598349,
-      "title": "Lunchtime Curator Talk | California Current: Art and Histories from the Bay Area",
-      "url": "https://events.stanford.edu/event/lunchtime-curator-talk-california-current-art-and-histories-from-the-bay-area",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Freidenrich Family Gallery (221), 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53807468306477/huge/181a0dc779aa40855d2fa304c7a59c0f129d182e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54011243976882,
-      "title": "No Ideas But in Things",
-      "url": "https://events.stanford.edu/event/no-ideas-but-in-things",
-      "experience": "inperson",
-      "location": "Clark Center, Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Film/Screening",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54011260052607/huge/cdd631d1cd2ffe47a192406a572d21a99f7134a5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54180690948196,
-      "title": "The Body as Monument",
-      "url": "https://events.stanford.edu/event/the-body-as-monument",
-      "experience": "inperson",
-      "location": "El Centro Chicano, Jaime Miranda Lounge, 514 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Diversity/Identity",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54180697423606/huge/e6545912d4191ce8e0f0f15c0cdd65fbdc877e37.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T11:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 53977038028894,
-      "title": "The Fate of the Social in Modern Life: American Social Scientists and Japan as Archive",
-      "url": "https://events.stanford.edu/event/the-fate-of-the-social-in-modern-life-american-social-scientists-and-japan-as-archive",
-      "experience": "inperson",
-      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53977155516223/huge/2f1c1c04a0b556a2531c56d12a2a5d2fd12a8bcd.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54177973515462,
-      "title": "The Queer Thing about Sin | Harry Tanner",
-      "url": "https://events.stanford.edu/event/the-queer-thing-about-sin-harry-tanner",
-      "experience": "inperson",
-      "location": "Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity",
-        "Religion/Spirituality",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54198635776243/huge/db29d3ddc2092ab975bfff00c3cb628a7fd8a024.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
-      "id": 54054961139336,
-      "title": "What Do We Owe Each Other in the Age of AI?",
-      "url": "https://events.stanford.edu/event/what-do-we-owe-each-other-in-the-age-of-ai",
-      "experience": "inperson",
-      "location": "Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54101206208715/huge/89170d75eaac7fd034352d0b0f4b8d7e254e7c7a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-05",
-          "start": "2026-11-05T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-05"
-      ]
-    },
-    {
       "id": 54170450698624,
       "title": "Big Tech, Democracy, and Human Rights",
       "url": "https://events.stanford.edu/event/big-tech-democracy-and-human-rights",
@@ -3224,35 +2838,6 @@
       ],
       "dates": [
         "2026-11-06"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-06",
-          "start": "2026-11-06T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-06",
-        "2026-11-13"
       ]
     },
     {
@@ -4035,7 +3620,7 @@
         "Engineering/Technology",
         "Social Justice/Human Rights"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53879814068494/huge/e5e4be8de374e72afe410b8883335a3edc4d560f.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54437454726467/huge/06eb82419f23ed4cf02df14c26edf1709048e8db.jpg",
       "free": false,
       "instances": [
         {
@@ -4283,32 +3868,6 @@
       ]
     },
     {
-      "id": 54004348721357,
-      "title": "Artist Talk | Holographic Space, a talk by Charles Ray",
-      "url": "https://events.stanford.edu/event/charles-ray",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, Cantor Eastman Auditorium, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54004410265658/huge/1f4bbf265d694d15a3e4b6c821cad74b546b98e2.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
       "id": 53879093950767,
       "title": "How to Fix a Broken Hierarchy",
       "url": "https://events.stanford.edu/event/how-to-fix-a-broken-hierarchy",
@@ -4542,6 +4101,35 @@
       ],
       "dates": [
         "2026-11-12"
+      ]
+    },
+    {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13",
+        "2026-12-04"
       ]
     },
     {
@@ -5023,6 +4611,31 @@
       ]
     },
     {
+      "id": 54438062895196,
+      "title": "Aditya Balasubramanian | Before Public Works: Roads in Late Company Period India",
+      "url": "https://events.stanford.edu/event/aditya-balasubramanian-before-public-works-roads-in-late-company-period-india",
+      "experience": "inperson",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54438073162285/huge/991682c6a1a0f17d96d3dd7c6b29b916d9c9fe55.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T17:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 54435822985780,
       "title": "An Extreme Event: 🌿 Community-Led Social Innovation in Times of Crisis in Nepal",
       "url": "https://events.stanford.edu/event/an-extreme-event-community-led-social-innovation-in-times-of-crisis-in-nepal",
@@ -5295,7 +4908,7 @@
     },
     {
       "id": 54196035364530,
-      "title": "Race and Gender in the Global Hispanophone: Heidi Tinsman (University of California, Irvine)",
+      "title": "Race and Gender in the Global Hispanophone: Bound Brothers Chinese Labor, Masculinity, and Nation in Nineteenth-Century Peru and Chile",
       "url": "https://events.stanford.edu/event/race-and-gender-in-the-global-hispanophone-7911",
       "experience": "inperson",
       "location": "Building 260, Pigott Hall, Room 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
@@ -5320,7 +4933,7 @@
     },
     {
       "id": 53552413163789,
-      "title": "Stanford Energy Seminar | Jonathan Fan, Stanford University",
+      "title": "Stanford Energy Seminar | Electrified metamaterial reactors for process intensified thermochemistry | Jonathan Fan, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11162026",
       "experience": "hybrid",
       "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
@@ -5332,7 +4945,7 @@
         "Engineering/Technology",
         "Business"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53604088939533/huge/69c6ba8ff7f95966b63548ee85a9bbbdc565bb23.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54439627811863/huge/7c072c4c69d8613eb378c187913721aca9534320.jpg",
       "free": false,
       "instances": [
         {
@@ -5923,6 +5536,29 @@
       ]
     },
     {
+      "id": 54439619609305,
+      "title": "Uncommon Knowledge: The Intellectual Odyssey of James Burnham",
+      "url": "https://events.stanford.edu/event/uncommon-knowledge-the-intellectual-odyssey-of-james-burnham",
+      "experience": "hybrid",
+      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54439642948308/huge/f2fc5d5d439fafc995411ecb675e61c5aeec5826.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-18",
+          "start": "2026-11-18T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    {
       "id": 54003430264096,
       "title": "University Singers",
       "url": "https://events.stanford.edu/event/university-singers-fall26",
@@ -5967,6 +5603,33 @@
         {
           "date": "2026-11-19",
           "start": "2026-11-19T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
+      "id": 54437941976124,
+      "title": "Data Center Expansion: Challenges and Solutions for Thermal Management and Materials Access",
+      "url": "https://events.stanford.edu/event/data-center-expansion-challenges-and-solutions-for-thermal-management-and-materials-access",
+      "experience": "hybrid",
+      "location": "Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54438251336451/huge/7d70e05412de2ed61de7c9302be4af1ab8019ee3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T16:30:00-08:00",
           "all_day": false
         }
       ],
