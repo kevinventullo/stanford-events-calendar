@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T17:58:15+00:00",
+  "generated_at": "2026-11-08T06:57:44+00:00",
   "window": {
-    "start": "2026-11-07",
-    "end": "2027-05-06"
+    "start": "2026-11-08",
+    "end": "2027-05-07"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 14,
     "recurring": 14,
-    "dated": 223
+    "dated": 224
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-10",
@@ -92,7 +91,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-10",
@@ -159,7 +157,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-12",
@@ -282,7 +279,8 @@
         "2027-04-30",
         "2027-05-01",
         "2027-05-02",
-        "2027-05-03"
+        "2027-05-03",
+        "2027-05-06"
       ]
     },
     {
@@ -302,7 +300,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-10",
@@ -352,7 +349,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-12",
@@ -506,7 +502,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-12",
@@ -680,7 +675,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-10",
@@ -768,7 +762,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-09",
         "2026-11-10",
@@ -1180,11 +1173,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-07",
-          "start": "2026-11-07T14:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-08",
           "start": "2026-11-08T14:00:00-08:00",
           "all_day": false
@@ -1311,7 +1299,6 @@
         }
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-13",
         "2026-11-14",
@@ -1340,9 +1327,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-07",
+      "next_date": "2026-11-08",
       "last_date": "2027-01-03",
-      "count": 26
+      "count": 25
     },
     {
       "id": 53969632558021,
@@ -1451,11 +1438,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-07",
-          "start": "2026-11-07T11:30:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-13",
           "start": "2026-11-13T11:30:00-08:00",
@@ -1678,7 +1660,6 @@
         }
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-13",
         "2026-11-14",
         "2026-11-20",
@@ -1726,9 +1707,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-11-07",
+      "next_date": "2026-11-13",
       "last_date": "2027-05-01",
-      "count": 45
+      "count": 44
     },
     {
       "id": 53737430719656,
@@ -1746,11 +1727,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-07",
-          "start": "2026-11-07T13:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-08",
           "start": "2026-11-08T13:00:00-08:00",
@@ -1988,7 +1964,6 @@
         }
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-14",
         "2026-11-15",
@@ -2039,9 +2014,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-11-07",
+      "next_date": "2026-11-08",
       "last_date": "2027-05-02",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2059,11 +2034,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-07",
-          "start": "2026-11-07T15:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-08",
           "start": "2026-11-08T15:00:00-08:00",
@@ -2301,7 +2271,6 @@
         }
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-14",
         "2026-11-15",
@@ -2352,9 +2321,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-11-07",
+      "next_date": "2026-11-08",
       "last_date": "2027-05-02",
-      "count": 48
+      "count": 47
     },
     {
       "id": 54356095805619,
@@ -2587,11 +2556,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-07",
-          "start": "2026-11-07T09:30:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-14",
           "start": "2026-11-14T09:30:00-08:00",
           "all_day": false
@@ -2618,7 +2582,6 @@
         }
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-14",
         "2026-11-21",
         "2026-11-28",
@@ -2627,9 +2590,9 @@
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-11-07",
+      "next_date": "2026-11-14",
       "last_date": "2026-12-12",
-      "count": 6
+      "count": 5
     },
     {
       "id": 51888083181057,
@@ -2852,33 +2815,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54003233902547,
-      "title": "Stanford Philharmonia",
-      "url": "https://events.stanford.edu/event/philharmonia-fall26",
-      "experience": "hybrid",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003233816528/huge/55cea8c68af4409775a52ccb9d8d0e6974f9070c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-07",
-          "start": "2026-11-07T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-07"
-      ]
-    },
     {
       "id": 54045329866890,
       "title": "Stanford Alumni Recital",
@@ -5903,6 +5839,36 @@
       ]
     },
     {
+      "id": 54453921559877,
+      "title": "All-Star Summers in Energy: Summer Experiences in Start-ups, Research, Policy, Advocacy, Industry, and more!",
+      "url": "https://events.stanford.edu/event/all-star-summers-in-energy-summer-experiences-in-start-ups-research-policy-advocacy-industry-and-more",
+      "experience": "inperson",
+      "location": "Roble Hall, Roble Hall Theater, 374 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Business",
+        "Career Development",
+        "Education",
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/39148815921531/huge/e667009060a7b8301c30eafa96bd58b716269bb8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
+      ]
+    },
+    {
       "id": 54178976598416,
       "title": "Applied Physics/Physics Colloquium: Jo Dunkley - \"The Simons Observatory\"",
       "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-jo-dunkley-the-simons-observatory",
@@ -8776,6 +8742,31 @@
       ],
       "dates": [
         "2027-05-05"
+      ]
+    },
+    {
+      "id": 53868952564336,
+      "title": "Stephen Teiser: \"Merit for Mothers: Childbirth Rituals in Early Chinese Buddhism\"",
+      "url": "https://events.stanford.edu/event/stephen-teiser-merit-for-mothers-childbirth-rituals-in-early-chinese-buddhism",
+      "experience": "inperson",
+      "location": "TBD",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53871077435056/huge/3e7f1b886fef89f0a79340823a22db2b0a0836c6.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-05-06",
+          "start": "2027-05-06T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-06"
       ]
     }
   ]
