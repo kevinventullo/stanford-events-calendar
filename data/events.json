@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T18:14:51+00:00",
+  "generated_at": "2026-11-09T07:42:09+00:00",
   "window": {
-    "start": "2026-11-08",
-    "end": "2027-05-07"
+    "start": "2026-11-09",
+    "end": "2027-05-08"
   },
   "filters": {
     "public_audiences": [
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -91,7 +90,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -157,7 +155,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-12",
         "2026-11-13",
@@ -280,7 +277,8 @@
         "2027-05-01",
         "2027-05-02",
         "2027-05-03",
-        "2027-05-06"
+        "2027-05-06",
+        "2027-05-07"
       ]
     },
     {
@@ -300,7 +298,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -349,7 +346,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-12",
         "2026-11-13",
@@ -502,7 +498,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-12",
         "2026-11-13",
@@ -618,7 +613,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -675,7 +669,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -762,7 +755,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-08",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -1173,11 +1165,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-08",
-          "start": "2026-11-08T14:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-13",
           "start": "2026-11-13T14:00:00-08:00",
           "all_day": false
@@ -1299,7 +1286,6 @@
         }
       ],
       "dates": [
-        "2026-11-08",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -1327,9 +1313,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-08",
+      "next_date": "2026-11-13",
       "last_date": "2027-01-03",
-      "count": 25
+      "count": 24
     },
     {
       "id": 53969632558021,
@@ -1657,6 +1643,11 @@
           "date": "2027-05-01",
           "start": "2027-05-01T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-07",
+          "start": "2027-05-07T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1703,13 +1694,14 @@
         "2027-04-23",
         "2027-04-24",
         "2027-04-30",
-        "2027-05-01"
+        "2027-05-01",
+        "2027-05-07"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-13",
-      "last_date": "2027-05-01",
-      "count": 44
+      "last_date": "2027-05-07",
+      "count": 45
     },
     {
       "id": 53737430719656,
@@ -1727,11 +1719,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-08",
-          "start": "2026-11-08T13:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-14",
           "start": "2026-11-14T13:00:00-08:00",
@@ -1964,7 +1951,6 @@
         }
       ],
       "dates": [
-        "2026-11-08",
         "2026-11-14",
         "2026-11-15",
         "2026-11-21",
@@ -2014,9 +2000,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-11-08",
+      "next_date": "2026-11-14",
       "last_date": "2027-05-02",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737452675144,
@@ -2034,11 +2020,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-08",
-          "start": "2026-11-08T15:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-14",
           "start": "2026-11-14T15:00:00-08:00",
@@ -2271,7 +2252,6 @@
         }
       ],
       "dates": [
-        "2026-11-08",
         "2026-11-14",
         "2026-11-15",
         "2026-11-21",
@@ -2321,9 +2301,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-11-08",
+      "next_date": "2026-11-14",
       "last_date": "2027-05-02",
-      "count": 47
+      "count": 46
     },
     {
       "id": 54356095805619,
@@ -2442,6 +2422,11 @@
           "date": "2027-04-30",
           "start": "2027-04-30T11:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-07",
+          "start": "2027-05-07T11:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2465,13 +2450,14 @@
         "2027-04-09",
         "2027-04-16",
         "2027-04-23",
-        "2027-04-30"
+        "2027-04-30",
+        "2027-05-07"
       ],
       "pattern": "Fridays",
       "time": "11 AM",
       "next_date": "2026-11-13",
-      "last_date": "2027-04-30",
-      "count": 21
+      "last_date": "2027-05-07",
+      "count": 22
     },
     {
       "id": 53889137015268,
@@ -2816,64 +2802,6 @@
   ],
   "events": [
     {
-      "id": 54045329866890,
-      "title": "Stanford Alumni Recital",
-      "url": "https://events.stanford.edu/event/stanford-alumni-recital-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511180561564/huge/6c8086a1bec359c4c123fd421480414907486882.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-08",
-          "start": "2026-11-08T19:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-08"
-      ]
-    },
-    {
-      "id": 53889377253207,
-      "title": "University Public Worship: Ecumenical Multifaith Service with Chaplain Kulapradīpa Dasa (Kenneth Nacario Lee).",
-      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-chaplain-kenneth-nacario-lee-kula-pradipa-das",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53889400677174/huge/48b0bcda8f14eeba08236ae4e4e74037dfbf0362.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-08",
-          "start": "2026-11-08T11:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-04-18",
-          "start": "2027-04-18T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-08",
-        "2027-04-18"
-      ]
-    },
-    {
       "id": 53984485260371,
       "title": "Biology Seminar Series - Stefan Feske, MD \"Ion channels and transporters regulating lymphocyte function \"",
       "url": "https://events.stanford.edu/event/biology-seminar-series-stefan-feske-md-ion-channels-and-transporters-regulating-lymphocyte-function",
@@ -3206,7 +3134,7 @@
       "title": "International Climate Negotiations: Fossil Fuel Phase Out Scenarios with En-ROADS",
       "url": "https://events.stanford.edu/event/international-climate-negotiations-fossil-fuel-phase-out-scenarios-with-en-roads",
       "experience": "inperson",
-      "location": "",
+      "location": "Roble Hall, 374 Santa Teresa Street, Stanford, CA 94305",
       "types": [
         "Class/Seminar"
       ],
@@ -3216,7 +3144,7 @@
         "Environment/Sustainability",
         "International Affairs"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/39148815921531/huge/e667009060a7b8301c30eafa96bd58b716269bb8.jpg",
       "free": false,
       "instances": [
         {
@@ -8537,6 +8465,31 @@
       ]
     },
     {
+      "id": 53889377253207,
+      "title": "University Public Worship: Ecumenical Multifaith Service with Chaplain Kulapradīpa Dasa (Kenneth Nacario Lee).",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-multifaith-service-with-chaplain-kenneth-nacario-lee-kula-pradipa-das",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889400677174/huge/48b0bcda8f14eeba08236ae4e4e74037dfbf0362.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-04-18",
+          "start": "2027-04-18T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-04-18"
+      ]
+    },
+    {
       "id": 53286315501779,
       "title": "April Museum Minis: Storytime at the Anderson",
       "url": "https://events.stanford.edu/event/April-museum-minis-storytime-at-the-anderson",
@@ -8767,6 +8720,33 @@
       ],
       "dates": [
         "2027-05-06"
+      ]
+    },
+    {
+      "id": 54001217062326,
+      "title": "Noon Concert: Piano Students of Kumaran Arul",
+      "url": "https://events.stanford.edu/event/noon-arul-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001217042869/huge/020adcaba26fc907b86cae4226fbe82a7bbd7670.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-05-07",
+          "start": "2027-05-07T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-07"
       ]
     }
   ]
