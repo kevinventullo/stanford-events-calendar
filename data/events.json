@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T07:42:09+00:00",
+  "generated_at": "2026-11-09T22:54:51+00:00",
   "window": {
     "start": "2026-11-09",
     "end": "2027-05-08"
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 14,
+    "ongoing": 15,
     "recurring": 14,
-    "dated": 224
+    "dated": 229
   },
   "ongoing": [
     {
@@ -892,6 +892,147 @@
         "2026-12-03",
         "2026-12-04"
       ]
+    },
+    {
+      "id": 54470477504285,
+      "title": "California Current: Art and Histories from the Bay Area",
+      "url": "https://events.stanford.edu/event/california-current-art-and-histories-from-the-bay-area-6587",
+      "experience": "inperson",
+      "location": "Freidenrich Family Gallery",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54437595085660/huge/616799faea2b9d9673d65b70cee1f561ca7d15c6.jpg",
+      "free": false,
+      "first_date": "2026-11-09",
+      "last_date": "2028-10-23",
+      "dates": [
+        "2026-11-09",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-11-30",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-13",
+        "2026-12-14",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-21",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-28",
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-04",
+        "2027-01-07",
+        "2027-01-08",
+        "2027-01-09",
+        "2027-01-10",
+        "2027-01-11",
+        "2027-01-14",
+        "2027-01-15",
+        "2027-01-16",
+        "2027-01-17",
+        "2027-01-18",
+        "2027-01-21",
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-25",
+        "2027-01-28",
+        "2027-01-29",
+        "2027-01-30",
+        "2027-01-31",
+        "2027-02-01",
+        "2027-02-04",
+        "2027-02-05",
+        "2027-02-06",
+        "2027-02-07",
+        "2027-02-08",
+        "2027-02-11",
+        "2027-02-12",
+        "2027-02-13",
+        "2027-02-14",
+        "2027-02-15",
+        "2027-02-18",
+        "2027-02-19",
+        "2027-02-20",
+        "2027-02-21",
+        "2027-02-22",
+        "2027-02-25",
+        "2027-02-26",
+        "2027-02-27",
+        "2027-02-28",
+        "2027-03-01",
+        "2027-03-04",
+        "2027-03-05",
+        "2027-03-06",
+        "2027-03-07",
+        "2027-03-08",
+        "2027-03-11",
+        "2027-03-12",
+        "2027-03-13",
+        "2027-03-14",
+        "2027-03-15",
+        "2027-03-18",
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-22",
+        "2027-03-26",
+        "2027-03-27",
+        "2027-03-28",
+        "2027-03-29",
+        "2027-04-01",
+        "2027-04-02",
+        "2027-04-03",
+        "2027-04-04",
+        "2027-04-05",
+        "2027-04-08",
+        "2027-04-09",
+        "2027-04-10",
+        "2027-04-11",
+        "2027-04-12",
+        "2027-04-15",
+        "2027-04-16",
+        "2027-04-17",
+        "2027-04-18",
+        "2027-04-19",
+        "2027-04-22",
+        "2027-04-23",
+        "2027-04-24",
+        "2027-04-25",
+        "2027-04-26",
+        "2027-04-29",
+        "2027-04-30",
+        "2027-05-01",
+        "2027-05-02",
+        "2027-05-03",
+        "2027-05-06",
+        "2027-05-07"
+      ]
     }
   ],
   "recurring": [
@@ -1049,6 +1190,11 @@
           "all_day": false
         },
         {
+          "date": "2026-11-27",
+          "start": "2026-11-27T12:00:00-08:00",
+          "all_day": false
+        },
+        {
           "date": "2026-12-11",
           "start": "2026-12-11T12:00:00-08:00",
           "all_day": false
@@ -1096,6 +1242,7 @@
       ],
       "dates": [
         "2026-11-13",
+        "2026-11-27",
         "2026-12-11",
         "2027-01-08",
         "2027-01-22",
@@ -1110,7 +1257,7 @@
       "time": "12 PM",
       "next_date": "2026-11-13",
       "last_date": "2027-04-23",
-      "count": 10
+      "count": 11
     },
     {
       "id": 43703730447104,
@@ -4539,6 +4686,56 @@
       ]
     },
     {
+      "id": 54471546835118,
+      "title": "How the World Learns: Education & Culture from Five Countries.",
+      "url": "https://events.stanford.edu/event/how-the-world-learns-education-culture-from-five-countries-a-discussion-panel",
+      "experience": "inperson",
+      "location": "Bechtel International Center, Assembly room, 584 Capistrano Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54471989505528/huge/3081892122ef860ce018ff5b3a763779f39db9b8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
+      "id": 54471189704528,
+      "title": "International Education Week: Scholar Research Presentation with Iryna Barba",
+      "url": "https://events.stanford.edu/event/international-education-week-scholar-research-presentation-with-iryna-barba",
+      "experience": "inperson",
+      "location": "Bechtel International Center, Assembly, 584 Capistrano Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54471281230985/huge/198a17855f2bfd3fcc40fb65917cbf8f6c929d22.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T13:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 54435599094545,
       "title": "Jillian Schwedler — Are the Streets Still Talking? Protests and Evolving Repression in the Middle East",
       "url": "https://events.stanford.edu/event/jillian-schwedler-are-the-streets-still-talking-protests-and-evolving-repression-in-the-middle-east",
@@ -4714,6 +4911,33 @@
         {
           "date": "2026-11-17",
           "start": "2026-11-17T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54471918307184,
+      "title": "Earth & Planetary Sciences Seminar - Prof. Peng Ni \"Unraveling Earth’s dynamic history through sublithospheric diamonds\"",
+      "url": "https://events.stanford.edu/event/earth-planetary-sciences-seminar-prof-peng-ni-unraveling-earths-dynamic-history-through-sublithospheric-diamonds",
+      "experience": "inperson",
+      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54471933108663/huge/a0691df672d0148f1802c1c11b04aa54136833bd.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5927,6 +6151,30 @@
       ]
     },
     {
+      "id": 54471513208388,
+      "title": "Poetry on the Porch with Stephanie Horvath and Hieu Minh Nguyen",
+      "url": "https://events.stanford.edu/event/poetry-on-the-porch-with-stephanie-horvath-and-hieu-minh-nguyen",
+      "experience": "inperson",
+      "location": "Mariposa House, Front Lawn, 585 Capistrano Way, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54471709640817/huge/be82b0dd1e086676f51f3545513fcb23a4981f36.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
       "id": 54171355037758,
       "title": "Stanford New Ensemble: Wind Power",
       "url": "https://events.stanford.edu/event/stanford-new-ensemble-fall26",
@@ -6062,7 +6310,7 @@
     },
     {
       "id": 54365069773601,
-      "title": "Forms & Frequencies | Xina Xurner with Tzotzona",
+      "title": "Forms & Frequencies | Xina Xurner with Tzotzona and Christopher Richmond",
       "url": "https://events.stanford.edu/event/forms-frequencies-xina-xurner-with-tzotzona",
       "experience": "inperson",
       "location": "Cantor Arts Center, Auditorium, 328 Lomita Drive, Stanford, CA 94305",
@@ -7867,6 +8115,29 @@
       "dates": [
         "2027-02-19",
         "2027-02-20"
+      ]
+    },
+    {
+      "id": 54470439826056,
+      "title": "Applied Physics/Physics Colloquium:  Ned S. Wingreen- \"How Your Immune System Learns\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-ned-s-wingreen-how-your-immune-system-learns",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54470444228405/huge/301e5706fd8f2e940b5e9edd905f0509062d93b2.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-23",
+          "start": "2027-02-23T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-23"
       ]
     },
     {
