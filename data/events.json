@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T22:54:51+00:00",
+  "generated_at": "2026-11-10T08:02:54+00:00",
   "window": {
-    "start": "2026-11-09",
-    "end": "2027-05-08"
+    "start": "2026-11-10",
+    "end": "2027-05-09"
   },
   "filters": {
     "public_audiences": [
@@ -21,9 +21,9 @@
     "ongoing_min_span_days": 7
   },
   "counts": {
-    "ongoing": 15,
+    "ongoing": 16,
     "recurring": 14,
-    "dated": 229
+    "dated": 223
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -90,7 +89,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -155,7 +153,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-09",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -278,7 +275,8 @@
         "2027-05-02",
         "2027-05-03",
         "2027-05-06",
-        "2027-05-07"
+        "2027-05-07",
+        "2027-05-08"
       ]
     },
     {
@@ -298,7 +296,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -346,7 +343,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-09",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -498,7 +494,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-09",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -582,7 +577,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-09",
         "2026-11-13",
         "2026-11-16",
         "2026-11-20",
@@ -613,7 +607,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -669,7 +662,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -755,7 +747,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -808,7 +799,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -842,7 +832,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -876,7 +865,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -910,7 +898,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-09",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -1031,7 +1018,45 @@
         "2027-05-02",
         "2027-05-03",
         "2027-05-06",
-        "2027-05-07"
+        "2027-05-07",
+        "2027-05-08"
+      ]
+    },
+    {
+      "id": 54472836138101,
+      "title": "2027 First-Year MFA Exhibition",
+      "url": "https://events.stanford.edu/event/2027-first-year-mfa-exhibition",
+      "experience": "inperson",
+      "location": "McMurtry Building, Coulter Art Gallery, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54472843022604/huge/859e4006a7d38b8c9ac12dbf643a1becf9374fac.jpg",
+      "free": false,
+      "first_date": "2027-02-17",
+      "last_date": "2027-03-12",
+      "dates": [
+        "2027-02-17",
+        "2027-02-18",
+        "2027-02-19",
+        "2027-02-22",
+        "2027-02-23",
+        "2027-02-24",
+        "2027-02-25",
+        "2027-02-26",
+        "2027-03-01",
+        "2027-03-02",
+        "2027-03-03",
+        "2027-03-04",
+        "2027-03-05",
+        "2027-03-08",
+        "2027-03-09",
+        "2027-03-10",
+        "2027-03-11",
+        "2027-03-12"
       ]
     }
   ],
@@ -1051,11 +1076,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54135699818834/huge/1376b90c955d9db6d926c8a488eceaa34f8684b5.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T19:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-11",
           "start": "2026-11-11T19:00:00-08:00",
@@ -1093,7 +1113,6 @@
         }
       ],
       "dates": [
-        "2026-11-09",
         "2026-11-11",
         "2026-11-16",
         "2026-11-18",
@@ -1104,9 +1123,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-11-09",
+      "next_date": "2026-11-11",
       "last_date": "2026-12-09",
-      "count": 8
+      "count": 7
     },
     {
       "id": 53629749361008,
@@ -1795,6 +1814,11 @@
           "date": "2027-05-07",
           "start": "2027-05-07T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-08",
+          "start": "2027-05-08T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1842,13 +1866,14 @@
         "2027-04-24",
         "2027-04-30",
         "2027-05-01",
-        "2027-05-07"
+        "2027-05-07",
+        "2027-05-08"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-13",
-      "last_date": "2027-05-07",
-      "count": 45
+      "last_date": "2027-05-08",
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -2095,6 +2120,11 @@
           "date": "2027-05-02",
           "start": "2027-05-02T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-08",
+          "start": "2027-05-08T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2143,13 +2173,14 @@
         "2027-04-24",
         "2027-04-25",
         "2027-05-01",
-        "2027-05-02"
+        "2027-05-02",
+        "2027-05-08"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-14",
-      "last_date": "2027-05-02",
-      "count": 46
+      "last_date": "2027-05-08",
+      "count": 47
     },
     {
       "id": 53737452675144,
@@ -2396,6 +2427,11 @@
           "date": "2027-05-02",
           "start": "2027-05-02T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-08",
+          "start": "2027-05-08T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2444,13 +2480,14 @@
         "2027-04-24",
         "2027-04-25",
         "2027-05-01",
-        "2027-05-02"
+        "2027-05-02",
+        "2027-05-08"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-14",
-      "last_date": "2027-05-02",
-      "count": 46
+      "last_date": "2027-05-08",
+      "count": 47
     },
     {
       "id": 54356095805619,
@@ -2949,232 +2986,6 @@
   ],
   "events": [
     {
-      "id": 53984485260371,
-      "title": "Biology Seminar Series - Stefan Feske, MD \"Ion channels and transporters regulating lymphocyte function \"",
-      "url": "https://events.stanford.edu/event/biology-seminar-series-stefan-feske-md-ion-channels-and-transporters-regulating-lymphocyte-function",
-      "experience": "inperson",
-      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53984486925343/huge/e8a03274b27c60bc636f9e0d8a80740a26d06784.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 54420388418679,
-      "title": "ESE Seminar - Bo Guo: \"Fate and Transport of PFAS in Unsaturated Porous Media across Scales:   Interfacial Partitioning, Thin Water Films, and Upscaling\"",
-      "url": "https://events.stanford.edu/event/ese-seminar-bo-guo-fate-and-transport-of-pfas-in-unsaturated-porous-media-across-scales-interfacial-partitioning-thin-water-films-and-upscaling",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54420391510196/huge/a65b0e04162b00c3e8ba57bc3a738a63375695fb.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 53948468115058,
-      "title": "For the Next Generation: Mental Health in Asian American, Native Hawaiian, and Pacific Islander Youth",
-      "url": "https://events.stanford.edu/event/for-the-next-generation-mental-health-in-asian-american-native-hawaiian-and-pacific-islander-youth",
-      "experience": "inperson",
-      "location": "Building 360, CCSRE Conference Room (First Floor), Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54038092476111/huge/024e9dbff49de02b6839a88216d6f1dbf2ae0ad0.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 54417723060833,
-      "title": "HAI & AI Governance Lab | A Conversation with Jacob Coxon & Rob Reich",
-      "url": "https://events.stanford.edu/event/hai-ai-governance-lab-a-conversation-with-jacob-coxon-rob-reich",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54417756324395/huge/f1bd458f9aba0c4cd6138f5135e38ad31815f937.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 53552403342725,
-      "title": "Stanford Energy Seminar | More Value per Tonne: Rethinking How We Use Rock | Tiziana Vanorio, Stanford University",
-      "url": "https://events.stanford.edu/event/stanford-energy-seminar-11092026",
-      "experience": "hybrid",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53604097478679/huge/fd6fddd96347abbc31e368742dc999781be56dfa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 54169501224167,
-      "title": "Stanford University, American Legion, City of Palo Alto Veterans Day Celebration",
-      "url": "https://events.stanford.edu/event/stanford-university-palo-alto-veterans-day-celebration",
-      "experience": "inperson",
-      "location": "MacArthur Park Restaurant, 27 University Ave, Palo Alto, CA 94301",
-      "types": [],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54411694671525/huge/e1efc2c223deaef4b28120ba96ceb3ea3ad2f3f0.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 54307460146595,
-      "title": "Tim Bakken, Professor of Law, U.S. Military Academy, West Point on The Consequences of Silence When Academic Freedom and Expression are at Risk: Learning to Speak and Act According to Your Conscience",
-      "url": "https://events.stanford.edu/event/tim-bakken-professor-of-law-us-military-academy-west-point-the-consequences-of-silence-when-academic-freedom-and-expression-are-at-risk-learning-to-speak-and-act-according-to-your-conscience",
-      "experience": "hybrid",
-      "location": "Angela Nomellini & Ken Olivier building (ANKO), 109 The Learning Hall, 485 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54307465098265/huge/6da0b2a5b5bca645b42a2a93bdb9d928cd2a0ec3.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T16:45:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 54307369440520,
-      "title": "Tim Bakken, Professor of Law, U.S. Military Academy, West Point on The Costs and Benefits of Speaking Up for Academic Freedom in Medical Schools: A Legal and Practical Perspective",
-      "url": "https://events.stanford.edu/event/tim-bakken-professor-of-law-us-military-academy-west-point-the-costs-and-benefits-of-speaking-up-for-academic-freedom-in-medical-schools-a-legal-and-practical-perspective",
-      "experience": "hybrid",
-      "location": "Munzer Auditorium, Munzer Auditorium , Beckman Center, 279 Campus Drive W, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54307404344426/huge/0545810c50b35eed0ef30545dbe926aea481b0dc.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
-      "id": 54250837828477,
-      "title": "War, Sanctions and the Intimacy of Everyday Life",
-      "url": "https://events.stanford.edu/event/war-sanctions-and-the-intimacy-of-everyday-life",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Diversity/Identity",
-        "International Affairs",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54294371468369/huge/49ac21eb647f08d948eea1687c06c12de68b8a52.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-09",
-          "start": "2026-11-09T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-09"
-      ]
-    },
-    {
       "id": 54426626598206,
       "title": "Applied Physics/Physics Colloquium: Dmitry Abanin - \"Quantum advantage and computational complexity of many-body systems\"",
       "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-dmitry-abanin-quantum-advantage-and-computational-complexity-of-many-body-systems",
@@ -3269,6 +3080,31 @@
         {
           "date": "2026-11-10",
           "start": "2026-11-10T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
+      "id": 54473336191173,
+      "title": "FROM PROTOTYPE TO MOBILITY: Scaling Sustainable Transportation in America",
+      "url": "https://events.stanford.edu/event/from-prototype-to-mobility-scaling-sustainable-transportation-in-america",
+      "experience": "inperson",
+      "location": "Tresidder Union, Cypress Lounge, second floor of Tresidder Memorial Union, Stanford, 459 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54473356247827/huge/38c3329eaadebc00ac522e0ba107a87a4d0e1c1c.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-10",
+          "start": "2026-11-10T13:00:00-08:00",
           "all_day": false
         }
       ],
@@ -3984,6 +3820,33 @@
         {
           "date": "2026-11-13",
           "start": "2026-11-13T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    {
+      "id": 54472726245245,
+      "title": "Film Screening: Prisoner No. 626710 is Present, or Qaidi No. 626710 Haazir Hai",
+      "url": "https://events.stanford.edu/event/film-screening-prisoner-no-626710-is-present-orqaidi-no-626710-haazir-hai",
+      "experience": "inperson",
+      "location": "McMurtry Building, 115, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Diversity/Identity",
+        "Law/Public Policy/Politics",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54472921241366/huge/7573c27db0ab4ba044596e79f602de186ffafb84.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-13",
+          "start": "2026-11-13T13:30:00-08:00",
           "all_day": false
         }
       ],
@@ -5694,6 +5557,32 @@
         {
           "date": "2026-11-19",
           "start": "2026-11-19T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
+      "id": 54472908774344,
+      "title": "The Devil in Africa: Racialized Diabolism in the Age of Encounter | Alexis Wells-Oghoghomeh",
+      "url": "https://events.stanford.edu/event/the-devil-in-africa-racialized-diabolism-in-the-age-of-encounter-alexis-wells-oghoghomeh",
+      "experience": "inperson",
+      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54472918658773/huge/01b8ac03a5d75afe0edaa6142d361c0a221c9408.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T17:30:00-08:00",
           "all_day": false
         }
       ],
