@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:02:54+00:00",
+  "generated_at": "2026-11-10T20:17:35+00:00",
   "window": {
     "start": "2026-11-10",
     "end": "2027-05-09"
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 16,
-    "recurring": 14,
-    "dated": 223
+    "recurring": 15,
+    "dated": 226
   },
   "ongoing": [
     {
@@ -1482,6 +1482,72 @@
       "next_date": "2026-11-13",
       "last_date": "2027-01-03",
       "count": 24
+    },
+    {
+      "id": 47995278168103,
+      "title": "Holiday Hours: No Group Fitness or Rec Classes",
+      "url": "https://events.stanford.edu/event/thanksgiving-hours-no-group-fitness-or-rec-classes-1067",
+      "experience": "inperson",
+      "location": "",
+      "types": [
+        "Other"
+      ],
+      "subjects": [
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/49499518757331/huge/ddf6d0f504340aa934e83a45ba81e742daf976cd.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-23",
+          "start": "2026-11-23T00:00:00-08:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-11-24",
+          "start": "2026-11-24T00:00:00-08:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-11-25",
+          "start": "2026-11-25T00:00:00-08:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-11-26",
+          "start": "2026-11-26T00:00:00-08:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-11-27",
+          "start": "2026-11-27T00:00:00-08:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-11-28",
+          "start": "2026-11-28T00:00:00-08:00",
+          "all_day": true
+        },
+        {
+          "date": "2026-11-29",
+          "start": "2026-11-29T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "pattern": "Various days",
+      "time": "All day",
+      "next_date": "2026-11-23",
+      "last_date": "2026-11-29",
+      "count": 7
     },
     {
       "id": 53969632558021,
@@ -3458,7 +3524,7 @@
     },
     {
       "id": 54231147388320,
-      "title": "Mighty Like A Moose – Stephen Prutsman & The Dolphins Quartet",
+      "title": "Mighty Like a Moose – Stephen Prutsman & The Dolphins Quartet",
       "url": "https://events.stanford.edu/event/mighty-like-a-moose-prutsman-dolphins",
       "experience": "inperson",
       "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
@@ -4549,6 +4615,31 @@
       ]
     },
     {
+      "id": 54480326045099,
+      "title": "ESE Seminar - Ruben Juanes: \"Photoporomechanics: Towards stress-tensor tomography in 3D granular media\"",
+      "url": "https://events.stanford.edu/event/ese-seminar-ruben-juanes-photoporomechanics-towards-stress-tensor-tomography-in-3d-granular-media",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54480329429097/huge/e1894692d3d95e9a927f62e257ef6f8dc9dda592.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 54471546835118,
       "title": "How the World Learns: Education & Culture from Five Countries.",
       "url": "https://events.stanford.edu/event/how-the-world-learns-education-culture-from-five-countries-a-discussion-panel",
@@ -4730,6 +4821,33 @@
       ]
     },
     {
+      "id": 54480225773034,
+      "title": "A Conversation with Kanishka Narayan, U.K. Minister for AI",
+      "url": "https://events.stanford.edu/event/a-conversation-with-kanishka-narayan-uk-minister-for-ai",
+      "experience": "inperson",
+      "location": "GSB Knight - Arbuckle / Cemex, 641 Knight Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54480249856812/huge/f6402a27113cd06b1b7dae41734f206d65c9e1ff.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
       "id": 54064489983767,
       "title": "American Surgical Association (ASA) Meeting Abstract Deadline",
       "url": "https://events.stanford.edu/event/copy-of-american-society-of-colon-and-rectal-surgeons-meeting-ascrs-abstract-deadline",
@@ -4774,6 +4892,29 @@
         {
           "date": "2026-11-17",
           "start": "2026-11-17T19:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54479774835355,
+      "title": "Applied Physics/Physics Colloquium:Mikhail Lukin - \"New frontier of Quantum Computing\"",
+      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquiummikhail-lukin-new-frontier-of-quantum-computing",
+      "experience": "inperson",
+      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54479790753017/huge/0133ef04cc219ad600ec4a3e812c0cfa134e1d81.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T15:30:00-08:00",
           "all_day": false
         }
       ],
