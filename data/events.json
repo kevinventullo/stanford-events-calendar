@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T20:17:35+00:00",
+  "generated_at": "2026-11-11T07:31:54+00:00",
   "window": {
-    "start": "2026-11-10",
-    "end": "2027-05-09"
+    "start": "2026-11-11",
+    "end": "2027-05-10"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 15,
-    "dated": 226
+    "dated": 218
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -89,7 +88,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -276,7 +274,8 @@
         "2027-05-03",
         "2027-05-06",
         "2027-05-07",
-        "2027-05-08"
+        "2027-05-08",
+        "2027-05-09"
       ]
     },
     {
@@ -296,7 +295,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -607,7 +605,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -662,7 +659,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -747,7 +743,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -799,7 +794,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -832,7 +826,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -865,7 +858,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -1019,7 +1011,8 @@
         "2027-05-03",
         "2027-05-06",
         "2027-05-07",
-        "2027-05-08"
+        "2027-05-08",
+        "2027-05-09"
       ]
     },
     {
@@ -2191,6 +2184,11 @@
           "date": "2027-05-08",
           "start": "2027-05-08T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-09",
+          "start": "2027-05-09T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2240,13 +2238,14 @@
         "2027-04-25",
         "2027-05-01",
         "2027-05-02",
-        "2027-05-08"
+        "2027-05-08",
+        "2027-05-09"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-14",
-      "last_date": "2027-05-08",
-      "count": 47
+      "last_date": "2027-05-09",
+      "count": 48
     },
     {
       "id": 53737452675144,
@@ -2498,6 +2497,11 @@
           "date": "2027-05-08",
           "start": "2027-05-08T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-09",
+          "start": "2027-05-09T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2547,13 +2551,14 @@
         "2027-04-25",
         "2027-05-01",
         "2027-05-02",
-        "2027-05-08"
+        "2027-05-08",
+        "2027-05-09"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-14",
-      "last_date": "2027-05-08",
-      "count": 47
+      "last_date": "2027-05-09",
+      "count": 48
     },
     {
       "id": 54356095805619,
@@ -3051,347 +3056,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54426626598206,
-      "title": "Applied Physics/Physics Colloquium: Dmitry Abanin - \"Quantum advantage and computational complexity of many-body systems\"",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquium-dmitry-abanin-quantum-advantage-and-computational-complexity-of-many-body-systems",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54426650646938/huge/a4e34a0c2d9be86ef36c6f05df5609c7cda8f621.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T15:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 53604059426372,
-      "title": "Biosecurity in an Age of AI: Frontier Safety, Anticipatory Governance, and Defensive Innovation",
-      "url": "https://events.stanford.edu/event/biosecurity-in-an-age-of-ai-frontier-safety-anticipatory-governance-and-defensive-innovation-jassi-pannu",
-      "experience": "inperson",
-      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53604077753391/huge/2ce6bf74cf2b545e9a87daf41682eca167695131.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54409686625147,
-      "title": "Faculty Candidate Talk: “Candyman 5x: Playing Wretched in the Candyman Films of Bernard Rose and Nia DaCosta” | Zayla Crocker, PhD Candidate, UNC-Chapel Hill",
-      "url": "https://events.stanford.edu/event/faculty-candidate-talk-candyman-5x-playing-wretched-in-the-candyman-films-of-bernard-rose-and-nia-dacosta-zayla-crocker-phd-candidate-unc-chapel-hill",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54409693597909/huge/17a71219bd958f26d91dffc272a6438fa96c4ae9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54241742757329,
-      "title": "Filmmaker Kahlil Joseph, In Conversation",
-      "url": "https://events.stanford.edu/event/filmmaker-kahlil-joseph-in-conversation",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54418974102523/huge/64290ec25214400ed0b336035888ad39f020f75e.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T19:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54473336191173,
-      "title": "FROM PROTOTYPE TO MOBILITY: Scaling Sustainable Transportation in America",
-      "url": "https://events.stanford.edu/event/from-prototype-to-mobility-scaling-sustainable-transportation-in-america",
-      "experience": "inperson",
-      "location": "Tresidder Union, Cypress Lounge, second floor of Tresidder Memorial Union, Stanford, 459 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54473356247827/huge/38c3329eaadebc00ac522e0ba107a87a4d0e1c1c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T13:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54448896905646,
-      "title": "International Climate Negotiations: Fossil Fuel Phase Out Scenarios with En-ROADS",
-      "url": "https://events.stanford.edu/event/international-climate-negotiations-fossil-fuel-phase-out-scenarios-with-en-roads",
-      "experience": "inperson",
-      "location": "Roble Hall, 374 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Education",
-        "Engineering/Technology",
-        "Environment/Sustainability",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39148815921531/huge/e667009060a7b8301c30eafa96bd58b716269bb8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 53879694289980,
-      "title": "L. Maria Bo, \"Writing on Water: Cold War Literary Translations and the Chinese Diaspora,\" in conversation with Vaughn Rasberry",
-      "url": "https://events.stanford.edu/event/l-maria-bo-writing-on-water-cold-war-literary-translations-and-the-chinese-diaspora",
-      "experience": "inperson",
-      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53879699800212/huge/cc416dd61b34ef1b035774065e9fdd408540bf53.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54427358260173,
-      "title": "Pediatric Grand Rounds (CME): Beyond Blood: Transplant and Gene-Edited Cell Therapy for Neurodegenerative Disease in Children",
-      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-when-governments-swipe-left-australias-social-media-policy",
-      "experience": "inperson",
-      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Medicine",
-        "Science",
-        "Health/Wellness",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54427358205899/huge/dcc629ce99c61f200235e7fa6cf8b3021a28eb64.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T08:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54004138575427,
-      "title": "Protest and Politics in Turkey in the 70s",
-      "url": "https://events.stanford.edu/event/protest-and-politics-in-turkey-in-the-70s",
-      "experience": "hybrid",
-      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54004141303312/huge/9f04aa7659774c9c33033ea417517bebc111a02c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54223182189805,
-      "title": "Relational Intelligence (RQ): Building Relational Futures in the Age of AI",
-      "url": "https://events.stanford.edu/event/relational-intelligence-rq-building-relational-futures-in-the-age-of-ai",
-      "experience": "hybrid",
-      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54346305355093/huge/54d97ba5f2525e2e5bbb3c43ad1627e203cd18a6.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54348710964216,
-      "title": "Science, Statecraft, and National Resilience: Rethinking Governance in the Philippines",
-      "url": "https://events.stanford.edu/event/science-statecraft-and-national-resilience-rethinking-governance-in-the-philippines",
-      "experience": "inperson",
-      "location": "Encina Hall, Philippines Conference Room, 3rd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "International Affairs",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54348720260596/huge/7409e614b7377f2a4e576be52459f0416de1cb45.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 53879814094096,
-      "title": "Special, Unique, and Rare: CITIES",
-      "url": "https://events.stanford.edu/event/special-unique-and-rare-cities",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Diversity/Identity",
-        "Education",
-        "Engineering/Technology",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54437454726467/huge/06eb82419f23ed4cf02df14c26edf1709048e8db.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
-      "id": 54428918282158,
-      "title": "Sustainable Systems Seminar Lunch Series -  Hierarchical Solving of High-Resolution Energy System Models",
-      "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-series-andreas-muhlbauer",
-      "experience": "inperson",
-      "location": "Press Building, 106, 425 Santa Teresa St, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54428932067832/huge/60d1020abe7b09d223409440744dd552f4a9c2ea.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-10",
-          "start": "2026-11-10T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-10"
-      ]
-    },
     {
       "id": 53852108956000,
       "title": "BOOK LAUNCH: Literature and Emergency Law in Kashmir and Northern Ireland",
@@ -4424,6 +4088,31 @@
       ]
     },
     {
+      "id": 54435561021390,
+      "title": "Anesthesiology Grand Rounds with the California Surgeon General",
+      "url": "https://events.stanford.edu/event/anesthesiology-grand-rounds-with-the-california-surgeon-general",
+      "experience": "hybrid",
+      "location": "New Stanford Hospital, Assembly Hall, 3rd Floor Rooftop (500 Pasteur Dr.), 500 Pasteur Dr., Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54472936973535/huge/ae1e0a82a468c9f9294ba5a3c2394834d60118e7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-16",
+          "start": "2026-11-16T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    {
       "id": 53993186509703,
       "title": "Biology Seminar Series - Cecilia Leal \"Non-Lamellar Lipid Membranes as Regulators of Biological Function \"",
       "url": "https://events.stanford.edu/event/biology-seminar-series-cecilia-leal-non-lamellar-lipid-membranes-as-regulators-of-biological-function",
@@ -4822,7 +4511,7 @@
     },
     {
       "id": 54480225773034,
-      "title": "A Conversation with Kanishka Narayan, U.K. Minister for AI",
+      "title": "A Conversation with Kanishka Narayan, MBA ’21, U.K. Minister for AI",
       "url": "https://events.stanford.edu/event/a-conversation-with-kanishka-narayan-uk-minister-for-ai",
       "experience": "inperson",
       "location": "GSB Knight - Arbuckle / Cemex, 641 Knight Way, Stanford, CA 94305",
@@ -6074,6 +5763,56 @@
       ]
     },
     {
+      "id": 54481993752212,
+      "title": "Terman Library Presents: Textile Destress",
+      "url": "https://events.stanford.edu/event/terman-library-presents-textile-destress-8847",
+      "experience": "inperson",
+      "location": "Y2E2 Building, 335, 473 Via Ortega, Stanford, CA 94305",
+      "types": [
+        "Workshop"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54481996802512/huge/1a418ea0ebbc24452783594601c8f22ed1f5c47f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
+      ]
+    },
+    {
+      "id": 54411262101363,
+      "title": "After the Midterms: What’s Next for America’s Korea Policy?",
+      "url": "https://events.stanford.edu/event/after-the-midterms-whats-next-for-americas-korea-policy",
+      "experience": "inperson",
+      "location": "Encina Hall, 3rd Floor, Philippines Conference Room (C330), 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54472893705156/huge/1e3a4b5539ee79047cd29ad6611aa55599a6b2a8.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
       "id": 53949492427776,
       "title": "Book Event with Roland Betancourt and T.L. Taylor, \"Disneyland and the Rise of Automation\"",
       "url": "https://events.stanford.edu/event/book-event-with-roland-betancourt-and-tl-taylor-disneyland-and-the-rise-of-automation",
@@ -6417,6 +6156,29 @@
       ]
     },
     {
+      "id": 53878443469394,
+      "title": "Maisha Winn, \"Futuring Black Lives: Independent Black Institutions and the Literary Imagination,\" in conversation with Adam Banks",
+      "url": "https://events.stanford.edu/event/maisha-winn-futuring-black-lives-independent-black-institutions-and-the-literary-imagination",
+      "experience": "inperson",
+      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/53878484500957/huge/30760e9cc0178fabdb6edc78a3e97c497c351ec0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
       "id": 54346059508376,
       "title": "SLE Salon: Yuri Herrera discusses his book The Transmigration of Bodies",
       "url": "https://events.stanford.edu/event/sle-salon-yuri-herrera-discusses-his-book-the-transmigration-of-bodies",
@@ -6624,6 +6386,31 @@
         {
           "date": "2026-12-04",
           "start": "2026-12-04T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04"
+      ]
+    },
+    {
+      "id": 54481448193529,
+      "title": "Overt Listening (2026): A Screening and Conversation with Tiffany Sia",
+      "url": "https://events.stanford.edu/event/overt-listening-2026-a-screening-and-conversation-with-tiffany-sia",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Film/Screening"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54481600899006/huge/bf727128af3aeaae24c0c77ebfa6f5d00efeea13.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T17:30:00-08:00",
           "all_day": false
         }
       ],
