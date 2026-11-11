@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:31:54+00:00",
+  "generated_at": "2026-11-11T20:02:09+00:00",
   "window": {
     "start": "2026-11-11",
     "end": "2027-05-10"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 15,
-    "dated": 218
+    "dated": 219
   },
   "ongoing": [
     {
@@ -4207,7 +4207,7 @@
         "Humanities",
         "Law/Public Policy/Politics"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54311555097061/huge/32c9ad618434e84a92cd0c00126b88b523cb891b.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54488802150615/huge/78d11aad6a7b93281ccadb5af610a5f981d4e368.jpg",
       "free": false,
       "instances": [
         {
@@ -4330,7 +4330,7 @@
     },
     {
       "id": 54471546835118,
-      "title": "How the World Learns: Education & Culture from Five Countries.",
+      "title": "How the World Learns: Education & Culture from Six Countries",
       "url": "https://events.stanford.edu/event/how-the-world-learns-education-culture-from-five-countries-a-discussion-panel",
       "experience": "inperson",
       "location": "Bechtel International Center, Assembly room, 584 Capistrano Way, Stanford, CA 94305",
@@ -4340,7 +4340,7 @@
       "subjects": [
         "Education"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54471989505528/huge/3081892122ef860ce018ff5b3a763779f39db9b8.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54488053354180/huge/4f1a0541cee79929bd68532ba880155782cfe2b1.jpg",
       "free": false,
       "instances": [
         {
@@ -4604,6 +4604,33 @@
         {
           "date": "2026-11-17",
           "start": "2026-11-17T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54488039518167,
+      "title": "CCRMA Presents: Sound, Voice, Strings – Compositions for Traditional East Asian Instruments",
+      "url": "https://events.stanford.edu/event/ccrma-composition-for-east-asian-instruments",
+      "experience": "inperson",
+      "location": "The Knoll, CCRMA Stage, 660 Lomita Court, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54488058285916/huge/6586c6330b245f66a4156aeac03c3eeac8ef9c81.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T19:30:00-08:00",
           "all_day": false
         }
       ],
