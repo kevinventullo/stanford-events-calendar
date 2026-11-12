@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T20:02:09+00:00",
+  "generated_at": "2026-11-12T08:00:25+00:00",
   "window": {
-    "start": "2026-11-11",
-    "end": "2027-05-10"
+    "start": "2026-11-12",
+    "end": "2027-05-11"
   },
   "filters": {
     "public_audiences": [
@@ -22,8 +22,8 @@
   },
   "counts": {
     "ongoing": 16,
-    "recurring": 15,
-    "dated": 219
+    "recurring": 16,
+    "dated": 210
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -88,7 +87,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -275,7 +273,8 @@
         "2027-05-06",
         "2027-05-07",
         "2027-05-08",
-        "2027-05-09"
+        "2027-05-09",
+        "2027-05-10"
       ]
     },
     {
@@ -295,7 +294,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -430,7 +428,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-18",
@@ -605,7 +602,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-15",
@@ -659,7 +655,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -743,7 +738,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-14",
@@ -794,7 +788,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-16",
@@ -826,7 +819,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-16",
@@ -858,7 +850,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-11",
         "2026-11-12",
         "2026-11-13",
         "2026-11-16",
@@ -1012,7 +1003,8 @@
         "2027-05-06",
         "2027-05-07",
         "2027-05-08",
-        "2027-05-09"
+        "2027-05-09",
+        "2027-05-10"
       ]
     },
     {
@@ -1070,11 +1062,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-11",
-          "start": "2026-11-11T19:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-16",
           "start": "2026-11-16T19:00:00-08:00",
           "all_day": false
@@ -1106,7 +1093,6 @@
         }
       ],
       "dates": [
-        "2026-11-11",
         "2026-11-16",
         "2026-11-18",
         "2026-11-30",
@@ -1116,9 +1102,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-11-11",
+      "next_date": "2026-11-16",
       "last_date": "2026-12-09",
-      "count": 7
+      "count": 6
     },
     {
       "id": 53629749361008,
@@ -1558,11 +1544,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-11",
-          "start": "2026-11-11T12:15:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-12-02",
           "start": "2026-12-02T12:15:00-08:00",
           "all_day": false
@@ -1614,7 +1595,6 @@
         }
       ],
       "dates": [
-        "2026-11-11",
         "2026-12-02",
         "2026-12-16",
         "2027-01-13",
@@ -1628,9 +1608,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "12:15 PM",
-      "next_date": "2026-11-11",
+      "next_date": "2026-12-02",
       "last_date": "2027-05-05",
-      "count": 11
+      "count": 10
     },
     {
       "id": 53694822395653,
@@ -2730,16 +2710,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-15",
-          "start": "2026-11-15T11:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T11:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-29",
           "start": "2026-11-29T11:00:00-08:00",
           "all_day": false
@@ -2766,8 +2736,6 @@
         }
       ],
       "dates": [
-        "2026-11-15",
-        "2026-11-22",
         "2026-11-29",
         "2027-01-10",
         "2027-01-31",
@@ -2776,9 +2744,45 @@
       ],
       "pattern": "Sundays",
       "time": "11 AM",
-      "next_date": "2026-11-15",
+      "next_date": "2026-11-29",
       "last_date": "2027-04-25",
-      "count": 7
+      "count": 5
+    },
+    {
+      "id": 45880382222808,
+      "title": "University Public Worship: Ecumenical Christian Service with Rev. Glen Davis, Chaplain Affiliate, Preaching.",
+      "url": "https://events.stanford.edu/event/upw-glen-davis",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/48925769576147/huge/95612d87cecd1f3a1b5f01206c8c38b1bacd867d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-15",
+          "start": "2026-11-15T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T11:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-15",
+        "2026-12-06"
+      ],
+      "pattern": "Sundays",
+      "time": "11 AM",
+      "next_date": "2026-11-15",
+      "last_date": "2026-12-06",
+      "count": 2
     },
     {
       "id": 47557682677329,
@@ -2852,11 +2856,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-11",
-          "start": "2026-11-11T09:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-18",
           "start": "2026-11-18T09:00:00-08:00",
           "all_day": false
@@ -2878,7 +2877,6 @@
         }
       ],
       "dates": [
-        "2026-11-11",
         "2026-11-18",
         "2026-12-02",
         "2026-12-09",
@@ -2886,9 +2884,9 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-11-11",
+      "next_date": "2026-11-18",
       "last_date": "2026-12-16",
-      "count": 5
+      "count": 4
     },
     {
       "id": 54356689351868,
@@ -2901,11 +2899,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54356737631040/huge/3812711bf075d58222e4c218a047a05aede5167c.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T09:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-18",
           "start": "2026-11-18T09:00:00-08:00",
@@ -3023,7 +3016,6 @@
         }
       ],
       "dates": [
-        "2026-11-11",
         "2026-11-18",
         "2026-11-25",
         "2026-12-02",
@@ -3050,221 +3042,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-11-11",
+      "next_date": "2026-11-18",
       "last_date": "2027-05-05",
-      "count": 24
+      "count": 23
     }
   ],
   "events": [
-    {
-      "id": 53852108956000,
-      "title": "BOOK LAUNCH: Literature and Emergency Law in Kashmir and Northern Ireland",
-      "url": "https://events.stanford.edu/event/book-launch-literature-and-emergency-law-in-kashmir-and-northern-ireland",
-      "experience": "inperson",
-      "location": "Building 80, Auditorium, 450 Jane Stanford Way, Building 80, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54373694999024/huge/ccf5167b92705a13e43593d5bde9b0e0d7897403.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": 54409321531694,
-      "title": "Bowes Art & Architecture Library Pop-up: Cities  November 11, 1-3 pm",
-      "url": "https://events.stanford.edu/event/bowes-art-architecture-library-pop-up-cities-november-11-1-3-pm",
-      "experience": "inperson",
-      "location": "McMurtry Building, Bowes Art & Architecture Library, 2nd floor. For building/elevator access, please call 650-723-3408., 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Environment/Sustainability",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54409329978663/huge/11d5edbc6c88b160fe717df3b68411b4cddad7db.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T13:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": 54004107756594,
-      "title": "Lauren Kolodny @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/lauren-kolodny-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54004147212043/huge/626c5ad8ff3e225d208cd002f34d82bb49bd9a37.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": 54419379180408,
-      "title": "Lunch Club Series | Beneath Tiahuanacu’s Streets: Ceramic iconography and Ancient Heritage in an Aymara town",
-      "url": "https://events.stanford.edu/event/lunch-club-series-beneath-tiahuanacus-streets-ceramic-iconography-and-ancient-heritage-in-an-aymara-town",
-      "experience": "hybrid",
-      "location": "Building 500, Archaeology Center, 106, 488 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54419390043996/huge/8d0a4add612195fb4fbf1f9b4a920261e43a8d42.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": 54294462056439,
-      "title": "Medical Humanites: Lean poetry, disappearing bodies, transcendent self—the poetics of Anorexia Nervosa in Louise Gluck",
-      "url": "https://events.stanford.edu/event/medical-humanites-lean-poetry-disappearing-bodies-transcendent-selfthe-poetics-of-anorexia-nervosa-in-louise-gluck",
-      "experience": "inperson",
-      "location": "Humanities Center, Boardroom, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54294466416631/huge/51f6b63bc7f9687e51e7a2afce33d57c5354ec70.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": 54231147388320,
-      "title": "Mighty Like a Moose – Stephen Prutsman & The Dolphins Quartet",
-      "url": "https://events.stanford.edu/event/mighty-like-a-moose-prutsman-dolphins",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54231209213698/huge/a08ad1753d72b5308e849ac0d1085d247a6c2fe8.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": 54222647385710,
-      "title": "When We Bridge: Indigenous Peoples’ Guardianship, Knowledge, and Global Impact",
-      "url": "https://events.stanford.edu/event/center-for-just-environmental-futures-inaugural-distinguished-lecture-series-featuring-aulani-wilhelm-ceo-of-nia-tero",
-      "experience": "inperson",
-      "location": "The Press Building, 106, 425 Santa Teresa St.  Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54232494592361/huge/d67d0a159e5d55e68c193232a07a961c3915c9ef.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": 54432265531280,
-      "title": "Yoga on the Farm",
-      "url": "https://events.stanford.edu/event/yoga-on-the-farm",
-      "experience": "inperson",
-      "location": "O'Donohue Family Stanford Educational Farm 555 Fremont Rd, 555 Fremont Rd. Stanford Ca 94305",
-      "types": [
-        "Fitness/Recreational Sport"
-      ],
-      "subjects": [
-        "Health/Wellness"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54432272742195/huge/ae989ab9db444cf5cf568a4e91c97b9d789ccbc6.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-11",
-          "start": "2026-11-11T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-11"
-      ]
-    },
     {
       "id": 53879093950767,
       "title": "How to Fix a Broken Hierarchy",
@@ -4694,34 +4477,6 @@
       ]
     },
     {
-      "id": 54187926399673,
-      "title": "Estonia at the Front Line: Security, Resilience, and Technology: A Discussion with the Prime Minister of Estonia Kristen Michal",
-      "url": "https://events.stanford.edu/event/prime-minister-estonia-2026",
-      "experience": "inperson",
-      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54188039227107/huge/7ce833555a7046e65258c607f9c12607d48b8556.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
       "id": 54411448205344,
       "title": "German Studies Lecture Series: Jutta Eming - How Do You Dance a Cabinet of Curiosities?",
       "url": "https://events.stanford.edu/event/german-studies-lecture-series-jutta-eming-how-do-you-dance-a-cabinet-of-curiosities",
@@ -5632,6 +5387,43 @@
       ],
       "dates": [
         "2026-11-22"
+      ]
+    },
+    {
+      "id": 53889458133359,
+      "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889478755330/huge/d62095b7f0db6dca332e9ade25d80a22a4fe8a72.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-22",
+          "start": "2026-11-22T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-13",
+          "start": "2026-12-13T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-14",
+          "start": "2027-03-14T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-22",
+        "2026-12-13",
+        "2027-03-14"
       ]
     },
     {
@@ -6629,43 +6421,6 @@
       ],
       "dates": [
         "2026-12-06"
-      ]
-    },
-    {
-      "id": 53889458133359,
-      "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
-      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53889478755330/huge/d62095b7f0db6dca332e9ade25d80a22a4fe8a72.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-12-06",
-          "start": "2026-12-06T11:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-13",
-          "start": "2026-12-13T11:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-14",
-          "start": "2027-03-14T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-12-06",
-        "2026-12-13",
-        "2027-03-14"
       ]
     },
     {
