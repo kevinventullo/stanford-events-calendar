@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:00:25+00:00",
+  "generated_at": "2026-11-12T20:41:06+00:00",
   "window": {
     "start": "2026-11-12",
     "end": "2027-05-11"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 210
+    "dated": 211
   },
   "ongoing": [
     {
@@ -4347,7 +4347,7 @@
     },
     {
       "id": 54031120591943,
-      "title": "Another Look presents Tobias Wolff's \"Old School\"",
+      "title": "Another Look presents Tobias Wolff’s “Old School”",
       "url": "https://events.stanford.edu/event/another-look-presents-tobias-wolffs-old-school",
       "experience": "hybrid",
       "location": "Stanford Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford",
@@ -5574,6 +5574,34 @@
         {
           "date": "2026-12-01",
           "start": "2026-12-01T15:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
+      ]
+    },
+    {
+      "id": 54498355163226,
+      "title": "Big Earth Hackathon Project Expo",
+      "url": "https://events.stanford.edu/event/big-earth-hackathon-project-expo",
+      "experience": "inperson",
+      "location": "Press Building, 106, 425 Santa Teresa St",
+      "types": [
+        "Conference/Symposium",
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511132022526/huge/8b63f835157393024435c44abec1262f961674b0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -8121,13 +8149,13 @@
       "free": true,
       "instances": [
         {
-          "date": "2027-03-12",
-          "start": "2027-03-12T12:30:00-08:00",
+          "date": "2027-03-11",
+          "start": "2027-03-11T12:30:00-08:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2027-03-12"
+        "2027-03-11"
       ]
     },
     {
