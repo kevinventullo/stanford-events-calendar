@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:39:13+00:00",
+  "generated_at": "2026-11-13T20:22:20+00:00",
   "window": {
     "start": "2026-11-13",
     "end": "2027-05-12"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 206
+    "dated": 208
   },
   "ongoing": [
     {
@@ -3218,7 +3218,7 @@
       "id": 54003375972123,
       "title": "Stanford Afro-Latin Jazz Ensemble",
       "url": "https://events.stanford.edu/event/salje-fall26",
-      "experience": "hybrid",
+      "experience": "inperson",
       "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
       "types": [
         "Performance"
@@ -4184,6 +4184,29 @@
         {
           "date": "2026-11-17",
           "start": "2026-11-17T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
+      "id": 54373610349667,
+      "title": "Game Nights @ Green: John Company",
+      "url": "https://events.stanford.edu/event/game-nights-john-company-second-edition",
+      "experience": "inperson",
+      "location": "Green Library Hohbach Hall, 118",
+      "types": [
+        "Other"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T17:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5609,6 +5632,31 @@
       ],
       "dates": [
         "2026-12-02"
+      ]
+    },
+    {
+      "id": 54505774765152,
+      "title": "Book Talk with Logan Wright | Broken China: How the Economic Miracle Shattered and What it Means for the World",
+      "url": "https://events.stanford.edu/event/book-talk-with-logan-wright-broken-china-how-the-economic-miracle-shattered-and-what-it-means-for-the-world",
+      "experience": "inperson",
+      "location": "George P. Shultz Building, Shultz Auditorium, 426 Galvez Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54505828199673/huge/a988975a9f815e050a8585b6020f8dd1539e5576.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
       ]
     },
     {
