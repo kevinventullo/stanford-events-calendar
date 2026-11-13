@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T20:41:06+00:00",
+  "generated_at": "2026-11-13T07:39:13+00:00",
   "window": {
-    "start": "2026-11-12",
-    "end": "2027-05-11"
+    "start": "2026-11-13",
+    "end": "2027-05-12"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 211
+    "dated": 206
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -87,7 +86,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -149,7 +147,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -294,7 +291,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -339,7 +335,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -428,7 +423,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-18",
         "2026-11-19",
@@ -489,7 +483,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -602,7 +595,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-15",
         "2026-11-16",
@@ -655,7 +647,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -738,7 +729,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -788,7 +778,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-16",
         "2026-11-17",
@@ -819,7 +808,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-16",
         "2026-11-17",
@@ -850,7 +838,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-16",
         "2026-11-17",
@@ -881,7 +868,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -1123,11 +1109,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-12",
-          "start": "2026-11-12T10:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-19",
           "start": "2026-11-19T10:00:00-08:00",
           "all_day": false
@@ -1154,7 +1135,6 @@
         }
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-19",
         "2026-11-26",
         "2026-12-03",
@@ -1163,9 +1143,9 @@
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-11-12",
+      "next_date": "2026-11-19",
       "last_date": "2026-12-17",
-      "count": 6
+      "count": 5
     },
     {
       "id": 50967994153103,
@@ -3049,271 +3029,6 @@
   ],
   "events": [
     {
-      "id": 53879093950767,
-      "title": "How to Fix a Broken Hierarchy",
-      "url": "https://events.stanford.edu/event/how-to-fix-a-broken-hierarchy",
-      "experience": "hybrid",
-      "location": "GSB Knight - Class of 1968, C102, 653 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53879105725094/huge/9edf45d06261c032d5a86ead614e5541ac758869.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 54112511033941,
-      "title": "Making Letters: Typography Across Hand, Screen, and Loom",
-      "url": "https://events.stanford.edu/event/making-letters-typography-across-hand-screen-and-loom",
-      "experience": "inperson",
-      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Engineering/Technology",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54112523970978/huge/0e1b25c81caa8f9fb1c8c7d8405df735133834f5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 54251541114674,
-      "title": "MRC Public Lecture: Tadashi Tokieda",
-      "url": "https://events.stanford.edu/event/mrc-public-lecture-tadashi-tokieda",
-      "experience": "inperson",
-      "location": "GSB Knight - Arbuckle / Cemex, Cemex Auditorium, 641 Knight Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54251551223597/huge/a25fa76830ba09f249391e808aaa7f42f1bd0aa5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 54364839338499,
-      "title": "Stanford Baroque Recital",
-      "url": "https://events.stanford.edu/event/stanford-baroque-recital",
-      "experience": "inperson",
-      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54364839128576/huge/88fcbf0a3e734e200fca830eb84dc8bac712f008.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 54366374878619,
-      "title": "The Idea that Made U.S.: Dialogues on Freedom: 25 Years After 9/11: The History of Surveillance, Technology, and Democracy",
-      "url": "https://events.stanford.edu/event/the-idea-that-made-us-dialogues-on-freedom-25-years-after-911-the-history-of-surveillance-technology-and-democracy",
-      "experience": "inperson",
-      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54366388768331/huge/f4e25f100bb8fa1aad7d6ee38c66a27f59e473b2.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 52825303977410,
-      "title": "Tour Denning House, home to Knight-Hennessy Scholars",
-      "url": "https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-to-knight-hennessy-scholars",
-      "experience": "inperson",
-      "location": "Denning House, 580 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/52825303909824/huge/829a4eb56dfb5abe34da3b312a4c341563df91ba.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 54110219613216,
-      "title": "Unsettling the New AI Status Quo",
-      "url": "https://events.stanford.edu/event/unsettling-the-new-ai-status-quo",
-      "experience": "inperson",
-      "location": "Tresidder Union, Cypress Lounge, 2nd Floor, 459 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54179555002385/huge/d3c9211fae891c51a79a4814d982430f3d40be9c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T11:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 54045658778096,
-      "title": "What is a Public Intellectual Today: Alexis Madrigal",
-      "url": "https://events.stanford.edu/event/what-is-a-public-intellectual-today-alexis-madrigal",
-      "experience": "inperson",
-      "location": "Tresidder Union, Oak Lounge, 459 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Career Development",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54045907384218/huge/1a0cfd3b0696593002d9f45864b6441a5b6ce1e9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T18:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 54356846743738,
-      "title": "World Diabetes Day Wellness Fair",
-      "url": "https://events.stanford.edu/event/world-diabetes-day-wellness-fair",
-      "experience": "inperson",
-      "location": "Bass Promenade South and Spieker Plaza, 300 Pasteur Drive, Palo Alto, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Health/Wellness",
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39089527664200/huge/7f15171538518d2c70f8e6c334b2e85829ea7a16.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-12",
-          "start": "2026-11-12T10:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-12"
-      ]
-    },
-    {
-      "id": 45864827002631,
-      "title": "David Rumsey Map Center Guided Tour",
-      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
-      "experience": "inperson",
-      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T15:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-04",
-          "start": "2026-12-04T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13",
-        "2026-12-04"
-      ]
-    },
-    {
       "id": 54231094017870,
       "title": "Emerging String Quartet Program – The Dolphins",
       "url": "https://events.stanford.edu/event/esqp-dolphins-quartet",
@@ -4607,6 +4322,31 @@
       ]
     },
     {
+      "id": 54500122978842,
+      "title": "Sustainable Systems Seminar Lunch Series -  A low-cost, low-maintenance nitrogen speciation platform for water nutrient monitoring",
+      "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-Pingyu-Wang",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 014, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54500141256183/huge/d173eb343a9d59cc07cea746f303d4b1149bd43e.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-11-17",
+          "start": "2026-11-17T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-17"
+      ]
+    },
+    {
       "id": 54118168357981,
       "title": "The Dangers of Focusing on the Danger of Digital Media Use",
       "url": "https://events.stanford.edu/event/the-dangers-of-focusing-on-the-danger-of-digital-media-use-1377",
@@ -5044,6 +4784,33 @@
         {
           "date": "2026-11-19",
           "start": "2026-11-19T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
+      "id": 54499448544810,
+      "title": "Artificial Intelligence Regulatory & Policy Landscapes: A Global View of Unmapped Territory",
+      "url": "https://events.stanford.edu/event/artificial-intelligence-regulatory-policy-landscapes-a-global-view-of-unmapped-territory-238",
+      "experience": "inperson",
+      "location": "Green Library (East), Green Library (East) IC Classroom 166",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54499454446805/huge/ee689503ac01cf17d69b75c3ffd67546a126d0e1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T11:00:00-08:00",
           "all_day": false
         }
       ],
@@ -6101,6 +5868,35 @@
       ]
     },
     {
+      "id": 45864827002631,
+      "title": "David Rumsey Map Center Guided Tour",
+      "url": "https://events.stanford.edu/event/david-rumsey-map-center-tour",
+      "experience": "inperson",
+      "location": "David Rumsey Map Center (Green Library), 557 Escondido Mall, Stanford, CA 94305",
+      "types": [
+        "Tour"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/45864850942816/huge/4cc594315a3137bbea4f148c26a5cbc31631a6f9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-04",
+          "start": "2026-12-04T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-11",
+          "start": "2026-12-11T15:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-04",
+        "2026-12-11"
+      ]
+    },
+    {
       "id": 54231039876849,
       "title": "Ensemble OH?: Here I Love You",
       "url": "https://events.stanford.edu/event/ensemble-oh-here-i-love-you",
@@ -6252,7 +6048,7 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54481600899006/huge/bf727128af3aeaae24c0c77ebfa6f5d00efeea13.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54481600899006/huge/ec68150f992c4e976e2341370c85a14a66c0f2cc.jpg",
       "free": false,
       "instances": [
         {
@@ -6521,6 +6317,31 @@
         {
           "date": "2026-12-08",
           "start": "2026-12-08T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-08"
+      ]
+    },
+    {
+      "id": 54499194381791,
+      "title": "Celebrating the Winners of the 2026 Saroyan Prize",
+      "url": "https://events.stanford.edu/event/2026-saroyan-prize",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, 5th floor, Bender Room, 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54499279793529/huge/3ad8033764a3e9bdfffac72f2180a78501bf3d0f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-08",
+          "start": "2026-12-08T16:30:00-08:00",
           "all_day": false
         }
       ],
@@ -8645,6 +8466,36 @@
       ],
       "dates": [
         "2027-05-07"
+      ]
+    },
+    {
+      "id": 53879903741984,
+      "title": "Special, Unique, and Rare: THE BAY AREA",
+      "url": "https://events.stanford.edu/event/special-unique-and-rare-bay-area",
+      "experience": "inperson",
+      "location": "Green Library, Bing Wing, Hohbach Hall 123 (1st floor, East Wing), 459 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "Education",
+        "Engineering/Technology",
+        "Social Justice/Human Rights"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53879903705118/huge/5e34a8367f575d535860a63685f3cf9a34bb600f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-05-11",
+          "start": "2027-05-11T14:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-11"
       ]
     }
   ]
