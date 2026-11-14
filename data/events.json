@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T20:22:20+00:00",
+  "generated_at": "2026-11-14T07:24:26+00:00",
   "window": {
-    "start": "2026-11-13",
-    "end": "2027-05-12"
+    "start": "2026-11-14",
+    "end": "2027-05-13"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 208
+    "dated": 204
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -86,7 +85,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -147,7 +145,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -291,7 +288,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -335,7 +331,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -423,7 +418,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-13",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -483,7 +477,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -565,7 +558,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-13",
         "2026-11-16",
         "2026-11-20",
         "2026-11-23",
@@ -595,7 +587,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-13",
         "2026-11-15",
         "2026-11-16",
         "2026-11-17",
@@ -647,7 +638,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -729,7 +719,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -778,7 +767,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-13",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -808,7 +796,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-13",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -838,7 +825,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-13",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -868,7 +854,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
@@ -1163,11 +1148,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-13",
-          "start": "2026-11-13T12:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-27",
           "start": "2026-11-27T12:00:00-08:00",
           "all_day": false
@@ -1219,7 +1199,6 @@
         }
       ],
       "dates": [
-        "2026-11-13",
         "2026-11-27",
         "2026-12-11",
         "2027-01-08",
@@ -1233,9 +1212,9 @@
       ],
       "pattern": "Fridays",
       "time": "12 PM",
-      "next_date": "2026-11-13",
+      "next_date": "2026-11-27",
       "last_date": "2027-04-23",
-      "count": 11
+      "count": 10
     },
     {
       "id": 43703730447104,
@@ -1289,11 +1268,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53818823543672/huge/08fb138cdc2527c77f963e09fac6886eb26e58b3.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T14:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-14",
           "start": "2026-11-14T14:00:00-08:00",
@@ -1411,7 +1385,6 @@
         }
       ],
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-15",
         "2026-11-20",
@@ -1438,9 +1411,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-13",
+      "next_date": "2026-11-14",
       "last_date": "2027-01-03",
-      "count": 24
+      "count": 23
     },
     {
       "id": 47995278168103,
@@ -1610,11 +1583,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-13",
-          "start": "2026-11-13T11:30:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-14",
           "start": "2026-11-14T11:30:00-08:00",
           "all_day": false
@@ -1657,6 +1625,16 @@
         {
           "date": "2026-12-12",
           "start": "2026-12-12T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-26",
+          "start": "2026-12-26T11:30:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-02",
+          "start": "2027-01-02T11:30:00-08:00",
           "all_day": false
         },
         {
@@ -1841,7 +1819,6 @@
         }
       ],
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-20",
         "2026-11-21",
@@ -1851,6 +1828,8 @@
         "2026-12-05",
         "2026-12-11",
         "2026-12-12",
+        "2026-12-26",
+        "2027-01-02",
         "2027-01-08",
         "2027-01-09",
         "2027-01-15",
@@ -1890,9 +1869,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-11-13",
+      "next_date": "2026-11-14",
       "last_date": "2027-05-08",
-      "count": 46
+      "count": 47
     },
     {
       "id": 53737430719656,
@@ -1968,6 +1947,26 @@
         {
           "date": "2026-12-20",
           "start": "2026-12-20T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-26",
+          "start": "2026-12-26T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-27",
+          "start": "2026-12-27T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-02",
+          "start": "2027-01-02T13:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-03",
+          "start": "2027-01-03T13:00:00-08:00",
           "all_day": false
         },
         {
@@ -2164,6 +2163,10 @@
         "2026-12-13",
         "2026-12-19",
         "2026-12-20",
+        "2026-12-26",
+        "2026-12-27",
+        "2027-01-02",
+        "2027-01-03",
         "2027-01-09",
         "2027-01-10",
         "2027-01-16",
@@ -2205,7 +2208,7 @@
       "time": "1 PM",
       "next_date": "2026-11-14",
       "last_date": "2027-05-09",
-      "count": 48
+      "count": 52
     },
     {
       "id": 53737452675144,
@@ -2281,6 +2284,26 @@
         {
           "date": "2026-12-20",
           "start": "2026-12-20T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-26",
+          "start": "2026-12-26T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-27",
+          "start": "2026-12-27T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-02",
+          "start": "2027-01-02T15:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-01-03",
+          "start": "2027-01-03T15:00:00-08:00",
           "all_day": false
         },
         {
@@ -2477,6 +2500,10 @@
         "2026-12-13",
         "2026-12-19",
         "2026-12-20",
+        "2026-12-26",
+        "2026-12-27",
+        "2027-01-02",
+        "2027-01-03",
         "2027-01-09",
         "2027-01-10",
         "2027-01-16",
@@ -2518,7 +2545,7 @@
       "time": "3 PM",
       "next_date": "2026-11-14",
       "last_date": "2027-05-09",
-      "count": 48
+      "count": 52
     },
     {
       "id": 54356095805619,
@@ -2533,11 +2560,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54356623311395/huge/e838e77a36567efe4339772676f5d57a9710302a.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T11:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-20",
           "start": "2026-11-20T11:00:00-08:00",
@@ -2645,7 +2667,6 @@
         }
       ],
       "dates": [
-        "2026-11-13",
         "2026-11-20",
         "2026-12-04",
         "2026-12-11",
@@ -2670,9 +2691,9 @@
       ],
       "pattern": "Fridays",
       "time": "11 AM",
-      "next_date": "2026-11-13",
+      "next_date": "2026-11-20",
       "last_date": "2027-05-07",
-      "count": 22
+      "count": 21
     },
     {
       "id": 53889137015268,
@@ -2993,6 +3014,11 @@
           "date": "2027-05-05",
           "start": "2027-05-05T09:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-12",
+          "start": "2027-05-12T09:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -3018,202 +3044,17 @@
         "2027-04-14",
         "2027-04-21",
         "2027-04-28",
-        "2027-05-05"
+        "2027-05-05",
+        "2027-05-12"
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
       "next_date": "2026-11-18",
-      "last_date": "2027-05-05",
-      "count": 23
+      "last_date": "2027-05-12",
+      "count": 24
     }
   ],
   "events": [
-    {
-      "id": 54231094017870,
-      "title": "Emerging String Quartet Program – The Dolphins",
-      "url": "https://events.stanford.edu/event/esqp-dolphins-quartet",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54231141410124/huge/eec89ab2f2a640e4f3ab4a8187543347680486fd.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13"
-      ]
-    },
-    {
-      "id": 54472726245245,
-      "title": "Film Screening: Prisoner No. 626710 is Present, or Qaidi No. 626710 Haazir Hai",
-      "url": "https://events.stanford.edu/event/film-screening-prisoner-no-626710-is-present-orqaidi-no-626710-haazir-hai",
-      "experience": "inperson",
-      "location": "McMurtry Building, 115, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Diversity/Identity",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54472921241366/huge/7573c27db0ab4ba044596e79f602de186ffafb84.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T13:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13"
-      ]
-    },
-    {
-      "id": 54410805814016,
-      "title": "Lecture: Visiting Composer – Wang Lu",
-      "url": "https://events.stanford.edu/event/guest-lecture-lu",
-      "experience": "inperson",
-      "location": "Braun Music Center, Room 103, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54410817523995/huge/4a73478cd0c638eb98df41627fc84dfed14860a5.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13"
-      ]
-    },
-    {
-      "id": 54410800154180,
-      "title": "PhD Dissertation Defense: Danielle Klinger",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-danielle-klinger",
-      "experience": "inperson",
-      "location": "Clark Center, S360, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54419306452440/huge/ffa355814fef112e625bf6ff7e36fd8bfe95bdcf.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T13:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13"
-      ]
-    },
-    {
-      "id": 54411409615588,
-      "title": "Special Seminar and Fireside Chat: Understanding Work Using AI",
-      "url": "https://events.stanford.edu/event/special-seminar-and-fireside-chat-understanding-work-using-ai",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Other"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Law/Public Policy/Politics",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54411422722343/huge/f50040a48d90b2e61e66414adf502b2ed1a15f2a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13"
-      ]
-    },
-    {
-      "id": 54003333227618,
-      "title": "Stanford Jazz Orchestra with Debora & Dani Gurgel",
-      "url": "https://events.stanford.edu/event/jazz-orchestra-fall26",
-      "experience": "hybrid",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54446693198357/huge/c117d18b69dd5284449469ba0c58e9a7bdec7d9b.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13"
-      ]
-    },
-    {
-      "id": 54003291220950,
-      "title": "Stanford Symphony Orchestra",
-      "url": "https://events.stanford.edu/event/symphony-orchestra-fall26-1",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003291132881/huge/0d8ec1fbc468afb3eb703e1878fb62f7957c7b15.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-13",
-          "start": "2026-11-13T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-13"
-      ]
-    },
     {
       "id": 54003375972123,
       "title": "Stanford Afro-Latin Jazz Ensemble",
@@ -5400,6 +5241,31 @@
       ]
     },
     {
+      "id": 54508027849180,
+      "title": "CPMH SEMINAR SERIES 'Cutting-edge advances towards personalized mental health'",
+      "url": "https://events.stanford.edu/event/cpmh-seminar-series-cutting-edge-advances-towards-personalized-mental-health",
+      "experience": "hybrid",
+      "location": "Lokey Stem Cell Building, G1161 Large Conference Room, 275 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Medicine"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54508054753938/huge/0a091d46bc094755f23dccc8b77db010d6c65efd.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T09:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
+      ]
+    },
+    {
       "id": 54481993752212,
       "title": "Terman Library Presents: Textile Destress",
       "url": "https://events.stanford.edu/event/terman-library-presents-textile-destress-8847",
@@ -5661,7 +5527,7 @@
     },
     {
       "id": 54435335460209,
-      "title": "BOOK TALK | A Conversation about the Art of Edmonia Lewis",
+      "title": "BOOK TALK | The Art of Edmonia Lewis",
       "url": "https://events.stanford.edu/event/the-art-of-edmonia-lewis",
       "experience": "inperson",
       "location": "Roble Gym, Lounge, 375 Santa Teresa Street, Stanford, CA 94305",
@@ -8544,6 +8410,57 @@
       ],
       "dates": [
         "2027-05-11"
+      ]
+    },
+    {
+      "id": 54001237695680,
+      "title": "Noon Concert: Flute Students of Melody Holmes",
+      "url": "https://events.stanford.edu/event/noon-holmes-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001237663935/huge/1ac31ef3400d57f0da2e9251edc8d577c03234e4.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-05-12",
+          "start": "2027-05-12T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-12"
+      ]
+    },
+    {
+      "id": 53995156575245,
+      "title": "Stegner Fellow Reading with J.L. Chen and Heidi Kaloustian",
+      "url": "https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-daniel-lurie-and-katerina-ivanov-prado-7530",
+      "experience": "inperson",
+      "location": "Stanford ChEM-H Building, John A. and Cynthia Fry Gunn Rotunda, E241, 290 Jane Stanford Way, Stanford, CA 94305",
+      "types": [],
+      "subjects": [
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53995272649425/huge/7c0cf79b7a51f0703a4841d29a2574d74744b2c7.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-05-12",
+          "start": "2027-05-12T18:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-12"
       ]
     }
   ]
