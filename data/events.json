@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T19:16:51+00:00",
+  "generated_at": "2026-11-16T07:42:11+00:00",
   "window": {
-    "start": "2026-11-15",
-    "end": "2027-05-14"
+    "start": "2026-11-16",
+    "end": "2027-05-15"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 198
+    "dated": 194
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -84,7 +83,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -143,7 +141,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-19",
         "2026-11-20",
@@ -266,7 +263,8 @@
         "2027-05-08",
         "2027-05-09",
         "2027-05-10",
-        "2027-05-13"
+        "2027-05-13",
+        "2027-05-14"
       ]
     },
     {
@@ -286,7 +284,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-19",
         "2026-11-20",
@@ -328,7 +325,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-19",
         "2026-11-20",
@@ -473,7 +469,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-19",
         "2026-11-20",
@@ -582,7 +577,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -633,7 +627,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -713,7 +706,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
@@ -847,7 +839,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-15",
         "2026-11-16",
         "2026-11-19",
         "2026-11-20",
@@ -968,7 +959,8 @@
         "2027-05-08",
         "2027-05-09",
         "2027-05-10",
-        "2027-05-13"
+        "2027-05-13",
+        "2027-05-14"
       ]
     },
     {
@@ -1189,6 +1181,11 @@
           "date": "2027-04-23",
           "start": "2027-04-23T12:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-14",
+          "start": "2027-05-14T12:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1201,13 +1198,14 @@
         "2027-03-12",
         "2027-03-26",
         "2027-04-09",
-        "2027-04-23"
+        "2027-04-23",
+        "2027-05-14"
       ],
       "pattern": "Fridays",
       "time": "12 PM",
       "next_date": "2026-11-27",
-      "last_date": "2027-04-23",
-      "count": 10
+      "last_date": "2027-05-14",
+      "count": 11
     },
     {
       "id": 43703730447104,
@@ -1261,11 +1259,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53818823543672/huge/08fb138cdc2527c77f963e09fac6886eb26e58b3.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T14:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-20",
           "start": "2026-11-20T14:00:00-08:00",
@@ -1373,7 +1366,6 @@
         }
       ],
       "dates": [
-        "2026-11-15",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -1398,9 +1390,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-15",
+      "next_date": "2026-11-20",
       "last_date": "2027-01-03",
-      "count": 22
+      "count": 21
     },
     {
       "id": 47995278168103,
@@ -1798,6 +1790,11 @@
           "date": "2027-05-08",
           "start": "2027-05-08T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-14",
+          "start": "2027-05-14T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1846,13 +1843,14 @@
         "2027-04-30",
         "2027-05-01",
         "2027-05-07",
-        "2027-05-08"
+        "2027-05-08",
+        "2027-05-14"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-20",
-      "last_date": "2027-05-08",
-      "count": 46
+      "last_date": "2027-05-14",
+      "count": 47
     },
     {
       "id": 53737430719656,
@@ -1870,11 +1868,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T13:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-21",
           "start": "2026-11-21T13:00:00-08:00",
@@ -2127,7 +2120,6 @@
         }
       ],
       "dates": [
-        "2026-11-15",
         "2026-11-21",
         "2026-11-22",
         "2026-11-28",
@@ -2181,9 +2173,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-11-15",
+      "next_date": "2026-11-21",
       "last_date": "2027-05-09",
-      "count": 51
+      "count": 50
     },
     {
       "id": 53737452675144,
@@ -2201,11 +2193,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T15:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-21",
           "start": "2026-11-21T15:00:00-08:00",
@@ -2458,7 +2445,6 @@
         }
       ],
       "dates": [
-        "2026-11-15",
         "2026-11-21",
         "2026-11-22",
         "2026-11-28",
@@ -2512,9 +2498,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-11-15",
+      "next_date": "2026-11-21",
       "last_date": "2027-05-09",
-      "count": 51
+      "count": 50
     },
     {
       "id": 54356095805619,
@@ -2633,6 +2619,11 @@
           "date": "2027-05-07",
           "start": "2027-05-07T11:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-14",
+          "start": "2027-05-14T11:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2656,13 +2647,14 @@
         "2027-04-16",
         "2027-04-23",
         "2027-04-30",
-        "2027-05-07"
+        "2027-05-07",
+        "2027-05-14"
       ],
       "pattern": "Fridays",
       "time": "11 AM",
       "next_date": "2026-11-20",
-      "last_date": "2027-05-07",
-      "count": 21
+      "last_date": "2027-05-14",
+      "count": 22
     },
     {
       "id": 53889137015268,
@@ -2734,25 +2726,19 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-15",
-          "start": "2026-11-15T11:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-12-06",
           "start": "2026-12-06T11:00:00-08:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2026-11-15",
         "2026-12-06"
       ],
       "pattern": "Sundays",
       "time": "11 AM",
-      "next_date": "2026-11-15",
+      "next_date": "2026-12-06",
       "last_date": "2026-12-06",
-      "count": 2
+      "count": 1
     },
     {
       "id": 47557682677329,
@@ -3018,138 +3004,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54171026939491,
-      "title": "Faculty Recital: Clara Christian, piano",
-      "url": "https://events.stanford.edu/event/clara-christian-faculty-recital",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54171062922731/huge/501f010ee680dceb44ac31996183f0f8c6f45999.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-15"
-      ]
-    },
-    {
-      "id": 53695161366348,
-      "title": "Public Tour | Cantor Highlights in Chinese",
-      "url": "https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights-in-chinese-4381",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53695161315145/huge/a04d5a884b40c05e4ace455aa3bf15a839776d62.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-15"
-      ]
-    },
-    {
-      "id": 54003312429091,
-      "title": "Stanford Symphony Orchestra",
-      "url": "https://events.stanford.edu/event/symphony-orchestra-fall26-2",
-      "experience": "hybrid",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003312389150/huge/f2c21d9febf1e7e3393d3c9e194446c237fb771a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T14:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-15"
-      ]
-    },
-    {
-      "id": 54064916323501,
-      "title": "The Pacific Association of Pediatric Surgeons (PAPS) Abstract Deadline",
-      "url": "https://events.stanford.edu/event/copy-of-plastic-surgery-research-council-meeting-psrc-abstract-deadline",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Conference/Symposium",
-        "Meeting"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54065086438612/huge/eac1a6041477e71a181c90f40c82625906a53fa4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T00:00:00-08:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-11-15"
-      ]
-    },
-    {
-      "id": 54170528742174,
-      "title": "The Voice Studio of Kathryne Jennings – Sing On!",
-      "url": "https://events.stanford.edu/event/jennings-voice-studio-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54170528711450/huge/0c44c85436e191339043bc033431586eb733f3df.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-15",
-          "start": "2026-11-15T14:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-15"
-      ]
-    },
     {
       "id": 54438062895196,
       "title": "Aditya Balasubramanian | Before Public Works: Roads in Late Company Period India",
@@ -8264,6 +8118,33 @@
       ],
       "dates": [
         "2027-05-13"
+      ]
+    },
+    {
+      "id": 54001316852844,
+      "title": "Noon Concert: Chamber Music Students of Lesley Robertson",
+      "url": "https://events.stanford.edu/event/noon-robertson-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001316805738/huge/395113faed3bca85222cb930241026a948cb26da.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-05-14",
+          "start": "2027-05-14T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-14"
       ]
     }
   ]
