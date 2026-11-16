@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:42:11+00:00",
+  "generated_at": "2026-11-16T22:46:14+00:00",
   "window": {
     "start": "2026-11-16",
     "end": "2027-05-15"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 194
+    "dated": 195
   },
   "ongoing": [
     {
@@ -4545,7 +4545,7 @@
     },
     {
       "id": 54171071512409,
-      "title": "Stanford Baroque Soloists: Other Chaconnes",
+      "title": "Stanford Baroque Soloists: Chamber Music Lineup",
       "url": "https://events.stanford.edu/event/baroque-soloists-fall26",
       "experience": "inperson",
       "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
@@ -5169,7 +5169,7 @@
         "Theater/Dance",
         "Diversity/Identity"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54435472422251/huge/7b828a5f97da5a39d6ea9c9716428414f2ad9325.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54534345014467/huge/03ac922f79dbd3c36405bc351ca7f9b94779656d.jpg",
       "free": false,
       "instances": [
         {
@@ -6393,6 +6393,34 @@
       "dates": [
         "2027-01-25",
         "2027-04-11"
+      ]
+    },
+    {
+      "id": 54533257376981,
+      "title": "Is Journalistic Neutrality Necessary? Dangerous? Impossible?",
+      "url": "https://events.stanford.edu/event/is-journalistic-neutrality-necessary-dangerous-impossible",
+      "experience": "inperson",
+      "location": "Encina Hall, Bechtel Conference Center, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54533263681421/huge/6fc5e31e2ec4b0327011e2441c8552845fea8f50.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-26",
+          "start": "2027-01-26T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-26"
       ]
     },
     {
