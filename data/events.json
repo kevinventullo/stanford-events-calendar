@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T22:46:14+00:00",
+  "generated_at": "2026-11-17T08:52:08+00:00",
   "window": {
-    "start": "2026-11-16",
-    "end": "2027-05-15"
+    "start": "2026-11-17",
+    "end": "2027-05-16"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 195
+    "dated": 179
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -83,7 +82,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -141,7 +139,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-16",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -264,7 +261,8 @@
         "2027-05-09",
         "2027-05-10",
         "2027-05-13",
-        "2027-05-14"
+        "2027-05-14",
+        "2027-05-15"
       ]
     },
     {
@@ -284,7 +282,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-16",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -325,7 +322,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-16",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -469,7 +465,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-16",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -548,7 +543,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-16",
         "2026-11-20",
         "2026-11-23",
         "2026-11-30",
@@ -577,7 +571,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -627,7 +620,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -706,7 +698,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -752,7 +743,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -781,7 +771,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -810,7 +799,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-16",
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
@@ -839,7 +827,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-16",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -960,7 +947,8 @@
         "2027-05-09",
         "2027-05-10",
         "2027-05-13",
-        "2027-05-14"
+        "2027-05-14",
+        "2027-05-15"
       ]
     },
     {
@@ -1018,11 +1006,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-16",
-          "start": "2026-11-16T19:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-18",
           "start": "2026-11-18T19:00:00-08:00",
           "all_day": false
@@ -1049,7 +1032,6 @@
         }
       ],
       "dates": [
-        "2026-11-16",
         "2026-11-18",
         "2026-11-30",
         "2026-12-02",
@@ -1058,9 +1040,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-11-16",
+      "next_date": "2026-11-18",
       "last_date": "2026-12-09",
-      "count": 6
+      "count": 5
     },
     {
       "id": 53629749361008,
@@ -1795,6 +1777,11 @@
           "date": "2027-05-14",
           "start": "2027-05-14T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-15",
+          "start": "2027-05-15T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1844,13 +1831,14 @@
         "2027-05-01",
         "2027-05-07",
         "2027-05-08",
-        "2027-05-14"
+        "2027-05-14",
+        "2027-05-15"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-20",
-      "last_date": "2027-05-14",
-      "count": 47
+      "last_date": "2027-05-15",
+      "count": 48
     },
     {
       "id": 53737430719656,
@@ -2117,6 +2105,11 @@
           "date": "2027-05-09",
           "start": "2027-05-09T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-15",
+          "start": "2027-05-15T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2169,13 +2162,14 @@
         "2027-05-01",
         "2027-05-02",
         "2027-05-08",
-        "2027-05-09"
+        "2027-05-09",
+        "2027-05-15"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-21",
-      "last_date": "2027-05-09",
-      "count": 50
+      "last_date": "2027-05-15",
+      "count": 51
     },
     {
       "id": 53737452675144,
@@ -2442,6 +2436,11 @@
           "date": "2027-05-09",
           "start": "2027-05-09T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-15",
+          "start": "2027-05-15T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2494,13 +2493,14 @@
         "2027-05-01",
         "2027-05-02",
         "2027-05-08",
-        "2027-05-09"
+        "2027-05-09",
+        "2027-05-15"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-21",
-      "last_date": "2027-05-09",
-      "count": 50
+      "last_date": "2027-05-15",
+      "count": 51
     },
     {
       "id": 54356095805619,
@@ -3004,454 +3004,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54438062895196,
-      "title": "Aditya Balasubramanian | Before Public Works: Roads in Late Company Period India",
-      "url": "https://events.stanford.edu/event/aditya-balasubramanian-before-public-works-roads-in-late-company-period-india",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54438073162285/huge/991682c6a1a0f17d96d3dd7c6b29b916d9c9fe55.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54435822985780,
-      "title": "An Extreme Event: 🌿 Community-Led Social Innovation in Times of Crisis in Nepal",
-      "url": "https://events.stanford.edu/event/an-extreme-event-community-led-social-innovation-in-times-of-crisis-in-nepal",
-      "experience": "inperson",
-      "location": "Stanford Graduate School of Business, 643 Jane Stanford Way, Stanford, CA. 94305, McClelland - M101D (Co-Lab)",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "Environment/Sustainability",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54435561021390,
-      "title": "Anesthesiology Grand Rounds with the California Surgeon General",
-      "url": "https://events.stanford.edu/event/anesthesiology-grand-rounds-with-the-california-surgeon-general",
-      "experience": "hybrid",
-      "location": "New Stanford Hospital, Assembly Hall, 3rd Floor Rooftop (500 Pasteur Dr.), 500 Pasteur Dr., Palo Alto, CA 94304",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54472936973535/huge/ae1e0a82a468c9f9294ba5a3c2394834d60118e7.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 53993186509703,
-      "title": "Biology Seminar Series - Cecilia Leal \"Non-Lamellar Lipid Membranes as Regulators of Biological Function \"",
-      "url": "https://events.stanford.edu/event/biology-seminar-series-cecilia-leal-non-lamellar-lipid-membranes-as-regulators-of-biological-function",
-      "experience": "inperson",
-      "location": "Clark Center, Clark Auditorium, 318 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53993188204035/huge/2257ab8b1b92d0f5e49dba91c1d1a18651e02f7f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54349334759666,
-      "title": "Book Talk - Fear of Queer Taiwan: Anti-LGBTQ Movements between Taiwan and the U.S. Religious Right",
-      "url": "https://events.stanford.edu/event/book-talk-fear-of-queer-taiwan-anti-lgbtq-movements-between-taiwan-and-the-us-religious-right",
-      "experience": "inperson",
-      "location": "Encina Hall, Philippines Conference Room, 3rd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Diversity/Identity",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Religion/Spirituality",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54349361813955/huge/fc48a907002a13387dd297afdfa4287946b3b681.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54366133069848,
-      "title": "Book Talk: Nuremberg's Citizen Prosecutor",
-      "url": "https://events.stanford.edu/event/book-talk-nurembergs-citizen-prosecutor",
-      "experience": "inperson",
-      "location": "Encina Hall, 030 Garden Level, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54420070800094/huge/277793ff2d0eb035812bb2803e0f44765a028c60.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54311544927658,
-      "title": "Book Talk: Prof. Cécile Alduy in Conversation with Prof. Josh Landy",
-      "url": "https://events.stanford.edu/event/book-talk-prof-cecile-alduy-in-conversation-with-prof-josh-landy",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54488802150615/huge/78d11aad6a7b93281ccadb5af610a5f981d4e368.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54373336907021,
-      "title": "Branner Library Pop-up Map Exhibit - Fire in the West",
-      "url": "https://events.stanford.edu/event/branner-popup-exhibit-fire-in-the-west",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54373378351086/huge/4ac0f53e67a6c704b2b721a715c56841bbc9c9fa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T00:00:00-08:00",
-          "all_day": true
-        },
-        {
-          "date": "2026-11-20",
-          "start": "2026-11-20T00:00:00-08:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-11-16",
-        "2026-11-20"
-      ]
-    },
-    {
-      "id": 54408950713344,
-      "title": "Christopher Ong | Research Acceleration: The View Inside OpenAI",
-      "url": "https://events.stanford.edu/event/christopher-ong-research-acceleration-the-view-inside-openai",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54408959559940/huge/1996abbe4defbced71ee4ba2d9e79ace577818dd.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 53755956103976,
-      "title": "Curator Led Talk | surfacing",
-      "url": "https://events.stanford.edu/event/curator-led-talk-surfacing-nov",
-      "experience": "inperson",
-      "location": "Anderson Collection, Wisch Family Gallery, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53755956050723/huge/04c63df9c6410141c8a43ef5ea9480c3a5c6e70a.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T13:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54480326045099,
-      "title": "ESE Seminar - Ruben Juanes: \"Photoporomechanics: Towards stress-tensor tomography in 3D granular media\"",
-      "url": "https://events.stanford.edu/event/ese-seminar-ruben-juanes-photoporomechanics-towards-stress-tensor-tomography-in-3d-granular-media",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54480329429097/huge/e1894692d3d95e9a927f62e257ef6f8dc9dda592.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54471546835118,
-      "title": "How the World Learns: Education & Culture from Six Countries",
-      "url": "https://events.stanford.edu/event/how-the-world-learns-education-culture-from-five-countries-a-discussion-panel",
-      "experience": "inperson",
-      "location": "Bechtel International Center, Assembly room, 584 Capistrano Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54488053354180/huge/4f1a0541cee79929bd68532ba880155782cfe2b1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54471189704528,
-      "title": "International Education Week: Scholar Research Presentation with Iryna Barba",
-      "url": "https://events.stanford.edu/event/international-education-week-scholar-research-presentation-with-iryna-barba",
-      "experience": "inperson",
-      "location": "Bechtel International Center, Assembly, 584 Capistrano Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54471281230985/huge/198a17855f2bfd3fcc40fb65917cbf8f6c929d22.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T13:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54435599094545,
-      "title": "Jillian Schwedler — Are the Streets Still Talking? Protests and Evolving Repression in the Middle East",
-      "url": "https://events.stanford.edu/event/jillian-schwedler-are-the-streets-still-talking-protests-and-evolving-repression-in-the-middle-east",
-      "experience": "hybrid",
-      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54435622779404/huge/757c120b35efcf874b3c35efb27fb0a67a8b948d.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 53286197324283,
-      "title": "November Museum Minis: Storytime at the Anderson",
-      "url": "https://events.stanford.edu/event/November-museum-minis-storytime-at-the-anderson",
-      "experience": "inperson",
-      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
-      "types": [
-        "Social Event/Reception"
-      ],
-      "subjects": [
-        "Arts/Media"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53286213457779/huge/df262b67235410b7a3a51f2e37a3488300639ca7.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T11:15:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 54196035364530,
-      "title": "Race and Gender in the Global Hispanophone: Bound Brothers Chinese Labor, Masculinity, and Nation in Nineteenth-Century Peru and Chile",
-      "url": "https://events.stanford.edu/event/race-and-gender-in-the-global-hispanophone-7911",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Room 252, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54383441995919/huge/5cca215201e74f23016385f42c53c78bd7c64f89.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
-    {
-      "id": 53552413163789,
-      "title": "Stanford Energy Seminar | Electrified metamaterial reactors for process intensified thermochemistry | Jonathan Fan, Stanford University",
-      "url": "https://events.stanford.edu/event/stanford-energy-seminar-11162026",
-      "experience": "hybrid",
-      "location": "Shriram Center, 104, 443 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Engineering/Technology",
-        "Business"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54439627811863/huge/7c072c4c69d8613eb378c187913721aca9534320.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-16",
-          "start": "2026-11-16T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-16"
-      ]
-    },
     {
       "id": 53886818518422,
       "title": "3rd Annual Silicon Valley IP Forum",
@@ -4488,6 +4040,33 @@
       ],
       "dates": [
         "2026-11-19"
+      ]
+    },
+    {
+      "id": 54373336907021,
+      "title": "Branner Library Pop-up Map Exhibit - Fire in the West",
+      "url": "https://events.stanford.edu/event/branner-popup-exhibit-fire-in-the-west",
+      "experience": "inperson",
+      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54373378351086/huge/4ac0f53e67a6c704b2b721a715c56841bbc9c9fa.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-20",
+          "start": "2026-11-20T00:00:00-08:00",
+          "all_day": true
+        }
+      ],
+      "dates": [
+        "2026-11-20"
       ]
     },
     {
