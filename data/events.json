@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:52:08+00:00",
+  "generated_at": "2026-11-17T21:32:28+00:00",
   "window": {
     "start": "2026-11-17",
     "end": "2027-05-16"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 179
+    "dated": 187
   },
   "ongoing": [
     {
@@ -4315,6 +4315,32 @@
       ]
     },
     {
+      "id": 54541897610794,
+      "title": "Richard Socher | The Eureka Machine: Why AI Is the Key to Unlocking a New Era of Scientific Discoveries",
+      "url": "https://events.stanford.edu/event/richard-socher-the-eureka-machine-why-ai-is-the-key-to-unlocking-a-new-era-of-scientific-discoveries",
+      "experience": "hybrid",
+      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Business",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54541902388621/huge/afd5acd523d8ddcd14cc1f9488f8576f35126fb9.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-30",
+          "start": "2026-11-30T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-30"
+      ]
+    },
+    {
       "id": 53552419782520,
       "title": "Stanford Energy Seminar | Soft Materials for Hard Sustainability Challenges: Water production, Data center Sustainability, and High-Temperature Heat | Carlos Diaz-Marin, Stanford University",
       "url": "https://events.stanford.edu/event/stanford-energy-seminar-11302026",
@@ -4748,7 +4774,7 @@
         "Theater/Dance",
         "Diversity/Identity"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54534345014467/huge/03ac922f79dbd3c36405bc351ca7f9b94779656d.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54542152469777/huge/c7e25cf8c28249429f70cf29ad9e0a565ff71592.jpg",
       "free": false,
       "instances": [
         {
@@ -4834,6 +4860,33 @@
         {
           "date": "2026-12-03",
           "start": "2026-12-03T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
+      "id": 54541148086118,
+      "title": "Italian Baroque Vocal Recital – MUSIC 184A",
+      "url": "https://events.stanford.edu/event/Italian-baroque-music184a",
+      "experience": "inperson",
+      "location": "Toyon Hall, 455 Arguello Way, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54541752277802/huge/2455c93569b9eaf93c23c47410d4277a99399230.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T17:30:00-08:00",
           "all_day": false
         }
       ],
@@ -5263,6 +5316,33 @@
       ]
     },
     {
+      "id": 54541183654431,
+      "title": "Concert Production Final – MUSIC 106",
+      "url": "https://events.stanford.edu/event/concert-production-final-MUSIC106",
+      "experience": "inperson",
+      "location": "Braun Music Center, Braun Rehearsal Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Music",
+        "Arts/Media",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511190146627/huge/13a7b6ab24fcbbf4d588c4cc1d7a248f0d1c91c7.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-05"
+      ]
+    },
+    {
       "id": 54171614598274,
       "title": "Festival of Lessons & Carols",
       "url": "https://events.stanford.edu/event/lessons-and-carols-2-fall26",
@@ -5465,6 +5545,33 @@
         {
           "date": "2026-12-08",
           "start": "2026-12-08T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-08"
+      ]
+    },
+    {
+      "id": 54541093225150,
+      "title": "Graduate Recital: Maya Benyas, cello",
+      "url": "https://events.stanford.edu/event/graduate-recital-maya-benyas-cello",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54541093174969/huge/ab7cf2c3842e8bec68d655be312b9b14c8a1d3ec.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-08",
+          "start": "2026-12-08T20:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5917,6 +6024,34 @@
       ]
     },
     {
+      "id": 54541244837772,
+      "title": "Anastasia: The Musical",
+      "url": "https://events.stanford.edu/event/anastasia-win27-1",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities",
+        "Theater/Dance"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54541313730548/huge/eca9bcb49d329d11a8bebf232c64aa266a54561f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-22",
+          "start": "2027-01-22T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-22"
+      ]
+    },
+    {
       "id": 54181164266639,
       "title": "Arts +AI in the Evolving Research University",
       "url": "https://events.stanford.edu/event/arts-ai-in-the-evolving-research-university",
@@ -5941,6 +6076,90 @@
       ],
       "dates": [
         "2027-01-22"
+      ]
+    },
+    {
+      "id": 54541340073441,
+      "title": "Anastasia: The Musical",
+      "url": "https://events.stanford.edu/event/anastasia-win27-2",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities",
+        "Theater/Dance"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54541340038621/huge/f6028758a75bc701c9098f95ac81aad17cfb7af0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-23",
+          "start": "2027-01-23T14:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-23"
+      ]
+    },
+    {
+      "id": 54541349215873,
+      "title": "Anastasia: The Musical",
+      "url": "https://events.stanford.edu/event/anastasia-win27-3",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities",
+        "Theater/Dance"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54541349181053/huge/add21d90d3d30c3facd1af7dff0d035df58acead.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-23",
+          "start": "2027-01-23T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-23"
+      ]
+    },
+    {
+      "id": 54541354342017,
+      "title": "Anastasia: The Musical",
+      "url": "https://events.stanford.edu/event/anastasia-win27-4",
+      "experience": "inperson",
+      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities",
+        "Theater/Dance"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54541354307197/huge/26ad0e3f3ca4932d0d9f7c6cbd64dd531c05f9f1.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-24",
+          "start": "2027-01-24T14:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-24"
       ]
     },
     {
