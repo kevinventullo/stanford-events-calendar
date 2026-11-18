@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:15:34+00:00",
+  "generated_at": "2026-11-18T21:07:58+00:00",
   "window": {
     "start": "2026-11-18",
     "end": "2027-05-17"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 172
+    "dated": 174
   },
   "ongoing": [
     {
@@ -3403,33 +3403,6 @@
       ]
     },
     {
-      "id": 54499448544810,
-      "title": "Artificial Intelligence Regulatory & Policy Landscapes: A Global View of Unmapped Territory",
-      "url": "https://events.stanford.edu/event/artificial-intelligence-regulatory-policy-landscapes-a-global-view-of-unmapped-territory-238",
-      "experience": "inperson",
-      "location": "Green Library (East), Green Library (East) IC Classroom 166",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54499454446805/huge/ee689503ac01cf17d69b75c3ffd67546a126d0e1.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T11:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
       "id": 53745967572669,
       "title": "Elamite Art Through the Lens of Archaeological Evidence",
       "url": "https://events.stanford.edu/event/elamite-art-through-the-lens-of-archaeological-evidence",
@@ -3600,6 +3573,33 @@
         {
           "date": "2026-11-19",
           "start": "2026-11-19T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    {
+      "id": 54499448544810,
+      "title": "What's New & Cool About International Government Data",
+      "url": "https://events.stanford.edu/event/artificial-intelligence-regulatory-policy-landscapes-a-global-view-of-unmapped-territory-238",
+      "experience": "inperson",
+      "location": "Green Library (East), Green Library (East) IC Classroom 166",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54550252808286/huge/285ee36b77968424f7eec5be12866b345b352866.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-19",
+          "start": "2026-11-19T11:00:00-08:00",
           "all_day": false
         }
       ],
@@ -3846,8 +3846,8 @@
       "instances": [
         {
           "date": "2026-11-28",
-          "start": "2026-11-28T00:00:00-08:00",
-          "all_day": true
+          "start": "2026-11-28T12:00:00-08:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -3872,6 +3872,31 @@
         {
           "date": "2026-11-30",
           "start": "2026-11-30T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-30"
+      ]
+    },
+    {
+      "id": 54550492604003,
+      "title": "ESE Seminar - Boryann Liaw: \"Building Sustainable Artificial Intelligence-Guided Energy Systems   from Fundamental Science\"",
+      "url": "https://events.stanford.edu/event/ese-seminar-boryann-liaw-building-sustainable-artificial-intelligence-guided-energy-systems-from-fundamental-science",
+      "experience": "inperson",
+      "location": "Green Earth Sciences Building, 104, 367 Panama Street, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54550532387658/huge/d532feaf2f73bf2394650eaaa9bcf2dc0f5746d3.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-30",
+          "start": "2026-11-30T12:30:00-08:00",
           "all_day": false
         }
       ],
@@ -4708,7 +4733,7 @@
       "instances": [
         {
           "date": "2026-12-04",
-          "start": "2026-12-04T19:30:00-08:00",
+          "start": "2026-12-04T19:00:00-08:00",
           "all_day": false
         }
       ],
@@ -4926,7 +4951,7 @@
       "instances": [
         {
           "date": "2026-12-05",
-          "start": "2026-12-05T19:30:00-08:00",
+          "start": "2026-12-05T19:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5160,6 +5185,32 @@
         {
           "date": "2026-12-08",
           "start": "2026-12-08T16:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-08"
+      ]
+    },
+    {
+      "id": 54551024570620,
+      "title": "eWEAR Seminar: AI-XR Co-Scientist",
+      "url": "https://events.stanford.edu/event/ewear-seminar-ai-xr-co-scientist",
+      "experience": "hybrid",
+      "location": "Spilker, 232, 348 Via Pueblo Mall, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "Science",
+        "Engineering/Technology"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54551043429565/huge/6b2f396fd42b15408d870c5873077102b5aa53eb.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-08",
+          "start": "2026-12-08T15:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5629,13 +5680,13 @@
       "free": true,
       "instances": [
         {
-          "date": "2027-01-19",
-          "start": "2027-01-19T11:15:00-08:00",
+          "date": "2027-01-18",
+          "start": "2027-01-18T11:15:00-08:00",
           "all_day": false
         }
       ],
       "dates": [
-        "2027-01-19"
+        "2027-01-18"
       ]
     },
     {
