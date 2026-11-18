@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:32:28+00:00",
+  "generated_at": "2026-11-18T08:15:34+00:00",
   "window": {
-    "start": "2026-11-17",
-    "end": "2027-05-16"
+    "start": "2026-11-18",
+    "end": "2027-05-17"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 187
+    "dated": 172
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -82,7 +81,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -262,7 +260,8 @@
         "2027-05-10",
         "2027-05-13",
         "2027-05-14",
-        "2027-05-15"
+        "2027-05-15",
+        "2027-05-16"
       ]
     },
     {
@@ -571,7 +570,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -620,7 +618,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -698,7 +695,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -743,7 +739,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -771,7 +766,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -799,7 +793,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-17",
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
@@ -948,7 +941,8 @@
         "2027-05-10",
         "2027-05-13",
         "2027-05-14",
-        "2027-05-15"
+        "2027-05-15",
+        "2027-05-16"
       ]
     },
     {
@@ -2110,6 +2104,11 @@
           "date": "2027-05-15",
           "start": "2027-05-15T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-16",
+          "start": "2027-05-16T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2163,13 +2162,14 @@
         "2027-05-02",
         "2027-05-08",
         "2027-05-09",
-        "2027-05-15"
+        "2027-05-15",
+        "2027-05-16"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-21",
-      "last_date": "2027-05-15",
-      "count": 51
+      "last_date": "2027-05-16",
+      "count": 52
     },
     {
       "id": 53737452675144,
@@ -2441,6 +2441,11 @@
           "date": "2027-05-15",
           "start": "2027-05-15T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-16",
+          "start": "2027-05-16T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2494,13 +2499,14 @@
         "2027-05-02",
         "2027-05-08",
         "2027-05-09",
-        "2027-05-15"
+        "2027-05-15",
+        "2027-05-16"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-21",
-      "last_date": "2027-05-15",
-      "count": 51
+      "last_date": "2027-05-16",
+      "count": 52
     },
     {
       "id": 54356095805619,
@@ -3004,447 +3010,6 @@
     }
   ],
   "events": [
-    {
-      "id": 53886818518422,
-      "title": "3rd Annual Silicon Valley IP Forum",
-      "url": "https://events.stanford.edu/event/3rd-annual-silicon-valley-ip-forum",
-      "experience": "inperson",
-      "location": "Munger Complex, Paul Brest Hall, 555 Salvatierra Walk, Stanford, CA 94305",
-      "types": [
-        "Conference/Symposium"
-      ],
-      "subjects": [
-        "Engineering/Technology",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54250363222511/huge/4df320c34ed2d1d2c24b6faf929df47848578c6f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T08:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54480225773034,
-      "title": "A Conversation with Kanishka Narayan, MBA ’21, U.K. Minister for AI",
-      "url": "https://events.stanford.edu/event/a-conversation-with-kanishka-narayan-uk-minister-for-ai",
-      "experience": "inperson",
-      "location": "GSB Knight - Arbuckle / Cemex, 641 Knight Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Business",
-        "Engineering/Technology",
-        "Public Service/Government"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54480249856812/huge/f6402a27113cd06b1b7dae41734f206d65c9e1ff.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54064489983767,
-      "title": "American Surgical Association (ASA) Meeting Abstract Deadline",
-      "url": "https://events.stanford.edu/event/copy-of-american-society-of-colon-and-rectal-surgeons-meeting-ascrs-abstract-deadline",
-      "experience": "inperson",
-      "location": "",
-      "types": [
-        "Conference/Symposium",
-        "Meeting"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54064532718457/huge/b1bd0944a3fb83b2fcfaa68cc714c26e043dcce9.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T00:00:00-08:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54031120591943,
-      "title": "Another Look presents Tobias Wolff’s “Old School”",
-      "url": "https://events.stanford.edu/event/another-look-presents-tobias-wolffs-old-school",
-      "experience": "hybrid",
-      "location": "Stanford Humanities Center, Levinthal Hall, 424 Santa Teresa Street, Stanford",
-      "types": [
-        "Lecture/Presentation/Talk",
-        "Meeting"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54031134331305/huge/eee65ca2100ccd9015888df05638561d3051b7ad.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T19:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54479774835355,
-      "title": "Applied Physics/Physics Colloquium:Mikhail Lukin - \"New frontier of Quantum Computing\"",
-      "url": "https://events.stanford.edu/event/applied-physicsphysics-colloquiummikhail-lukin-new-frontier-of-quantum-computing",
-      "experience": "inperson",
-      "location": "Hewlett Teaching Center, 201, 370 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54479790753017/huge/0133ef04cc219ad600ec4a3e812c0cfa134e1d81.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T15:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54488039518167,
-      "title": "CCRMA Presents: Sound, Voice, Strings – Compositions for Traditional East Asian Instruments",
-      "url": "https://events.stanford.edu/event/ccrma-composition-for-east-asian-instruments",
-      "experience": "inperson",
-      "location": "The Knoll, CCRMA Stage, 660 Lomita Court, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54488058285916/huge/6586c6330b245f66a4156aeac03c3eeac8ef9c81.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54471918307184,
-      "title": "Earth & Planetary Sciences Seminar - Prof. Peng Ni \"Unraveling Earth’s dynamic history through sublithospheric diamonds\"",
-      "url": "https://events.stanford.edu/event/earth-planetary-sciences-seminar-prof-peng-ni-unraveling-earths-dynamic-history-through-sublithospheric-diamonds",
-      "experience": "inperson",
-      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54471933108663/huge/a0691df672d0148f1802c1c11b04aa54136833bd.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54446983726284,
-      "title": "Ecopreneurship at Stanford",
-      "url": "https://events.stanford.edu/event/explore-energy-seminar-ecopreneurship-at-stanford",
-      "experience": "inperson",
-      "location": "Elliot Program Center, 589 Governor's Ave, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Business",
-        "Education",
-        "Engineering/Technology",
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54373610349667,
-      "title": "Game Nights @ Green: John Company",
-      "url": "https://events.stanford.edu/event/game-nights-john-company-second-edition",
-      "experience": "inperson",
-      "location": "Green Library Hohbach Hall, 118",
-      "types": [
-        "Other"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T17:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54411448205344,
-      "title": "German Studies Lecture Series: Jutta Eming - How Do You Dance a Cabinet of Curiosities?",
-      "url": "https://events.stanford.edu/event/german-studies-lecture-series-jutta-eming-how-do-you-dance-a-cabinet-of-curiosities",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54411463225475/huge/c7acb062340cfe7b965d2cdcfe72df525fed2fe4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 53428011861681,
-      "title": "How New is the New Nuclear Age?",
-      "url": "https://events.stanford.edu/event/how-new-is-the-new-nuclear-age",
-      "experience": "hybrid",
-      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53428023399339/huge/b7b48cacb5ba732539971ad28f48f6ff4015edd6.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54400058337176,
-      "title": "Malês:  Film Screening and Conversation",
-      "url": "https://events.stanford.edu/event/males-film-screening-and-conversation",
-      "experience": "inperson",
-      "location": "Bolivar House, Conference Room, 582 Alvarado Row, Stanford, CA 94305",
-      "types": [
-        "Film/Screening"
-      ],
-      "subjects": [
-        "Humanities",
-        "Diversity/Identity",
-        "Religion/Spirituality",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54400334644448/huge/520f132aad168dc952d9726c8ec0e0634e9e6990.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T16:45:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54313569621114,
-      "title": "Shoot for the Stars: A community-based approach to Sunflower Star Recovery",
-      "url": "https://events.stanford.edu/event/shoot-for-the-stars",
-      "experience": "hybrid",
-      "location": "Hopkins Marine Station, Izzie Abbott Boatworks Auditorium, 120 Ocean View Blvd Pacific Grove, CA 93950",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54313592946393/huge/62e8215d77a1cdcdd1c5518d0e48b86729b68e2f.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54348724662747,
-      "title": "Sound, Voice, Strings: Compositions for Traditional East Asian Instruments",
-      "url": "https://events.stanford.edu/event/sound-voice-strings-compositions-for-traditional-east-asian-instruments",
-      "experience": "inperson",
-      "location": "The Knoll, Center for Computer Research in Music and Acoustics (CCRMA) Stage, 660 Lomita Court, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54355525995445/huge/721cdd9354224f5912d2245afa72f10e5d940539.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54500122978842,
-      "title": "Sustainable Systems Seminar Lunch Series -  A low-cost, low-maintenance nitrogen speciation platform for water nutrient monitoring",
-      "url": "https://events.stanford.edu/event/sustainable-systems-seminar-lunch-Pingyu-Wang",
-      "experience": "inperson",
-      "location": "Green Earth Sciences Building, 014, 367 Panama Street, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54500141256183/huge/d173eb343a9d59cc07cea746f303d4b1149bd43e.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54118168357981,
-      "title": "The Dangers of Focusing on the Danger of Digital Media Use",
-      "url": "https://events.stanford.edu/event/the-dangers-of-focusing-on-the-danger-of-digital-media-use-1377",
-      "experience": "hybrid",
-      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building, Building 120, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54188290329018/huge/0f9858befc21670de71b7dac2f2bd814f0fc63fa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
-    {
-      "id": 54251654378560,
-      "title": "Vocal Masterclass with Rachel Willis-Sørensen, soprano",
-      "url": "https://events.stanford.edu/event/vocal-masterclass-rachel-willis-sorensen",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance",
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54251680408001/huge/45d000369385c6000cf8034105fc066d5680c719.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-17",
-          "start": "2026-11-17T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-17"
-      ]
-    },
     {
       "id": 54004168043919,
       "title": "Demi Guo @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
@@ -3950,7 +3515,7 @@
       "subjects": [
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/38511065033872/huge/b8e66247408b89e0fca97cea7be0e8a558ebd092.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54544177555986/huge/e6465e761d79c15184ccf6c1fb7f2b54e4ba775c.jpg",
       "free": false,
       "instances": [
         {
@@ -4799,7 +4364,7 @@
       "subjects": [
         "Humanities"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54233227381433/huge/e827e39847ead7739e38d55659d7098b54653f0e.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54543583268560/huge/0ec50d2b7ea749fad14ae1b66020aaf23acf6009.jpg",
       "free": false,
       "instances": [
         {
@@ -5370,6 +4935,31 @@
       ]
     },
     {
+      "id": 54543333023754,
+      "title": "MFA Open Studios",
+      "url": "https://events.stanford.edu/event/mfa-open-studios-8590",
+      "experience": "inperson",
+      "location": "Bleeker Studios, 175 Searsville Rd, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54544076566606/huge/4a0c58549c9f0b9d9a752575abf486aac5309f06.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-05",
+          "start": "2026-12-05T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-05"
+      ]
+    },
+    {
       "id": 54116887695537,
       "title": "Undergraduate Composers Reading Concert",
       "url": "https://events.stanford.edu/event/undergrad-composers-concert-fall26-2",
@@ -5495,6 +5085,31 @@
         {
           "date": "2026-12-07",
           "start": "2026-12-07T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-07"
+      ]
+    },
+    {
+      "id": 54543452549421,
+      "title": "The Poetic and the Photographic: A Conversation between Jason Francisco and Alexander Nemerov",
+      "url": "https://events.stanford.edu/event/the-poetic-and-the-photographic-a-conversation-between-jason-francisco-and-alexander-nemerov",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54543456288341/huge/485868a9fd8721139a65bfd54301950c15ede551.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-07",
+          "start": "2026-12-07T17:30:00-08:00",
           "all_day": false
         }
       ],
