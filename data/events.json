@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T21:07:58+00:00",
+  "generated_at": "2026-11-19T08:27:38+00:00",
   "window": {
-    "start": "2026-11-18",
-    "end": "2027-05-17"
+    "start": "2026-11-19",
+    "end": "2027-05-18"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 174
+    "dated": 164
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -81,7 +80,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -261,7 +259,8 @@
         "2027-05-13",
         "2027-05-14",
         "2027-05-15",
-        "2027-05-16"
+        "2027-05-16",
+        "2027-05-17"
       ]
     },
     {
@@ -405,7 +404,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-25",
@@ -570,7 +568,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-23",
@@ -618,7 +615,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -695,7 +691,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-21",
@@ -739,7 +734,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-30",
@@ -766,7 +760,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-30",
@@ -793,7 +786,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-18",
         "2026-11-19",
         "2026-11-20",
         "2026-11-30",
@@ -942,7 +934,8 @@
         "2027-05-13",
         "2027-05-14",
         "2027-05-15",
-        "2027-05-16"
+        "2027-05-16",
+        "2027-05-17"
       ]
     },
     {
@@ -1000,11 +993,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-18",
-          "start": "2026-11-18T19:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-30",
           "start": "2026-11-30T19:00:00-08:00",
           "all_day": false
@@ -1026,7 +1014,6 @@
         }
       ],
       "dates": [
-        "2026-11-18",
         "2026-11-30",
         "2026-12-02",
         "2026-12-07",
@@ -1034,9 +1021,9 @@
       ],
       "pattern": "Mon, Wed",
       "time": "7 PM",
-      "next_date": "2026-11-18",
+      "next_date": "2026-11-30",
       "last_date": "2026-12-09",
-      "count": 5
+      "count": 4
     },
     {
       "id": 53629749361008,
@@ -2812,11 +2799,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-18",
-          "start": "2026-11-18T09:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-12-02",
           "start": "2026-12-02T09:00:00-08:00",
           "all_day": false
@@ -2833,16 +2815,15 @@
         }
       ],
       "dates": [
-        "2026-11-18",
         "2026-12-02",
         "2026-12-09",
         "2026-12-16"
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-11-18",
+      "next_date": "2026-12-02",
       "last_date": "2026-12-16",
-      "count": 4
+      "count": 3
     },
     {
       "id": 54356689351868,
@@ -2855,11 +2836,6 @@
       "photo": "https://localist-images.azureedge.net/photos/54356737631040/huge/3812711bf075d58222e4c218a047a05aede5167c.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T09:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-25",
           "start": "2026-11-25T09:00:00-08:00",
@@ -2977,7 +2953,6 @@
         }
       ],
       "dates": [
-        "2026-11-18",
         "2026-11-25",
         "2026-12-02",
         "2026-12-09",
@@ -3004,379 +2979,12 @@
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
-      "next_date": "2026-11-18",
+      "next_date": "2026-11-25",
       "last_date": "2027-05-12",
-      "count": 24
+      "count": 23
     }
   ],
   "events": [
-    {
-      "id": 54004168043919,
-      "title": "Demi Guo @ Entrepreneurial Thought Leaders Speaker Series (ETL)",
-      "url": "https://events.stanford.edu/event/demi-guo-entrepreneurial-thought-leaders-speaker-series-etl",
-      "experience": "inperson",
-      "location": "Nvidia Auditorium, 475 Via Ortega, Stanford, CA 94305, United States",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54004188614988/huge/d836aa64c333c70de8c5bbb029be135d877aedd5.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 53880673382098,
-      "title": "Drop-In Samizdat* Workshop (*DIY Unofficial, Unsanctioned, Limited Edition Publication)",
-      "url": "https://events.stanford.edu/event/samizdat-november-2026",
-      "experience": "inperson",
-      "location": "Hohbach Hall, lobby/interactive zone, 557 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54365821320614/huge/d7785261ccf3f313b64f172a9cd63a80a8494256.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T15:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54294366488754,
-      "title": "E-IPER Dissertation Defense: Anaïs Voşki",
-      "url": "https://events.stanford.edu/event/e-iper-dissertation-defense-anais-voski",
-      "experience": "inperson",
-      "location": "Y2E2 Building, 299, 473 Via Ortega, Stanford, CA 94305",
-      "types": [
-        "PhD Defense"
-      ],
-      "subjects": [
-        "Environment/Sustainability"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54294386573700/huge/bfa66e28b178cc2a3e844ea6fa17d0c6bcd65990.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T09:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 53861242574667,
-      "title": "HAI Seminar The AI 100",
-      "url": "https://events.stanford.edu/event/hai-seminar-with-mike-wooldridge-the-ai-100",
-      "experience": "hybrid",
-      "location": "Gates Computer Science Building, 119, 353 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Class/Seminar"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53889452955614/huge/b2713a7e384e047f77dd433baeaa607a34c1a86a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54232580243712,
-      "title": "ME218a Smart Product Design Fundamentals Project Presentations",
-      "url": "https://events.stanford.edu/event/me218a-smart-product-design-fundamentals-project-presentations-327",
-      "experience": "inperson",
-      "location": "Building 550, Peterson Laboratory, Grove, 416 Escondido Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/38511035780218/huge/cbd7d557af73c735981b92f6dd062bc6600ad4fa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T19:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54001223928413,
-      "title": "Noon Concert: Flute Students of Melody Holmes",
-      "url": "https://events.stanford.edu/event/noon-holmes-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54001223805532/huge/5ad8aae5dfea13d1a9cd2de8082f9076a67f863d.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 53806899252102,
-      "title": "Reading with Martín Espada, part of the Lane Lecture Series",
-      "url": "https://events.stanford.edu/event/reading-with-martin-espada-part-of-the-lane-lecture-series",
-      "experience": "inperson",
-      "location": "Faculty Club, Cedar Room, 439 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53808918153532/huge/570e5195926ee8f63776283a51f88a6e549f139e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54251694317498,
-      "title": "Shenson Recital Series: Rachel Willis-Sørensen, soprano",
-      "url": "https://events.stanford.edu/event/shenson-recital-rachel-willis-sorensen",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54251728578742/huge/f3fd1ffc4340bf307033fb7d824045d7bf562c84.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 53976866892371,
-      "title": "The Disappearance of Enforced Disappearances in Kashmir: Militarization, Mourning, and the Production of Normalcy",
-      "url": "https://events.stanford.edu/event/the-disappearance-of-enforced-disappearances-in-kashmir-militarization-mourning-and-the-production-of-normalcy-9170",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Law/Public Policy/Politics",
-        "Religion/Spirituality",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53976869460583/huge/1243b6dee39019acc31856115ae2bb1a4ec749aa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54124995975177,
-      "title": "The Greek and Arabic Reception of Ptolemy's Almagest between the 7th and 9th Centuries | Maria Mavroudi",
-      "url": "https://events.stanford.edu/event/ptolemys-almagest",
-      "experience": "inperson",
-      "location": "Encina Commons, 123, 615 Crothers Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54412026020706/huge/701faf71d908ee02e9266ca7d4cb49563e31727f.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54444392905605,
-      "title": "Three L.A.S.E.R. talks: Media Art, AI, The Self and Consciousness",
-      "url": "https://events.stanford.edu/event/three-laser-talks-media-art-ai-the-self-and-consciousness",
-      "experience": "hybrid",
-      "location": "The Hub at Stanford Research Park, 3215 Porter Dr., Palo Alto, CA 94304",
-      "types": [
-        "Class/Seminar",
-        "Lecture/Presentation/Talk",
-        "Meeting"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Engineering/Technology",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54444407872200/huge/6b5600375847c917d29f54be2b9a7c9cfb003ed8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54311591575442,
-      "title": "Truisms, Fiction and Women Writing: A lunch workshop with author Marie Darrieussecq",
-      "url": "https://events.stanford.edu/event/truisms-fiction-and-women-writing-a-lunch-workshop-with-author-marie-darrieussecq",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Career Development",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54311598588508/huge/6204c5634b3756bbd793ce2f587170f7e966f2e8.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T12:15:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54439619609305,
-      "title": "Uncommon Knowledge: The Intellectual Odyssey of James Burnham",
-      "url": "https://events.stanford.edu/event/uncommon-knowledge-the-intellectual-odyssey-of-james-burnham",
-      "experience": "hybrid",
-      "location": "Traitel Building, Hauck Auditorium, 435 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54439642948308/huge/f2fc5d5d439fafc995411ecb675e61c5aeec5826.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T16:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": 54003430264096,
-      "title": "University Singers",
-      "url": "https://events.stanford.edu/event/university-singers-fall26",
-      "experience": "hybrid",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003430234397/huge/a98ee88c6fcf2980b356451afb3240f5655ad432.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-18",
-          "start": "2026-11-18T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-18"
-      ]
-    },
     {
       "id": 53630642906694,
       "title": "Anatomical Gift Program Donor Memorial Service",
@@ -4213,6 +3821,33 @@
         {
           "date": "2026-12-02",
           "start": "2026-12-02T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
+      "id": 54542943336140,
+      "title": "Earth & Planetary Sciences Seminar - Prof. Esteban Gazel \"Bioleaching of critical elements from ultramafic minerals with synthetic biology\"",
+      "url": "https://events.stanford.edu/event/earth-planetary-sciences-seminar-prof-esteban-gazel-bioleaching-of-critical-elements-from-ultramafic-minerals-with-synthetic-biology-1473",
+      "experience": "inperson",
+      "location": "Building 320, Geology Corner, Room 112, 450 Jane Stanford Way, Building 320, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Environment/Sustainability"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54542945573706/huge/9dc54e3ad15d307ac00ffa8cfe50587866f73c31.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5118,6 +4753,34 @@
       ]
     },
     {
+      "id": 54552139730140,
+      "title": "Coffee, Donuts, & Doughboys at Hoover Tower",
+      "url": "https://events.stanford.edu/event/coffee-donuts-doughboys-at-hoover-tower",
+      "experience": "inperson",
+      "location": "Hoover Tower, Rotunda, 550 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Exhibition"
+      ],
+      "subjects": [
+        "Humanities",
+        "International Affairs",
+        "Law/Public Policy/Politics",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54552147317527/huge/ffcce92b8d475335d9b52f89021aec1878f3f066.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-07",
+          "start": "2026-12-07T08:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-07"
+      ]
+    },
+    {
       "id": 54543452549421,
       "title": "The Poetic and the Photographic: A Conversation between Jason Francisco and Alexander Nemerov",
       "url": "https://events.stanford.edu/event/the-poetic-and-the-photographic-a-conversation-between-jason-francisco-and-alexander-nemerov",
@@ -5129,7 +4792,7 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54543456288341/huge/485868a9fd8721139a65bfd54301950c15ede551.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54551813341278/huge/d78639f043102fac6c3b4b49e7e67ff011d799b1.jpg",
       "free": false,
       "instances": [
         {
@@ -5533,6 +5196,32 @@
       ],
       "dates": [
         "2026-12-14"
+      ]
+    },
+    {
+      "id": 54552496394151,
+      "title": "The Ocean and Climate Change: Impacts, Resilience, and Solutions",
+      "url": "https://events.stanford.edu/event/the-ocean-and-climate-change",
+      "experience": "hybrid",
+      "location": "Hopkins Marine Station, Izzie Abbott Boatworks Auditorium, 120 Ocean View Blvd Pacific Grove, CA 93950",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54552516813922/huge/429dd0865cf683c56ee3b258068cbb9e67ed1e43.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-15",
+          "start": "2026-12-15T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-15"
       ]
     },
     {
@@ -7637,6 +7326,31 @@
       ],
       "dates": [
         "2027-05-14"
+      ]
+    },
+    {
+      "id": 53286325590362,
+      "title": "May Museum Minis: Storytime at the Anderson",
+      "url": "https://events.stanford.edu/event/may-museum-minis-storytime-at-the-anderson",
+      "experience": "inperson",
+      "location": "Anderson Collection, The Denning Family Resource Center, 314 Lomita Dr, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Arts/Media"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53286332625629/huge/78959bcaa6e59d8dea03ab1c3f2b5d765ddc36e8.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-05-17",
+          "start": "2027-05-17T11:15:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-17"
       ]
     }
   ]
