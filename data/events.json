@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:27:38+00:00",
+  "generated_at": "2026-11-19T21:13:32+00:00",
   "window": {
     "start": "2026-11-19",
     "end": "2027-05-18"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 164
+    "dated": 169
   },
   "ongoing": [
     {
@@ -3193,7 +3193,7 @@
       "title": "What's New & Cool About International Government Data",
       "url": "https://events.stanford.edu/event/artificial-intelligence-regulatory-policy-landscapes-a-global-view-of-unmapped-territory-238",
       "experience": "inperson",
-      "location": "Green Library (East), Green Library (East) IC Classroom 166",
+      "location": "Green Library, Bing Wing, Tierney Room (121A), 459 Lasuen Mall, Stanford, CA 94305",
       "types": [
         "Lecture/Presentation/Talk"
       ],
@@ -3505,6 +3505,32 @@
         {
           "date": "2026-11-30",
           "start": "2026-11-30T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-30"
+      ]
+    },
+    {
+      "id": 54560548122502,
+      "title": "Faculty Candidate Talk: “The Acoustics of Accented Labor: Genevieve Nnaji and Industrial Authorship in LIONHEART (2018)” | Rejoice Abutsa, Doctoral Candidate, Cornell University",
+      "url": "https://events.stanford.edu/event/faculty-candidate-talk-the-acoustics-of-accented-labor-genevieve-nnaji-and-industrial-authorship-in-lionheart-2018-rejoice-abutsa-doctoral-candidate-cornell-university",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54560551679087/huge/631e1b9cba229e1623a6d2c01d93d6ba2b91c34a.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-30",
+          "start": "2026-11-30T17:30:00-08:00",
           "all_day": false
         }
       ],
@@ -5250,6 +5276,29 @@
       ]
     },
     {
+      "id": 54552593485594,
+      "title": "Eva Lokey Lecture in Yiddish Studies featuring Rafael Balling",
+      "url": "https://events.stanford.edu/event/eva-lokey-yiddish-lecture",
+      "experience": "inperson",
+      "location": "Building 360, Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54552603888998/huge/58befdd41d471bd091d53c922cff9eb0728f5ffb.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-01-11",
+          "start": "2027-01-11T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-11"
+      ]
+    },
+    {
       "id": 53614433810476,
       "title": "Society for Medical Decision Making (SMDM) Abstract Deadline",
       "url": "https://events.stanford.edu/event/copy-of-pacific-coast-surgical-association-meeting-pcsa-abstract-deadline",
@@ -5870,6 +5919,29 @@
       ]
     },
     {
+      "id": 54560462480805,
+      "title": "The Question of Antisemitism with Dov Waxman",
+      "url": "https://events.stanford.edu/event/the-question-of-antisemitism-with-dov-waxman",
+      "experience": "inperson",
+      "location": "Building 200, History Corner, 307, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54560467704828/huge/b29c80245ecdeeeeef01a0669b777146b5e30a61.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-04",
+          "start": "2027-02-04T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-04"
+      ]
+    },
+    {
       "id": 54116824460428,
       "title": "Noon Concert: Flute Students of Alexandra Hawley",
       "url": "https://events.stanford.edu/event/noon-hawley-win27",
@@ -6095,6 +6167,29 @@
         {
           "date": "2027-02-11",
           "start": "2027-02-11T18:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-11"
+      ]
+    },
+    {
+      "id": 54560486823923,
+      "title": "The Clara Sumpf Yiddish Lecture Series featuring Saul Zaritt",
+      "url": "https://events.stanford.edu/event/the-clara-sumpf-yiddish-lecture-series-featuring-saul-zaritt",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54560493452533/huge/4a3c22027b1754ef2a658a4702f5b736edc3ebff.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-02-11",
+          "start": "2027-02-11T12:00:00-08:00",
           "all_day": false
         }
       ],
@@ -6524,6 +6619,29 @@
       ],
       "dates": [
         "2027-02-28"
+      ]
+    },
+    {
+      "id": 54560588441544,
+      "title": "Ladino in Literature with author Leigh Bardugo in conversation with Devin Naar",
+      "url": "https://events.stanford.edu/event/ladino-in-literature-with-author-leigh-bardugo-in-conversation-with-devin-naar",
+      "experience": "inperson",
+      "location": "Building 460, Margaret Jacks Hall, 426, 450 Jane Stanford Way, Building 460, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54560593555588/huge/ebad74d598c6509d24a3c98a564762a8b0e2e66e.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-03-03",
+          "start": "2027-03-03T17:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-03-03"
       ]
     },
     {
