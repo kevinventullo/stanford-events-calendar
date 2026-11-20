@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T21:13:32+00:00",
+  "generated_at": "2026-11-20T08:07:49+00:00",
   "window": {
-    "start": "2026-11-19",
-    "end": "2027-05-18"
+    "start": "2026-11-20",
+    "end": "2027-05-19"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 169
+    "dated": 168
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -80,7 +79,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -135,7 +133,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -280,7 +277,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -320,7 +316,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -404,7 +399,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-25",
         "2026-12-02",
@@ -462,7 +456,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -568,7 +561,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-23",
         "2026-11-24",
@@ -615,7 +607,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -691,7 +682,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -734,7 +724,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-30",
         "2026-12-01",
@@ -760,7 +749,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-30",
         "2026-12-01",
@@ -786,7 +774,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-30",
         "2026-12-01",
@@ -812,7 +799,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-19",
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
@@ -1042,11 +1028,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-19",
-          "start": "2026-11-19T10:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-26",
           "start": "2026-11-26T10:00:00-08:00",
           "all_day": false
@@ -1068,7 +1049,6 @@
         }
       ],
       "dates": [
-        "2026-11-19",
         "2026-11-26",
         "2026-12-03",
         "2026-12-10",
@@ -1076,9 +1056,9 @@
       ],
       "pattern": "Thursdays",
       "time": "10 AM",
-      "next_date": "2026-11-19",
+      "next_date": "2026-11-26",
       "last_date": "2026-12-17",
-      "count": 5
+      "count": 4
     },
     {
       "id": 50967994153103,
@@ -1188,12 +1168,12 @@
       "instances": [
         {
           "date": "2026-12-04",
-          "start": "2026-12-04T19:30:00-08:00",
+          "start": "2026-12-04T19:00:00-08:00",
           "all_day": false
         },
         {
           "date": "2026-12-05",
-          "start": "2026-12-05T19:30:00-08:00",
+          "start": "2026-12-05T19:00:00-08:00",
           "all_day": false
         }
       ],
@@ -1202,7 +1182,7 @@
         "2026-12-05"
       ],
       "pattern": "Fri, Sat",
-      "time": "7:30 PM",
+      "time": "7 PM",
       "next_date": "2026-12-04",
       "last_date": "2026-12-05",
       "count": 2
@@ -2986,236 +2966,6 @@
   ],
   "events": [
     {
-      "id": 53630642906694,
-      "title": "Anatomical Gift Program Donor Memorial Service",
-      "url": "https://events.stanford.edu/event/anatomical-gift-program-donor-memorial-service",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Other"
-      ],
-      "subjects": [
-        "Medicine"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53630746291813/huge/d955c5e557a6cb3c9c5da2db66d08fc82692bb7a.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T18:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 53745967572669,
-      "title": "Elamite Art Through the Lens of Archaeological Evidence",
-      "url": "https://events.stanford.edu/event/elamite-art-through-the-lens-of-archaeological-evidence",
-      "experience": "inperson",
-      "location": "In person at Stanford",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53808425480016/huge/b9898cbacc1b6215596892eaabfea6d13094837b.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T18:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 53950377018749,
-      "title": "Galicia's Promised City with Oskar Czendze",
-      "url": "https://events.stanford.edu/event/galicias-promised-city-with-oskar-czendze",
-      "experience": "inperson",
-      "location": "Building 200, History Corner, 307, 450 Jane Stanford Way, Building 200, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/53950626537637/huge/188454cd1c6354b06ef8dc99da2b78118262ff20.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 53251196124368,
-      "title": "Holly Herndon & Mat Dryhurst: Protocol Art",
-      "url": "https://events.stanford.edu/event/studio-lecture-series-holly-herndon-mat-dryhurst",
-      "experience": "inperson",
-      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Engineering/Technology"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53747139094817/huge/931f88c02e18debcad6690347bdf8d31216d2849.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 54426607039058,
-      "title": "ILAC: De las fosas comunes al espacio publico: la memoria de la Guerra Civil y el Franquismo en Catalunya y España",
-      "url": "https://events.stanford.edu/event/ilac-de-las-fosas-comunes-al-espacio-publico-la-memoria-de-la-guerra-civil-y-el-franquismo-en-catalunya-y-espana",
-      "experience": "inperson",
-      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54544177555986/huge/e6465e761d79c15184ccf6c1fb7f2b54e4ba775c.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 54037411906317,
-      "title": "Jannis Panagiotidis- Racism against East Europeans in Germany: History and Present",
-      "url": "https://events.stanford.edu/event/racism-against-east-europeans-in-germany-history-and-present",
-      "experience": "hybrid",
-      "location": "Encina Hall, William J. Perry Conference Room, Encina Hall Central, 2nd Floor, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54037422709458/huge/79ec7884c7cee3fea728d4f44df6f412fff1c18e.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 54472908774344,
-      "title": "The Devil in Africa: Racialized Diabolism in the Age of Encounter | Alexis Wells-Oghoghomeh",
-      "url": "https://events.stanford.edu/event/the-devil-in-africa-racialized-diabolism-in-the-age-of-encounter-alexis-wells-oghoghomeh",
-      "experience": "inperson",
-      "location": "Humanities Center, SHC Board Room, 424 Santa Teresa Street, Stanford, CA 94305",
-      "types": [
-        "Workshop"
-      ],
-      "subjects": [
-        "Humanities",
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54472918658773/huge/01b8ac03a5d75afe0edaa6142d361c0a221c9408.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T17:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 54384217701917,
-      "title": "The Transition Minerals Rush in DRC (Congo) and Indonesia: What Can We Do?",
-      "url": "https://events.stanford.edu/event/the-transition-minerals-rush-in-drc-congo-and-indonesia-what-can-we-do",
-      "experience": "inperson",
-      "location": "Encina Hall, 030 Garden Level, 616 Jane Stanford Way, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Environment/Sustainability",
-        "International Affairs",
-        "Social Justice/Human Rights"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54384221486025/huge/a67f9f4ce76c33e7aeb77a43cd848071c035e965.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T16:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
-      "id": 54499448544810,
-      "title": "What's New & Cool About International Government Data",
-      "url": "https://events.stanford.edu/event/artificial-intelligence-regulatory-policy-landscapes-a-global-view-of-unmapped-territory-238",
-      "experience": "inperson",
-      "location": "Green Library, Bing Wing, Tierney Room (121A), 459 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Humanities",
-        "International Affairs",
-        "Law/Public Policy/Politics"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54550252808286/huge/285ee36b77968424f7eec5be12866b345b352866.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-19",
-          "start": "2026-11-19T11:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-19"
-      ]
-    },
-    {
       "id": 54373336907021,
       "title": "Branner Library Pop-up Map Exhibit - Fire in the West",
       "url": "https://events.stanford.edu/event/branner-popup-exhibit-fire-in-the-west",
@@ -3539,6 +3289,31 @@
       ]
     },
     {
+      "id": 54561751131547,
+      "title": "Geophysics Master's Presentation, Hamad Alswaidan: \"Machine Learning-Assisted Full Waveform Inversion: Low-Frequency Extrapolation and Cycle-Skipping Mitigation\"",
+      "url": "https://events.stanford.edu/event/geophysics-masters-presentation-hamad-alswaidan-machine-learning-assisted-full-waveform-inversion-low-frequency-extrapolation-and-cycle-skipping-mitigation",
+      "experience": "hybrid",
+      "location": "Mitchell Earth Sciences, 350/372, 397 Panama Mall, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54561764905297/huge/80a0c6b1a2527f2ec94d822669fa03d0dfd02b16.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-11-30",
+          "start": "2026-11-30T09:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-11-30"
+      ]
+    },
+    {
       "id": 54541897610794,
       "title": "Richard Socher | The Eureka Machine: Why AI Is the Key to Unlocking a New Era of Scientific Discoveries",
       "url": "https://events.stanford.edu/event/richard-socher-the-eureka-machine-why-ai-is-the-key-to-unlocking-a-new-era-of-scientific-discoveries",
@@ -3725,6 +3500,58 @@
       ]
     },
     {
+      "id": 54561444046322,
+      "title": "Emerging Technologies and Strategic Stability",
+      "url": "https://events.stanford.edu/event/emerging-technologies-and-strategic-stability",
+      "experience": "hybrid",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54561526599652/huge/e675df57d8d1e11d532b52d8e4c2fcbce881d56f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
+      ]
+    },
+    {
+      "id": 54561022405626,
+      "title": "German Studies Lecture Series: Hannes Bajohr - Worlds in AI and the Novel",
+      "url": "https://events.stanford.edu/event/german-studies-lecture-series-hannes-bajohr-worlds-in-ai-and-the-novel",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Rm 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Engineering/Technology",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54561032142728/huge/83c875bbcd872009d4922cfe538f27fdf5acd956.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
+      ]
+    },
+    {
       "id": 54481993752212,
       "title": "Terman Library Presents: Textile Destress",
       "url": "https://events.stanford.edu/event/terman-library-presents-textile-destress-8847",
@@ -3874,6 +3701,32 @@
         {
           "date": "2026-12-02",
           "start": "2026-12-02T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-02"
+      ]
+    },
+    {
+      "id": 54561153359449,
+      "title": "Faculty Candidate Talk: “Sentinel and Storyteller: Black Women’s Cinematic Memory Work” | Yasmina Price, Presidential Postdoctoral Research Fellow, Princeton University",
+      "url": "https://events.stanford.edu/event/faculty-candidate-talk-sentinel-and-storyteller-black-womens-cinematic-memory-work-yasmina-price-presidential-postdoctoral-research-fellow-princeton-university",
+      "experience": "inperson",
+      "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Diversity/Identity"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54561155462881/huge/11d41059c38b2b0d355490bc26418b6d2b39bf09.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-02",
+          "start": "2026-12-02T17:30:00-08:00",
           "all_day": false
         }
       ],
@@ -4056,6 +3909,32 @@
         {
           "date": "2026-12-03",
           "start": "2026-12-03T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-03"
+      ]
+    },
+    {
+      "id": 54561411428925,
+      "title": "Environmental Humanities Project: EHP & EH Grad Certificate Peer-to Peer Info session",
+      "url": "https://events.stanford.edu/event/environmental-humanities-project-ehp-eh-grad-certificate-peer-to-peer-info-session",
+      "experience": "inperson",
+      "location": "Building 260, Pigott Hall, Room 216, 450 Jane Stanford Way, Building 260, Stanford, CA 94305",
+      "types": [
+        "Meeting"
+      ],
+      "subjects": [
+        "Environment/Sustainability",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54561414575574/huge/2962422b22e2e75407cbe17471259f13975b219c.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-03",
+          "start": "2026-12-03T16:00:00-08:00",
           "all_day": false
         }
       ],
@@ -5097,6 +4976,41 @@
       ]
     },
     {
+      "id": 54561477024863,
+      "title": "Three L.A.S.E.R. talks: Astrophysics, Biology, AI",
+      "url": "https://events.stanford.edu/event/three-laser-talks-astrophysics-biology-ai",
+      "experience": "inperson",
+      "location": "Li Ka Shing Center, LK 120, 291 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk",
+        "Meeting"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54561483430224/huge/62d6cd5e7d83cfffd892ac447e9963d89639b71d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-10",
+          "start": "2026-12-10T19:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2026-12-16",
+          "start": "2026-12-16T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-10",
+        "2026-12-16"
+      ]
+    },
+    {
       "id": 52825333175903,
       "title": "Tour Denning House, home to Knight-Hennessy Scholars",
       "url": "https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-to-knight-hennessy-scholars-8294",
@@ -5142,6 +5056,32 @@
         {
           "date": "2026-12-11",
           "start": "2026-12-11T19:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-11"
+      ]
+    },
+    {
+      "id": 54563665090991,
+      "title": "Winter Holiday Concert with Stanford Medicine Chorus & Orchestra",
+      "url": "https://events.stanford.edu/event/winter-holiday-concert-with-stanford-medicine-chorus-orchestra",
+      "experience": "inperson",
+      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
+      "types": [
+        "Performance",
+        "Social Event/Reception"
+      ],
+      "subjects": [
+        "Music"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54563687815949/huge/1657b4ff935ba719069a5303a2f271bc3dc2f18e.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-11",
+          "start": "2026-12-11T18:30:00-08:00",
           "all_day": false
         }
       ],
@@ -5248,6 +5188,31 @@
       ],
       "dates": [
         "2026-12-15"
+      ]
+    },
+    {
+      "id": 54561379689762,
+      "title": "Convenient Morality: Public Opinion on Wartime Conduct | Nivedita Jhunjhunwala",
+      "url": "https://events.stanford.edu/event/convenient-morality-public-opinion-on-wartime-conduct-nivedita-jhunjhunwala",
+      "experience": "inperson",
+      "location": "Encina Hall, William J. Perry Conference Room, 616 Jane Stanford Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar"
+      ],
+      "subjects": [
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54561391402858/huge/34e2ab3c4270d974004c64e6f665bdd4aa0bf381.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-01-05",
+          "start": "2027-01-05T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-05"
       ]
     },
     {
@@ -6184,7 +6149,7 @@
         "Lecture/Presentation/Talk"
       ],
       "subjects": [],
-      "photo": "https://localist-images.azureedge.net/photos/54560493452533/huge/4a3c22027b1754ef2a658a4702f5b736edc3ebff.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54560493452533/huge/107de45f90e3a21a6f9fc964271b09fb282d9477.jpg",
       "free": true,
       "instances": [
         {
