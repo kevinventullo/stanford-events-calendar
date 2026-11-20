@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:07:49+00:00",
+  "generated_at": "2026-11-20T20:57:37+00:00",
   "window": {
     "start": "2026-11-20",
     "end": "2027-05-19"
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 168
+    "dated": 174
   },
   "ongoing": [
     {
@@ -3552,6 +3552,34 @@
       ]
     },
     {
+      "id": 54568891384854,
+      "title": "Pediatric Grand Rounds (CME): Crystalloid Fluid Resuscitation in Pediatric Sepsis: Lessons from the PROMPT BOLUS Trial",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-crystalloid-fluid-resuscitation-in-pediatric-sepsis-lessons-from-the-prompt-bolus-trial",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54568891271188/huge/6076f61a2025a3218100514e858ee31802109e93.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-01",
+          "start": "2026-12-01T08:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-01"
+      ]
+    },
+    {
       "id": 54481993752212,
       "title": "Terman Library Presents: Textile Destress",
       "url": "https://events.stanford.edu/event/terman-library-presents-textile-destress-8847",
@@ -4814,6 +4842,34 @@
       ]
     },
     {
+      "id": 54568843215006,
+      "title": "Pediatric Grand Rounds (CME): The Pediatrician’s Role in Enhancing Longevity",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-beyond-blood-transplant-and-gene-edited-cell-therapy-for-neurodegenerative-disease-in-children",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54568843164828/huge/ae5f5f03fc105286489161ad2baca50e6cf08479.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-08",
+          "start": "2026-12-08T08:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-08"
+      ]
+    },
+    {
       "id": 53879839502108,
       "title": "Special, Unique, and Rare: HOME",
       "url": "https://events.stanford.edu/event/special-unique-and-rare-home",
@@ -4998,16 +5054,10 @@
           "date": "2026-12-10",
           "start": "2026-12-10T19:00:00-08:00",
           "all_day": false
-        },
-        {
-          "date": "2026-12-16",
-          "start": "2026-12-16T12:00:00-08:00",
-          "all_day": false
         }
       ],
       "dates": [
-        "2026-12-10",
-        "2026-12-16"
+        "2026-12-10"
       ]
     },
     {
@@ -5188,6 +5238,57 @@
       ],
       "dates": [
         "2026-12-15"
+      ]
+    },
+    {
+      "id": 54568069555064,
+      "title": "Ecumenical Christmas Eve Candlelight Service",
+      "url": "https://events.stanford.edu/event/ecumenical-christmas-eve-candlelight-service",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54568077887050/huge/a795437456eb13c2729ff7c8da6657171ecb74c0.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-24",
+          "start": "2026-12-24T20:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-24"
+      ]
+    },
+    {
+      "id": 54567995742373,
+      "title": "Ecumenical Christmas Eve Family Service",
+      "url": "https://events.stanford.edu/event/ecumenical-christmas-eve-family-service",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Music",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54568037697640/huge/1bbe3a712acb42657d2487d6aa6253512d9608ee.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-24",
+          "start": "2026-12-24T16:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-24"
       ]
     },
     {
@@ -5390,6 +5491,29 @@
       ],
       "dates": [
         "2027-01-18"
+      ]
+    },
+    {
+      "id": 54558932632926,
+      "title": "Book Talk: The Legacy of the Jahanian Brothers",
+      "url": "https://events.stanford.edu/event/book-talk-the-legacy-of-the-jahanian-brothers",
+      "experience": "inperson",
+      "location": "In person at Stanford",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54561404880241/huge/010e5abf5d79873dbf106bce86e50fbb37b93968.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-21",
+          "start": "2027-01-21T18:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-21"
       ]
     },
     {
@@ -5829,6 +5953,29 @@
       ],
       "dates": [
         "2027-02-03"
+      ]
+    },
+    {
+      "id": 54568648361442,
+      "title": "Lukas Althoff, \"The Economic Origins of Racial Segregation and Disenfranchisement,\" in conversation with Marie Wako (CCSRE Graduate Dissertation Fellow)",
+      "url": "https://events.stanford.edu/event/lukas-althoff-the-economic-origins-of-racial-segregation-and-disenfranchisement-in-conversation-with-marie-wako-ccsre-graduate-dissertation-fellow",
+      "experience": "inperson",
+      "location": "Building 360, CCSRE Conference Room, Center for Comparative Studies in Race and Ethnicity (CCSRE), 450 Jane Stanford Way Building 360, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54568654952005/huge/9e62c62c8f826a224d7257bb78ffcf32da76bfaf.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-04",
+          "start": "2027-02-04T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-04"
       ]
     },
     {
