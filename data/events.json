@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T20:57:37+00:00",
+  "generated_at": "2026-11-21T08:02:26+00:00",
   "window": {
-    "start": "2026-11-20",
-    "end": "2027-05-19"
+    "start": "2026-11-21",
+    "end": "2027-05-20"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 174
+    "dated": 172
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -79,7 +78,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -133,7 +131,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -277,7 +274,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -316,7 +312,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -399,7 +394,6 @@
       "first_date": "2026-09-09",
       "last_date": "2027-03-05",
       "dates": [
-        "2026-11-20",
         "2026-11-25",
         "2026-12-02",
         "2026-12-03",
@@ -456,7 +450,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -533,7 +526,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-20",
         "2026-11-23",
         "2026-11-30",
         "2026-12-04",
@@ -561,7 +553,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-20",
         "2026-11-23",
         "2026-11-24",
         "2026-11-25",
@@ -607,7 +598,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -682,7 +672,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -724,7 +713,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-20",
         "2026-11-30",
         "2026-12-01",
         "2026-12-02",
@@ -749,7 +737,6 @@
       "first_date": "2026-10-07",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-20",
         "2026-11-30",
         "2026-12-01",
         "2026-12-02",
@@ -774,7 +761,6 @@
       "first_date": "2026-10-15",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-20",
         "2026-11-30",
         "2026-12-01",
         "2026-12-02",
@@ -799,7 +785,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-23",
@@ -1203,11 +1188,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-20",
-          "start": "2026-11-20T14:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-21",
           "start": "2026-11-21T14:00:00-08:00",
           "all_day": false
@@ -1309,7 +1289,6 @@
         }
       ],
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-22",
         "2026-11-27",
@@ -1333,9 +1312,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-20",
+      "next_date": "2026-11-21",
       "last_date": "2027-01-03",
-      "count": 21
+      "count": 20
     },
     {
       "id": 47995278168103,
@@ -1467,6 +1446,11 @@
           "date": "2027-05-05",
           "start": "2027-05-05T12:15:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-19",
+          "start": "2027-05-19T12:15:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1479,13 +1463,14 @@
         "2027-03-10",
         "2027-04-07",
         "2027-04-21",
-        "2027-05-05"
+        "2027-05-05",
+        "2027-05-19"
       ],
       "pattern": "Wednesdays",
       "time": "12:15 PM",
       "next_date": "2026-12-02",
-      "last_date": "2027-05-05",
-      "count": 10
+      "last_date": "2027-05-19",
+      "count": 11
     },
     {
       "id": 53694822395653,
@@ -1504,11 +1489,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-20",
-          "start": "2026-11-20T11:30:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-21",
           "start": "2026-11-21T11:30:00-08:00",
@@ -1746,7 +1726,6 @@
         }
       ],
       "dates": [
-        "2026-11-20",
         "2026-11-21",
         "2026-11-27",
         "2026-11-28",
@@ -1797,9 +1776,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-11-20",
+      "next_date": "2026-11-21",
       "last_date": "2027-05-15",
-      "count": 48
+      "count": 47
     },
     {
       "id": 53737430719656,
@@ -2489,11 +2468,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-20",
-          "start": "2026-11-20T11:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-12-04",
           "start": "2026-12-04T11:00:00-08:00",
           "all_day": false
@@ -2600,7 +2574,6 @@
         }
       ],
       "dates": [
-        "2026-11-20",
         "2026-12-04",
         "2026-12-11",
         "2026-12-18",
@@ -2625,9 +2598,9 @@
       ],
       "pattern": "Fridays",
       "time": "11 AM",
-      "next_date": "2026-11-20",
+      "next_date": "2026-12-04",
       "last_date": "2027-05-14",
-      "count": 22
+      "count": 21
     },
     {
       "id": 53889137015268,
@@ -2930,6 +2903,11 @@
           "date": "2027-05-12",
           "start": "2027-05-12T09:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-19",
+          "start": "2027-05-19T09:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2955,150 +2933,17 @@
         "2027-04-21",
         "2027-04-28",
         "2027-05-05",
-        "2027-05-12"
+        "2027-05-12",
+        "2027-05-19"
       ],
       "pattern": "Wednesdays",
       "time": "9 AM",
       "next_date": "2026-11-25",
-      "last_date": "2027-05-12",
-      "count": 23
+      "last_date": "2027-05-19",
+      "count": 24
     }
   ],
   "events": [
-    {
-      "id": 54373336907021,
-      "title": "Branner Library Pop-up Map Exhibit - Fire in the West",
-      "url": "https://events.stanford.edu/event/branner-popup-exhibit-fire-in-the-west",
-      "experience": "inperson",
-      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections, 397 Panama Mall, Stanford, CA 94305",
-      "types": [
-        "Exhibition"
-      ],
-      "subjects": [
-        "Education",
-        "Environment/Sustainability",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54373378351086/huge/4ac0f53e67a6c704b2b721a715c56841bbc9c9fa.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-20",
-          "start": "2026-11-20T00:00:00-08:00",
-          "all_day": true
-        }
-      ],
-      "dates": [
-        "2026-11-20"
-      ]
-    },
-    {
-      "id": 54410402192694,
-      "title": "CSCS William C. Dement Seminar Series: \" Cortical inhibitory circuits regulating brain states and sleep\" with Renata Batista-Brito, Ph.D.",
-      "url": "https://events.stanford.edu/event/cscs-william-c-dement-seminar-series-cortical-inhibitory-circuits-regulating-brain-states-and-sleep-with-renata-batista-brito-phd",
-      "experience": "hybrid",
-      "location": "Li Ka Shing Center, Room LK120, 291 Campus Drive, Stanford, CA 94305",
-      "types": [
-        "Lecture/Presentation/Talk"
-      ],
-      "subjects": [
-        "Medicine",
-        "Science"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54410407236789/huge/ea3713e47a453ec6a9562df9caf2a6bfac90bd82.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-20",
-          "start": "2026-11-20T12:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-20"
-      ]
-    },
-    {
-      "id": 54001244715309,
-      "title": "Noon Concert: Piano Students of Sandra Shen",
-      "url": "https://events.stanford.edu/event/noon-shen-fall26",
-      "experience": "inperson",
-      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Music",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54001244685612/huge/3a62fe4e9b28f25edccbc1142678f72a11af0fd5.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-20",
-          "start": "2026-11-20T12:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-20"
-      ]
-    },
-    {
-      "id": 54171071512409,
-      "title": "Stanford Baroque Soloists: Chamber Music Lineup",
-      "url": "https://events.stanford.edu/event/baroque-soloists-fall26",
-      "experience": "inperson",
-      "location": "Dinkelspiel Auditorium, 471 Lagunita Drive, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54171071471447/huge/9e7dbc4327f399c589bcf833ad704504e73c30af.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-20",
-          "start": "2026-11-20T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-20"
-      ]
-    },
-    {
-      "id": 54003450133619,
-      "title": "Stanford Symphonic Chorus & Peninsula Symphony",
-      "url": "https://events.stanford.edu/event/symphonic-chorus-peninsula-symphony-fall26-1",
-      "experience": "inperson",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003450062961/huge/2dd28d7726e803dc046a87fc1642f31923b1baa4.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-20",
-          "start": "2026-11-20T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-20"
-      ]
-    },
     {
       "id": 54003463383712,
       "title": "Stanford Symphonic Chorus & Peninsula Symphony",
@@ -5215,6 +5060,34 @@
       ]
     },
     {
+      "id": 54569273410007,
+      "title": "Pediatric Grand Rounds (CME): Precision Behavioral Science: Examples from Pediatric Type 1 Diabetes",
+      "url": "https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-the-pediatricians-role-in-enhancing-longevity",
+      "experience": "inperson",
+      "location": "Center for Academic Medicine, Grand Rounds Room, 453 Quarry Road, Palo Alto, CA 94304",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Education",
+        "Medicine",
+        "Science",
+        "Health/Wellness"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54569273365973/huge/7b842d7cea2a26f2c872280c40cd73bb32319e3b.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-15",
+          "start": "2026-12-15T08:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-15"
+      ]
+    },
+    {
       "id": 54552496394151,
       "title": "The Ocean and Climate Change: Impacts, Resilience, and Solutions",
       "url": "https://events.stanford.edu/event/the-ocean-and-climate-change",
@@ -5410,6 +5283,34 @@
         {
           "date": "2027-01-13",
           "start": "2027-01-13T12:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-13"
+      ]
+    },
+    {
+      "id": 54570458659174,
+      "title": "The Long History of Amanuenses: Aides to Scholars and Authors from Antiquity to AI",
+      "url": "https://events.stanford.edu/event/the-long-history-of-amanuenses-aides-to-scholars-and-authors-from-antiquity-to-ai-6807",
+      "experience": "inperson",
+      "location": "East Asian Library, 338, 557 Escondido Mall",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Engineering/Technology",
+        "Humanities",
+        "Science"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-13",
+          "start": "2027-01-13T16:30:00-08:00",
           "all_day": false
         }
       ],
@@ -7581,6 +7482,33 @@
       ],
       "dates": [
         "2027-05-17"
+      ]
+    },
+    {
+      "id": 54001195367322,
+      "title": "Noon Concert: Cello Students of Christopher Costanza",
+      "url": "https://events.stanford.edu/event/noon-costanza-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001195329433/huge/ec5e7c93e53a6f9a606195b0ad58fcca13af9e5f.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-05-19",
+          "start": "2027-05-19T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-19"
       ]
     }
   ]
