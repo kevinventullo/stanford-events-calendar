@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T19:58:03+00:00",
+  "generated_at": "2026-11-22T07:49:29+00:00",
   "window": {
-    "start": "2026-11-21",
-    "end": "2027-05-20"
+    "start": "2026-11-22",
+    "end": "2027-05-21"
   },
   "filters": {
     "public_audiences": [
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-24",
@@ -78,7 +77,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-24",
@@ -131,7 +129,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-27",
@@ -254,7 +251,8 @@
         "2027-05-14",
         "2027-05-15",
         "2027-05-16",
-        "2027-05-17"
+        "2027-05-17",
+        "2027-05-20"
       ]
     },
     {
@@ -274,7 +272,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-26",
@@ -312,7 +309,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-27",
@@ -450,7 +446,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-27",
@@ -472,11 +467,9 @@
         "2026-12-19",
         "2026-12-20",
         "2026-12-21",
-        "2026-12-24",
         "2026-12-26",
         "2026-12-27",
         "2026-12-28",
-        "2026-12-31",
         "2027-01-02",
         "2027-01-03",
         "2027-01-04",
@@ -598,7 +591,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-24",
@@ -672,7 +664,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-24",
@@ -785,7 +776,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-23",
         "2026-11-27",
@@ -906,7 +896,8 @@
         "2027-05-14",
         "2027-05-15",
         "2027-05-16",
-        "2027-05-17"
+        "2027-05-17",
+        "2027-05-20"
       ]
     },
     {
@@ -1188,11 +1179,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-21",
-          "start": "2026-11-21T14:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-22",
           "start": "2026-11-22T14:00:00-08:00",
           "all_day": false
@@ -1289,7 +1275,6 @@
         }
       ],
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-27",
         "2026-11-28",
@@ -1312,9 +1297,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-21",
+      "next_date": "2026-11-22",
       "last_date": "2027-01-03",
-      "count": 20
+      "count": 19
     },
     {
       "id": 47995278168103,
@@ -1489,11 +1474,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53694822371075/huge/146cc36912ce76aecfd3fd0027f8bebcba97bfcc.jpg",
       "free": false,
       "instances": [
-        {
-          "date": "2026-11-21",
-          "start": "2026-11-21T11:30:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-27",
           "start": "2026-11-27T11:30:00-08:00",
@@ -1726,7 +1706,6 @@
         }
       ],
       "dates": [
-        "2026-11-21",
         "2026-11-27",
         "2026-11-28",
         "2026-12-04",
@@ -1776,9 +1755,9 @@
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
-      "next_date": "2026-11-21",
+      "next_date": "2026-11-27",
       "last_date": "2027-05-15",
-      "count": 47
+      "count": 46
     },
     {
       "id": 53737430719656,
@@ -1796,11 +1775,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-21",
-          "start": "2026-11-21T13:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-22",
           "start": "2026-11-22T13:00:00-08:00",
@@ -2058,7 +2032,6 @@
         }
       ],
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-28",
         "2026-11-29",
@@ -2113,9 +2086,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-11-21",
+      "next_date": "2026-11-22",
       "last_date": "2027-05-16",
-      "count": 52
+      "count": 51
     },
     {
       "id": 53737452675144,
@@ -2133,11 +2106,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-21",
-          "start": "2026-11-21T15:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-22",
           "start": "2026-11-22T15:00:00-08:00",
@@ -2395,7 +2363,6 @@
         }
       ],
       "dates": [
-        "2026-11-21",
         "2026-11-22",
         "2026-11-28",
         "2026-11-29",
@@ -2450,9 +2417,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-11-21",
+      "next_date": "2026-11-22",
       "last_date": "2027-05-16",
-      "count": 52
+      "count": 51
     },
     {
       "id": 54356095805619,
@@ -2703,11 +2670,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-21",
-          "start": "2026-11-21T09:30:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-28",
           "start": "2026-11-28T09:30:00-08:00",
           "all_day": false
@@ -2724,16 +2686,15 @@
         }
       ],
       "dates": [
-        "2026-11-21",
         "2026-11-28",
         "2026-12-05",
         "2026-12-12"
       ],
       "pattern": "Saturdays",
       "time": "9:30 AM",
-      "next_date": "2026-11-21",
+      "next_date": "2026-11-28",
       "last_date": "2026-12-12",
-      "count": 4
+      "count": 3
     },
     {
       "id": 51888083181057,
@@ -2944,33 +2905,6 @@
     }
   ],
   "events": [
-    {
-      "id": 54003463383712,
-      "title": "Stanford Symphonic Chorus & Peninsula Symphony",
-      "url": "https://events.stanford.edu/event/symphonic-chorus-peninsula-symphony-fall26-2",
-      "experience": "hybrid",
-      "location": "Bing Concert Hall, 327 Lasuen St, Stanford, CA 94305",
-      "types": [
-        "Performance"
-      ],
-      "subjects": [
-        "Music",
-        "Arts/Media",
-        "Humanities"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/54003463317151/huge/2b0df9db885f623ff804a1156d9bd81152e51714.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-21",
-          "start": "2026-11-21T19:30:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-21"
-      ]
-    },
     {
       "id": 49845006960734,
       "title": "Public Tour | Cantor Highlights in Spanish",
@@ -7509,6 +7443,32 @@
       ],
       "dates": [
         "2027-05-19"
+      ]
+    },
+    {
+      "id": 54036622166771,
+      "title": "Kurtis Schaeffer: \"Poetry in Tibet: Pushing Boundaries of Buddhist Language and Thought\"",
+      "url": "https://events.stanford.edu/event/kurtis-schaeffer-poetry-in-tibet-pushing-boundaries-of-buddhist-language-and-thought",
+      "experience": "inperson",
+      "location": "Lathrop Library, 224, 518 Memorial Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Humanities",
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54036633366994/huge/1b86e23c5d18db74c9b2e1a9b71cfe9c2825ddf0.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-05-20",
+          "start": "2027-05-20T17:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-20"
       ]
     }
   ]
