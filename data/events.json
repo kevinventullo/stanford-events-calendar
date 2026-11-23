@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T20:11:20+00:00",
+  "generated_at": "2026-11-23T08:37:59+00:00",
   "window": {
-    "start": "2026-11-22",
-    "end": "2027-05-21"
+    "start": "2026-11-23",
+    "end": "2027-05-22"
   },
   "filters": {
     "public_audiences": [
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-24",
         "2026-11-25",
@@ -77,7 +76,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-24",
         "2026-11-25",
@@ -129,7 +127,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-27",
         "2026-11-28",
@@ -252,7 +249,8 @@
         "2027-05-15",
         "2027-05-16",
         "2027-05-17",
-        "2027-05-20"
+        "2027-05-20",
+        "2027-05-21"
       ]
     },
     {
@@ -272,7 +270,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-26",
         "2026-11-27",
@@ -309,7 +306,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-27",
         "2026-11-28",
@@ -446,7 +442,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-27",
         "2026-11-28",
@@ -591,7 +586,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-24",
         "2026-11-25",
@@ -664,7 +658,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-24",
         "2026-11-25",
@@ -776,7 +769,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-22",
         "2026-11-23",
         "2026-11-27",
         "2026-11-28",
@@ -897,7 +889,8 @@
         "2027-05-15",
         "2027-05-16",
         "2027-05-17",
-        "2027-05-20"
+        "2027-05-20",
+        "2027-05-21"
       ]
     },
     {
@@ -1179,11 +1172,6 @@
       "free": true,
       "instances": [
         {
-          "date": "2026-11-22",
-          "start": "2026-11-22T14:00:00-08:00",
-          "all_day": false
-        },
-        {
           "date": "2026-11-27",
           "start": "2026-11-27T14:00:00-08:00",
           "all_day": false
@@ -1275,7 +1263,6 @@
         }
       ],
       "dates": [
-        "2026-11-22",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
@@ -1297,9 +1284,9 @@
       ],
       "pattern": "Fri, Sat, Sun",
       "time": "2 PM",
-      "next_date": "2026-11-22",
+      "next_date": "2026-11-27",
       "last_date": "2027-01-03",
-      "count": 19
+      "count": 18
     },
     {
       "id": 47995278168103,
@@ -1703,6 +1690,11 @@
           "date": "2027-05-15",
           "start": "2027-05-15T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-21",
+          "start": "2027-05-21T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1751,13 +1743,14 @@
         "2027-05-07",
         "2027-05-08",
         "2027-05-14",
-        "2027-05-15"
+        "2027-05-15",
+        "2027-05-21"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-27",
-      "last_date": "2027-05-15",
-      "count": 46
+      "last_date": "2027-05-21",
+      "count": 47
     },
     {
       "id": 53737430719656,
@@ -1775,11 +1768,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737448144687/huge/1dcf081539387f50ea0a1ad83f6c714703a12589.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T13:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-28",
           "start": "2026-11-28T13:00:00-08:00",
@@ -2032,7 +2020,6 @@
         }
       ],
       "dates": [
-        "2026-11-22",
         "2026-11-28",
         "2026-11-29",
         "2026-12-05",
@@ -2086,9 +2073,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
-      "next_date": "2026-11-22",
+      "next_date": "2026-11-28",
       "last_date": "2027-05-16",
-      "count": 51
+      "count": 50
     },
     {
       "id": 53737452675144,
@@ -2106,11 +2093,6 @@
       "photo": "https://localist-images.azureedge.net/photos/53737452629063/huge/f500728ae5e56c44731683d92cf98a10c5fbbf1e.jpg",
       "free": true,
       "instances": [
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T15:00:00-08:00",
-          "all_day": false
-        },
         {
           "date": "2026-11-28",
           "start": "2026-11-28T15:00:00-08:00",
@@ -2363,7 +2345,6 @@
         }
       ],
       "dates": [
-        "2026-11-22",
         "2026-11-28",
         "2026-11-29",
         "2026-12-05",
@@ -2417,9 +2398,9 @@
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
-      "next_date": "2026-11-22",
+      "next_date": "2026-11-28",
       "last_date": "2027-05-16",
-      "count": 51
+      "count": 50
     },
     {
       "id": 54356095805619,
@@ -2538,6 +2519,11 @@
           "date": "2027-05-14",
           "start": "2027-05-14T11:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-21",
+          "start": "2027-05-21T11:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2561,13 +2547,14 @@
         "2027-04-23",
         "2027-04-30",
         "2027-05-07",
-        "2027-05-14"
+        "2027-05-14",
+        "2027-05-21"
       ],
       "pattern": "Fridays",
       "time": "11 AM",
       "next_date": "2026-12-04",
-      "last_date": "2027-05-14",
-      "count": 21
+      "last_date": "2027-05-21",
+      "count": 22
     },
     {
       "id": 53889137015268,
@@ -2905,69 +2892,6 @@
     }
   ],
   "events": [
-    {
-      "id": 49845006960734,
-      "title": "Public Tour | Cantor Highlights in Spanish",
-      "url": "https://events.stanford.edu/event/public-tour-cantor-highlights-spanish-language-7060",
-      "experience": "inperson",
-      "location": "Cantor Arts Center, 328 Lomita Drive, Stanford, CA 94305",
-      "types": [
-        "Tour"
-      ],
-      "subjects": [
-        "Arts/Media",
-        "Education"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/39183653332271/huge/27f55fd46d828d18149e63d3559d9acf3ffbdf0c.jpg",
-      "free": true,
-      "instances": [
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T14:00:00-08:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-22"
-      ]
-    },
-    {
-      "id": 53889458133359,
-      "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
-      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
-      "experience": "inperson",
-      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
-      "types": [
-        "Religious/Spiritual"
-      ],
-      "subjects": [
-        "Religion/Spirituality"
-      ],
-      "photo": "https://localist-images.azureedge.net/photos/53889478755330/huge/d62095b7f0db6dca332e9ade25d80a22a4fe8a72.jpg",
-      "free": false,
-      "instances": [
-        {
-          "date": "2026-11-22",
-          "start": "2026-11-22T11:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2026-12-13",
-          "start": "2026-12-13T11:00:00-08:00",
-          "all_day": false
-        },
-        {
-          "date": "2027-03-14",
-          "start": "2027-03-14T11:00:00-07:00",
-          "all_day": false
-        }
-      ],
-      "dates": [
-        "2026-11-22",
-        "2026-12-13",
-        "2027-03-14"
-      ]
-    },
     {
       "id": 53632423836256,
       "title": "Stanford Football vs SMU | Senior Day + Fan Appreciation",
@@ -4941,6 +4865,37 @@
       ],
       "dates": [
         "2026-12-13"
+      ]
+    },
+    {
+      "id": 53889458133359,
+      "title": "University Public Worship: Ecumenical Christian Service with Rev. Jim Black Preaching",
+      "url": "https://events.stanford.edu/event/university-public-worship-ecumenical-christian-service-with-rev-jim-black-preaching",
+      "experience": "inperson",
+      "location": "Memorial Church, 450 Jane Stanford Way, Building. 500, Stanford, CA 94305",
+      "types": [
+        "Religious/Spiritual"
+      ],
+      "subjects": [
+        "Religion/Spirituality"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/53889478755330/huge/d62095b7f0db6dca332e9ade25d80a22a4fe8a72.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2026-12-13",
+          "start": "2026-12-13T11:00:00-08:00",
+          "all_day": false
+        },
+        {
+          "date": "2027-03-14",
+          "start": "2027-03-14T11:00:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-13",
+        "2027-03-14"
       ]
     },
     {
@@ -7469,6 +7424,33 @@
       ],
       "dates": [
         "2027-05-20"
+      ]
+    },
+    {
+      "id": 54001252942809,
+      "title": "Noon Concert: Piano Students of Sandra Shen",
+      "url": "https://events.stanford.edu/event/noon-shen-spr27",
+      "experience": "inperson",
+      "location": "Braun Music Center, Campbell Recital Hall, 541 Lasuen Mall, Stanford, CA 94305",
+      "types": [
+        "Performance"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Music",
+        "Humanities"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54001252903895/huge/1870cfbc36283982cd79ddd48c0807c05363568e.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2027-05-21",
+          "start": "2027-05-21T12:30:00-07:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-05-21"
       ]
     }
   ]
