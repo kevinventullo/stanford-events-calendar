@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T08:37:59+00:00",
+  "generated_at": "2026-11-24T00:37:10+00:00",
   "window": {
-    "start": "2026-11-23",
-    "end": "2027-05-22"
+    "start": "2026-11-24",
+    "end": "2027-05-23"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 172
+    "dated": 174
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-23",
         "2026-11-24",
         "2026-11-25",
         "2026-11-26",
@@ -76,7 +75,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-23",
         "2026-11-24",
         "2026-11-25",
         "2026-11-26",
@@ -127,7 +125,6 @@
       "first_date": "2026-07-02",
       "last_date": "2028-05-18",
       "dates": [
-        "2026-11-23",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
@@ -250,7 +247,8 @@
         "2027-05-16",
         "2027-05-17",
         "2027-05-20",
-        "2027-05-21"
+        "2027-05-21",
+        "2027-05-22"
       ]
     },
     {
@@ -270,7 +268,6 @@
       "first_date": "2026-08-06",
       "last_date": "2026-12-13",
       "dates": [
-        "2026-11-23",
         "2026-11-26",
         "2026-11-27",
         "2026-11-28",
@@ -306,7 +303,6 @@
       "first_date": "2026-08-27",
       "last_date": "2027-02-21",
       "dates": [
-        "2026-11-23",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
@@ -442,7 +438,6 @@
       "first_date": "2026-09-17",
       "last_date": "2027-02-08",
       "dates": [
-        "2026-11-23",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
@@ -514,7 +509,6 @@
       "first_date": "2026-09-18",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-23",
         "2026-11-30",
         "2026-12-04",
         "2026-12-07",
@@ -541,7 +535,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-23",
         "2026-11-24",
         "2026-11-25",
         "2026-11-30",
@@ -586,7 +579,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-23",
         "2026-11-24",
         "2026-11-25",
         "2026-11-28",
@@ -658,7 +650,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-23",
         "2026-11-24",
         "2026-11-25",
         "2026-11-26",
@@ -769,7 +760,6 @@
       "first_date": "2026-11-09",
       "last_date": "2028-10-23",
       "dates": [
-        "2026-11-23",
         "2026-11-27",
         "2026-11-28",
         "2026-11-29",
@@ -890,7 +880,8 @@
         "2027-05-16",
         "2027-05-17",
         "2027-05-20",
-        "2027-05-21"
+        "2027-05-21",
+        "2027-05-22"
       ]
     },
     {
@@ -1304,11 +1295,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-23",
-          "start": "2026-11-23T00:00:00-08:00",
-          "all_day": true
-        },
-        {
           "date": "2026-11-24",
           "start": "2026-11-24T00:00:00-08:00",
           "all_day": true
@@ -1340,7 +1326,6 @@
         }
       ],
       "dates": [
-        "2026-11-23",
         "2026-11-24",
         "2026-11-25",
         "2026-11-26",
@@ -1350,9 +1335,9 @@
       ],
       "pattern": "Various days",
       "time": "All day",
-      "next_date": "2026-11-23",
+      "next_date": "2026-11-24",
       "last_date": "2026-11-29",
-      "count": 7
+      "count": 6
     },
     {
       "id": 53969632558021,
@@ -1695,6 +1680,11 @@
           "date": "2027-05-21",
           "start": "2027-05-21T11:30:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-22",
+          "start": "2027-05-22T11:30:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -1744,13 +1734,14 @@
         "2027-05-08",
         "2027-05-14",
         "2027-05-15",
-        "2027-05-21"
+        "2027-05-21",
+        "2027-05-22"
       ],
       "pattern": "Fri, Sat",
       "time": "11:30 AM",
       "next_date": "2026-11-27",
-      "last_date": "2027-05-21",
-      "count": 47
+      "last_date": "2027-05-22",
+      "count": 48
     },
     {
       "id": 53737430719656,
@@ -2017,6 +2008,11 @@
           "date": "2027-05-16",
           "start": "2027-05-16T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-22",
+          "start": "2027-05-22T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2069,13 +2065,14 @@
         "2027-05-08",
         "2027-05-09",
         "2027-05-15",
-        "2027-05-16"
+        "2027-05-16",
+        "2027-05-22"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-28",
-      "last_date": "2027-05-16",
-      "count": 50
+      "last_date": "2027-05-22",
+      "count": 51
     },
     {
       "id": 53737452675144,
@@ -2342,6 +2339,11 @@
           "date": "2027-05-16",
           "start": "2027-05-16T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-22",
+          "start": "2027-05-22T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2394,13 +2396,14 @@
         "2027-05-08",
         "2027-05-09",
         "2027-05-15",
-        "2027-05-16"
+        "2027-05-16",
+        "2027-05-22"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-28",
-      "last_date": "2027-05-16",
-      "count": 50
+      "last_date": "2027-05-22",
+      "count": 51
     },
     {
       "id": 54356095805619,
@@ -3866,7 +3869,7 @@
         "Engineering/Technology",
         "International Affairs"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/54438251336451/huge/7d70e05412de2ed61de7c9302be4af1ab8019ee3.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
       "free": false,
       "instances": [
         {
@@ -5180,6 +5183,34 @@
       ]
     },
     {
+      "id": 54595465801473,
+      "title": "Pediatric palliative care in Africa: Research, partnerships, and quality of life",
+      "url": "https://events.stanford.edu/event/pediatric-palliative-care-in-africa-research-partnerships-and-quality-of-life",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Health/Wellness",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54595488879111/huge/2707786ddbee88ea53e917ebdf9f17af33cedd07.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-01-13",
+          "start": "2027-01-13T12:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-01-13"
+      ]
+    },
+    {
       "id": 54570458659174,
       "title": "The Long History of Amanuenses: Aides to Scholars and Authors from Antiquity to AI",
       "url": "https://events.stanford.edu/event/the-long-history-of-amanuenses-aides-to-scholars-and-authors-from-antiquity-to-ai-6807",
@@ -5194,7 +5225,7 @@
         "Humanities",
         "Science"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/38511017081751/huge/7b0ef630b5f952971c64fe176deb4cc90b89f01f.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54595197363892/huge/81e4265f494c1edce60489562f741fad19897c01.jpg",
       "free": false,
       "instances": [
         {
@@ -6018,6 +6049,37 @@
         {
           "date": "2027-02-10",
           "start": "2027-02-10T18:30:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2027-02-10"
+      ]
+    },
+    {
+      "id": 54594979796900,
+      "title": "Susan Ford Dorsey Innovation Africa Fellows: Graduate Student Showcase",
+      "url": "https://events.stanford.edu/event/susan-ford-dorsey-innovation-africa-fellows-graduate-student-showcase",
+      "experience": "inperson",
+      "location": "Encina Commons, Room 123, 615 Crothers Way, Stanford, CA 94305",
+      "types": [
+        "Class/Seminar",
+        "Lecture/Presentation/Talk"
+      ],
+      "subjects": [
+        "Arts/Media",
+        "Humanities",
+        "Diversity/Identity",
+        "International Affairs",
+        "Social Justice/Human Rights",
+        "Public Service/Government"
+      ],
+      "photo": "https://localist-images.azureedge.net/photos/54595425435496/huge/dc9fcd21604dd176f332f8145b46289148f3097d.jpg",
+      "free": false,
+      "instances": [
+        {
+          "date": "2027-02-10",
+          "start": "2027-02-10T12:00:00-08:00",
           "all_day": false
         }
       ],
