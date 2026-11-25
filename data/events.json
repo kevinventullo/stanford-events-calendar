@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T22:57:06+00:00",
+  "generated_at": "2026-11-25T09:37:13+00:00",
   "window": {
-    "start": "2026-11-24",
-    "end": "2027-05-23"
+    "start": "2026-11-25",
+    "end": "2027-05-24"
   },
   "filters": {
     "public_audiences": [
@@ -23,7 +23,7 @@
   "counts": {
     "ongoing": 16,
     "recurring": 16,
-    "dated": 175
+    "dated": 176
   },
   "ongoing": [
     {
@@ -43,7 +43,6 @@
       "first_date": "2026-01-14",
       "last_date": "2026-12-04",
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
@@ -75,7 +74,6 @@
       "first_date": "2026-06-01",
       "last_date": "2026-12-22",
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
@@ -248,7 +246,8 @@
         "2027-05-17",
         "2027-05-20",
         "2027-05-21",
-        "2027-05-22"
+        "2027-05-22",
+        "2027-05-23"
       ]
     },
     {
@@ -535,7 +534,6 @@
       "first_date": "2026-09-21",
       "last_date": "2026-12-18",
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-30",
         "2026-12-01",
@@ -579,7 +577,6 @@
       "first_date": "2026-09-22",
       "last_date": "2027-01-24",
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-28",
         "2026-11-29",
@@ -650,7 +647,6 @@
       "first_date": "2026-09-29",
       "last_date": "2026-12-11",
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
@@ -881,7 +877,8 @@
         "2027-05-17",
         "2027-05-20",
         "2027-05-21",
-        "2027-05-22"
+        "2027-05-22",
+        "2027-05-23"
       ]
     },
     {
@@ -1295,11 +1292,6 @@
       "free": false,
       "instances": [
         {
-          "date": "2026-11-24",
-          "start": "2026-11-24T00:00:00-08:00",
-          "all_day": true
-        },
-        {
           "date": "2026-11-25",
           "start": "2026-11-25T00:00:00-08:00",
           "all_day": true
@@ -1326,7 +1318,6 @@
         }
       ],
       "dates": [
-        "2026-11-24",
         "2026-11-25",
         "2026-11-26",
         "2026-11-27",
@@ -1335,9 +1326,9 @@
       ],
       "pattern": "Various days",
       "time": "All day",
-      "next_date": "2026-11-24",
+      "next_date": "2026-11-25",
       "last_date": "2026-11-29",
-      "count": 6
+      "count": 5
     },
     {
       "id": 53969632558021,
@@ -2013,6 +2004,11 @@
           "date": "2027-05-22",
           "start": "2027-05-22T13:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-23",
+          "start": "2027-05-23T13:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2066,13 +2062,14 @@
         "2027-05-09",
         "2027-05-15",
         "2027-05-16",
-        "2027-05-22"
+        "2027-05-22",
+        "2027-05-23"
       ],
       "pattern": "Sat, Sun",
       "time": "1 PM",
       "next_date": "2026-11-28",
-      "last_date": "2027-05-22",
-      "count": 51
+      "last_date": "2027-05-23",
+      "count": 52
     },
     {
       "id": 53737452675144,
@@ -2344,6 +2341,11 @@
           "date": "2027-05-22",
           "start": "2027-05-22T15:00:00-07:00",
           "all_day": false
+        },
+        {
+          "date": "2027-05-23",
+          "start": "2027-05-23T15:00:00-07:00",
+          "all_day": false
         }
       ],
       "dates": [
@@ -2397,13 +2399,14 @@
         "2027-05-09",
         "2027-05-15",
         "2027-05-16",
-        "2027-05-22"
+        "2027-05-22",
+        "2027-05-23"
       ],
       "pattern": "Sat, Sun",
       "time": "3 PM",
       "next_date": "2026-11-28",
-      "last_date": "2027-05-22",
-      "count": 51
+      "last_date": "2027-05-23",
+      "count": 52
     },
     {
       "id": 54356095805619,
@@ -4313,6 +4316,29 @@
       ]
     },
     {
+      "id": 54607411647922,
+      "title": "Cardinal Kids Day At Men's Basketball",
+      "url": "https://events.stanford.edu/event/cardinal-kids-day-at-mens-basketball",
+      "experience": "inperson",
+      "location": "Maples Pavilion, 655 Campus Drive, Stanford, CA 94305",
+      "types": [
+        "Social Event/Reception"
+      ],
+      "subjects": [],
+      "photo": "https://localist-images.azureedge.net/photos/54607460470119/huge/143987fc0182710178ac3152b4ed9d2834a0ed81.jpg",
+      "free": true,
+      "instances": [
+        {
+          "date": "2026-12-06",
+          "start": "2026-12-06T13:00:00-08:00",
+          "all_day": false
+        }
+      ],
+      "dates": [
+        "2026-12-06"
+      ]
+    },
+    {
       "id": 54170215690628,
       "title": "Stanford Flute Ensemble",
       "url": "https://events.stanford.edu/event/flute-ensemble-fall26",
@@ -4446,7 +4472,7 @@
     },
     {
       "id": 53949146024224,
-      "title": "2026 Fall MFA Documentary Film Screening",
+      "title": "2026 Fall MFA Documentary Film Screening: YOU CAN SEE SOMETHING",
       "url": "https://events.stanford.edu/event/2026-fall-mfa-documentary-film-screening",
       "experience": "inperson",
       "location": "McMurtry Building, Oshman Hall, 355 Roth Way, Stanford, CA 94305",
@@ -4456,7 +4482,7 @@
       "subjects": [
         "Arts/Media"
       ],
-      "photo": "https://localist-images.azureedge.net/photos/53949156547124/huge/82301cf22886692c94de17adf9116268e8ce5719.jpg",
+      "photo": "https://localist-images.azureedge.net/photos/54606199079617/huge/370650f631844b4b9b68d336bb5540252ee5c4ed.jpg",
       "free": false,
       "instances": [
         {
